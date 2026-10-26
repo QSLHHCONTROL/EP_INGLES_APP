@@ -1,0 +1,98 @@
+{
+ "id": 28,
+ "topic": "Subjuntivo y lenguaje formal",
+ "title": "My Formal Memo of Recommendations",
+ "practice": "Léelo en voz alta 3 veces. Luego escríbelo de memoria y revisa cada verbo después de that.",
+ "rows": [
+  {
+   "en": "From: {name} · To: Project Manager",
+   "es": "De: {name} · Para: Gerente de proyecto"
+  },
+  {
+   "en": "Subject: Recommendations for {project}",
+   "es": "Asunto: Recomendaciones para {project_es}"
+  },
+  {
+   "en": "**We recommend that** all documents **be** reviewed **prior to** final approval.",
+   "es": "Recomendamos que todos los documentos se revisen antes de la aprobación final."
+  },
+  {
+   "en": "**It is essential that** every team member **follow** the approved procedure.",
+   "es": "Es esencial que cada miembro del equipo siga el procedimiento aprobado."
+  },
+  {
+   "en": "All deliverables **shall** be checked **in accordance with** company standards.",
+   "es": "Todos los entregables deberán revisarse de acuerdo con los estándares de la empresa."
+  },
+  {
+   "en": "**I suggest that** the progress report **be** updated at the end of every day.",
+   "es": "Sugiero que el reporte de avance se actualice al final de cada día."
+  },
+  {
+   "en": "**It is vital that** the team **not make** changes without written approval.",
+   "es": "Es vital que el equipo no haga cambios sin aprobación escrita."
+  },
+  {
+   "en": "**In the event that** an error is found, it **is to be** corrected and reviewed again.",
+   "es": "En caso de que se encuentre un error, deberá corregirse y revisarse de nuevo."
+  },
+  {
+   "en": "The schedule is **subject to** client approval.",
+   "es": "El cronograma está sujeto a la aprobación del cliente."
+  },
+  {
+   "en": "**Should** you require any further information, please do not hesitate to contact me.",
+   "es": "Si necesitara más información, no dude en contactarme."
+  },
+  {
+   "en": "Respectfully, {name}",
+   "es": "Atentamente, {name}"
+  }
+ ],
+ "dialogTitle": "Diálogo con la representante del cliente",
+ "dialog": [
+  {
+   "who": "Ms. Carter",
+   "text": "Can we start the next phase tomorrow?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, provided that the final check passes in the morning."
+  },
+  {
+   "who": "Ms. Carter",
+   "text": "And if it doesn't?"
+  },
+  {
+   "who": "{name}",
+   "text": "Then I'd recommend that we fix the issues and repeat the check."
+  },
+  {
+   "who": "Ms. Carter",
+   "text": "Fine. I'd rather you sent me the results by email."
+  },
+  {
+   "who": "{name}",
+   "text": "Of course. If need be, I can call you too."
+  }
+ ],
+ "pron": [
+  {
+   "en": "It is essential that every team member follow…",
+   "pron": "it iz i-SÉN-shəl dhət ÉV-ri TIM MÉM-bər FÓ-lou"
+  },
+  {
+   "en": "in accordance with company standards",
+   "pron": "in ə-KÓR-dəns widh KÁM-pə-ni STÁN-dərdz"
+  },
+  {
+   "en": "prior to final approval",
+   "pron": "PRÁI-ər tu FÁI-nəl ə-PRÚ-vəl"
+  },
+  {
+   "en": "The schedule is subject to client approval.",
+   "pron": "dhə SKÉ-yul iz SÁB-yekt tu KLÁI-ənt ə-PRÚ-vəl"
+  }
+ ],
+ "check": "Escribo el memo de memoria en 15 minutos, con verbo base después de that (be, follow, not make), sin don't y sin contracciones."
+}

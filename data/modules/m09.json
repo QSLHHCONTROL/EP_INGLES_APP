@@ -1,0 +1,964 @@
+{
+ "id": 9,
+ "level": "A2",
+ "title": "Pasado simple: verbos regulares e irregulares",
+ "goal": "Al terminar podrás contar qué hiciste ayer, el fin de semana o en un trabajo terminado, en orden y con conectores; pronunciar bien la terminación -ed; usar los 50 verbos irregulares más frecuentes, y negar y preguntar con DID sin errores.",
+ "lesson": [
+  {
+   "title": "El tiempo de las historias",
+   "html": "<p>En el Módulo 8 contaste <b>estados</b> pasados con <span class=\"en\">was / were</span>. Ahora cuentas <b>acciones</b> terminadas: <span class=\"en\">I checked the welds. We went to the site.</span> El pasado simple es el tiempo de las historias, los reportes diarios y las conversaciones del lunes por la mañana.</p>",
+   "svg": "<svg viewBox=\"0 0 640 200\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"26\" font-size=\"13\" font-weight=\"800\" fill=\"#0B6B60\">AYER — acciones terminadas, una después de otra</text>\n  <line x1=\"30\" y1=\"110\" x2=\"600\" y2=\"110\" stroke=\"#667085\" stroke-width=\"3\"/>\n  <polygon points=\"600,103 615,110 600,117\" fill=\"#667085\"/>\n  <circle cx=\"80\" cy=\"110\" r=\"9\" fill=\"#0E9384\"/>\n  <circle cx=\"200\" cy=\"110\" r=\"9\" fill=\"#0E9384\"/>\n  <circle cx=\"320\" cy=\"110\" r=\"9\" fill=\"#0E9384\"/>\n  <circle cx=\"440\" cy=\"110\" r=\"9\" fill=\"#0E9384\"/>\n  <line x1=\"545\" y1=\"78\" x2=\"545\" y2=\"124\" stroke=\"#E8590C\" stroke-width=\"3\"/>\n  <circle cx=\"545\" cy=\"110\" r=\"9\" fill=\"#E8590C\"/>\n  <rect x=\"30\" y=\"44\" width=\"100\" height=\"44\" rx=\"8\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/>\n  <text x=\"80\" y=\"62\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">6:00</text>\n  <text x=\"80\" y=\"80\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1D2939\">got up</text>\n  <rect x=\"150\" y=\"44\" width=\"100\" height=\"44\" rx=\"8\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/>\n  <text x=\"200\" y=\"62\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">7:00</text>\n  <text x=\"200\" y=\"80\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1D2939\">went to site</text>\n  <rect x=\"270\" y=\"44\" width=\"100\" height=\"44\" rx=\"8\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/>\n  <text x=\"320\" y=\"62\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">9:00</text>\n  <text x=\"320\" y=\"80\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1D2939\">checked</text>\n  <rect x=\"390\" y=\"44\" width=\"100\" height=\"44\" rx=\"8\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/>\n  <text x=\"440\" y=\"62\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">16:00</text>\n  <text x=\"440\" y=\"80\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1D2939\">sent report</text>\n  <text x=\"545\" y=\"68\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">AHORA</text>\n  <text x=\"80\" y=\"140\" text-anchor=\"middle\" font-size=\"12\" fill=\"#667085\">irregular</text>\n  <text x=\"200\" y=\"140\" text-anchor=\"middle\" font-size=\"12\" fill=\"#667085\">irregular</text>\n  <text x=\"320\" y=\"140\" text-anchor=\"middle\" font-size=\"12\" fill=\"#667085\">regular (-ed)</text>\n  <text x=\"440\" y=\"140\" text-anchor=\"middle\" font-size=\"12\" fill=\"#667085\">irregular</text>\n  <text x=\"320\" y=\"182\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I got up at 6, went to the site, checked the welds and sent the report.</text>\n</svg>",
+   "caption": "Figura 9.1 — Línea de tiempo del pasado simple: cada punto es una acción terminada en un momento concreto."
+  },
+  {
+   "title": "Una sola forma para todos los sujetos",
+   "html": "<p>Buena noticia: en afirmativo, el pasado es <b>igual para todas las personas</b>. No hay -s de tercera persona ni was/were: <span class=\"en\">I worked, you worked, she worked, they worked</span>. Solo tienes que saber si el verbo es <b>regular</b> (+ -ed) o <b>irregular</b> (forma propia).</p><table>\n<thead><tr><th>Tipo</th><th>Cómo se forma</th><th>Ejemplos</th></tr></thead>\n<tbody>\n<tr><td><b>Regular</b></td><td>Verbo + <b>-ed</b></td><td><span class=\"en\">work → worked · check → checked · install → installed</span></td></tr>\n<tr><td><b>Irregular</b></td><td>Forma propia que se memoriza</td><td><span class=\"en\">go → went · take → took · buy → bought</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Ortografía de -ed",
+   "html": "<table>\n<thead><tr><th>Regla</th><th>Ejemplos</th></tr></thead>\n<tbody>\n<tr><td>Regla general: + <b>-ed</b></td><td><span class=\"en\">work → worked · clean → cleaned · weld → welded</span></td></tr>\n<tr><td>Termina en <b>-e</b>: solo + <b>-d</b></td><td><span class=\"en\">close → closed · arrive → arrived · use → used</span></td></tr>\n<tr><td>Consonante + <b>y</b>: y → <b>-ied</b></td><td><span class=\"en\">study → studied · carry → carried · try → tried</span></td></tr>\n<tr><td>Vocal + <b>y</b>: + <b>-ed</b></td><td><span class=\"en\">play → played · stay → stayed</span></td></tr>\n<tr><td>Una sílaba que acaba en consonante + vocal + consonante: se dobla la última</td><td><span class=\"en\">stop → stopped · plan → planned · drop → dropped</span></td></tr>\n</tbody></table><p>Si la sílaba final es débil (no acentuada), no se dobla: <span class=\"en\">open → opened</span>, <span class=\"en\">visit → visited</span>. En inglés estadounidense tampoco en <span class=\"en\">travel → traveled</span> (británico: <i>travelled</i>).</p>"
+  },
+  {
+   "title": "La pronunciación de -ed: tres sonidos",
+   "html": "<p>La <i>e</i> de <i>-ed</i> casi nunca suena. Decir <span class=\"wrong\">uor-KED</span> por <i>worked</i> es el error número uno del hispanohablante. El sonido depende del <b>último sonido</b> del verbo:</p>",
+   "svg": "<svg viewBox=\"0 0 640 270\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"14\" width=\"190\" height=\"244\" rx=\"14\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"115\" y=\"48\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"800\" fill=\"#0E9384\">/t/</text>\n  <text x=\"115\" y=\"72\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">tras sonido sordo</text>\n  <text x=\"115\" y=\"90\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#0B6B60\">p · k · f · s · sh · ch · x</text>\n  <line x1=\"40\" y1=\"102\" x2=\"190\" y2=\"102\" stroke=\"#0E9384\"/>\n  <text x=\"40\" y=\"126\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">worked</text><text x=\"190\" y=\"126\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">werkt</text>\n  <text x=\"40\" y=\"152\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">checked</text><text x=\"190\" y=\"152\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">chekt</text>\n  <text x=\"40\" y=\"178\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">stopped</text><text x=\"190\" y=\"178\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">stopt</text>\n  <text x=\"40\" y=\"204\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">fixed</text><text x=\"190\" y=\"204\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">fikst</text>\n  <text x=\"40\" y=\"230\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">finished</text><text x=\"190\" y=\"230\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">FÍ-nisht</text>\n  <rect x=\"225\" y=\"14\" width=\"190\" height=\"244\" rx=\"14\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"48\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"800\" fill=\"#1570EF\">/d/</text>\n  <text x=\"320\" y=\"72\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">tras sonido sonoro o vocal</text>\n  <text x=\"320\" y=\"90\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1570EF\">b · g · l · m · n · r · v · z · vocal</text>\n  <line x1=\"245\" y1=\"102\" x2=\"395\" y2=\"102\" stroke=\"#1570EF\"/>\n  <text x=\"245\" y=\"126\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">called</text><text x=\"395\" y=\"126\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">kold</text>\n  <text x=\"245\" y=\"152\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">cleaned</text><text x=\"395\" y=\"152\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">klind</text>\n  <text x=\"245\" y=\"178\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">repaired</text><text x=\"395\" y=\"178\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">ri-PÉRD</text>\n  <text x=\"245\" y=\"204\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">played</text><text x=\"395\" y=\"204\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">pleid</text>\n  <text x=\"245\" y=\"230\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">arrived</text><text x=\"395\" y=\"230\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">ə-RÁIVD</text>\n  <rect x=\"430\" y=\"14\" width=\"190\" height=\"244\" rx=\"14\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"525\" y=\"48\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"800\" fill=\"#E8590C\">/id/</text>\n  <text x=\"525\" y=\"72\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">tras t o d: sílaba extra</text>\n  <text x=\"525\" y=\"90\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#E8590C\">t · d</text>\n  <line x1=\"450\" y1=\"102\" x2=\"600\" y2=\"102\" stroke=\"#E8590C\"/>\n  <text x=\"450\" y=\"126\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">tested</text><text x=\"600\" y=\"126\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">TÉS-tid</text>\n  <text x=\"450\" y=\"152\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">started</text><text x=\"600\" y=\"152\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">STÁR-tid</text>\n  <text x=\"450\" y=\"178\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">welded</text><text x=\"600\" y=\"178\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">WÉL-did</text>\n  <text x=\"450\" y=\"204\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">needed</text><text x=\"600\" y=\"204\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">NÍ-did</text>\n  <text x=\"450\" y=\"230\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">painted</text><text x=\"600\" y=\"230\" text-anchor=\"end\" font-size=\"13\" fill=\"#E8590C\">PÉIN-tid</text>\n</svg>",
+   "caption": "Figura 9.2 — Los tres sonidos de -ed. Solo después de t o d se agrega una sílaba (/id/); en los demás casos -ed suena como una consonante pegada."
+  },
+  {
+   "title": "Las tres reglas de oro",
+   "html": "<p><b>Regla de oro 1 — El pasado se marca UNA sola vez</b></p>\n<p>En negativo y pregunta, <span class=\"en\">did</span> ya lleva el pasado, así que el verbo principal vuelve a su forma base. Nunca marques el pasado dos veces.</p>\n<p><span class=\"ok\">I didn't go.</span>   Nunca <span class=\"wrong\">I didn't went.</span>  ·  <span class=\"ok\">Did you see it?</span>   Nunca <span class=\"wrong\">Did you saw it?</span></p>\n<p><b>Regla de oro 2 — DID para todos, igual que el afirmativo</b></p>\n<p>El presente tiene <i>do / does</i> (Módulo 4). El pasado tiene solo <span class=\"en\">did / didn't</span>, para todos los sujetos: <span class=\"en\">Did he call? Did they call?</span> Nunca <span class=\"wrong\">Does he called?</span></p>\n<p><b>Regla de oro 3 — TO BE va por su cuenta</b></p>\n<p>Con <i>was / were</i> (Módulo 8) no se usa <i>did</i>: <span class=\"ok\">Were you tired?</span> Con cualquier otro verbo sí: <span class=\"ok\">Did you sleep well?</span></p>"
+  },
+  {
+   "title": "Afirmativo, negativo, pregunta y respuesta corta",
+   "html": "<table>\n<thead><tr><th></th><th>Estructura</th><th>Regular</th><th>Irregular</th></tr></thead>\n<tbody>\n<tr><td><b>Afirmativo</b></td><td>Sujeto + verbo en pasado + …</td><td><span class=\"en\">She called the client.</span></td><td><span class=\"en\">They went to the site.</span></td></tr>\n<tr><td><b>Negativo</b></td><td>Sujeto + didn't + verbo base + …</td><td><span class=\"en\">She didn't call the client.</span></td><td><span class=\"en\">They didn't go to the site.</span></td></tr>\n<tr><td><b>Pregunta</b></td><td>Did + sujeto + verbo base + … ?</td><td><span class=\"en\">Did she call the client?</span></td><td><span class=\"en\">Did they go to the site?</span></td></tr>\n<tr><td><b>Respuesta corta</b></td><td>Yes, + sujeto + did. / No, + sujeto + didn't.</td><td><span class=\"en\">Yes, she did. / No, she didn't.</span></td><td><span class=\"en\">Yes, they did. / No, they didn't.</span></td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 200\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"38\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">AFIRMATIVO</text>\n  <rect x=\"140\" y=\"16\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"180\" y=\"40\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">She</text>\n  <rect x=\"232\" y=\"16\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"287\" y=\"40\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">called</text>\n  <rect x=\"354\" y=\"16\" width=\"130\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"419\" y=\"40\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">the client.</text>\n  <text x=\"20\" y=\"100\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">NEGATIVO</text>\n  <rect x=\"140\" y=\"78\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"180\" y=\"102\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">She</text>\n  <rect x=\"232\" y=\"78\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"277\" y=\"102\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">didn't</text>\n  <rect x=\"334\" y=\"78\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#0E9384\" stroke-width=\"2\"/><text x=\"374\" y=\"102\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#0E9384\">call</text>\n  <rect x=\"426\" y=\"78\" width=\"130\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"491\" y=\"102\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">the client.</text>\n  <text x=\"20\" y=\"162\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">PREGUNTA</text>\n  <rect x=\"140\" y=\"140\" width=\"70\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"175\" y=\"164\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">Did</text>\n  <rect x=\"222\" y=\"140\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"262\" y=\"164\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">she</text>\n  <rect x=\"314\" y=\"140\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#0E9384\" stroke-width=\"2\"/><text x=\"354\" y=\"164\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#0E9384\">call</text>\n  <rect x=\"406\" y=\"140\" width=\"130\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"471\" y=\"164\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">the client?</text>\n  <text x=\"600\" y=\"96\" text-anchor=\"middle\" font-size=\"11\" fill=\"#E8590C\">did lleva</text>\n  <text x=\"600\" y=\"110\" text-anchor=\"middle\" font-size=\"11\" fill=\"#E8590C\">el pasado</text>\n  <text x=\"590\" y=\"152\" text-anchor=\"middle\" font-size=\"11\" fill=\"#0E9384\">verbo</text>\n  <text x=\"590\" y=\"166\" text-anchor=\"middle\" font-size=\"11\" fill=\"#0E9384\">en base</text>\n  <text x=\"320\" y=\"194\" text-anchor=\"middle\" font-size=\"12\" fill=\"#667085\">called → did + call: la -ed \"se muda\" a did.</text>\n</svg>",
+   "caption": "Figura 9.3 — En negativo y pregunta, did toma el pasado y el verbo vuelve a la forma base (call, go, see…)."
+  },
+  {
+   "title": "Así piensa un nativo — did casi no se oye",
+   "html": "<p>En la pregunta rápida, <span class=\"en\">Did you</span> suena <span class=\"pron\">DÍ-yu</span> o incluso <span class=\"pron\">yə</span>: <span class=\"en\">Did you eat?</span> <span class=\"pron\">DÍ-yu IT</span>. En el negativo, <span class=\"en\">didn't</span> sí se marca: <span class=\"pron\">DÍ-dənt</span>. Escucha la t de <i>didn't</i>: es la que cambia el significado.</p>"
+  },
+  {
+   "title": "Los 50 verbos irregulares más frecuentes",
+   "html": "<p>Agrupados por patrón para memorizarlos más rápido. Pronunciación del verbo base y del pasado.</p><table>\n<thead><tr><th>Base</th><th>Pron.</th><th>Pasado</th><th>Pron.</th><th>Significado</th></tr></thead>\n<tbody>\n<tr><td><b>Grupo 1 — No cambian (o solo cambia el sonido)</b></td></tr>\n<tr><td><span class=\"en\">cut</span></td><td><span class=\"pron\">kat</span></td><td><span class=\"en\">cut</span></td><td><span class=\"pron\">kat</span></td><td>cortar</td></tr>\n<tr><td><span class=\"en\">put</span></td><td><span class=\"pron\">put</span></td><td><span class=\"en\">put</span></td><td><span class=\"pron\">put</span></td><td>poner</td></tr>\n<tr><td><span class=\"en\">read</span></td><td><span class=\"pron\">rid</span></td><td><span class=\"en\">read</span></td><td><span class=\"pron\">red</span></td><td>leer</td></tr>\n<tr><td><b>Grupo 2 — Terminan en -t o -d</b></td></tr>\n<tr><td><span class=\"en\">have</span></td><td><span class=\"pron\">jav</span></td><td><span class=\"en\">had</span></td><td><span class=\"pron\">jad</span></td><td>tener</td></tr>\n<tr><td><span class=\"en\">make</span></td><td><span class=\"pron\">meik</span></td><td><span class=\"en\">made</span></td><td><span class=\"pron\">meid</span></td><td>hacer, fabricar</td></tr>\n<tr><td><span class=\"en\">say</span></td><td><span class=\"pron\">sei</span></td><td><span class=\"en\">said</span></td><td><span class=\"pron\">sed</span></td><td>decir</td></tr>\n<tr><td><span class=\"en\">pay</span></td><td><span class=\"pron\">pei</span></td><td><span class=\"en\">paid</span></td><td><span class=\"pron\">peid</span></td><td>pagar</td></tr>\n<tr><td><span class=\"en\">hear</span></td><td><span class=\"pron\">jir</span></td><td><span class=\"en\">heard</span></td><td><span class=\"pron\">jerd</span></td><td>oír</td></tr>\n<tr><td><span class=\"en\">tell</span></td><td><span class=\"pron\">tel</span></td><td><span class=\"en\">told</span></td><td><span class=\"pron\">tould</span></td><td>decir (a alguien), contar</td></tr>\n<tr><td><span class=\"en\">sell</span></td><td><span class=\"pron\">sel</span></td><td><span class=\"en\">sold</span></td><td><span class=\"pron\">sould</span></td><td>vender</td></tr>\n<tr><td><span class=\"en\">find</span></td><td><span class=\"pron\">faind</span></td><td><span class=\"en\">found</span></td><td><span class=\"pron\">faund</span></td><td>encontrar</td></tr>\n<tr><td><span class=\"en\">stand</span></td><td><span class=\"pron\">stand</span></td><td><span class=\"en\">stood</span></td><td><span class=\"pron\">stud</span></td><td>estar de pie</td></tr>\n<tr><td><span class=\"en\">understand</span></td><td><span class=\"pron\">an-der-STÁND</span></td><td><span class=\"en\">understood</span></td><td><span class=\"pron\">an-der-STÚD</span></td><td>entender</td></tr>\n<tr><td><span class=\"en\">feel</span></td><td><span class=\"pron\">fil</span></td><td><span class=\"en\">felt</span></td><td><span class=\"pron\">felt</span></td><td>sentir</td></tr>\n<tr><td><span class=\"en\">keep</span></td><td><span class=\"pron\">kip</span></td><td><span class=\"en\">kept</span></td><td><span class=\"pron\">kept</span></td><td>guardar, mantener</td></tr>\n<tr><td><span class=\"en\">sleep</span></td><td><span class=\"pron\">slip</span></td><td><span class=\"en\">slept</span></td><td><span class=\"pron\">slept</span></td><td>dormir</td></tr>\n<tr><td><span class=\"en\">leave</span></td><td><span class=\"pron\">liv</span></td><td><span class=\"en\">left</span></td><td><span class=\"pron\">left</span></td><td>salir, irse, dejar</td></tr>\n<tr><td><span class=\"en\">meet</span></td><td><span class=\"pron\">mit</span></td><td><span class=\"en\">met</span></td><td><span class=\"pron\">met</span></td><td>conocer, reunirse</td></tr>\n<tr><td><span class=\"en\">send</span></td><td><span class=\"pron\">send</span></td><td><span class=\"en\">sent</span></td><td><span class=\"pron\">sent</span></td><td>enviar</td></tr>\n<tr><td><span class=\"en\">spend</span></td><td><span class=\"pron\">spend</span></td><td><span class=\"en\">spent</span></td><td><span class=\"pron\">spent</span></td><td>gastar, pasar (tiempo)</td></tr>\n<tr><td><span class=\"en\">build</span></td><td><span class=\"pron\">bild</span></td><td><span class=\"en\">built</span></td><td><span class=\"pron\">bilt</span></td><td>construir</td></tr>\n<tr><td><span class=\"en\">lose</span></td><td><span class=\"pron\">luz</span></td><td><span class=\"en\">lost</span></td><td><span class=\"pron\">lost</span></td><td>perder</td></tr>\n<tr><td><b>Grupo 3 — Terminan en -ought / -aught (suenan \"ot\")</b></td></tr>\n<tr><td><span class=\"en\">think</span></td><td><span class=\"pron\">think</span></td><td><span class=\"en\">thought</span></td><td><span class=\"pron\">thot</span></td><td>pensar, creer</td></tr>\n<tr><td><span class=\"en\">bring</span></td><td><span class=\"pron\">bring</span></td><td><span class=\"en\">brought</span></td><td><span class=\"pron\">brot</span></td><td>traer</td></tr>\n<tr><td><span class=\"en\">buy</span></td><td><span class=\"pron\">bai</span></td><td><span class=\"en\">bought</span></td><td><span class=\"pron\">bot</span></td><td>comprar</td></tr>\n<tr><td><span class=\"en\">teach</span></td><td><span class=\"pron\">tich</span></td><td><span class=\"en\">taught</span></td><td><span class=\"pron\">tot</span></td><td>enseñar</td></tr>\n<tr><td><span class=\"en\">catch</span></td><td><span class=\"pron\">kach</span></td><td><span class=\"en\">caught</span></td><td><span class=\"pron\">kot</span></td><td>atrapar, tomar (un bus)</td></tr>\n<tr><td><b>Grupo 4 — Cambia la vocal</b></td></tr>\n<tr><td><span class=\"en\">begin</span></td><td><span class=\"pron\">bi-GUÍN</span></td><td><span class=\"en\">began</span></td><td><span class=\"pron\">bi-GÁN</span></td><td>empezar</td></tr>\n<tr><td><span class=\"en\">drink</span></td><td><span class=\"pron\">drink</span></td><td><span class=\"en\">drank</span></td><td><span class=\"pron\">drank</span></td><td>beber</td></tr>\n<tr><td><span class=\"en\">sit</span></td><td><span class=\"pron\">sit</span></td><td><span class=\"en\">sat</span></td><td><span class=\"pron\">sat</span></td><td>sentarse</td></tr>\n<tr><td><span class=\"en\">come</span></td><td><span class=\"pron\">kam</span></td><td><span class=\"en\">came</span></td><td><span class=\"pron\">keim</span></td><td>venir</td></tr>\n<tr><td><span class=\"en\">get</span></td><td><span class=\"pron\">guet</span></td><td><span class=\"en\">got</span></td><td><span class=\"pron\">got</span></td><td>conseguir, recibir, llegar</td></tr>\n<tr><td><span class=\"en\">forget</span></td><td><span class=\"pron\">fər-GUÉT</span></td><td><span class=\"en\">forgot</span></td><td><span class=\"pron\">fər-GÓT</span></td><td>olvidar</td></tr>\n<tr><td><span class=\"en\">give</span></td><td><span class=\"pron\">guiv</span></td><td><span class=\"en\">gave</span></td><td><span class=\"pron\">gueiv</span></td><td>dar</td></tr>\n<tr><td><span class=\"en\">eat</span></td><td><span class=\"pron\">it</span></td><td><span class=\"en\">ate</span></td><td><span class=\"pron\">eit</span></td><td>comer</td></tr>\n<tr><td><span class=\"en\">see</span></td><td><span class=\"pron\">si</span></td><td><span class=\"en\">saw</span></td><td><span class=\"pron\">so</span></td><td>ver</td></tr>\n<tr><td><span class=\"en\">write</span></td><td><span class=\"pron\">rait</span></td><td><span class=\"en\">wrote</span></td><td><span class=\"pron\">rout</span></td><td>escribir</td></tr>\n<tr><td><span class=\"en\">drive</span></td><td><span class=\"pron\">draiv</span></td><td><span class=\"en\">drove</span></td><td><span class=\"pron\">drouv</span></td><td>manejar, conducir</td></tr>\n<tr><td><span class=\"en\">speak</span></td><td><span class=\"pron\">spik</span></td><td><span class=\"en\">spoke</span></td><td><span class=\"pron\">spouk</span></td><td>hablar</td></tr>\n<tr><td><span class=\"en\">break</span></td><td><span class=\"pron\">breik</span></td><td><span class=\"en\">broke</span></td><td><span class=\"pron\">brouk</span></td><td>romper, malograr</td></tr>\n<tr><td><span class=\"en\">choose</span></td><td><span class=\"pron\">chuz</span></td><td><span class=\"en\">chose</span></td><td><span class=\"pron\">chouz</span></td><td>elegir</td></tr>\n<tr><td><span class=\"en\">wake (up)</span></td><td><span class=\"pron\">weik</span></td><td><span class=\"en\">woke (up)</span></td><td><span class=\"pron\">wouk</span></td><td>despertar(se)</td></tr>\n<tr><td><span class=\"en\">wear</span></td><td><span class=\"pron\">wer</span></td><td><span class=\"en\">wore</span></td><td><span class=\"pron\">wor</span></td><td>llevar puesto, usar (ropa, EPP)</td></tr>\n<tr><td><span class=\"en\">know</span></td><td><span class=\"pron\">nou</span></td><td><span class=\"en\">knew</span></td><td><span class=\"pron\">nu</span></td><td>saber, conocer</td></tr>\n<tr><td><span class=\"en\">fly</span></td><td><span class=\"pron\">flai</span></td><td><span class=\"en\">flew</span></td><td><span class=\"pron\">flu</span></td><td>volar</td></tr>\n<tr><td><span class=\"en\">take</span></td><td><span class=\"pron\">teik</span></td><td><span class=\"en\">took</span></td><td><span class=\"pron\">tuk</span></td><td>tomar, llevar, tardar</td></tr>\n<tr><td><span class=\"en\">fall</span></td><td><span class=\"pron\">fol</span></td><td><span class=\"en\">fell</span></td><td><span class=\"pron\">fel</span></td><td>caer(se)</td></tr>\n<tr><td><b>Grupo 5 — Totalmente distintos</b></td></tr>\n<tr><td><span class=\"en\">be</span></td><td><span class=\"pron\">bi</span></td><td><span class=\"en\">was / were</span></td><td><span class=\"pron\">wəz / wer</span></td><td>ser, estar (Módulo 8)</td></tr>\n<tr><td><span class=\"en\">go</span></td><td><span class=\"pron\">gou</span></td><td><span class=\"en\">went</span></td><td><span class=\"pron\">went</span></td><td>ir</td></tr>\n<tr><td><span class=\"en\">do</span></td><td><span class=\"pron\">du</span></td><td><span class=\"en\">did</span></td><td><span class=\"pron\">did</span></td><td>hacer</td></tr>\n</tbody></table><p>En <i>know / knew</i> y <i>write / wrote</i> la k y la w iniciales no suenan. <i>Read</i> (pasado) se escribe igual pero suena como el color <i>red</i>.</p>"
+  },
+  {
+   "title": "Traducción directa vs interpretación real",
+   "html": "<p>El español tiene dos pasados para acciones (<i>trabajé</i> y <i>trabajaba</i>). Para acciones terminadas o hábitos del pasado, el inglés usa el mismo pasado simple. Además, varias expresiones cotidianas no se traducen palabra por palabra.</p><table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>Perdí el bus</td><td><span class=\"en\">I missed the bus. I lost the bus</span></td></tr><tr><td>Hice una pregunta</td><td><span class=\"en\">I asked a question. I made a question</span></td></tr><tr><td>Asistí a la reunión</td><td><span class=\"en\">I attended the meeting. I assisted the meeting</span></td></tr><tr><td>Pasé el fin de semana en casa</td><td><span class=\"en\">I spent the weekend at home. I passed the weekend</span></td></tr><tr><td>¿Qué pasó?</td><td><span class=\"en\">What happened? What did happen?</span></td></tr><tr><td>Nos tomó dos horas</td><td><span class=\"en\">It took us two hours. It took to us</span></td></tr></tbody></table><table>\n<thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead>\n<tbody>\n<tr><td>No fui a trabajar.</td><td><span class=\"wrong\">I no went to work.</span></td><td><span class=\"ok\">I didn't go to work.</span></td></tr>\n<tr><td>¿Viste el correo?</td><td><span class=\"wrong\">You saw the email?</span></td><td><span class=\"ok\">Did you see the email?</span></td></tr>\n<tr><td>Llegué a las 7.</td><td><span class=\"wrong\">I arrived to 7.</span></td><td><span class=\"ok\">I arrived at 7. / I got there at 7.</span></td></tr>\n<tr><td>Me levanté temprano.</td><td><span class=\"wrong\">I raised early.</span></td><td><span class=\"ok\">I got up early.</span></td></tr>\n<tr><td>Antes trabajaba en Chile.</td><td><span class=\"wrong\">Before I was work in Chile.</span></td><td><span class=\"ok\">I worked in Chile before. / I used to work in Chile.</span></td></tr>\n</tbody></table><p><b>Detalles que marcan la diferencia</b></p>\n<ul>\n<li>Preguntas de sujeto: cuando <b>who</b> o <b>what</b> es el sujeto, no se usa <i>did</i>: <span class=\"ok\">Who called you?</span> <span class=\"ok\">What happened?</span> Compara: <span class=\"en\">Who did you call?</span> (a quién llamaste).</li>\n<li>Hábito o situación pasada que ya no existe: <span class=\"en\">used to</span> + verbo base: <span class=\"en\">I used to work in Chile.</span> (Antes trabajaba en Chile.) Negativo y pregunta: <span class=\"en\">I didn't use to… / Did you use to…?</span> (sin -d, por la Regla de oro 1).</li>\n<li><span class=\"en\">Take</span> + tiempo = tardar: <span class=\"en\">It took three hours.</span> (Tardó tres horas.)</li>\n<li><span class=\"en\">Get</span> es un comodín: <span class=\"en\">got up</span> (me levanté), <span class=\"en\">got home</span> (llegué a casa), <span class=\"en\">got an email</span> (recibí un correo).</li>\n<li>Con <i>yesterday, last week, ago, in 2019</i> el verbo va en pasado, nunca en presente.</li>\n</ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "I woke up at 5:30.",
+   "pron": "ai wouk AP ət faiv THÉR-ti",
+   "es": "Me desperté a las 5:30.",
+   "group": "A. Tu día: rutina en pasado"
+  },
+  {
+   "en": "I got up early.",
+   "pron": "ai got ap ÉR-li",
+   "es": "Me levanté temprano.",
+   "group": "A. Tu día: rutina en pasado"
+  },
+  {
+   "en": "I had breakfast.",
+   "pron": "ai jad BRÉK-fəst",
+   "es": "Desayuné.",
+   "group": "A. Tu día: rutina en pasado"
+  },
+  {
+   "en": "I took the bus.",
+   "pron": "ai tuk dhə BAS",
+   "es": "Tomé el bus.",
+   "group": "A. Tu día: rutina en pasado"
+  },
+  {
+   "en": "I went to work.",
+   "pron": "ai went tə WERK",
+   "es": "Fui al trabajo.",
+   "group": "A. Tu día: rutina en pasado"
+  },
+  {
+   "en": "I got home at 7.",
+   "pron": "ai got JOUM ət SÉ-ven",
+   "es": "Llegué a casa a las 7.",
+   "group": "A. Tu día: rutina en pasado"
+  },
+  {
+   "en": "I went to bed late.",
+   "pron": "ai went tə bed LEIT",
+   "es": "Me acosté tarde.",
+   "group": "A. Tu día: rutina en pasado"
+  },
+  {
+   "en": "I didn't sleep well.",
+   "pron": "ai DÍ-dənt slip WEL",
+   "es": "No dormí bien.",
+   "group": "A. Tu día: rutina en pasado"
+  },
+  {
+   "en": "We checked the welds.",
+   "pron": "wi chekt dhə WELDZ",
+   "es": "Revisamos las soldaduras.",
+   "group": "B. Verbos regulares de obra y oficina"
+  },
+  {
+   "en": "They installed the valve.",
+   "pron": "dhei in-STÓLD dhə VALV",
+   "es": "Instalaron la válvula.",
+   "group": "B. Verbos regulares de obra y oficina"
+  },
+  {
+   "en": "We tested the line.",
+   "pron": "wi TÉS-tid dhə LAIN",
+   "es": "Probamos la línea.",
+   "group": "B. Verbos regulares de obra y oficina"
+  },
+  {
+   "en": "He repaired the pump.",
+   "pron": "ji ri-PÉRD dhə PAMP",
+   "es": "Reparó la bomba.",
+   "group": "B. Verbos regulares de obra y oficina"
+  },
+  {
+   "en": "They cleaned the tank.",
+   "pron": "dhei klind dhə TANK",
+   "es": "Limpiaron el tanque.",
+   "group": "B. Verbos regulares de obra y oficina"
+  },
+  {
+   "en": "We finished on time.",
+   "pron": "wi FÍ-nisht on TAIM",
+   "es": "Terminamos a tiempo.",
+   "group": "B. Verbos regulares de obra y oficina"
+  },
+  {
+   "en": "The job started at 7.",
+   "pron": "dhə YOB STÁR-tid ət SÉ-ven",
+   "es": "El trabajo empezó a las 7.",
+   "group": "B. Verbos regulares de obra y oficina"
+  },
+  {
+   "en": "I called the supplier.",
+   "pron": "ai kold dhə sə-PLÁI-er",
+   "es": "Llamé al proveedor.",
+   "group": "B. Verbos regulares de obra y oficina"
+  },
+  {
+   "en": "I updated the drawings.",
+   "pron": "ai ap-DÉI-tid dhə DRÓ-ingz",
+   "es": "Actualicé los planos.",
+   "group": "B. Verbos regulares de obra y oficina"
+  },
+  {
+   "en": "I sent the report.",
+   "pron": "ai sent dhə ri-PÓRT",
+   "es": "Envié el informe.",
+   "group": "C. Bloques irregulares de alta frecuencia"
+  },
+  {
+   "en": "We had a problem.",
+   "pron": "wi jad ə PRÓ-blem",
+   "es": "Tuvimos un problema.",
+   "group": "C. Bloques irregulares de alta frecuencia"
+  },
+  {
+   "en": "It took two hours.",
+   "pron": "it tuk tu ÁU-erz",
+   "es": "Tardó dos horas.",
+   "group": "C. Bloques irregulares de alta frecuencia"
+  },
+  {
+   "en": "I made a mistake.",
+   "pron": "ai meid ə mis-TÉIK",
+   "es": "Cometí un error.",
+   "group": "C. Bloques irregulares de alta frecuencia"
+  },
+  {
+   "en": "We found a crack.",
+   "pron": "wi faund ə KRAK",
+   "es": "Encontramos una grieta.",
+   "group": "C. Bloques irregulares de alta frecuencia"
+  },
+  {
+   "en": "The pump broke.",
+   "pron": "dhə PAMP brouk",
+   "es": "La bomba se malogró.",
+   "group": "C. Bloques irregulares de alta frecuencia"
+  },
+  {
+   "en": "I forgot my badge.",
+   "pron": "ai fər-GÓT mai BACH",
+   "es": "Olvidé mi fotocheck.",
+   "group": "C. Bloques irregulares de alta frecuencia"
+  },
+  {
+   "en": "I met the client.",
+   "pron": "ai met dhə KLÁI-ənt",
+   "es": "Me reuní con el cliente.",
+   "group": "C. Bloques irregulares de alta frecuencia"
+  },
+  {
+   "en": "I got your email.",
+   "pron": "ai got yor Í-meil",
+   "es": "Recibí tu correo.",
+   "group": "C. Bloques irregulares de alta frecuencia"
+  },
+  {
+   "en": "I stayed home.",
+   "pron": "ai steid JOUM",
+   "es": "Me quedé en casa.",
+   "group": "D. Vida social y fin de semana"
+  },
+  {
+   "en": "We went to the beach.",
+   "pron": "wi went tə dhə BICH",
+   "es": "Fuimos a la playa.",
+   "group": "D. Vida social y fin de semana"
+  },
+  {
+   "en": "I watched a movie.",
+   "pron": "ai wocht ə MÚ-vi",
+   "es": "Vi una película.",
+   "group": "D. Vida social y fin de semana"
+  },
+  {
+   "en": "We ate out.",
+   "pron": "wi eit ÁUT",
+   "es": "Comimos fuera.",
+   "group": "D. Vida social y fin de semana"
+  },
+  {
+   "en": "I visited my parents.",
+   "pron": "ai VÍ-zi-tid mai PÉ-rənts",
+   "es": "Visité a mis padres.",
+   "group": "D. Vida social y fin de semana"
+  },
+  {
+   "en": "I spent the day with my kids.",
+   "pron": "ai spent dhə DEI widh mai KIDZ",
+   "es": "Pasé el día con mis hijos.",
+   "group": "D. Vida social y fin de semana"
+  },
+  {
+   "en": "What did you do yesterday?",
+   "pron": "WOT did yu DU YÉS-ter-dei",
+   "es": "¿Qué hiciste ayer?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "Did you finish?",
+   "pron": "DÍ-yu FÍ-nish",
+   "es": "¿Terminaste?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "How did it go?",
+   "pron": "jau DÍ-dit GOU",
+   "es": "¿Cómo te fue? / ¿Cómo salió?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "What happened?",
+   "pron": "wot JÁ-pənd",
+   "es": "¿Qué pasó?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "When did it start?",
+   "pron": "WEN DÍ-dit start",
+   "es": "¿Cuándo empezó?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "Where did you go?",
+   "pron": "WER did yu GOU",
+   "es": "¿A dónde fuiste?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "Who did you talk to?",
+   "pron": "JU did yu TOK tu",
+   "es": "¿Con quién hablaste?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "First, …",
+   "pron": "FERST",
+   "es": "Primero, …",
+   "group": "F. Conectores para contar en orden"
+  },
+  {
+   "en": "Then, …",
+   "pron": "DHEN",
+   "es": "Luego, …",
+   "group": "F. Conectores para contar en orden"
+  },
+  {
+   "en": "After that, …",
+   "pron": "ÁF-ter DHAT",
+   "es": "Después de eso, …",
+   "group": "F. Conectores para contar en orden"
+  },
+  {
+   "en": "Finally, …",
+   "pron": "FÁI-nə-li",
+   "es": "Finalmente, …",
+   "group": "F. Conectores para contar en orden"
+  },
+  {
+   "en": "…, so …",
+   "pron": "sou",
+   "es": "…, así que …",
+   "group": "F. Conectores para contar en orden"
+  },
+  {
+   "en": "…, because …",
+   "pron": "bi-KÓZ",
+   "es": "…, porque …",
+   "group": "F. Conectores para contar en orden"
+  },
+  {
+   "en": "…, but …",
+   "pron": "bat",
+   "es": "…, pero …",
+   "group": "F. Conectores para contar en orden"
+  }
+ ],
+ "examples": [
+  {
+   "en": "We cleaned the tank bottom and checked all the welds.",
+   "es": "Limpiamos el fondo del tanque y revisamos todas las soldaduras.",
+   "situation": "Reporte diario"
+  },
+  {
+   "en": "The test started at 8 and finished at 11.",
+   "es": "La prueba empezó a las 8 y terminó a las 11.",
+   "situation": "Prueba hidrostática"
+  },
+  {
+   "en": "The inspector found a small crack near the nozzle.",
+   "es": "El inspector encontró una pequeña grieta cerca de la boquilla.",
+   "situation": "Hallazgo"
+  },
+  {
+   "en": "The generator broke, so we stopped for two hours.",
+   "es": "El generador se malogró, así que paramos dos horas.",
+   "situation": "Equipo malogrado"
+  },
+  {
+   "en": "I sent you the drawings this morning. Did you get them?",
+   "es": "Te envié los planos esta mañana. ¿Los recibiste?",
+   "situation": "Oficina"
+  },
+  {
+   "en": "Sorry, I made a mistake in the material list.",
+   "es": "Perdón, cometí un error en la lista de materiales.",
+   "situation": "Error propio"
+  },
+  {
+   "en": "I missed the bus, so I took a taxi.",
+   "es": "Perdí el bus, así que tomé un taxi.",
+   "situation": "Retraso"
+  },
+  {
+   "en": "We met the client and talked about the schedule.",
+   "es": "Nos reunimos con el cliente y hablamos del cronograma.",
+   "situation": "Reunión"
+  },
+  {
+   "en": "On Saturday we went to the beach and ate fish.",
+   "es": "El sábado fuimos a la playa y comimos pescado.",
+   "situation": "Fin de semana"
+  },
+  {
+   "en": "I felt sick last night, and I didn't sleep well.",
+   "es": "Anoche me sentí mal y no dormí bien.",
+   "situation": "Médico"
+  },
+  {
+   "en": "I bought new safety boots. They cost 90 dollars.",
+   "es": "Compré botas de seguridad nuevas. Costaron 90 dólares.",
+   "situation": "Compras"
+  },
+  {
+   "en": "I worked in Chile for a year. I learned a lot there.",
+   "es": "Trabajé en Chile un año. Aprendí mucho ahí.",
+   "situation": "Historia laboral"
+  },
+  {
+   "en": "Did Carlos call you? — No, he didn't.",
+   "es": "¿Te llamó Carlos? — No.",
+   "situation": "Llamada"
+  },
+  {
+   "en": "I paid the bill online, but the bank didn't send a receipt.",
+   "es": "Pagué la cuenta por internet, pero el banco no envió un comprobante.",
+   "situation": "Banco"
+  },
+  {
+   "en": "We completed the repairs on October 15 and submitted the final report.",
+   "es": "Completamos las reparaciones el 15 de octubre y entregamos el informe final.",
+   "situation": "Correo formal"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "I called him.",
+     "I didn't call him.",
+     "Did I call him?",
+     "Yes, you did. / No, you didn't."
+    ],
+    [
+     "You sent the email.",
+     "You didn't send the email.",
+     "Did you send the email?",
+     "Yes, I did. / No, I didn't."
+    ],
+    [
+     "He fixed the leak.",
+     "He didn't fix the leak.",
+     "Did he fix the leak?",
+     "Yes, he did. / No, he didn't."
+    ],
+    [
+     "She went to Lima.",
+     "She didn't go to Lima.",
+     "Did she go to Lima?",
+     "Yes, she did. / No, she didn't."
+    ],
+    [
+     "It took an hour.",
+     "It didn't take an hour.",
+     "Did it take an hour?",
+     "Yes, it did. / No, it didn't."
+    ],
+    [
+     "We finished the test.",
+     "We didn't finish the test.",
+     "Did we finish the test?",
+     "Yes, we did. / No, we didn't."
+    ],
+    [
+     "They bought the pipes.",
+     "They didn't buy the pipes.",
+     "Did they buy the pipes?",
+     "Yes, they did. / No, they didn't."
+    ],
+    [
+     "The client paid.",
+     "The client didn't pay.",
+     "Did the client pay?",
+     "Yes, he/she did. / No, he/she didn't."
+    ],
+    [
+     "The welders came early.",
+     "The welders didn't come early.",
+     "Did the welders come early?",
+     "Yes, they did. / No, they didn't."
+    ],
+    [
+     "Ana wrote the report.",
+     "Ana didn't write the report.",
+     "Did Ana write the report?",
+     "Yes, she did. / No, she didn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Sarah",
+   "text": "Hi Edwin. How did the hydro test go yesterday?"
+  },
+  {
+   "who": "Edwin",
+   "text": "It went well, but it took longer than planned."
+  },
+  {
+   "who": "Sarah",
+   "text": "Why? What happened?"
+  },
+  {
+   "who": "Edwin",
+   "text": "First, the water truck arrived late. Then we found a small leak at a flange."
+  },
+  {
+   "who": "Sarah",
+   "text": "Oh no. Did you fix it?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, we did. Carlos changed the gasket, and after that we started again."
+  },
+  {
+   "who": "Sarah",
+   "text": "When did you finish?"
+  },
+  {
+   "who": "Edwin",
+   "text": "We finished at 6 p.m. The pressure held for two hours, so the inspector signed the report."
+  },
+  {
+   "who": "Sarah",
+   "text": "Great job. Did you send me the photos?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Not yet, sorry. I forgot. I can send them right now."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "I didn't went.",
+   "right": "I didn't go.",
+   "why": "Después de didn't va el verbo base."
+  },
+  {
+   "wrong": "Did you saw it?",
+   "right": "Did you see it?",
+   "why": "Did ya lleva el pasado."
+  },
+  {
+   "wrong": "I goed / I buyed",
+   "right": "I went / I bought",
+   "why": "Los irregulares no llevan -ed."
+  },
+  {
+   "wrong": "Yesterday I work late.",
+   "right": "Yesterday I worked late.",
+   "why": "Con yesterday el verbo va en pasado."
+  },
+  {
+   "wrong": "You called him?",
+   "right": "Did you call him?",
+   "why": "La pregunta escrita necesita did."
+  },
+  {
+   "wrong": "I no called him.",
+   "right": "I didn't call him.",
+   "why": "El negativo se forma con didn't."
+  },
+  {
+   "wrong": "Where you went?",
+   "right": "Where did you go?",
+   "why": "WH- + did + sujeto + base."
+  },
+  {
+   "wrong": "Who did call you?",
+   "right": "Who called you?",
+   "why": "Pregunta de sujeto: sin did."
+  },
+  {
+   "wrong": "I studyed / I stoped",
+   "right": "I studied / I stopped",
+   "why": "Consonante + y → -ied; CVC corto → se dobla la consonante."
+  },
+  {
+   "wrong": "— Did you finish? — Yes, I finished.",
+   "right": "— Yes, I did.",
+   "why": "La respuesta corta usa did, no el verbo."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "I assisted the manager.",
+   "looks": "asistí a",
+   "means": "ayudé al gerente",
+   "fix": "I attended the meeting."
+  },
+  {
+   "en": "We realized the problem.",
+   "looks": "realizamos",
+   "means": "nos dimos cuenta del problema",
+   "fix": "We carried out / did the test."
+  },
+  {
+   "en": "He pretended to work.",
+   "looks": "pretendió",
+   "means": "fingió trabajar",
+   "fix": "He intended / wanted to work."
+  },
+  {
+   "en": "I recorded the meeting.",
+   "looks": "recordé",
+   "means": "grabé la reunión",
+   "fix": "I remembered the meeting."
+  },
+  {
+   "en": "I lost the bus.",
+   "looks": "perdí el bus",
+   "means": "extravié el bus (absurdo)",
+   "fix": "I missed the bus."
+  },
+  {
+   "en": "I passed the weekend.",
+   "looks": "pasé el fin de semana",
+   "means": "no es natural",
+   "fix": "I spent the weekend at home."
+  },
+  {
+   "en": "I made a question.",
+   "looks": "hice una pregunta",
+   "means": "no es natural",
+   "fix": "I asked a question."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Ayer revisé las soldaduras.",
+    "answers": [
+     "I checked the welds yesterday.",
+     "Yesterday I checked the welds."
+    ],
+    "explain": "Regular: check + -ed (suena chekt). También vale Yesterday I checked…"
+   },
+   {
+    "prompt": "No terminamos el informe.",
+    "answers": [
+     "We didn't finish the report.",
+     "We did not finish the report."
+    ],
+    "explain": "Didn't + verbo base finish."
+   },
+   {
+    "prompt": "¿Llamaste al cliente?",
+    "answers": [
+     "Did you call the client?"
+    ],
+    "explain": "Did + sujeto + base. \"Al cliente\" no lleva to."
+   },
+   {
+    "prompt": "Fui a Lima la semana pasada.",
+    "answers": [
+     "I went to Lima last week."
+    ],
+    "explain": "Go → went; last week sin the."
+   },
+   {
+    "prompt": "Ella no vino a la reunión.",
+    "answers": [
+     "She didn't come to the meeting.",
+     "She did not come to the meeting."
+    ],
+    "explain": "Didn't + base come (no came)."
+   },
+   {
+    "prompt": "¿Qué hiciste el fin de semana?",
+    "answers": [
+     "What did you do on the weekend?",
+     "What did you do at the weekend?",
+     "What did you do last weekend?"
+    ],
+    "explain": "WH- + did + you + do. El primer do es el auxiliar en pasado; el segundo es el verbo \"hacer\". También vale at the weekend (británico) o last weekend."
+   },
+   {
+    "prompt": "Compré botas nuevas hace dos días.",
+    "answers": [
+     "I bought new boots two days ago."
+    ],
+    "explain": "Buy → bought; \"hace dos días\" = two days ago."
+   },
+   {
+    "prompt": "La prueba empezó a las 8 y terminó a las 11.",
+    "answers": [
+     "The test started at 8 and finished at 11.",
+     "The test began at 8 and finished at 11."
+    ],
+    "explain": "Dos regulares: started /id/, finished /t/. También vale began."
+   },
+   {
+    "prompt": "¿A qué hora llegaron los soldadores?",
+    "answers": [
+     "What time did the welders arrive?"
+    ],
+    "explain": "WH- + did + sujeto + base arrive."
+   },
+   {
+    "prompt": "Perdí mis llaves y no dormí bien.",
+    "answers": [
+     "I lost my keys and I didn't sleep well.",
+     "I lost my keys and I did not sleep well.",
+     "I lost my keys and didn't sleep well.",
+     "I lost my keys and did not sleep well."
+    ],
+    "explain": "Lose → lost (extraviar un objeto; para el bus sería miss). Didn't + base sleep. También vale sin el segundo I: …and didn't sleep well."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "We didn't have time, so we stopped at 6.",
+    "answers": [
+     "No tuvimos tiempo, así que paramos a las 6.",
+     "No tuvimos tiempo, por eso paramos a las 6.",
+     "No tuvimos tiempo, así que nos detuvimos a las 6."
+    ],
+    "explain": "Didn't have = no tuvimos; so = así que."
+   },
+   {
+    "prompt": "Where did you buy those gloves?",
+    "answers": [
+     "¿Dónde compraste esos guantes?",
+     "¿Dónde compró esos guantes?",
+     "¿Dónde compraste aquellos guantes?"
+    ],
+    "explain": "Did … buy = compraste; those = esos (Módulo 6)."
+   },
+   {
+    "prompt": "The inspector found two cracks and wrote a report.",
+    "answers": [
+     "El inspector encontró dos grietas y escribió un informe.",
+     "El inspector encontró dos fisuras y escribió un informe.",
+     "El inspector encontró dos grietas y redactó un reporte."
+    ],
+    "explain": "Found (find) y wrote (write), irregulares."
+   },
+   {
+    "prompt": "It took three hours to install the valve.",
+    "answers": [
+     "Instalar la válvula tomó tres horas.",
+     "Tardaron tres horas en instalar la válvula.",
+     "Tomó tres horas instalar la válvula.",
+     "Instalar la válvula tardó tres horas."
+    ],
+    "explain": "It took + tiempo = tardó. También vale Tardaron tres horas en instalar la válvula."
+   },
+   {
+    "prompt": "Did she understand the drawing? — No, she didn't.",
+    "answers": [
+     "¿Ella entendió el plano? — No.",
+     "¿Entendió ella el plano? — No.",
+     "¿Ella entendió el plano? — No, no lo entendió."
+    ],
+    "explain": "Understand en base después de did. La respuesta corta \"No, she didn't\" se traduce simplemente \"No\"."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "I goed to the site yesterday.",
+    "answers": [
+     "I went to the site yesterday."
+    ],
+    "explain": "Go es irregular: went."
+   },
+   {
+    "prompt": "We didn't finished the job on Friday.",
+    "answers": [
+     "We didn't finish the job on Friday.",
+     "We did not finish the job on Friday."
+    ],
+    "explain": "Después de didn't, base."
+   },
+   {
+    "prompt": "Did you saw my email?",
+    "answers": [
+     "Did you see my email?"
+    ],
+    "explain": "Después de did, base."
+   },
+   {
+    "prompt": "She buyed a new phone last week.",
+    "answers": [
+     "She bought a new phone last week."
+    ],
+    "explain": "Buy es irregular: bought."
+   },
+   {
+    "prompt": "They work late last night.",
+    "answers": [
+     "They worked late last night."
+    ],
+    "explain": "Last night exige pasado: worked."
+   },
+   {
+    "prompt": "Where you went on Saturday?",
+    "answers": [
+     "Where did you go on Saturday?"
+    ],
+    "explain": "WH- + did + sujeto + base."
+   },
+   {
+    "prompt": "He didn't came to work this morning.",
+    "answers": [
+     "He didn't come to work this morning.",
+     "He did not come to work this morning."
+    ],
+    "explain": "Después de didn't, base: come."
+   },
+   {
+    "prompt": "I studyed engineering in Trujillo.",
+    "answers": [
+     "I studied engineering in Trujillo."
+    ],
+    "explain": "Consonante + y → -ied."
+   },
+   {
+    "prompt": "— Did you call the supplier? — Yes, I called.",
+    "answers": [
+     "— Did you call the supplier? — Yes, I did.",
+     "Did you call the supplier? Yes, I did."
+    ],
+    "explain": "Respuesta corta con did."
+   },
+   {
+    "prompt": "We stoped the pump at 5 p.m.",
+    "answers": [
+     "We stopped the pump at 5 p.m."
+    ],
+    "explain": "CVC corto: se dobla la p → stopped."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte a negativo y a pregunta: They tested the pipes.",
+   "answer": "They didn't test the pipes. / Did they test the pipes?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con did, didn't o el pasado del verbo entre paréntesis.",
+   "lines": [
+    {
+     "who": "Mark",
+     "text": "Hi Edwin. [1] you finish the hydro test yesterday?"
+    },
+    {
+     "who": "Edwin",
+     "text": "Yes, I [2]. We [3] (start) at 7 and [4] (finish) at 2."
+    },
+    {
+     "who": "Mark",
+     "text": "Great. Were there any leaks?"
+    },
+    {
+     "who": "Edwin",
+     "text": "Yes, we [5] (find) one small leak at a flange, so Carlos [6] (change) the gasket."
+    },
+    {
+     "who": "Mark",
+     "text": "OK. And [7] you send the report?"
+    },
+    {
+     "who": "Edwin",
+     "text": "No, sorry. I [8] (not / have) time. I can send it this morning."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "Did"
+     ],
+     "explain": "Pregunta en pasado: Did + you + base."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "did"
+     ],
+     "explain": "Respuesta corta: Yes, I did."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "started"
+     ],
+     "explain": "Regular; suena /id/."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "finished"
+     ],
+     "explain": "Regular; suena /t/."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "found"
+     ],
+     "explain": "Find → found."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "changed"
+     ],
+     "explain": "Change termina en -e → solo + d."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "did"
+     ],
+     "explain": "Pregunta: did you send, verbo en base."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "didn't have",
+      "did not have"
+     ],
+     "explain": "Negativo: didn't + base have."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo. Escribe un correo de 5 a 7 oraciones a tu supervisor sobre tu día de trabajo de ayer: (a) a qué hora empezaste y dónde, (b) dos tareas terminadas, (c) un problema, (d) algo que no hiciste (negativo), (e) una pregunta con Did. Usa al menos 3 verbos irregulares y los conectores first, then, after that.",
+   "rubric": [
+    "(a) A qué hora empezaste y dónde",
+    "(b) Dos tareas terminadas",
+    "(c) Un problema",
+    "(d) Algo que no hiciste (negativo)",
+    "(e) Una pregunta con Did",
+    "Al menos 3 verbos irregulares correctos",
+    "Los conectores first, then, after that en orden lógico"
+   ],
+   "model": "Hi Mr. Lee,\nYesterday I started at 7 a.m. at Tank 8076. First, we cleaned the bottom plates. Then the welders welded two new patches, and after that I checked the welds and took photos. We had one problem: the generator stopped at 2 p.m. for an hour, so we didn't finish the third patch. I sent you the photos at 5 p.m. Did you get them?"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Pronunciar -ed con /t/, /d/ o /id/.",
+   "test": "Lee en voz alta los 15 verbos de la Figura 9.2 y grábate; 15 de 15 sin \"e\" extra en /t/ y /d/."
+  },
+  {
+   "skill": "Dar el pasado de los 50 irregulares.",
+   "test": "Tapa la columna Pasado y di las 50 formas en menos de 3 minutos; mínimo 48 correctas."
+  },
+  {
+   "skill": "Contar mi día de ayer en orden.",
+   "test": "Grábate 45 segundos sin leer con first, then, after that, finally y al menos 6 verbos en pasado."
+  },
+  {
+   "skill": "Negar y preguntar con did + verbo base.",
+   "test": "Convierte 8 oraciones afirmativas a negativo y pregunta en 2 minutos; cero \"didn't went\"."
+  },
+  {
+   "skill": "Hacer preguntas WH- y de sujeto.",
+   "test": "Escribe 4 preguntas con did y 2 sin did (Who called…? What happened?); 6 de 6 correctas."
+  },
+  {
+   "skill": "Escribir un reporte diario corto.",
+   "test": "Redacta 6 oraciones sobre un trabajo terminado y compáralas con el modelo C2."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What did you do last weekend?",
+  "Where did you study?",
+  "What time did you get up today?",
+  "What did you do at work yesterday?",
+  "Where did you go on your last vacation?",
+  "When did you start your current job?"
+ ]
+}

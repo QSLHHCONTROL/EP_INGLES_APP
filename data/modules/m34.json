@@ -1,0 +1,1024 @@
+{
+ "id": 34,
+ "level": "C1",
+ "title": "Presentaciones y storytelling profesional",
+ "goal": "Al terminar podrás estructurar una presentación técnica de 5 minutos con un arco narrativo claro, guiar al público con frases de señalización, contar un caso real como historia, presentar datos sin leer la diapositiva y responder preguntas difíciles con calma y diplomacia.",
+ "lesson": [
+  {
+   "title": "El arco de la presentación",
+   "html": "<p>En español, una presentación técnica suele empezar con antecedentes, seguir con la metodología y llegar a la conclusión al final. El público anglosajón, sobre todo en empresas de EE. UU., espera lo contrario: <b>primero el mensaje, luego la prueba</b>. Si el gerente no sabe en los primeros 30 segundos qué le vas a pedir, deja de escuchar. Este módulo te da una estructura que funciona en una reunión de obra, en una propuesta a la gerencia y en una charla de congreso.</p><p>Casi toda presentación persuasiva sigue cinco pasos. El orden no es un capricho: cada paso responde a la pregunta que el público tiene en la cabeza en ese momento.</p><table><thead><tr><th>Paso</th><th>Objetivo</th><th>Frase modelo</th></tr></thead><tbody><tr><td><b>1 · Hook</b> (gancho)</td><td>Captar la atención con un dato, una pregunta o una imagen.</td><td><span class=\"en\">Last year, one leaking flange cost us four days of downtime.</span></td></tr><tr><td><b>2 · Problem</b></td><td>Mostrar el dolor en términos del público: dinero, tiempo, riesgo.</td><td><span class=\"en\">Right now, we track torque on paper, and records get lost.</span></td></tr><tr><td><b>3 · Solution</b></td><td>Una sola idea central, dicha en una frase.</td><td><span class=\"en\">What I'm proposing is a simple digital torque log.</span></td></tr><tr><td><b>4 · Evidence</b></td><td>Datos, un caso piloto o una comparación.</td><td><span class=\"en\">In a two-week pilot, we found every record in under a minute.</span></td></tr><tr><td><b>5 · Call to action</b></td><td>Lo que necesitas del público: decisión, recursos, fecha.</td><td><span class=\"en\">I'm asking for approval to roll it out on all three tanks by March.</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 250\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <path d=\"M40 190 C 120 190, 140 120, 200 110 S 320 50, 380 50 S 520 80, 600 150\" fill=\"none\" stroke=\"#6941C6\" stroke-width=\"4\"/>\n  <polygon points=\"594,140 606,158 588,156\" fill=\"#6941C6\"/>\n  <circle cx=\"60\" cy=\"188\" r=\"16\" fill=\"#E8590C\"/><text x=\"60\" y=\"193\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">1</text>\n  <circle cx=\"190\" cy=\"112\" r=\"16\" fill=\"#D92D20\"/><text x=\"190\" y=\"117\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">2</text>\n  <circle cx=\"330\" cy=\"58\" r=\"16\" fill=\"#6941C6\"/><text x=\"330\" y=\"63\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">3</text>\n  <circle cx=\"460\" cy=\"62\" r=\"16\" fill=\"#1570EF\"/><text x=\"460\" y=\"67\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">4</text>\n  <circle cx=\"575\" cy=\"128\" r=\"16\" fill=\"#079455\"/><text x=\"575\" y=\"133\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">5</text>\n  <text x=\"60\" y=\"160\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#E8590C\">HOOK</text>\n  <text x=\"60\" y=\"222\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">¿Por qué escuchar?</text>\n  <text x=\"60\" y=\"238\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">30 segundos</text>\n  <text x=\"190\" y=\"152\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#D92D20\">PROBLEM</text>\n  <text x=\"190\" y=\"170\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">¿Qué duele?</text>\n  <text x=\"190\" y=\"186\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">costo, riesgo</text>\n  <text x=\"330\" y=\"28\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#6941C6\">SOLUTION</text>\n  <text x=\"330\" y=\"96\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">¿Qué propones?</text>\n  <text x=\"330\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">una idea central</text>\n  <text x=\"460\" y=\"32\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#1570EF\">EVIDENCE</text>\n  <text x=\"460\" y=\"100\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">¿Por qué creerte?</text>\n  <text x=\"460\" y=\"116\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">datos, caso, prueba</text>\n  <text x=\"575\" y=\"186\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#079455\">CALL TO ACTION</text>\n  <text x=\"575\" y=\"204\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">¿Qué hago ahora?</text>\n  <text x=\"575\" y=\"220\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">decisión, fecha</text>\n</svg>",
+   "caption": "Figura 34.1 — El arco de una presentación persuasiva: cada paso responde la pregunta que el público tiene en ese momento."
+  },
+  {
+   "title": "Tres reglas de oro para presentar",
+   "html": "<p><b>Regla de oro 1 — El mensaje principal va al inicio y al final</b></p><p>Di tu idea central en el primer minuto y repítela en el cierre. En inglés se dice: <span class=\"en\">Tell them what you're going to tell them, tell them, then tell them what you told them.</span> En español puede sonar repetitivo; en inglés, es lo que hace que una presentación sea fácil de seguir.</p><p><b>Regla de oro 2 — Habla para el oído, no para el ojo</b></p><p>Un texto se puede releer; una presentación, no. Usa frases cortas (15–20 palabras), voz activa y <i>we / you</i>. Compara:</p><p><span class=\"wrong\">It was determined that the implementation of the proposed methodology would be beneficial.</span><br><span class=\"ok\">We tested this method, and it saves time.</span></p><p><b>Regla de oro 3 — Una diapositiva, un mensaje</b></p><p>El título de cada diapositiva debe ser una conclusión, no un tema. <span class=\"wrong\">Torque Results</span> → <span class=\"ok\">Digital logging cut record search time by 90%</span>. Así, si alguien solo lee los títulos, entiende toda tu historia.</p>"
+  },
+  {
+   "title": "Signposting: el GPS de tu presentación",
+   "html": "<p>Las <b>signposting phrases</b> (frases de señalización) le dicen al público dónde está, qué viene y cómo se conecta cada parte. En español las usamos poco al hablar; en inglés son obligatorias, porque el oyente no tiene párrafos ni títulos que ver.</p>",
+   "svg": "<svg viewBox=\"0 0 640 300\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <line x1=\"40\" y1=\"150\" x2=\"600\" y2=\"150\" stroke=\"#98A2B3\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n  <circle cx=\"60\" cy=\"150\" r=\"14\" fill=\"#6941C6\"/>\n  <circle cx=\"200\" cy=\"150\" r=\"14\" fill=\"#6941C6\"/>\n  <circle cx=\"340\" cy=\"150\" r=\"14\" fill=\"#6941C6\"/>\n  <circle cx=\"480\" cy=\"150\" r=\"14\" fill=\"#6941C6\"/>\n  <circle cx=\"590\" cy=\"150\" r=\"14\" fill=\"#079455\"/>\n  <g stroke=\"#6941C6\" stroke-width=\"1.5\">\n    <line x1=\"60\" y1=\"136\" x2=\"60\" y2=\"104\"/>\n    <line x1=\"200\" y1=\"164\" x2=\"200\" y2=\"196\"/>\n    <line x1=\"340\" y1=\"136\" x2=\"340\" y2=\"104\"/>\n    <line x1=\"480\" y1=\"164\" x2=\"480\" y2=\"196\"/>\n    <line x1=\"590\" y1=\"136\" x2=\"590\" y2=\"104\"/>\n  </g>\n  <rect x=\"10\" y=\"16\" width=\"200\" height=\"88\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <text x=\"22\" y=\"38\" font-size=\"13\" font-weight=\"800\" fill=\"#4A2B91\">1 · Abrir y anunciar</text>\n  <text x=\"22\" y=\"58\" font-size=\"11\" fill=\"#1D2939\">Today I'd like to talk about…</text>\n  <text x=\"22\" y=\"75\" font-size=\"11\" fill=\"#1D2939\">I've divided my talk into</text>\n  <text x=\"22\" y=\"91\" font-size=\"11\" fill=\"#1D2939\">three parts.</text>\n  <rect x=\"100\" y=\"196\" width=\"200\" height=\"88\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <text x=\"112\" y=\"218\" font-size=\"13\" font-weight=\"800\" fill=\"#4A2B91\">2 · Pasar al siguiente</text>\n  <text x=\"112\" y=\"238\" font-size=\"11\" fill=\"#1D2939\">Let's move on to…</text>\n  <text x=\"112\" y=\"255\" font-size=\"11\" fill=\"#1D2939\">This brings me to…</text>\n  <text x=\"112\" y=\"272\" font-size=\"11\" fill=\"#1D2939\">Turning now to…</text>\n  <rect x=\"240\" y=\"16\" width=\"200\" height=\"88\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"252\" y=\"38\" font-size=\"13\" font-weight=\"800\" fill=\"#1570EF\">3 · Mostrar datos</text>\n  <text x=\"252\" y=\"58\" font-size=\"11\" fill=\"#1D2939\">As you can see here…</text>\n  <text x=\"252\" y=\"75\" font-size=\"11\" fill=\"#1D2939\">I'd like to draw your</text>\n  <text x=\"252\" y=\"91\" font-size=\"11\" fill=\"#1D2939\">attention to…</text>\n  <rect x=\"380\" y=\"196\" width=\"200\" height=\"88\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/>\n  <text x=\"392\" y=\"218\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">4 · Resumir el tramo</text>\n  <text x=\"392\" y=\"238\" font-size=\"11\" fill=\"#1D2939\">So, to sum up this part…</text>\n  <text x=\"392\" y=\"255\" font-size=\"11\" fill=\"#1D2939\">Let me recap the key</text>\n  <text x=\"392\" y=\"272\" font-size=\"11\" fill=\"#1D2939\">points so far.</text>\n  <rect x=\"460\" y=\"16\" width=\"170\" height=\"88\" rx=\"10\" fill=\"#E8F7EF\" stroke=\"#079455\"/>\n  <text x=\"472\" y=\"38\" font-size=\"13\" font-weight=\"800\" fill=\"#079455\">5 · Cerrar y pedir</text>\n  <text x=\"472\" y=\"58\" font-size=\"11\" fill=\"#1D2939\">To conclude, …</text>\n  <text x=\"472\" y=\"75\" font-size=\"11\" fill=\"#1D2939\">What I'm asking for</text>\n  <text x=\"472\" y=\"91\" font-size=\"11\" fill=\"#1D2939\">today is…</text>\n  <text x=\"60\" y=\"182\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#667085\">INICIO</text>\n  <text x=\"600\" y=\"175\" text-anchor=\"end\" font-size=\"11\" font-weight=\"700\" fill=\"#079455\">FIN</text>\n</svg>",
+   "caption": "Figura 34.2 — Mapa de señalización: cinco tipos de frases que guían al público a lo largo de la presentación."
+  },
+  {
+   "title": "Así piensa un nativo: anunciar la estructura",
+   "html": "<p><b>Así piensa un nativo — anunciar la estructura no es aburrido</b></p><p>Para un público anglosajón, <span class=\"en\">\"I'll cover three things: the problem, our solution, and the cost\"</span> no suena escolar: es una cortesía. Le dices cuánto va a durar y qué esperar. El número <b>tres</b> es el favorito (<i>rule of three</i>): es fácil de recordar y suena completo.</p>"
+  },
+  {
+   "title": "Traducción directa vs inglés de presentación real",
+   "html": "<table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>Buenos días a todos los presentes.<br>Voy a hablarles sobre…<br>En esta lámina se observa…<br>Para finalizar…<br>¿Alguna pregunta? (y silencio)</td><td><span class=\"en\">Good morning, everyone.</span><br><span class=\"en\">Today I'd like to talk about…</span><br><span class=\"en\">As you can see on this slide…</span> <span class=\"wrong\">In this lamina</span><br><span class=\"en\">To wrap up, …</span><br><span class=\"en\">I'd be happy to take any questions.</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>Voy a exponer sobre…</td><td><span class=\"wrong\">I'm going to expose about…</span></td><td><span class=\"ok\">I'm going to present / talk about…</span></td></tr><tr><td>diapositiva / lámina</td><td><span class=\"wrong\">diapositive / lamina</span></td><td><span class=\"ok\">slide</span></td></tr><tr><td>Como se observa en el gráfico…</td><td><span class=\"wrong\">As it is observed in the graphic…</span></td><td><span class=\"ok\">As you can see in this chart…</span></td></tr><tr><td>Les voy a contar una anécdota.</td><td><span class=\"wrong\">I'm going to count you an anecdote.</span></td><td><span class=\"ok\">Let me tell you a quick story.</span></td></tr><tr><td>Paso al siguiente punto.</td><td><span class=\"wrong\">I pass to the next point.</span></td><td><span class=\"ok\">Let's move on to the next point.</span></td></tr><tr><td>En conclusión, pues…</td><td><span class=\"wrong\">In conclusion, well…</span></td><td><span class=\"ok\">So, to conclude, …</span></td></tr><tr><td>Muchas gracias por su atención.</td><td>Thank you for your attention. (correcto, pero rígido)</td><td><span class=\"ok\">Thanks for your time. I'd be happy to take questions.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Storytelling: el caso real como historia",
+   "html": "<p>Los datos convencen a la cabeza; las historias, a las personas. Una historia profesional corta (60–90 segundos) tiene cuatro piezas, y cada una usa un tiempo verbal típico que ya conoces.</p><table><thead><tr><th>Pieza</th><th>Tiempo verbal</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>Contexto</b> (situación)</td><td>Pasado continuo / pasado simple (Módulos 9 y 15)</td><td><span class=\"en\">Last March, we were running a hydrotest on a 24-inch line.</span></td></tr><tr><td><b>Complicación</b> (giro)</td><td>Pasado simple + <i>suddenly / then</i></td><td><span class=\"en\">Twenty minutes in, the pressure suddenly dropped.</span></td></tr><tr><td><b>Resolución</b> (qué hicimos)</td><td>Pasado simple / pasado perfecto para lo anterior</td><td><span class=\"en\">We found that someone had reused an old gasket. We replaced it and retested.</span></td></tr><tr><td><b>Lección</b> (por qué importa hoy)</td><td>Presente / presente perfecto (Módulo 13)</td><td><span class=\"en\">Since then, we've never reused a gasket. That's why I'm proposing this checklist.</span></td></tr></tbody></table><p><b>Así piensa un nativo — el presente narrativo</b></p><p>En una historia oral, muchos nativos cambian al presente para dar tensión: <span class=\"en\">\"So we're twenty minutes into the test, and the pressure starts dropping…\"</span> Es informal y vivo. Úsalo en una charla; en un reporte escrito, nunca.</p>"
+  },
+  {
+   "title": "Afirmativo, negativo y pregunta en la sesión de preguntas",
+   "html": "<p>En la ronda de preguntas, la gramática es la del presente perfecto, las preguntas indirectas y los modales de cortesía. La pregunta indirecta (Módulo 21) mantiene el orden <b>sujeto + verbo</b>: suena más cortés y te da tiempo.</p><table><thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td>Sujeto + have + participio</td><td><span class=\"en\">We've tested it on two tanks.</span></td></tr><tr><td><b>Negativo</b></td><td>Sujeto + haven't + participio + yet</td><td><span class=\"en\">We haven't tested it on floating roofs yet.</span></td></tr><tr><td><b>Pregunta directa</b></td><td>Have + sujeto + participio…?</td><td><span class=\"en\">Have you calculated the payback period?</span></td></tr><tr><td><b>Pregunta indirecta</b></td><td>Could you tell me + WH- + sujeto + verbo?</td><td><span class=\"en\">Could you tell me how long the pilot lasted?</span></td></tr><tr><td><b>Respuesta corta</b></td><td>Yes, we have. / No, we haven't — but…</td><td><span class=\"en\">No, we haven't, but I can send it by Friday.</span></td></tr></tbody></table><p><b>Detalles finos que marcan la diferencia</b></p><ul><li>Nunca digas <span class=\"wrong\">I'm going to read the slide</span>, ni la leas: el público lee más rápido de lo que hablas. Di la conclusión y señala el dato.</li><li>Para números grandes, redondea y compara: <span class=\"en\">\"almost 40 percent, that's two out of every five welds.\"</span></li><li><span class=\"en\">Data</span> se usa normalmente con verbo singular en el habla estadounidense: <span class=\"en\">The data shows…</span> En textos científicos formales verás <span class=\"en\">The data show…</span>; ambas son correctas.</li><li>Las pausas son una herramienta, no un error. Una pausa de dos segundos después de un dato clave lo hace memorable (Módulo 31).</li></ul>"
+  },
+  {
+   "title": "Responder preguntas difíciles",
+   "html": "<p>Una buena respuesta tiene cuatro pasos: <b>agradecer o validar</b>, <b>reformular</b> (para confirmar y ganar tiempo), <b>responder breve</b>, <b>verificar</b>. Si no sabes la respuesta, no inventes: comprométete con una fecha.</p>",
+   "svg": "<svg viewBox=\"0 0 640 270\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"230\" y=\"12\" width=\"180\" height=\"40\" rx=\"20\" fill=\"#6941C6\"/>\n  <text x=\"320\" y=\"37\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">Te hacen una pregunta</text>\n  <line x1=\"320\" y1=\"52\" x2=\"320\" y2=\"72\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <polygon points=\"314,70 320,80 326,70\" fill=\"#667085\"/>\n  <rect x=\"180\" y=\"82\" width=\"280\" height=\"40\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <text x=\"320\" y=\"100\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#4A2B91\">Validar + reformular</text>\n  <text x=\"320\" y=\"115\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">Good question. So you're asking whether…</text>\n  <line x1=\"320\" y1=\"122\" x2=\"320\" y2=\"138\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <line x1=\"110\" y1=\"138\" x2=\"530\" y2=\"138\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <line x1=\"110\" y1=\"138\" x2=\"110\" y2=\"152\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <line x1=\"320\" y1=\"138\" x2=\"320\" y2=\"152\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <line x1=\"530\" y1=\"138\" x2=\"530\" y2=\"152\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <polygon points=\"104,150 110,160 116,150\" fill=\"#667085\"/>\n  <polygon points=\"314,150 320,160 326,150\" fill=\"#667085\"/>\n  <polygon points=\"524,150 530,160 536,150\" fill=\"#667085\"/>\n  <rect x=\"15\" y=\"162\" width=\"190\" height=\"96\" rx=\"10\" fill=\"#E8F7EF\" stroke=\"#079455\"/>\n  <text x=\"110\" y=\"184\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#079455\">Sé la respuesta</text>\n  <text x=\"110\" y=\"206\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">Responde en 2–3 frases:</text>\n  <text x=\"110\" y=\"224\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">The short answer is yes.</text>\n  <text x=\"110\" y=\"244\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">Does that answer your question?</text>\n  <rect x=\"225\" y=\"162\" width=\"190\" height=\"96\" rx=\"10\" fill=\"#FFF8E1\" stroke=\"#E9B949\"/>\n  <text x=\"320\" y=\"184\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#7A5B00\">No la sé</text>\n  <text x=\"320\" y=\"206\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">I don't have that figure</text>\n  <text x=\"320\" y=\"222\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">with me right now.</text>\n  <text x=\"320\" y=\"244\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">I'll email it to you by Friday.</text>\n  <rect x=\"435\" y=\"162\" width=\"190\" height=\"96\" rx=\"10\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/>\n  <text x=\"530\" y=\"184\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#D92D20\">Fuera de tema</text>\n  <text x=\"530\" y=\"206\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">That's a bit outside today's</text>\n  <text x=\"530\" y=\"222\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">scope. Could we discuss it</text>\n  <text x=\"530\" y=\"244\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">after the meeting?</text>\n</svg>",
+   "caption": "Figura 34.3 — Mapa de decisión para la ronda de preguntas: validar y reformular siempre; luego responder, comprometerse o redirigir."
+  }
+ ],
+ "blocks": [
+  {
+   "en": "Good morning, everyone.",
+   "pron": "gud MÓR-ning, ÉV-ri-wan",
+   "es": "Buenos días a todos.",
+   "group": "A. Abrir y captar la atención"
+  },
+  {
+   "en": "Thanks for coming.",
+   "pron": "thanks fər KÁ-ming",
+   "es": "Gracias por venir.",
+   "group": "A. Abrir y captar la atención"
+  },
+  {
+   "en": "Let me start with a question.",
+   "pron": "let mi START widh ə KUÉS-chən",
+   "es": "Permítanme empezar con una pregunta.",
+   "group": "A. Abrir y captar la atención"
+  },
+  {
+   "en": "Imagine this: …",
+   "pron": "i-MÁ-yin DHIS",
+   "es": "Imaginen esto: …",
+   "group": "A. Abrir y captar la atención"
+  },
+  {
+   "en": "Here's a number that surprised me.",
+   "pron": "JIRZ ə NÁM-ber dhət ser-PRÁIZD mi",
+   "es": "Aquí hay una cifra que me sorprendió.",
+   "group": "A. Abrir y captar la atención"
+  },
+  {
+   "en": "By the end of this talk, you'll…",
+   "pron": "bai dhi END əv dhis TOK, yul",
+   "es": "Al final de esta charla, ustedes…",
+   "group": "A. Abrir y captar la atención"
+  },
+  {
+   "en": "I'll keep this short: ten minutes.",
+   "pron": "ail kip dhis SHORT, ten MÍ-nits",
+   "es": "Seré breve: diez minutos.",
+   "group": "A. Abrir y captar la atención"
+  },
+  {
+   "en": "Today I'd like to talk about…",
+   "pron": "tə-DÉI aid laik tə TOK ə-baut",
+   "es": "Hoy me gustaría hablar sobre…",
+   "group": "B. Anunciar la estructura"
+  },
+  {
+   "en": "I've divided my talk into three parts.",
+   "pron": "aiv di-VÁI-did mai TOK in-tu THRI parts",
+   "es": "He dividido mi charla en tres partes.",
+   "group": "B. Anunciar la estructura"
+  },
+  {
+   "en": "First, … Then, … Finally, …",
+   "pron": "FERST… DHEN… FÁI-nə-li",
+   "es": "Primero… Luego… Finalmente…",
+   "group": "B. Anunciar la estructura"
+  },
+  {
+   "en": "I'll start by…",
+   "pron": "ail START bai",
+   "es": "Empezaré por…",
+   "group": "B. Anunciar la estructura"
+  },
+  {
+   "en": "Feel free to interrupt me.",
+   "pron": "fil FRI tu in-tə-RÁPT mi",
+   "es": "Con confianza, interrúmpanme.",
+   "group": "B. Anunciar la estructura"
+  },
+  {
+   "en": "I'll take questions at the end.",
+   "pron": "ail teik KUÉS-chənz ət dhi END",
+   "es": "Responderé preguntas al final.",
+   "group": "B. Anunciar la estructura"
+  },
+  {
+   "en": "Let's move on to…",
+   "pron": "lets muv ON tu",
+   "es": "Pasemos a…",
+   "group": "C. Transiciones (signposting)"
+  },
+  {
+   "en": "This brings me to…",
+   "pron": "dhis BRINGZ mi tu",
+   "es": "Esto me lleva a…",
+   "group": "C. Transiciones (signposting)"
+  },
+  {
+   "en": "Turning now to…",
+   "pron": "TÉR-ning nau tu",
+   "es": "Pasando ahora a…",
+   "group": "C. Transiciones (signposting)"
+  },
+  {
+   "en": "Let me go back to…",
+   "pron": "let mi gou BAK tu",
+   "es": "Vuelvo a…",
+   "group": "C. Transiciones (signposting)"
+  },
+  {
+   "en": "On a related note, …",
+   "pron": "on ə ri-LÉI-tid NOUT",
+   "es": "En relación con esto…",
+   "group": "C. Transiciones (signposting)"
+  },
+  {
+   "en": "So, what does this mean for us?",
+   "pron": "sou, WOT dəz dhis MIN fər as",
+   "es": "Entonces, ¿qué significa esto para nosotros?",
+   "group": "C. Transiciones (signposting)"
+  },
+  {
+   "en": "Let me recap the key points.",
+   "pron": "let mi RÍ-kap dhə KI points",
+   "es": "Repasemos los puntos clave.",
+   "group": "C. Transiciones (signposting)"
+  },
+  {
+   "en": "As you can see here, …",
+   "pron": "az yu kən SI jir",
+   "es": "Como pueden ver aquí…",
+   "group": "D. Presentar datos y diapositivas"
+  },
+  {
+   "en": "I'd like to draw your attention to…",
+   "pron": "aid laik tə DRO yor ə-TÉN-shən tu",
+   "es": "Quisiera llamar su atención sobre…",
+   "group": "D. Presentar datos y diapositivas"
+  },
+  {
+   "en": "This chart shows…",
+   "pron": "dhis CHART shouz",
+   "es": "Este gráfico muestra…",
+   "group": "D. Presentar datos y diapositivas"
+  },
+  {
+   "en": "The key takeaway is…",
+   "pron": "dhə KI TÉIK-ə-wei iz",
+   "es": "La conclusión clave es…",
+   "group": "D. Presentar datos y diapositivas"
+  },
+  {
+   "en": "rose sharply / dropped slightly",
+   "pron": "rouz SHÁRP-li / dropt SLÁIT-li",
+   "es": "subió bruscamente / bajó ligeramente",
+   "group": "D. Presentar datos y diapositivas"
+  },
+  {
+   "en": "roughly / almost / just over",
+   "pron": "RÁF-li / ÓL-moust / yast ÓU-ver",
+   "es": "aproximadamente / casi / un poco más de",
+   "group": "D. Presentar datos y diapositivas"
+  },
+  {
+   "en": "compared with last year",
+   "pron": "kəm-PÉRD widh last YIR",
+   "es": "en comparación con el año pasado",
+   "group": "D. Presentar datos y diapositivas"
+  },
+  {
+   "en": "That's the equivalent of…",
+   "pron": "dhats dhi i-KUÍ-və-lənt əv",
+   "es": "Eso equivale a…",
+   "group": "D. Presentar datos y diapositivas"
+  },
+  {
+   "en": "Let me tell you a quick story.",
+   "pron": "let mi TEL yu ə kuik STÓ-ri",
+   "es": "Déjenme contarles una historia breve.",
+   "group": "E. Contar una historia"
+  },
+  {
+   "en": "A few months ago, …",
+   "pron": "ə fiu MANTHS ə-gou",
+   "es": "Hace unos meses…",
+   "group": "E. Contar una historia"
+  },
+  {
+   "en": "Everything was going fine until…",
+   "pron": "ÉV-ri-thing wəz GÓU-ing FAIN ən-TÍL",
+   "es": "Todo iba bien hasta que…",
+   "group": "E. Contar una historia"
+  },
+  {
+   "en": "That's when we realized…",
+   "pron": "DHATS wen wi RÍ-ə-laizd",
+   "es": "Fue entonces cuando nos dimos cuenta…",
+   "group": "E. Contar una historia"
+  },
+  {
+   "en": "It turned out that…",
+   "pron": "it TERND aut dhət",
+   "es": "Resultó que…",
+   "group": "E. Contar una historia"
+  },
+  {
+   "en": "Since then, we've…",
+   "pron": "SINS dhen, wiv",
+   "es": "Desde entonces, hemos…",
+   "group": "E. Contar una historia"
+  },
+  {
+   "en": "The lesson for us is…",
+   "pron": "dhə LÉ-sən fər AS iz",
+   "es": "La lección para nosotros es…",
+   "group": "E. Contar una historia"
+  },
+  {
+   "en": "To wrap up, …",
+   "pron": "tə rap ÁP",
+   "es": "Para cerrar…",
+   "group": "F. Cerrar y llamar a la acción"
+  },
+  {
+   "en": "To sum up, …",
+   "pron": "tə sam ÁP",
+   "es": "En resumen…",
+   "group": "F. Cerrar y llamar a la acción"
+  },
+  {
+   "en": "If you remember one thing, remember this: …",
+   "pron": "if yu ri-MÉM-ber WAN thing, ri-MÉM-ber DHIS",
+   "es": "Si recuerdan una sola cosa, que sea esta: …",
+   "group": "F. Cerrar y llamar a la acción"
+  },
+  {
+   "en": "What I'm asking for today is…",
+   "pron": "wot aim ÁS-king for tə-DÉI iz",
+   "es": "Lo que les pido hoy es…",
+   "group": "F. Cerrar y llamar a la acción"
+  },
+  {
+   "en": "The next step is…",
+   "pron": "dhə NEKST step iz",
+   "es": "El siguiente paso es…",
+   "group": "F. Cerrar y llamar a la acción"
+  },
+  {
+   "en": "Thanks for your time.",
+   "pron": "thanks fər yor TAIM",
+   "es": "Gracias por su tiempo.",
+   "group": "F. Cerrar y llamar a la acción"
+  },
+  {
+   "en": "I'd be happy to take any questions.",
+   "pron": "aid bi JÁ-pi tə teik É-ni KUÉS-chənz",
+   "es": "Con gusto respondo preguntas.",
+   "group": "G. Manejar preguntas (Q&A)"
+  },
+  {
+   "en": "That's a great question.",
+   "pron": "dhats ə GREIT KUÉS-chən",
+   "es": "Excelente pregunta.",
+   "group": "G. Manejar preguntas (Q&A)"
+  },
+  {
+   "en": "So, if I understand correctly, you're asking…",
+   "pron": "sou, if ai an-der-STAND kə-RÉKT-li, yur ÁS-king",
+   "es": "Si entiendo bien, me pregunta…",
+   "group": "G. Manejar preguntas (Q&A)"
+  },
+  {
+   "en": "Sorry, could you repeat the question?",
+   "pron": "SÓ-ri, kud yu ri-PÍT dhə KUÉS-chən",
+   "es": "Perdón, ¿podría repetir la pregunta?",
+   "group": "G. Manejar preguntas (Q&A)"
+  },
+  {
+   "en": "I don't have that figure with me right now.",
+   "pron": "ai DOUNT jav dhat FÍ-guiər widh mi rait NÁU",
+   "es": "No tengo esa cifra conmigo en este momento.",
+   "group": "G. Manejar preguntas (Q&A)"
+  },
+  {
+   "en": "Let me get back to you on that.",
+   "pron": "let mi guet BAK tə yu on dhat",
+   "es": "Le respondo sobre eso más tarde.",
+   "group": "G. Manejar preguntas (Q&A)"
+  },
+  {
+   "en": "That's a bit outside today's scope.",
+   "pron": "dhats ə bit áut-SÁID tə-DÉIZ skoup",
+   "es": "Eso está un poco fuera del alcance de hoy.",
+   "group": "G. Manejar preguntas (Q&A)"
+  },
+  {
+   "en": "Does that answer your question?",
+   "pron": "dəz dhat ÁN-ser yor KUÉS-chən",
+   "es": "¿Eso responde su pregunta?",
+   "group": "G. Manejar preguntas (Q&A)"
+  },
+  {
+   "en": "I see your point, but…",
+   "pron": "ai SI yor POINT, bat",
+   "es": "Entiendo su punto, pero…",
+   "group": "G. Manejar preguntas (Q&A)"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Last year, flange leaks cost this plant more than 200,000 dollars.",
+   "es": "El año pasado, las fugas en bridas le costaron a esta planta más de 200 000 dólares.",
+   "situation": "Gancho con dato"
+  },
+  {
+   "en": "How many of you have searched for a torque record that nobody could find?",
+   "es": "¿Cuántos de ustedes han buscado un registro de torque que nadie encontraba?",
+   "situation": "Gancho con pregunta"
+  },
+  {
+   "en": "I'll cover three things: the problem, our proposal, and the cost.",
+   "es": "Hablaré de tres cosas: el problema, nuestra propuesta y el costo.",
+   "situation": "Anunciar estructura"
+  },
+  {
+   "en": "So that's the problem. This brings me to our proposal.",
+   "es": "Ese es el problema. Esto me lleva a nuestra propuesta.",
+   "situation": "Transición"
+  },
+  {
+   "en": "As you can see, rework dropped by almost 40 percent after the training.",
+   "es": "Como pueden ver, el retrabajo bajó casi 40 % después de la capacitación.",
+   "situation": "Mostrar un gráfico"
+  },
+  {
+   "en": "That's the equivalent of two extra weeks of work on every tank.",
+   "es": "Eso equivale a dos semanas extra de trabajo en cada tanque.",
+   "situation": "Dato comparado"
+  },
+  {
+   "en": "We were halfway through the hydrotest when the pressure suddenly dropped.",
+   "es": "Íbamos a la mitad de la prueba hidrostática cuando la presión bajó de golpe.",
+   "situation": "Historia"
+  },
+  {
+   "en": "It turned out that someone had reused an old gasket.",
+   "es": "Resultó que alguien había reutilizado una empaquetadura vieja.",
+   "situation": "Giro de la historia"
+  },
+  {
+   "en": "Since then, we've checked every gasket before assembly.",
+   "es": "Desde entonces, hemos revisado cada empaquetadura antes del montaje.",
+   "situation": "Lección"
+  },
+  {
+   "en": "What I'm asking for today is approval for a two-month pilot.",
+   "es": "Lo que les pido hoy es la aprobación de un piloto de dos meses.",
+   "situation": "Llamada a la acción"
+  },
+  {
+   "en": "That's a fair point. Let me explain why we chose this option.",
+   "es": "Es un punto válido. Permítanme explicar por qué elegimos esta opción.",
+   "situation": "Pregunta difícil"
+  },
+  {
+   "en": "I don't have that figure with me, but I'll email it to you by Friday.",
+   "es": "No tengo esa cifra aquí, pero se la envío por correo a más tardar el viernes.",
+   "situation": "No sabes la respuesta"
+  },
+  {
+   "en": "I've known Carlos for ten years, and let me tell you a quick story about him.",
+   "es": "Conozco a Carlos desde hace diez años, y déjenme contarles una historia breve sobre él.",
+   "situation": "Brindis en una boda"
+  },
+  {
+   "en": "If you remember one thing today, remember this: we deliver on time.",
+   "es": "Si recuerdan una sola cosa hoy, que sea esta: entregamos a tiempo.",
+   "situation": "Reunión de ventas"
+  },
+  {
+   "en": "Thank you for your time. I'd be happy to take any questions.",
+   "es": "Gracias por su tiempo. Con gusto respondo sus preguntas.",
+   "situation": "Cierre formal"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "We've tested the system.",
+     "We haven't tested the system.",
+     "Have you tested the system?",
+     "Yes, we have. / No, we haven't."
+    ],
+    [
+     "The pilot worked.",
+     "The pilot didn't work.",
+     "Did the pilot work?",
+     "Yes, it did. / No, it didn't."
+    ],
+    [
+     "The data shows a clear trend.",
+     "The data doesn't show a clear trend.",
+     "Does the data show a clear trend?",
+     "Yes, it does. / No, it doesn't."
+    ],
+    [
+     "Costs will go down.",
+     "Costs won't go down.",
+     "Will costs go down?",
+     "Yes, they will. / No, they won't."
+    ],
+    [
+     "The team is ready.",
+     "The team isn't ready.",
+     "Is the team ready?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "We can start in March.",
+     "We can't start in March.",
+     "Can we start in March?",
+     "Yes, we can. / No, we can't."
+    ],
+    [
+     "You should approve it.",
+     "You shouldn't approve it.",
+     "Should we approve it?",
+     "Yes, you should. / No, you shouldn't."
+    ],
+    [
+     "The slides were sent.",
+     "The slides weren't sent.",
+     "Were the slides sent?",
+     "Yes, they were. / No, they weren't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Edwin",
+   "text": "Good morning, everyone. Last year, one leaking flange cost us four days of downtime. Today I'd like to show you how we can prevent that. I'll cover the problem, our pilot results, and what I need from you."
+  },
+  {
+   "who": "Edwin",
+   "text": "… So, to wrap up: in the pilot, we found every torque record in under a minute. What I'm asking for today is approval to use the system on all three tanks. I'd be happy to take any questions."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "How much will it cost?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Good question. The software license is about 3,000 dollars a year, and training takes one day."
+  },
+  {
+   "who": "Priya",
+   "text": "Have you tested it with the night shift?"
+  },
+  {
+   "who": "Edwin",
+   "text": "No, we haven't yet. That's a fair point. We can include the night shift in the next phase."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "And what's the payback period?"
+  },
+  {
+   "who": "Edwin",
+   "text": "I don't have the exact figure with me right now. Let me get back to you on that by Friday."
+  },
+  {
+   "who": "Priya",
+   "text": "What about using it for the electrical team too?"
+  },
+  {
+   "who": "Edwin",
+   "text": "That's a bit outside today's scope, but it's a great idea. Could we discuss it after the meeting?"
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Sure. Send me the numbers, and we'll decide next week."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "I'm going to expose the results.",
+   "right": "I'm going to present the results.",
+   "why": "Expose = dejar al descubierto, denunciar."
+  },
+  {
+   "wrong": "In this diapositive…",
+   "right": "On this slide…",
+   "why": "Diapositiva = slide; se dice on this slide."
+  },
+  {
+   "wrong": "As it is observed in the graphic…",
+   "right": "As you can see in this chart…",
+   "why": "Voz activa con you; gráfico de datos = chart o graph."
+  },
+  {
+   "wrong": "I pass to the next point.",
+   "right": "Let's move on to the next point.",
+   "why": "Pass no expresa cambio de tema."
+  },
+  {
+   "wrong": "Let me count you a story.",
+   "right": "Let me tell you a story.",
+   "why": "Contar una historia = tell; count = contar números."
+  },
+  {
+   "wrong": "Could you tell me how much does it cost?",
+   "right": "Could you tell me how much it costs?",
+   "why": "Pregunta indirecta = orden de afirmación, sin does."
+  },
+  {
+   "wrong": "The costs rised 10 percent.",
+   "right": "The costs rose 10 percent.",
+   "why": "Rise – rose – risen es irregular."
+  },
+  {
+   "wrong": "We have tested it last month.",
+   "right": "We tested it last month.",
+   "why": "Con tiempo terminado (last month), pasado simple (Módulo 13)."
+  },
+  {
+   "wrong": "Are there any doubts?",
+   "right": "Are there any questions?",
+   "why": "Doubt = desconfianza; en inglés suena a que dudan de ti."
+  },
+  {
+   "wrong": "I will resume the main points.",
+   "right": "I'll summarize the main points.",
+   "why": "Resume = reanudar. Resumir = summarize / sum up."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "expose",
+   "looks": "exponer",
+   "means": "dejar al descubierto, denunciar",
+   "fix": "present, give a talk"
+  },
+  {
+   "en": "resume",
+   "looks": "resumir",
+   "means": "reanudar",
+   "fix": "summarize, sum up"
+  },
+  {
+   "en": "doubt",
+   "looks": "duda (pregunta)",
+   "means": "duda (desconfianza)",
+   "fix": "question"
+  },
+  {
+   "en": "assist",
+   "looks": "asistir (ir)",
+   "means": "ayudar",
+   "fix": "attend"
+  },
+  {
+   "en": "conference (en EE. UU.)",
+   "looks": "conferencia (charla)",
+   "means": "congreso, evento con muchas charlas",
+   "fix": "talk, lecture, presentation"
+  },
+  {
+   "en": "audience",
+   "looks": "audiencia (judicial)",
+   "means": "público, asistentes",
+   "fix": "hearing (judicial)"
+  },
+  {
+   "en": "actually",
+   "looks": "actualmente",
+   "means": "en realidad",
+   "fix": "currently, nowadays"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Hoy me gustaría hablarles sobre la seguridad en espacios confinados.",
+    "answers": [
+     "Today I'd like to talk to you about confined space safety.",
+     "Today I would like to talk to you about confined space safety.",
+     "Today I'd like to talk about confined space safety.",
+     "Today I would like to talk about confined space safety.",
+     "Today I'd like to talk to you about safety in confined spaces.",
+     "Today I would like to talk to you about safety in confined spaces.",
+     "Today I'd like to talk about safety in confined spaces.",
+     "Today I would like to talk about safety in confined spaces."
+    ],
+    "explain": "Apertura estándar: I'd like to talk about. Sustantivo compuesto: confined space safety; también vale safety in confined spaces."
+   },
+   {
+    "prompt": "He dividido mi charla en tres partes.",
+    "answers": [
+     "I've divided my talk into three parts.",
+     "I have divided my talk into three parts."
+    ],
+    "explain": "Presente perfecto: resultado presente. Divide into, no in."
+   },
+   {
+    "prompt": "Como pueden ver en este gráfico, los costos subieron 15 %.",
+    "answers": [
+     "As you can see in this chart, costs rose by 15 percent.",
+     "As you can see in this chart, costs rose 15 percent.",
+     "As you can see in this chart, costs rose by 15%.",
+     "As you can see in this chart, costs rose 15%.",
+     "As you can see on this slide, costs rose by 15 percent.",
+     "As you can see on this slide, costs rose 15 percent.",
+     "As you can see on this slide, costs rose by 15%.",
+     "As you can see on this slide, costs rose 15%.",
+     "As you can see in this chart, costs went up by 15 percent.",
+     "As you can see in this chart, costs went up 15 percent.",
+     "As you can see in this chart, costs went up by 15%.",
+     "As you can see in this chart, costs went up 15%.",
+     "As you can see on this slide, costs went up by 15 percent.",
+     "As you can see on this slide, costs went up 15 percent.",
+     "As you can see on this slide, costs went up by 15%.",
+     "As you can see on this slide, costs went up 15%."
+    ],
+    "explain": "Voz activa con you; rise – rose irregular. También vale went up o on this slide."
+   },
+   {
+    "prompt": "Esto me lleva al siguiente punto.",
+    "answers": [
+     "This brings me to the next point."
+    ],
+    "explain": "Transición fija: bring me to."
+   },
+   {
+    "prompt": "Déjenme contarles una historia breve.",
+    "answers": [
+     "Let me tell you a quick story.",
+     "Let me tell you a short story."
+    ],
+    "explain": "Contar historia = tell. Quick o short son válidos."
+   },
+   {
+    "prompt": "Resultó que el soldador no tenía el WPS correcto.",
+    "answers": [
+     "It turned out that the welder didn't have the right WPS.",
+     "It turned out that the welder did not have the right WPS.",
+     "It turned out that the welder didn't have the correct WPS.",
+     "It turned out that the welder did not have the correct WPS."
+    ],
+    "explain": "It turned out that = resultó que. Right o correct."
+   },
+   {
+    "prompt": "Para cerrar, repasemos los puntos clave.",
+    "answers": [
+     "To wrap up, let's recap the key points.",
+     "To wrap up, let us recap the key points.",
+     "To sum up, let's recap the key points.",
+     "To sum up, let us recap the key points."
+    ],
+    "explain": "Wrap up = cerrar; recap = repasar. También vale To sum up."
+   },
+   {
+    "prompt": "Lo que les pido hoy es la aprobación del presupuesto.",
+    "answers": [
+     "What I'm asking for today is approval of the budget.",
+     "What I am asking for today is approval of the budget.",
+     "What I'm asking for today is budget approval.",
+     "What I am asking for today is budget approval."
+    ],
+    "explain": "Cleft sentence: What + I'm asking for + is. También budget approval."
+   },
+   {
+    "prompt": "Excelente pregunta. No tengo esa cifra aquí, pero se la envío mañana.",
+    "answers": [
+     "Great question. I don't have that figure with me, but I'll send it to you tomorrow.",
+     "Great question. I do not have that figure with me, but I will send it to you tomorrow.",
+     "Great question. I don't have that figure here, but I'll send it to you tomorrow.",
+     "Great question. I do not have that figure here, but I will send it to you tomorrow."
+    ],
+    "explain": "Figure = cifra. I'll para una promesa espontánea."
+   },
+   {
+    "prompt": "Eso está un poco fuera del alcance de hoy.",
+    "answers": [
+     "That's a bit outside today's scope.",
+     "That is a bit outside today's scope.",
+     "That's a little outside today's scope.",
+     "That is a little outside today's scope."
+    ],
+    "explain": "Scope = alcance. Genitivo: today's."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "Feel free to interrupt me if anything isn't clear.",
+    "answers": [
+     "Con confianza, interrúmpanme si algo no queda claro.",
+     "Siéntanse libres de interrumpirme si algo no está claro.",
+     "No duden en interrumpirme si algo no queda claro."
+    ],
+    "explain": "Feel free to = siéntanse libres de / con confianza."
+   },
+   {
+    "prompt": "The key takeaway is that prevention is cheaper than repair.",
+    "answers": [
+     "La conclusión clave es que prevenir es más barato que reparar.",
+     "La idea principal es que la prevención es más barata que la reparación.",
+     "Lo más importante es que prevenir sale más barato que reparar."
+    ],
+    "explain": "Takeaway = lo que el público se lleva (idea principal)."
+   },
+   {
+    "prompt": "Everything was going fine until the crane broke down.",
+    "answers": [
+     "Todo iba bien hasta que la grúa se malogró.",
+     "Todo iba bien hasta que la grúa se averió.",
+     "Todo marchaba bien hasta que la grúa se descompuso."
+    ],
+    "explain": "Pasado continuo (contexto) + pasado simple (giro). Break down = averiarse."
+   },
+   {
+    "prompt": "If you remember one thing, remember this: safety comes first.",
+    "answers": [
+     "Si recuerdan una sola cosa, que sea esta: la seguridad es lo primero.",
+     "Si van a recordar una cosa, recuerden esto: la seguridad es lo primero.",
+     "Si recuerdan solo una cosa, recuerden esta: la seguridad está primero."
+    ],
+    "explain": "Fórmula de cierre; comes first = es lo primero."
+   },
+   {
+    "prompt": "So, if I understand correctly, you're asking about the schedule.",
+    "answers": [
+     "Entonces, si entiendo bien, me pregunta por el cronograma.",
+     "Entonces, si entiendo correctamente, usted pregunta sobre el cronograma.",
+     "O sea que, si le entiendo bien, me está preguntando por el cronograma."
+    ],
+    "explain": "Reformular antes de responder; schedule = cronograma."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "Today I'm going to expose our new safety plan.",
+    "answers": [
+     "Today I'm going to present our new safety plan.",
+     "Today I am going to present our new safety plan."
+    ],
+    "explain": "Expose = denunciar. Exponer = present."
+   },
+   {
+    "prompt": "On this diapositive, you can see the schedule.",
+    "answers": [
+     "On this slide, you can see the schedule."
+    ],
+    "explain": "Diapositiva = slide. Diapositive no existe en inglés."
+   },
+   {
+    "prompt": "Let me count you a story about our first project.",
+    "answers": [
+     "Let me tell you a story about our first project."
+    ],
+    "explain": "Contar historias = tell."
+   },
+   {
+    "prompt": "Now I pass to the second part of my talk.",
+    "answers": [
+     "Now let's move on to the second part of my talk.",
+     "Now let us move on to the second part of my talk.",
+     "Now I'll move on to the second part of my talk.",
+     "Now I will move on to the second part of my talk."
+    ],
+    "explain": "Transición = move on to. También vale Now I'll move on to…"
+   },
+   {
+    "prompt": "Could you tell me when does the project start?",
+    "answers": [
+     "Could you tell me when the project starts?"
+    ],
+    "explain": "Pregunta indirecta: sin does, orden sujeto + verbo."
+   },
+   {
+    "prompt": "Sales rised sharply in the second quarter.",
+    "answers": [
+     "Sales rose sharply in the second quarter."
+    ],
+    "explain": "Rise – rose – risen."
+   },
+   {
+    "prompt": "We have finished the pilot two weeks ago.",
+    "answers": [
+     "We finished the pilot two weeks ago."
+    ],
+    "explain": "Ago = tiempo terminado → pasado simple."
+   },
+   {
+    "prompt": "Thank you for listening. Are there any doubts?",
+    "answers": [
+     "Thank you for listening. Are there any questions?"
+    ],
+    "explain": "Doubts sugiere desconfianza."
+   },
+   {
+    "prompt": "Before we finish, I will resume the three main points.",
+    "answers": [
+     "Before we finish, I will summarize the three main points.",
+     "Before we finish, I'll summarize the three main points.",
+     "Before we finish, I will sum up the three main points.",
+     "Before we finish, I'll sum up the three main points."
+    ],
+    "explain": "Resume = reanudar. También vale sum up."
+   },
+   {
+    "prompt": "More than 50 engineers assisted the presentation.",
+    "answers": [
+     "More than 50 engineers attended the presentation."
+    ],
+    "explain": "Asistir a = attend (sin preposición); assist = ayudar."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte en pregunta indirecta que empiece con Could you tell me…: How long did the pilot last?",
+   "answer": "Could you tell me how long the pilot lasted?"
+  },
+  "C1": {
+   "instructions": "Completa la presentación con: divided · brings · see · turned · since · asking · wrap · question (8 puntos).",
+   "lines": [
+    {
+     "who": "You",
+     "text": "Good morning. I've [1] my talk into three parts: the problem, the solution, and the cost."
+    },
+    {
+     "who": "You",
+     "text": "As you can [2] here, rework doubled last year."
+    },
+    {
+     "who": "You",
+     "text": "At first, we blamed the welders. But it [3] out that the electrodes were wet."
+    },
+    {
+     "who": "You",
+     "text": "[4] then, we've stored all electrodes in heated ovens."
+    },
+    {
+     "who": "You",
+     "text": "This [5] me to the cost: about 4,000 dollars."
+    },
+    {
+     "who": "You",
+     "text": "So, to [6] up, the solution is simple and cheap."
+    },
+    {
+     "who": "You",
+     "text": "What I'm [7] for today is your approval."
+    },
+    {
+     "who": "Manager",
+     "text": "When can you start?"
+    },
+    {
+     "who": "You",
+     "text": "Great [8]. We can start next Monday."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "divided"
+     ],
+     "explain": "I've divided my talk into: anuncio de estructura."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "see"
+     ],
+     "explain": "As you can see here: señalar un dato."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "turned"
+     ],
+     "explain": "It turned out that: giro de la historia."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "Since"
+     ],
+     "explain": "Since then + presente perfecto (we've stored)."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "brings"
+     ],
+     "explain": "This brings me to: transición."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "wrap"
+     ],
+     "explain": "To wrap up: cierre."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "asking"
+     ],
+     "explain": "What I'm asking for today is: llamada a la acción."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "question"
+     ],
+     "explain": "Great question: validar antes de responder."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Escribe el guion de apertura y cierre (7 puntos) de una presentación de 3 minutos para proponer una mejora en tu trabajo (8–12 oraciones en total). Incluye los criterios de la rúbrica.",
+   "rubric": [
+    "(1) gancho con dato o pregunta",
+    "(2) problema expresado en costo, tiempo o riesgo",
+    "(3) estructura anunciada en tres partes",
+    "(4) al menos dos frases de señalización distintas",
+    "(5) una mini-historia o caso con pasado simple y una lección en presente perfecto",
+    "(6) llamada a la acción concreta con fecha",
+    "(7) invitación a preguntas natural y cero errores de gramática"
+   ],
+   "model": "Opening: Good morning, everyone. How many hours do we lose every month looking for lost inspection records? Last month alone, it was 30 hours, almost a full week of one engineer's time. Today I'd like to propose a simple fix. I'll cover three things: the problem, our pilot, and the cost.\nStory and closing: Let me tell you how this started. In June, an auditor asked for a torque record, and it took us two days to find it. Since then, we've tested a shared digital log, and every search has taken less than a minute. So, to wrap up: it's faster, safer, and cheaper. What I'm asking for today is approval to roll it out by March 1. I'd be happy to take any questions."
+  }
+ },
+ "cando": [
+  {
+   "skill": "Estructurar una presentación con el arco de 5 pasos.",
+   "test": "Escribe en 10 minutos una frase por paso (hook → call to action) para un tema de tu trabajo."
+  },
+  {
+   "skill": "Abrir con un gancho eficaz.",
+   "test": "Grábate 3 aperturas distintas (dato, pregunta, historia) de 30 segundos cada una, sin leer."
+  },
+  {
+   "skill": "Guiar al público con señalización.",
+   "test": "Di en voz alta una frase de cada uno de los 5 tipos de la Figura 34.2 en 1 minuto, sin repetir ninguna."
+  },
+  {
+   "skill": "Contar un caso real como historia.",
+   "test": "Cuenta un incidente de trabajo en 90 segundos con contexto, giro, resolución y lección; grábalo y revisa los tiempos verbales."
+  },
+  {
+   "skill": "Presentar un dato sin leer la diapositiva.",
+   "test": "Explica un gráfico real en 3 frases: conclusión, dato redondeado y comparación a escala humana."
+  },
+  {
+   "skill": "Responder preguntas difíciles con calma.",
+   "test": "Pide a alguien 5 preguntas al azar; responde cada una validando y reformulando primero. Cero \"Are there any doubts?\""
+  },
+  {
+   "skill": "Dar una presentación completa.",
+   "test": "Presenta 5 minutos de pie, grabándote, con 2 o menos miradas a tus notas y cierre con petición concreta."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "If you had to give a five-minute talk about your job, how would you start it?",
+  "What's one improvement you'd like to propose at work, and why?",
+  "Tell me about a problem you solved. What turned out to be the cause?",
+  "How do you usually handle a question you can't answer?",
+  "What makes a presentation boring for you?",
+  "What was the key takeaway from the last meeting you attended?"
+ ]
+}

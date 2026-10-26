@@ -1,0 +1,98 @@
+{
+ "id": 27,
+ "topic": "Inversión y énfasis",
+ "title": "What Drives Me at Work",
+ "practice": "Léela en voz alta 3 veces, con fuerza en la palabra inicial. Luego grábate 1 minuto sin mirar.",
+ "rows": [
+  {
+   "en": "**Not only do I** work on {work}, **but I also** help with planning and budgets.",
+   "es": "No solo trabajo en {work_es}, sino que también ayudo con la planificación y los presupuestos."
+  },
+  {
+   "en": "**Rarely are** two projects the same at {company}.",
+   "es": "Rara vez dos proyectos son iguales en {company}."
+  },
+  {
+   "en": "**It was** at {prevJob}, in {prevPlace}, **that** I worked before joining {company}.",
+   "es": "Fue en {prevJob}, en {prevPlace}, donde trabajé antes de entrar a {company}."
+  },
+  {
+   "en": "For {project}, **what we needed was** a clear daily progress control.",
+   "es": "Para {project_es}, lo que necesitábamos era un control de avance diario claro."
+  },
+  {
+   "en": "**What I did was** build it in {tool}.",
+   "es": "Lo que hice fue armarlo en {tool}."
+  },
+  {
+   "en": "**Never have I** learned so much in so little time.",
+   "es": "Nunca he aprendido tanto en tan poco tiempo."
+  },
+  {
+   "en": "**It's not** the hard work **that** worries me; **it's** the language.",
+   "es": "No es el trabajo duro lo que me preocupa; es el idioma."
+  },
+  {
+   "en": "**Little did I know** that English would be so important for my career.",
+   "es": "No tenía ni idea de que el inglés sería tan importante para mi carrera."
+  },
+  {
+   "en": "**The reason** I'm studying English **is that** I want to work in {dreamCountry} one day.",
+   "es": "La razón por la que estudio inglés es que quiero trabajar en {dreamCountry} algún día."
+  },
+  {
+   "en": "**Should** an opportunity come up in {dreamCountry}, I'll be ready.",
+   "es": "Si llega a surgir una oportunidad en {dreamCountry}, estaré listo."
+  },
+  {
+   "en": "**All I need is** practice, and I **do** practice.",
+   "es": "Lo único que necesito es práctica, y sí que practico."
+  }
+ ],
+ "dialogTitle": "Diálogo en una entrevista",
+ "dialog": [
+  {
+   "who": "Mr. Lee",
+   "text": "Tell me about a challenge at {company}."
+  },
+  {
+   "who": "{name}",
+   "text": "Tracking every task. What I did was create a daily control in {tool}."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Was it you who designed it?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, it was. Not only does it track progress, but it also tracks hours."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Why do you want to work in {dreamCountry}?"
+  },
+  {
+   "who": "{name}",
+   "text": "What I'm looking for is a new challenge, and I do believe I'm ready for it."
+  }
+ ],
+ "pron": [
+  {
+   "en": "Not only do I work on…",
+   "pron": "not ÓUN-li du ai WERK on"
+  },
+  {
+   "en": "Rarely are two projects the same.",
+   "pron": "RÉR-li ar TU PRÓ-yekts dhə SEIM"
+  },
+  {
+   "en": "Little did I know…",
+   "pron": "LÍ-təl did ai NÓU"
+  },
+  {
+   "en": "All I need is practice.",
+   "pron": "ol ai NID iz PRÁK-tis"
+  }
+ ],
+ "check": "La digo en 90 segundos sin leer, con el auxiliar antes del sujeto tras Not only / Rarely / Never / Little y sin agregar it después de What I need."
+}

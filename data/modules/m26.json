@@ -1,0 +1,977 @@
+{
+ "id": 26,
+ "level": "B2",
+ "title": "Inglés en el trabajo: reuniones, llamadas y negociación",
+ "goal": "Al terminar podrás dirigir y participar en una reunión de obra (abrir, seguir la agenda, opinar, interrumpir y cerrar con acciones), hacer y recibir llamadas profesionales, y negociar precio, plazo y alcance con frases corteses que protegen la relación.",
+ "lesson": [
+  {
+   "title": "El resultado manda",
+   "html": "<p>En el trabajo, el inglés no se evalúa por la gramática sino por el <b>resultado</b>: ¿la reunión terminó con decisiones claras?, ¿la llamada resolvió el problema?, ¿la negociación cerró sin dañar la relación? Para eso los nativos usan <b>fórmulas fijas</b>, frases que todos reconocen y que marcan en qué etapa de la conversación están. No tienes que inventarlas: tienes que tenerlas listas.</p><p>Estas fórmulas casi siempre usan gramática que ya conoces: modales de cortesía (<span class=\"en\">could, would, might</span>, Módulos 7, 16 y 17), condicionales para negociar (<span class=\"en\">If you…, we could…</span>, Módulo 18) y phrasal verbs (<span class=\"en\">follow up, move on, go over</span>, Módulo 23). Este módulo las junta en el orden en que las vas a necesitar.</p>",
+   "svg": "<svg viewBox=\"0 0 640 262\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"10\" y=\"20\" width=\"108\" height=\"56\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"64\" y=\"44\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#1570EF\">1 OPEN</text>\n  <text x=\"64\" y=\"64\" text-anchor=\"middle\" font-size=\"11.5\" fill=\"#1D2939\">Abrir</text>\n  <rect x=\"138\" y=\"20\" width=\"108\" height=\"56\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"192\" y=\"44\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#1570EF\">2 AGENDA</text>\n  <text x=\"192\" y=\"64\" text-anchor=\"middle\" font-size=\"11.5\" fill=\"#1D2939\">Presentar temas</text>\n  <rect x=\"266\" y=\"20\" width=\"108\" height=\"56\" rx=\"10\" fill=\"#1570EF\"/>\n  <text x=\"320\" y=\"44\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">3 DISCUSS</text>\n  <text x=\"320\" y=\"64\" text-anchor=\"middle\" font-size=\"11.5\" fill=\"#EAF2FF\">Discutir</text>\n  <rect x=\"394\" y=\"20\" width=\"108\" height=\"56\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"448\" y=\"44\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#1570EF\">4 AGREE</text>\n  <text x=\"448\" y=\"64\" text-anchor=\"middle\" font-size=\"11.5\" fill=\"#1D2939\">Acordar</text>\n  <rect x=\"522\" y=\"20\" width=\"108\" height=\"56\" rx=\"10\" fill=\"#079455\"/>\n  <text x=\"576\" y=\"44\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">5 ACTIONS</text>\n  <text x=\"576\" y=\"64\" text-anchor=\"middle\" font-size=\"11.5\" fill=\"#E8F7EF\">Acciones</text>\n  <g fill=\"#1570EF\">\n    <polygon points=\"120,42 134,48 120,54\"/><polygon points=\"248,42 262,48 248,54\"/>\n    <polygon points=\"376,42 390,48 376,54\"/><polygon points=\"504,42 518,48 504,54\"/>\n  </g>\n  <rect x=\"10\" y=\"90\" width=\"108\" height=\"140\" rx=\"8\" fill=\"#F2F4F7\"/>\n  <text x=\"18\" y=\"112\" font-size=\"11.5\" fill=\"#1D2939\">Let's get</text>\n  <text x=\"18\" y=\"128\" font-size=\"11.5\" fill=\"#1D2939\">started.</text>\n  <text x=\"18\" y=\"152\" font-size=\"11.5\" fill=\"#1D2939\">Thanks for</text>\n  <text x=\"18\" y=\"168\" font-size=\"11.5\" fill=\"#1D2939\">coming.</text>\n  <text x=\"18\" y=\"192\" font-size=\"11.5\" fill=\"#1D2939\">The goal</text>\n  <text x=\"18\" y=\"208\" font-size=\"11.5\" fill=\"#1D2939\">today is…</text>\n  <rect x=\"138\" y=\"90\" width=\"108\" height=\"140\" rx=\"8\" fill=\"#F2F4F7\"/>\n  <text x=\"146\" y=\"112\" font-size=\"11.5\" fill=\"#1D2939\">We have three</text>\n  <text x=\"146\" y=\"128\" font-size=\"11.5\" fill=\"#1D2939\">items today.</text>\n  <text x=\"146\" y=\"152\" font-size=\"11.5\" fill=\"#1D2939\">First, …</text>\n  <text x=\"146\" y=\"176\" font-size=\"11.5\" fill=\"#1D2939\">Let's move on</text>\n  <text x=\"146\" y=\"192\" font-size=\"11.5\" fill=\"#1D2939\">to item two.</text>\n  <rect x=\"266\" y=\"90\" width=\"108\" height=\"140\" rx=\"8\" fill=\"#F2F4F7\"/>\n  <text x=\"274\" y=\"112\" font-size=\"11.5\" fill=\"#1D2939\">In my view, …</text>\n  <text x=\"274\" y=\"136\" font-size=\"11.5\" fill=\"#1D2939\">Sorry to</text>\n  <text x=\"274\" y=\"152\" font-size=\"11.5\" fill=\"#1D2939\">interrupt, …</text>\n  <text x=\"274\" y=\"176\" font-size=\"11.5\" fill=\"#1D2939\">I see your</text>\n  <text x=\"274\" y=\"192\" font-size=\"11.5\" fill=\"#1D2939\">point, but…</text>\n  <rect x=\"394\" y=\"90\" width=\"108\" height=\"140\" rx=\"8\" fill=\"#F2F4F7\"/>\n  <text x=\"402\" y=\"112\" font-size=\"11.5\" fill=\"#1D2939\">So, we agree</text>\n  <text x=\"402\" y=\"128\" font-size=\"11.5\" fill=\"#1D2939\">that…</text>\n  <text x=\"402\" y=\"152\" font-size=\"11.5\" fill=\"#1D2939\">Is everyone</text>\n  <text x=\"402\" y=\"168\" font-size=\"11.5\" fill=\"#1D2939\">OK with that?</text>\n  <rect x=\"522\" y=\"90\" width=\"108\" height=\"140\" rx=\"8\" fill=\"#E8F7EF\"/>\n  <text x=\"530\" y=\"112\" font-size=\"11.5\" fill=\"#1D2939\">Who will</text>\n  <text x=\"530\" y=\"128\" font-size=\"11.5\" fill=\"#1D2939\">take care</text>\n  <text x=\"530\" y=\"144\" font-size=\"11.5\" fill=\"#1D2939\">of that?</text>\n  <text x=\"530\" y=\"168\" font-size=\"11.5\" fill=\"#1D2939\">By when?</text>\n  <text x=\"530\" y=\"192\" font-size=\"11.5\" fill=\"#1D2939\">I'll send the</text>\n  <text x=\"530\" y=\"208\" font-size=\"11.5\" fill=\"#1D2939\">minutes.</text>\n  <path d=\"M320 234 C 320 254, 192 254, 192 236\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/>\n  <polygon points=\"186,240 192,230 198,240\" fill=\"#E8590C\"/>\n  <text x=\"336\" y=\"254\" font-size=\"11.5\" fill=\"#E8590C\">siguiente punto (repite 2 → 3)</text>\n</svg>",
+   "caption": "Figura 26.1 — Flujo de una reunión. Cada etapa tiene sus frases; la discusión se repite por cada punto de la agenda hasta llegar a acuerdos y acciones."
+  },
+  {
+   "title": "El idioma de la cortesía",
+   "html": "<p>En español profesional peruano y latino somos corteses con el tono de voz y con fórmulas como \"¿me podría…?\". En inglés, la cortesía está en la <b>gramática</b>: un modal en pasado (<span class=\"en\">could, would</span>), una pregunta en vez de una orden, o una palabra que suaviza (<span class=\"en\">a bit, slightly, perhaps</span>). Una frase directa en inglés, aunque la digas con una sonrisa, puede sonar brusca.</p><table>\n<thead><tr><th>Intención</th><th>Directo (suena brusco)</th><th>Profesional (suena bien)</th></tr></thead>\n<tbody>\n<tr><td>Pedir algo</td><td><span class=\"wrong\">Send me the drawings.</span></td><td><span class=\"ok\">Could you send me the drawings, please?</span></td></tr>\n<tr><td>No estar de acuerdo</td><td><span class=\"wrong\">You're wrong.</span></td><td><span class=\"ok\">I see your point, but I'm not sure that's correct.</span></td></tr>\n<tr><td>Rechazar un precio</td><td><span class=\"wrong\">That's too expensive.</span></td><td><span class=\"ok\">That's a bit higher than we expected.</span></td></tr>\n<tr><td>Proponer</td><td><span class=\"wrong\">We do it on Monday.</span></td><td><span class=\"ok\">How about doing it on Monday? / Why don't we do it on Monday?</span></td></tr>\n<tr><td>Decir que no</td><td><span class=\"wrong\">No, impossible.</span></td><td><span class=\"ok\">I'm afraid that won't be possible.</span></td></tr>\n<tr><td>Pedir que repitan</td><td><span class=\"wrong\">What?</span></td><td><span class=\"ok\">Sorry, could you repeat that, please?</span></td></tr>\n<tr><td>Interrumpir</td><td><span class=\"wrong\">Wait, wait.</span></td><td><span class=\"ok\">Sorry to interrupt, but…</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Las tres reglas de oro",
+   "html": "<p><b>Regla de oro 1 — Pide con pregunta, nunca con imperativo</b></p><p>Con colegas, clientes y proveedores: <span class=\"en\">Could you…?</span> <span class=\"en\">Would you mind + -ing?</span> <span class=\"en\">Can you…?</span> (más informal). El imperativo solo en instrucciones de seguridad o procedimientos: <span class=\"en\">Close the valve.</span></p><p><b>Regla de oro 2 — Primero reconoce, después discrepa</b></p><p>Nunca empieces un desacuerdo con <i>No</i>. Reconoce algo del otro y luego da tu punto con <span class=\"en\">but / however</span>: <span class=\"en\">That's a good point. However, the schedule is very tight.</span></p><p><b>Regla de oro 3 — Toda reunión termina con quién, qué y cuándo</b></p><p>Una acción sin responsable ni fecha no existe. Cierra cada punto con <span class=\"en\">Who will…? By when?</span> y resume: <span class=\"en\">So, Carlos will send the revised quote by Thursday.</span></p>"
+  },
+  {
+   "title": "Así piensa un nativo",
+   "html": "<p><b>Así piensa un nativo — el \"small talk\" no es perder el tiempo</b></p><p>Las reuniones y llamadas en Estados Unidos empiezan con 1–2 minutos de charla ligera: <span class=\"en\">How was your weekend?</span> <span class=\"en\">How's the weather over there?</span> Saltarlo suena frío; alargarlo más de 3 minutos suena poco profesional. Luego, una frase de transición marca el inicio: <span class=\"en\">OK, let's get down to business.</span> <span class=\"pron\">ou-KÉI, lets guet daun tə BÍZ-nis</span></p>"
+  },
+  {
+   "title": "Traducción directa vs inglés real",
+   "html": "<p><b>Lo que piensas en español</b><br>Aló, ¿con quién hablo?<br/>Le paso con el ingeniero.<br/>Espere un momentito.<br/>¿Me escucha?<br/>Se cortó la llamada.<br/>Quedamos así.</p><p><b>Lo que dice un nativo</b><br><span class=\"en\">Hello, who's calling, please?</span> <span class=\"wrong\">Who do I talk with?</span><br/>\n<span class=\"en\">I'll put you through to the engineer.</span> <span class=\"wrong\">I pass you</span><br/>\n<span class=\"en\">Could you hold on a moment?</span> <span class=\"wrong\">Wait a little moment</span><br/>\n<span class=\"en\">Can you hear me?</span> <span class=\"wrong\">Do you listen to me?</span><br/>\n<span class=\"en\">We got cut off.</span> <span class=\"wrong\">The call cut</span><br/>\n<span class=\"en\">So, it's settled. / Let's leave it there.</span> <span class=\"wrong\">We stay like that</span></p><table>\n<thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead>\n<tbody>\n<tr><td>Hagamos una reunión.</td><td><span class=\"wrong\">Let's make a meeting.</span></td><td><span class=\"ok\">Let's have / set up / schedule a meeting.</span></td></tr>\n<tr><td>Asistir a la reunión.</td><td><span class=\"wrong\">Assist to the meeting.</span></td><td><span class=\"ok\">Attend the meeting.</span></td></tr>\n<tr><td>Tomar una decisión.</td><td><span class=\"wrong\">Take a decision.</span> (británico)</td><td><span class=\"ok\">Make a decision.</span></td></tr>\n<tr><td>Estoy de acuerdo.</td><td><span class=\"wrong\">I am agree.</span></td><td><span class=\"ok\">I agree.</span></td></tr>\n<tr><td>Le devuelvo la llamada.</td><td><span class=\"wrong\">I return you the call.</span></td><td><span class=\"ok\">I'll call you back.</span></td></tr>\n<tr><td>Dejar un recado.</td><td><span class=\"wrong\">Leave a recado / an errand.</span></td><td><span class=\"ok\">Leave a message.</span></td></tr>\n<tr><td>Hacer una pregunta.</td><td><span class=\"wrong\">Make a question.</span></td><td><span class=\"ok\">Ask a question.</span></td></tr>\n<tr><td>Llegar a un acuerdo.</td><td><span class=\"wrong\">Arrive to an agreement.</span></td><td><span class=\"ok\">Reach an agreement.</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Pedir, ofrecer y responder",
+   "html": "<p>En reuniones y llamadas se usan sobre todo preguntas corteses y respuestas cortas. Observa cómo se forma cada tipo:</p><table>\n<thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead>\n<tbody>\n<tr><td><b>Afirmativo (ofrecer)</b></td><td>I'll + verbo / I can + verbo</td><td><span class=\"en\">I'll send you the minutes this afternoon.</span></td></tr>\n<tr><td><b>Negativo (rechazar con cortesía)</b></td><td>I'm afraid + sujeto + won't / can't + verbo</td><td><span class=\"en\">I'm afraid we can't lower the price any further.</span></td></tr>\n<tr><td><b>Pregunta (pedir)</b></td><td>Could / Would + sujeto + verbo…? · Would you mind + -ing…?</td><td><span class=\"en\">Could you send me the agenda? / Would you mind sending me the agenda?</span></td></tr>\n<tr><td><b>Respuesta corta</b></td><td>Sí: Sure. / Of course. / Certainly. · No: I'm sorry, I can't.</td><td><span class=\"en\">Sure. (a <i>Could you…?</i>) / Not at all. (a <i>Would you mind…?</i>)</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<p><b>Detalles que marcan la diferencia</b></p><ul>\n<li><span class=\"en\">Would you mind…?</span> literalmente pregunta \"¿te molesta…?\". Por eso, para decir \"sí, lo hago\", se responde <span class=\"en\">No, not at all.</span> o <span class=\"en\">Of course not.</span> Responder <i>Yes</i> significa \"sí me molesta\".</li>\n<li><span class=\"en\">I'm afraid…</span> aquí no significa miedo: es la forma cortés de anunciar una mala noticia (= lamentablemente).</li>\n<li>En una llamada, el que llama se identifica con <span class=\"en\">This is Edwin from QSL.</span>, no con <i>I am Edwin</i> ni <i>Here speaks Edwin</i>.</li>\n<li>En inglés estadounidense <span class=\"en\">schedule</span> se pronuncia <span class=\"pron\">SKÉ-yul</span>; en británico, <span class=\"pron\">SHÉ-diul</span>.</li>\n</ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "Let's get started.",
+   "pron": "lets guet STÁR-təd",
+   "es": "Empecemos.",
+   "group": "A. Abrir y dirigir una reunión"
+  },
+  {
+   "en": "Thanks for coming / for joining.",
+   "pron": "thanks for KÁ-ming / for YÓI-ning",
+   "es": "Gracias por venir / por conectarse.",
+   "group": "A. Abrir y dirigir una reunión"
+  },
+  {
+   "en": "The purpose of this meeting is to…",
+   "pron": "dhə PÉR-pəs əv dhis MÍ-ting iz tu",
+   "es": "El objetivo de esta reunión es…",
+   "group": "A. Abrir y dirigir una reunión"
+  },
+  {
+   "en": "We have three items on the agenda.",
+   "pron": "wi jav thri ÁI-təmz on dhi ə-YÉN-də",
+   "es": "Tenemos tres puntos en la agenda.",
+   "group": "A. Abrir y dirigir una reunión"
+  },
+  {
+   "en": "Let's move on to the next item.",
+   "pron": "lets muv ÓN tu dhə nekst ÁI-təm",
+   "es": "Pasemos al siguiente punto.",
+   "group": "A. Abrir y dirigir una reunión"
+  },
+  {
+   "en": "Let's get back to the main point.",
+   "pron": "lets guet BÁK tu dhə mein POINT",
+   "es": "Volvamos al tema principal.",
+   "group": "A. Abrir y dirigir una reunión"
+  },
+  {
+   "en": "We're running out of time.",
+   "pron": "wir RÁ-ning aut əv TAIM",
+   "es": "Se nos acaba el tiempo.",
+   "group": "A. Abrir y dirigir una reunión"
+  },
+  {
+   "en": "Let's leave that for the next meeting.",
+   "pron": "lets LIV dhat for dhə nekst MÍ-ting",
+   "es": "Dejemos eso para la próxima reunión.",
+   "group": "A. Abrir y dirigir una reunión"
+  },
+  {
+   "en": "In my opinion / In my view, …",
+   "pron": "in mai ə-PÍ-nyən / in mai VIU",
+   "es": "En mi opinión, …",
+   "group": "B. Opinar, estar de acuerdo y discrepar"
+  },
+  {
+   "en": "I think we should…",
+   "pron": "ai THINK wi shud",
+   "es": "Creo que deberíamos…",
+   "group": "B. Opinar, estar de acuerdo y discrepar"
+  },
+  {
+   "en": "I completely agree.",
+   "pron": "ai kəm-PLÍT-li ə-GRÍ",
+   "es": "Estoy totalmente de acuerdo.",
+   "group": "B. Opinar, estar de acuerdo y discrepar"
+  },
+  {
+   "en": "That's a good point.",
+   "pron": "dhats ə gud POINT",
+   "es": "Buen punto.",
+   "group": "B. Opinar, estar de acuerdo y discrepar"
+  },
+  {
+   "en": "I see your point, but…",
+   "pron": "ai si yor POINT, bat",
+   "es": "Entiendo tu punto, pero…",
+   "group": "B. Opinar, estar de acuerdo y discrepar"
+  },
+  {
+   "en": "I'm not sure I agree.",
+   "pron": "aim not SHUR ai ə-GRÍ",
+   "es": "No estoy seguro de estar de acuerdo.",
+   "group": "B. Opinar, estar de acuerdo y discrepar"
+  },
+  {
+   "en": "I'm afraid I disagree.",
+   "pron": "aim ə-FRÉID ai dis-ə-GRÍ",
+   "es": "Me temo que no estoy de acuerdo.",
+   "group": "B. Opinar, estar de acuerdo y discrepar"
+  },
+  {
+   "en": "Have you considered…?",
+   "pron": "jav yu kən-SÍ-derd",
+   "es": "¿Has considerado…?",
+   "group": "B. Opinar, estar de acuerdo y discrepar"
+  },
+  {
+   "en": "Sorry to interrupt, but…",
+   "pron": "SÓ-ri tu in-tə-RÁPT, bat",
+   "es": "Perdón que interrumpa, pero…",
+   "group": "C. Interrumpir, aclarar y pedir la palabra"
+  },
+  {
+   "en": "Can I add something here?",
+   "pron": "kən ai ÁD SÁM-thing jir",
+   "es": "¿Puedo añadir algo?",
+   "group": "C. Interrumpir, aclarar y pedir la palabra"
+  },
+  {
+   "en": "Could you clarify that?",
+   "pron": "kud yu KLÉ-rə-fai dhat",
+   "es": "¿Podrías aclarar eso?",
+   "group": "C. Interrumpir, aclarar y pedir la palabra"
+  },
+  {
+   "en": "What do you mean by…?",
+   "pron": "wot du yu MIN bai",
+   "es": "¿Qué quieres decir con…?",
+   "group": "C. Interrumpir, aclarar y pedir la palabra"
+  },
+  {
+   "en": "Let me finish, please.",
+   "pron": "let mi FÍ-nish, pliz",
+   "es": "Déjame terminar, por favor.",
+   "group": "C. Interrumpir, aclarar y pedir la palabra"
+  },
+  {
+   "en": "Just to make sure I understand, …",
+   "pron": "yast tə meik SHUR ai an-der-STÁND",
+   "es": "Solo para confirmar que entiendo, …",
+   "group": "C. Interrumpir, aclarar y pedir la palabra"
+  },
+  {
+   "en": "So, to sum up, …",
+   "pron": "sou, tə sam ÁP",
+   "es": "Entonces, en resumen, …",
+   "group": "D. Cerrar con acuerdos y acciones"
+  },
+  {
+   "en": "Is everyone OK with that?",
+   "pron": "iz ÉV-ri-wan ou-KÉI widh dhat",
+   "es": "¿Todos de acuerdo con eso?",
+   "group": "D. Cerrar con acuerdos y acciones"
+  },
+  {
+   "en": "Who will take care of that?",
+   "pron": "ju wil teik KÉR əv dhat",
+   "es": "¿Quién se encargará de eso?",
+   "group": "D. Cerrar con acuerdos y acciones"
+  },
+  {
+   "en": "I'll follow up on that.",
+   "pron": "ail FÓ-lou ap on dhat",
+   "es": "Yo le doy seguimiento a eso.",
+   "group": "D. Cerrar con acuerdos y acciones"
+  },
+  {
+   "en": "I'll send the minutes by end of day.",
+   "pron": "ail send dhə MÍ-nəts bai end əv DEI",
+   "es": "Enviaré el acta antes del final del día.",
+   "group": "D. Cerrar con acuerdos y acciones"
+  },
+  {
+   "en": "Let's meet again next week.",
+   "pron": "lets mit ə-GUÉN nekst WIK",
+   "es": "Reunámonos de nuevo la próxima semana.",
+   "group": "D. Cerrar con acuerdos y acciones"
+  },
+  {
+   "en": "Hi, this is Edwin from QSL.",
+   "pron": "jai, dhis iz É-duin frəm kiu-es-ÉL",
+   "es": "Hola, habla Edwin de QSL.",
+   "group": "E. Llamadas telefónicas y videollamadas"
+  },
+  {
+   "en": "I'm calling about…",
+   "pron": "aim KÓ-ling ə-BÁUT",
+   "es": "Llamo por / con respecto a…",
+   "group": "E. Llamadas telefónicas y videollamadas"
+  },
+  {
+   "en": "Could I speak to Ms. Johnson, please?",
+   "pron": "kud ai SPIK tu MIZ YÓN-sən, pliz",
+   "es": "¿Podría hablar con la Sra. Johnson?",
+   "group": "E. Llamadas telefónicas y videollamadas"
+  },
+  {
+   "en": "Hold on a moment, please.",
+   "pron": "jould ON ə MÓU-mənt, pliz",
+   "es": "Un momento, por favor (no cuelgue).",
+   "group": "E. Llamadas telefónicas y videollamadas"
+  },
+  {
+   "en": "I'll put you through.",
+   "pron": "ail put yu THRU",
+   "es": "Le comunico / le paso.",
+   "group": "E. Llamadas telefónicas y videollamadas"
+  },
+  {
+   "en": "Can I take a message?",
+   "pron": "kən ai teik ə MÉ-sich",
+   "es": "¿Quiere dejar un recado?",
+   "group": "E. Llamadas telefónicas y videollamadas"
+  },
+  {
+   "en": "Sorry, you're breaking up.",
+   "pron": "SÓ-ri, yur BRÉI-king ap",
+   "es": "Perdón, se corta la señal.",
+   "group": "E. Llamadas telefónicas y videollamadas"
+  },
+  {
+   "en": "You're on mute.",
+   "pron": "yur on MIUT",
+   "es": "Tienes el micrófono silenciado.",
+   "group": "E. Llamadas telefónicas y videollamadas"
+  },
+  {
+   "en": "I'll call you back in ten minutes.",
+   "pron": "ail kol yu BÁK in ten MÍ-nəts",
+   "es": "Te devuelvo la llamada en diez minutos.",
+   "group": "E. Llamadas telefónicas y videollamadas"
+  },
+  {
+   "en": "Thanks for calling. Bye.",
+   "pron": "thanks for KÓ-ling. bai",
+   "es": "Gracias por llamar. Adiós.",
+   "group": "E. Llamadas telefónicas y videollamadas"
+  },
+  {
+   "en": "That's a bit higher than we expected.",
+   "pron": "dhats ə bit JÁI-er dhən wi ek-SPÉK-təd",
+   "es": "Es un poco más alto de lo que esperábamos.",
+   "group": "F. Negociar: precio, plazo y alcance"
+  },
+  {
+   "en": "Is there any flexibility on the price?",
+   "pron": "iz dher É-ni flek-sə-BÍ-lə-ti on dhə prais",
+   "es": "¿Hay flexibilidad en el precio?",
+   "group": "F. Negociar: precio, plazo y alcance"
+  },
+  {
+   "en": "What if we…?",
+   "pron": "wot IF wi",
+   "es": "¿Y si nosotros…?",
+   "group": "F. Negociar: precio, plazo y alcance"
+  },
+  {
+   "en": "If you…, we could…",
+   "pron": "if YU…, wi KUD",
+   "es": "Si ustedes…, nosotros podríamos…",
+   "group": "F. Negociar: precio, plazo y alcance"
+  },
+  {
+   "en": "We'd be willing to…",
+   "pron": "wid bi WÍ-ling tu",
+   "es": "Estaríamos dispuestos a…",
+   "group": "F. Negociar: precio, plazo y alcance"
+  },
+  {
+   "en": "That's our best offer.",
+   "pron": "dhats aur best Ó-fer",
+   "es": "Es nuestra mejor oferta.",
+   "group": "F. Negociar: precio, plazo y alcance"
+  },
+  {
+   "en": "Let's meet halfway.",
+   "pron": "lets mit jaf-WÉI",
+   "es": "Partamos la diferencia / Cedamos ambos.",
+   "group": "F. Negociar: precio, plazo y alcance"
+  },
+  {
+   "en": "I need to check with my manager.",
+   "pron": "ai nid tə CHEK widh mai MÁ-ni-yer",
+   "es": "Tengo que consultarlo con mi gerente.",
+   "group": "F. Negociar: precio, plazo y alcance"
+  },
+  {
+   "en": "I think we have a deal.",
+   "pron": "ai think wi jav ə DIL",
+   "es": "Creo que tenemos un trato.",
+   "group": "F. Negociar: precio, plazo y alcance"
+  },
+  {
+   "en": "Could you put that in writing?",
+   "pron": "kud yu put dhat in RÁI-ting",
+   "es": "¿Podría ponerlo por escrito?",
+   "group": "F. Negociar: precio, plazo y alcance"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Good morning, everyone. Let's get started. We have three items on the agenda.",
+   "es": "Buenos días a todos. Empecemos. Tenemos tres puntos en la agenda.",
+   "situation": "Abrir reunión de obra"
+  },
+  {
+   "en": "Before we move on, does anyone have any safety concerns?",
+   "es": "Antes de seguir, ¿alguien tiene alguna preocupación de seguridad?",
+   "situation": "Reunión de seguridad"
+  },
+  {
+   "en": "I see your point, but replacing the whole floor would take three more weeks.",
+   "es": "Entiendo tu punto, pero reemplazar todo el fondo tomaría tres semanas más.",
+   "situation": "Discrepar con cortesía"
+  },
+  {
+   "en": "Sorry to interrupt, but the crane is only available until noon.",
+   "es": "Perdón que interrumpa, pero la grúa solo está disponible hasta el mediodía.",
+   "situation": "Interrumpir"
+  },
+  {
+   "en": "Just to make sure I understand, you want the nozzle moved 200 mm to the left?",
+   "es": "Solo para confirmar: ¿quieres que la boquilla se mueva 200 mm a la izquierda?",
+   "situation": "Aclarar"
+  },
+  {
+   "en": "So, Carlos will send the revised quote by Thursday, and I'll update the schedule.",
+   "es": "Entonces, Carlos enviará la cotización revisada para el jueves y yo actualizaré el cronograma.",
+   "situation": "Cerrar con acciones"
+  },
+  {
+   "en": "Hi, this is Edwin from QSL. I'm calling about our order of flanges.",
+   "es": "Hola, habla Edwin de QSL. Llamo por nuestro pedido de bridas.",
+   "situation": "Llamada a un proveedor"
+  },
+  {
+   "en": "Mr. Lee is in a meeting right now. Can I take a message?",
+   "es": "El Sr. Lee está en una reunión ahora. ¿Quiere dejar un recado?",
+   "situation": "Recepción"
+  },
+  {
+   "en": "Sorry, you're breaking up. Could you turn off your camera?",
+   "es": "Perdón, se corta la señal. ¿Podrías apagar tu cámara?",
+   "situation": "Videollamada"
+  },
+  {
+   "en": "Your quote is a bit higher than we expected. Is there any flexibility?",
+   "es": "Su cotización es un poco más alta de lo que esperábamos. ¿Hay algo de flexibilidad?",
+   "situation": "Negociar precio"
+  },
+  {
+   "en": "If you can deliver by November 9, we could sign the purchase order today.",
+   "es": "Si pueden entregar para el 9 de noviembre, podríamos firmar la orden de compra hoy.",
+   "situation": "Negociar plazo"
+  },
+  {
+   "en": "I'm afraid we can't accept a 20% increase at this stage.",
+   "es": "Me temo que no podemos aceptar un aumento del 20 % en esta etapa.",
+   "situation": "Rechazar con cortesía"
+  },
+  {
+   "en": "We'd be willing to cover the shipping if you order more than 50 units.",
+   "es": "Estaríamos dispuestos a cubrir el envío si piden más de 50 unidades.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "Would you mind fixing the shower before the end of the week?",
+   "es": "¿Le importaría arreglar la ducha antes de que termine la semana?",
+   "situation": "Vida diaria (casero)"
+  },
+  {
+   "en": "Thanks for your time today. How about lunch next week to celebrate?",
+   "es": "Gracias por tu tiempo hoy. ¿Qué tal un almuerzo la próxima semana para celebrar?",
+   "situation": "Social (después de la reunión)"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "I'll send the minutes today.",
+     "I won't send the minutes today.",
+     "Will you send the minutes today?",
+     "Yes, I will. / No, I won't."
+    ],
+    [
+     "We can lower the price.",
+     "We can't lower the price.",
+     "Can you lower the price?",
+     "Yes, we can. / No, we can't."
+    ],
+    [
+     "She agrees with the plan.",
+     "She doesn't agree with the plan.",
+     "Does she agree with the plan?",
+     "Yes, she does. / No, she doesn't."
+    ],
+    [
+     "They've approved the budget.",
+     "They haven't approved the budget.",
+     "Have they approved the budget?",
+     "Yes, they have. / No, they haven't."
+    ],
+    [
+     "The supplier called back.",
+     "The supplier didn't call back.",
+     "Did the supplier call back?",
+     "Yes, it did. / No, it didn't."
+    ],
+    [
+     "We're meeting at 3 p.m.",
+     "We aren't meeting at 3 p.m.",
+     "Are we meeting at 3 p.m.?",
+     "Yes, we are. / No, we aren't."
+    ],
+    [
+     "Mark should attend the meeting.",
+     "Mark shouldn't attend the meeting.",
+     "Should Mark attend the meeting?",
+     "Yes, he should. / No, he shouldn't."
+    ],
+    [
+     "They'd accept a 5% discount.",
+     "They wouldn't accept a 5% discount.",
+     "Would they accept a 5% discount?",
+     "Yes, they would. / No, they wouldn't."
+    ],
+    [
+     "The client was on the call.",
+     "The client wasn't on the call.",
+     "Was the client on the call?",
+     "Yes, he was. / No, he wasn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Mark",
+   "text": "OK, let's get started. Thanks for joining. The purpose of this meeting is to decide how we repair the T-210 floor. We have two options on the table."
+  },
+  {
+   "who": "Edwin",
+   "text": "Option A is to replace the whole floor. Option B is to replace only the corroded plates, about 30% of the area."
+  },
+  {
+   "who": "Ana",
+   "text": "In my view, Option A is safer. The UT readings show thinning all over the floor."
+  },
+  {
+   "who": "Edwin",
+   "text": "I see your point, but most of the readings are still above the minimum thickness. Option B would save three weeks and around $80,000."
+  },
+  {
+   "who": "Ana",
+   "text": "Sorry to interrupt, but have you considered the next inspection? If we choose B, we might need another repair in five years."
+  },
+  {
+   "who": "Mark",
+   "text": "That's a good point. Could we do Option B now and add a coating to protect the old plates?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, that would work. A coating would extend the floor life significantly."
+  },
+  {
+   "who": "Ana",
+   "text": "OK, I can live with that, as long as we do a full inspection next year."
+  },
+  {
+   "who": "Mark",
+   "text": "Great. So, to sum up: Option B plus coating, and a full inspection in twelve months. Is everyone OK with that?"
+  },
+  {
+   "who": "Ana / Edwin",
+   "text": "Yes. / Agreed."
+  },
+  {
+   "who": "Mark",
+   "text": "Who will take care of the coating quote?"
+  },
+  {
+   "who": "Edwin",
+   "text": "I will. I'll send it by Thursday, and I'll also send the minutes by end of day."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "I am agree.",
+   "right": "I agree.",
+   "why": "Agree es un verbo, no un adjetivo: no lleva be."
+  },
+  {
+   "wrong": "Let's make a meeting.",
+   "right": "Let's have a meeting.",
+   "why": "Colocación: have / hold / schedule a meeting."
+  },
+  {
+   "wrong": "I will assist to the meeting.",
+   "right": "I will attend the meeting.",
+   "why": "Assist = ayudar; asistir = attend (sin to)."
+  },
+  {
+   "wrong": "Hello, I am Edwin of QSL. (al teléfono)",
+   "right": "Hello, this is Edwin from QSL.",
+   "why": "Al teléfono: this is + nombre; empresa con from."
+  },
+  {
+   "wrong": "I return you the call.",
+   "right": "I'll call you back.",
+   "why": "Phrasal verb call back (Módulo 23)."
+  },
+  {
+   "wrong": "Can you discount us 10%?",
+   "right": "Could you give us a 10% discount?",
+   "why": "El verbo discount no lleva persona; lo natural es el sustantivo: give us a discount."
+  },
+  {
+   "wrong": "If you will order 100, we will give…",
+   "right": "If you order 100, we'll give…",
+   "why": "Condicional 1: presente después de if (Módulo 18)."
+  },
+  {
+   "wrong": "Would you mind to send it?",
+   "right": "Would you mind sending it?",
+   "why": "Mind + -ing (Módulo 22)."
+  },
+  {
+   "wrong": "We need to discuss about the price.",
+   "right": "We need to discuss the price.",
+   "why": "Discuss no lleva about; con talk sí: talk about."
+  },
+  {
+   "wrong": "Who will take care about that?",
+   "right": "Who will take care of that?",
+   "why": "La expresión fija es take care of."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "assist",
+   "looks": "asistir (ir)",
+   "means": "ayudar",
+   "fix": "attend"
+  },
+  {
+   "en": "minutes",
+   "looks": "minutos (solo)",
+   "means": "también: acta de reunión",
+   "fix": "(contexto) the minutes of the meeting"
+  },
+  {
+   "en": "agenda",
+   "looks": "agenda (libreta)",
+   "means": "orden del día, temas de la reunión",
+   "fix": "planner / calendar"
+  },
+  {
+   "en": "compromise",
+   "looks": "compromiso",
+   "means": "acuerdo con concesiones",
+   "fix": "commitment"
+  },
+  {
+   "en": "argument",
+   "looks": "argumento",
+   "means": "discusión, pelea (también razonamiento)",
+   "fix": "point / reasoning"
+  },
+  {
+   "en": "deception",
+   "looks": "decepción",
+   "means": "engaño",
+   "fix": "disappointment"
+  },
+  {
+   "en": "propaganda",
+   "looks": "propaganda (publicidad)",
+   "means": "propaganda política",
+   "fix": "advertising / flyer"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Empecemos. Tenemos cuatro puntos en la agenda.",
+    "answers": [
+     "Let's get started. We have four items on the agenda.",
+     "Let's begin. We have four items on the agenda.",
+     "Let's start. We have four items on the agenda."
+    ],
+    "explain": "Fórmula de apertura. \"Punto\" de la agenda = item, no point."
+   },
+   {
+    "prompt": "Perdón que interrumpa, pero la grúa no está disponible el lunes.",
+    "answers": [
+     "Sorry to interrupt, but the crane isn't available on Monday.",
+     "Sorry for interrupting, but the crane isn't available on Monday.",
+     "Sorry to interrupt, but the crane is not available on Monday.",
+     "Sorry for interrupting, but the crane is not available on Monday."
+    ],
+    "explain": "Fórmula fija + but. Día con on (Módulo 11)."
+   },
+   {
+    "prompt": "Entiendo tu punto, pero el cliente necesita el tanque en octubre.",
+    "answers": [
+     "I see your point, but the client needs the tank in October."
+    ],
+    "explain": "Reconocer + discrepar con but. Mes con in."
+   },
+   {
+    "prompt": "¿Podría hablar con el Sr. Lee, por favor?",
+    "answers": [
+     "Could I speak to Mr. Lee, please?",
+     "Could I speak with Mr. Lee, please?",
+     "May I speak to Mr. Lee, please?",
+     "May I speak with Mr. Lee, please?"
+    ],
+    "explain": "Could I = petición cortés. También vale speak with o May I speak to."
+   },
+   {
+    "prompt": "Hola, habla Ana de QSL. Llamo por la cotización.",
+    "answers": [
+     "Hi, this is Ana from QSL. I'm calling about the quote.",
+     "Hello, this is Ana from QSL. I'm calling about the quote.",
+     "Hi, this is Ana from QSL. I'm calling about the quotation.",
+     "Hi, this is Ana from QSL. I am calling about the quote.",
+     "Hello, this is Ana from QSL. I am calling about the quote.",
+     "Hi, this is Ana from QSL. I am calling about the quotation."
+    ],
+    "explain": "Al teléfono: this is + from; motivo: I'm calling about."
+   },
+   {
+    "prompt": "Le devuelvo la llamada en cinco minutos.",
+    "answers": [
+     "I'll call you back in five minutes.",
+     "I will call you back in five minutes."
+    ],
+    "explain": "Phrasal verb call back; in + tiempo = dentro de."
+   },
+   {
+    "prompt": "Su precio es un poco más alto de lo que esperábamos.",
+    "answers": [
+     "Your price is a bit higher than we expected.",
+     "Your price is a little higher than we expected.",
+     "Your price is a bit higher than we were expecting."
+    ],
+    "explain": "Suavizador a bit + comparativo (Módulo 12). También vale a little higher."
+   },
+   {
+    "prompt": "Si pueden entregar el viernes, podríamos firmar hoy.",
+    "answers": [
+     "If you can deliver on Friday, we could sign today.",
+     "If you can deliver by Friday, we could sign today."
+    ],
+    "explain": "Condicional 1 suavizado: if + presente, could en la principal. También vale by Friday."
+   },
+   {
+    "prompt": "¿Quién se encargará de eso?",
+    "answers": [
+     "Who will take care of that?",
+     "Who is going to take care of that?"
+    ],
+    "explain": "Expresión fija take care of."
+   },
+   {
+    "prompt": "Me temo que no podemos aceptar esa fecha.",
+    "answers": [
+     "I'm afraid we can't accept that date.",
+     "I am afraid we cannot accept that date."
+    ],
+    "explain": "I'm afraid anuncia una negativa con cortesía."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "Sorry, you're breaking up. Could you repeat the last number?",
+    "answers": [
+     "Perdón, se corta la señal. ¿Podrías repetir el último número?",
+     "Perdón, se corta la llamada. ¿Podrías repetir el último número?",
+     "Disculpa, se está cortando la señal. ¿Puedes repetir el último número?"
+    ],
+    "explain": "Break up en llamadas = cortarse la señal."
+   },
+   {
+    "prompt": "Let's move on to the next item; we're running out of time.",
+    "answers": [
+     "Pasemos al siguiente punto; se nos acaba el tiempo.",
+     "Pasemos al siguiente punto; nos estamos quedando sin tiempo.",
+     "Pasemos al siguiente tema; se nos acaba el tiempo."
+    ],
+    "explain": "Move on to = pasar a; run out of = quedarse sin."
+   },
+   {
+    "prompt": "We'd be willing to cover the shipping if you order 50 more units.",
+    "answers": [
+     "Estaríamos dispuestos a cubrir el envío si piden 50 unidades más.",
+     "Estaríamos dispuestos a pagar el envío si piden 50 unidades más.",
+     "Estaríamos dispuestos a cubrir el envío si ordenan 50 unidades más."
+    ],
+    "explain": "We'd be willing to = estaríamos dispuestos a ('d = would)."
+   },
+   {
+    "prompt": "I'll send the minutes by end of day.",
+    "answers": [
+     "Enviaré el acta antes del final del día.",
+     "Enviaré el acta a más tardar al final del día.",
+     "Mandaré el acta antes de que termine el día."
+    ],
+    "explain": "Minutes = acta; by end of day = a más tardar al final del día."
+   },
+   {
+    "prompt": "I need to check with my manager before we sign.",
+    "answers": [
+     "Tengo que consultarlo con mi gerente antes de firmar.",
+     "Necesito consultarlo con mi gerente antes de que firmemos.",
+     "Tengo que consultar con mi jefe antes de firmar."
+    ],
+    "explain": "Check with = consultar con. Tras before, el español prefiere infinitivo."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "I am agree with Option B.",
+    "answers": [
+     "I agree with Option B."
+    ],
+    "explain": "Agree es verbo: sobra am."
+   },
+   {
+    "prompt": "Can we make a meeting tomorrow at 9?",
+    "answers": [
+     "Can we have a meeting tomorrow at 9?",
+     "Can we schedule a meeting tomorrow at 9?"
+    ],
+    "explain": "Colocación: have (o schedule) a meeting."
+   },
+   {
+    "prompt": "Our supervisor will assist to the safety meeting.",
+    "answers": [
+     "Our supervisor will attend the safety meeting."
+    ],
+    "explain": "Asistir = attend, sin to."
+   },
+   {
+    "prompt": "Would you mind to close the door?",
+    "answers": [
+     "Would you mind closing the door?"
+    ],
+    "explain": "Mind + -ing."
+   },
+   {
+    "prompt": "We need to discuss about the new schedule.",
+    "answers": [
+     "We need to discuss the new schedule."
+    ],
+    "explain": "Discuss no lleva about."
+   },
+   {
+    "prompt": "If you will pay in advance, we will give you a 5% discount.",
+    "answers": [
+     "If you pay in advance, we will give you a 5% discount.",
+     "If you pay in advance, we'll give you a 5% discount."
+    ],
+    "explain": "Condicional 1: presente después de if."
+   },
+   {
+    "prompt": "Who will take care about the permits?",
+    "answers": [
+     "Who will take care of the permits?"
+    ],
+    "explain": "Expresión fija take care of."
+   },
+   {
+    "prompt": "Hello, this is Edwin of QSL. Can I speak with Rachel?",
+    "answers": [
+     "Hello, this is Edwin from QSL. Can I speak with Rachel?",
+     "Hello, this is Edwin from QSL. Can I speak to Rachel?"
+    ],
+    "explain": "La empresa a la que perteneces va con from: Edwin from QSL."
+   },
+   {
+    "prompt": "Mr. Lee isn't here. Can I take a recado?",
+    "answers": [
+     "Mr. Lee isn't here. Can I take a message?",
+     "Mr. Lee is not here. Can I take a message?"
+    ],
+    "explain": "Recado = message."
+   },
+   {
+    "prompt": "I see your point, so I don't think it's safe.",
+    "answers": [
+     "I see your point, but I don't think it's safe.",
+     "I see your point, but I do not think it is safe."
+    ],
+    "explain": "Hay contraste, no resultado: but, no so."
+   }
+  ],
+  "bonus": {
+   "prompt": "convierte esta orden en tres pedidos corteses: Send me the report.",
+   "answer": "Could you send me the report, please? / Would you mind sending me the report? / I'd appreciate it if you could send me the report."
+  },
+  "C1": {
+   "instructions": "Completa la negociación con una palabra en cada espacio (8 puntos).",
+   "lines": [
+    {
+     "who": "Supplier",
+     "text": "Our price for the 120 m of pipe is $18,500."
+    },
+    {
+     "who": "Edwin",
+     "text": "Thanks. That's a [1] higher than we expected. Is there any [2] on the price?"
+    },
+    {
+     "who": "Supplier",
+     "text": "Well, [3] you pay 50% in advance, we could reduce it to $17,800."
+    },
+    {
+     "who": "Edwin",
+     "text": "What [4] we pay 50% in advance and you include the shipping?"
+    },
+    {
+     "who": "Supplier",
+     "text": "Hmm. I'm [5] we can't include all of it. Let's meet [6]: we'll cover half of the shipping."
+    },
+    {
+     "who": "Edwin",
+     "text": "OK, I think we have a [7]. Could you put that in [8], please?"
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "bit",
+      "little"
+     ],
+     "explain": "A bit higher: suavizador. También vale little."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "flexibility"
+     ],
+     "explain": "Is there any flexibility on the price? = fórmula fija."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "if"
+     ],
+     "explain": "Condición: if you pay…, we could…"
+    },
+    {
+     "n": 4,
+     "answers": [
+      "if"
+     ],
+     "explain": "What if…? = ¿y si…? para proponer."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "afraid"
+     ],
+     "explain": "I'm afraid + negativa cortés."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "halfway"
+     ],
+     "explain": "Let's meet halfway = cedamos ambos."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "deal"
+     ],
+     "explain": "I think we have a deal = cierre."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "writing"
+     ],
+     "explain": "Put something in writing = ponerlo por escrito."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta el resumen de acciones (7 puntos). Escribe un correo breve (80–110 palabras) para enviar las acciones de la reunión de la Parte 4 (T-210) a Mark y Ana. Debe incluir: (a) asunto claro; (b) saludo y propósito (Thanks for… / Here is a summary of…); (c) la decisión tomada; (d) dos acciones, cada una con responsable y fecha; (e) una frase con will o I'll para ofrecer algo; (f) una pregunta cortés con Could you…?; (g) cierre y firma.",
+   "rubric": [
+    "(a) asunto claro",
+    "(b) saludo y propósito (Thanks for… / Here is a summary of…)",
+    "(c) la decisión tomada",
+    "(d) dos acciones, cada una con responsable y fecha",
+    "(e) una frase con will o I'll para ofrecer algo",
+    "(f) una pregunta cortés con Could you…?",
+    "(g) cierre y firma"
+   ],
+   "model": "Subject: T-210 floor repair – decisions and action items\nHi Mark and Ana,\nThanks for joining today's meeting. Here is a summary of what we agreed.\nDecision: we will replace only the corroded plates (Option B) and apply a protective coating to the rest of the floor. A full inspection in twelve months will confirm the condition of the old plates.\nAction items:\n- Edwin: send the coating quote by Thursday, November 5.\n- Ana: book the full floor inspection for November 2027 by Friday, November 13.\nI'll also share the updated schedule tomorrow. Could you let me know if I missed anything?\nBest regards,\nEdwin"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Abrir y dirigir una reunión con agenda.",
+   "test": "Grábate 1 minuto abriendo una reunión de 3 puntos (bienvenida, objetivo, agenda) sin leer."
+  },
+  {
+   "skill": "Discrepar e interrumpir con cortesía.",
+   "test": "Responde en voz alta a 5 opiniones con I see your point, but… o Sorry to interrupt, but…; cero \"No,\" al inicio."
+  },
+  {
+   "skill": "Convertir órdenes en pedidos corteses.",
+   "test": "Transforma 8 imperativos en preguntas con Could you…? o Would you mind + -ing? en 2 minutos; 8 de 8 correctas."
+  },
+  {
+   "skill": "Hacer una llamada profesional completa.",
+   "test": "Simula con un compañero la llamada de la Parte 3 cambiando los datos; los 5 pasos de la Figura 26.3, con números confirmados."
+  },
+  {
+   "skill": "Negociar subiendo la escalera.",
+   "test": "Escribe un diálogo de 8 líneas que use los 5 peldaños de la Figura 26.2 y al menos un If you…, we could…."
+  },
+  {
+   "skill": "Cerrar una reunión con acciones.",
+   "test": "Envía (o escribe) un resumen real en 10 minutos: decisión + 2 acciones con quién y cuándo."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "How do you usually start a meeting in English?",
+  "What do you say when you disagree with a coworker politely?",
+  "How do you answer the phone at work?",
+  "How would you ask a supplier for a better price?",
+  "What do you say when a call is breaking up?",
+  "How do you end a meeting so everyone knows the next steps?"
+ ]
+}

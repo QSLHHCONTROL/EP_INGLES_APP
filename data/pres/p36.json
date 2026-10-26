@@ -1,0 +1,98 @@
+{
+ "id": 36,
+ "topic": "Entrevistas y networking",
+ "title": "Tell Me About Yourself",
+ "practice": "Mi respuesta para una entrevista de trabajo en el extranjero. Léela 3 veces y luego grábate sin mirar.",
+ "rows": [
+  {
+   "en": "I'm {a_profession} from {city}, {country}.",
+   "es": "Soy {profession_es} de {city}, {country}."
+  },
+  {
+   "en": "**My background is in** {work}.",
+   "es": "Mi trayectoria es en {work_es}."
+  },
+  {
+   "en": "**Currently, I'm working as** {a_jobTitle} for {company}.",
+   "es": "Actualmente trabajo como {jobTitle_es} para {company}."
+  },
+  {
+   "en": "Before that, I worked for {prevJob} in {prevPlace}.",
+   "es": "Antes trabajé para {prevJob} en {prevPlace}."
+  },
+  {
+   "en": "**What I enjoy most is** turning problems into simple solutions.",
+   "es": "Lo que más disfruto es convertir problemas en soluciones simples."
+  },
+  {
+   "en": "**One of my key strengths is** attention to detail.",
+   "es": "Una de mis principales fortalezas es la atención al detalle."
+  },
+  {
+   "en": "For example, I designed {tool} templates to track every step of {project}.",
+   "es": "Por ejemplo, diseñé plantillas en {tool} para controlar cada paso de {project_es}."
+  },
+  {
+   "en": "**Something I've been working on is** my English.",
+   "es": "Algo en lo que he estado trabajando es mi inglés."
+  },
+  {
+   "en": "**I'm looking to take the next step in my career**.",
+   "es": "Busco dar el siguiente paso en mi carrera."
+  },
+  {
+   "en": "**That's what brings me to this role.**",
+   "es": "Eso es lo que me trae a este puesto."
+  },
+  {
+   "en": "**I'm willing to relocate**. **If visa sponsorship is needed**, I'd be happy to discuss it.",
+   "es": "Estoy dispuesto a mudarme. Si se necesita patrocinio de visa, con gusto lo conversamos."
+  }
+ ],
+ "dialogTitle": "Diálogo con la entrevistadora: salario, inicio y preguntas",
+ "dialog": [
+  {
+   "who": "Kate",
+   "text": "What are your salary expectations?"
+  },
+  {
+   "who": "{name}",
+   "text": "Based on my research, I'm looking for ___ a year. That said, I'm open to discussing the full package."
+  },
+  {
+   "who": "Kate",
+   "text": "And when could you start?"
+  },
+  {
+   "who": "{name}",
+   "text": "I'm available to start within ___ weeks."
+  },
+  {
+   "who": "Kate",
+   "text": "Great. Do you have any questions for us?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes. What would success look like in the first six months?"
+  }
+ ],
+ "pron": [
+  {
+   "en": "My background is in…",
+   "pron": "mai BÁK-graund iz in"
+  },
+  {
+   "en": "I'm willing to relocate.",
+   "pron": "aim WÍ-ling tə ri-LÓU-keit"
+  },
+  {
+   "en": "If visa sponsorship is needed…",
+   "pron": "if VÍ-zə SPÓN-sər-ship iz NÍ-did"
+  },
+  {
+   "en": "What would success look like?",
+   "pron": "wot wud sək-SÉS LUK laik"
+  }
+ ],
+ "check": "Respondo \"Tell me about yourself\" en 60–90 segundos, sin leer, uso I para mis acciones y respaldo mi fortaleza con un ejemplo concreto."
+}

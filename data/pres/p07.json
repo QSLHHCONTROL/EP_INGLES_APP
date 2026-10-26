@@ -1,0 +1,98 @@
+{
+ "id": 7,
+ "topic": "CAN / CAN'T y cortesía",
+ "title": "What I Can Do",
+ "practice": "Léela en voz alta 3 veces. Luego dila 1 minuto sin mirar: can débil (kən), can't fuerte (KANT).",
+ "rows": [
+  {
+   "en": "I **can work** with {work}.",
+   "es": "Puedo trabajar con {work_es}."
+  },
+  {
+   "en": "I **can read** and check reports.",
+   "es": "Sé leer y revisar informes."
+  },
+  {
+   "en": "I **can use** {tool} very well.",
+   "es": "Sé usar {tool} muy bien."
+  },
+  {
+   "en": "I **can make** a progress report in {tool}.",
+   "es": "Puedo hacer un reporte de avance en {tool}."
+  },
+  {
+   "en": "I **can explain** my work on {project}.",
+   "es": "Puedo explicar mi trabajo en {project_es}."
+  },
+  {
+   "en": "I **can speak** Spanish, and I **can speak** a little English.",
+   "es": "Hablo español y hablo un poco de inglés."
+  },
+  {
+   "en": "I **can't speak** English perfectly yet, but I **can learn**.",
+   "es": "Todavía no hablo inglés perfecto, pero puedo aprender."
+  },
+  {
+   "en": "At {company}, I **can** always **ask** my team for help.",
+   "es": "En {company} siempre puedo pedirle ayuda a mi equipo."
+  },
+  {
+   "en": "When I need help, I say: \"**Could you help** me, please?\"",
+   "es": "Cuando necesito ayuda, digo: \"¿Podría ayudarme, por favor?\""
+  },
+  {
+   "en": "When I don't understand, I say: \"**Could you speak** more slowly?\"",
+   "es": "Cuando no entiendo, digo: \"¿Podría hablar más despacio?\""
+  }
+ ],
+ "dialogTitle": "Diálogo: pedir con cortesía en la oficina",
+ "dialog": [
+  {
+   "who": "{name}",
+   "text": "Hi, {coworker}. Could you send me the new files, please?"
+  },
+  {
+   "who": "{coworker}",
+   "text": "Sure. I can send them now."
+  },
+  {
+   "who": "{name}",
+   "text": "Thanks. Can I use the meeting room this afternoon?"
+  },
+  {
+   "who": "{coworker}",
+   "text": "Of course. No problem."
+  },
+  {
+   "who": "{name}",
+   "text": "And would you mind checking my report today?"
+  },
+  {
+   "who": "{coworker}",
+   "text": "No, not at all. Can you print it for me?"
+  },
+  {
+   "who": "{name}",
+   "text": "Sure. Here you are."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I can work with {work}.",
+   "pron": ""
+  },
+  {
+   "en": "I can't speak English perfectly yet.",
+   "pron": "ai KANT spik ÍN-glish PÉR-fekt-li YET"
+  },
+  {
+   "en": "Could you help me, please?",
+   "pron": "kud yu JELP mi, PLIZ"
+  },
+  {
+   "en": "Would you mind checking my report?",
+   "pron": "wud yu MAIND CHÉ-king mai ri-PÓRT"
+  }
+ ],
+ "check": "Digo 6 cosas que sé hacer y 2 que no en menos de 1 minuto, sin leer, sin can to ni do you can, y hago 3 pedidos con Could you…, please?"
+}

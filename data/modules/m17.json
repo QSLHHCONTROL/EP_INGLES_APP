@@ -1,0 +1,911 @@
+{
+ "id": 17,
+ "level": "B1",
+ "title": "Modales de probabilidad (might, may, could, must be)",
+ "goal": "Al terminar podrás expresar qué tan seguro estás de algo (desde \"imposible\" hasta \"seguro\"), hacer deducciones a partir de evidencias en una falla o en la vida diaria, hablar de posibilidades futuras sin sonar ni tímido ni arrogante, y evitar la confusión entre mustn't y can't be.",
+ "lesson": [
+  {
+   "title": "Una escala de probabilidad",
+   "html": "<p>En el Módulo 16 usaste los modales para hablar de <b>obligación</b>. Ahora los mismos verbos cambian de trabajo: sirven para decir <b>qué tan seguro estás</b> de que algo es verdad. Un ingeniero lo hace todo el día: \"la fuga <i>debe de</i> venir de la brida\", \"<i>puede que</i> llueva el martes\", \"<i>no puede ser</i> la bomba, la acabamos de cambiar\". En español usas <i>quizás, a lo mejor, puede que, debe de, seguro que</i>. En inglés, la herramienta principal es un modal delante del verbo.</p><p>El nativo elige la palabra como quien elige un punto en una escala del 0 % al 100 %. No es lo mismo <span class=\"en\">The valve might be closed</span> (tal vez, no sé) que <span class=\"en\">The valve must be closed</span> (estoy casi seguro, tengo una razón). En un reporte técnico o en una reunión, esa diferencia le dice al otro cuánto puede confiar en tu información.</p>",
+   "svg": "<svg viewBox=\"0 0 640 270\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs>\n    <linearGradient id=\"m17g1\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"0\">\n      <stop offset=\"0\" stop-color=\"#D92D20\"/>\n      <stop offset=\"0.5\" stop-color=\"#E9B949\"/>\n      <stop offset=\"1\" stop-color=\"#079455\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"30\" y=\"96\" width=\"580\" height=\"22\" rx=\"11\" fill=\"url(#m17g1)\"/>\n  <text x=\"30\" y=\"140\" font-size=\"12\" font-weight=\"700\" fill=\"#D92D20\">0 %</text>\n  <text x=\"175\" y=\"140\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">25 %</text>\n  <text x=\"320\" y=\"140\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">50 %</text>\n  <text x=\"465\" y=\"140\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">75 %</text>\n  <text x=\"610\" y=\"140\" text-anchor=\"end\" font-size=\"12\" font-weight=\"700\" fill=\"#079455\">100 %</text>\n  <rect x=\"20\" y=\"16\" width=\"118\" height=\"62\" rx=\"10\" fill=\"#FEF0EF\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <text x=\"79\" y=\"42\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#D92D20\">can't be</text>\n  <text x=\"79\" y=\"62\" text-anchor=\"middle\" font-size=\"11\" fill=\"#D92D20\">couldn't be</text>\n  <rect x=\"148\" y=\"16\" width=\"100\" height=\"62\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"198\" y=\"42\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#E8590C\">might not</text>\n  <text x=\"198\" y=\"62\" text-anchor=\"middle\" font-size=\"11\" fill=\"#E8590C\">may not</text>\n  <rect x=\"258\" y=\"16\" width=\"124\" height=\"62\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"38\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#1570EF\">might · may</text>\n  <text x=\"320\" y=\"58\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#1570EF\">could</text>\n  <text x=\"320\" y=\"73\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1570EF\">(maybe)</text>\n  <rect x=\"392\" y=\"16\" width=\"100\" height=\"62\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"442\" y=\"42\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#0E9384\">probably</text>\n  <text x=\"442\" y=\"62\" text-anchor=\"middle\" font-size=\"11\" fill=\"#0E9384\">likely</text>\n  <rect x=\"502\" y=\"16\" width=\"118\" height=\"62\" rx=\"10\" fill=\"#E8F7EF\" stroke=\"#079455\" stroke-width=\"2\"/>\n  <text x=\"561\" y=\"42\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#079455\">must be</text>\n  <text x=\"561\" y=\"62\" text-anchor=\"middle\" font-size=\"11\" fill=\"#079455\">(deducción)</text>\n  <line x1=\"79\" y1=\"78\" x2=\"79\" y2=\"96\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <line x1=\"198\" y1=\"78\" x2=\"198\" y2=\"96\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <line x1=\"320\" y1=\"78\" x2=\"320\" y2=\"96\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <line x1=\"442\" y1=\"78\" x2=\"442\" y2=\"96\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <line x1=\"561\" y1=\"78\" x2=\"561\" y2=\"96\" stroke=\"#079455\" stroke-width=\"2\"/>\n  <text x=\"79\" y=\"170\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">It can't be</text>\n  <text x=\"79\" y=\"186\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">the pump.</text>\n  <text x=\"79\" y=\"206\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">imposible</text>\n  <text x=\"198\" y=\"170\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">He might</text>\n  <text x=\"198\" y=\"186\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">not come.</text>\n  <text x=\"198\" y=\"206\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">quizás no</text>\n  <text x=\"320\" y=\"170\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">It might rain.</text>\n  <text x=\"320\" y=\"186\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">It could be a leak.</text>\n  <text x=\"320\" y=\"206\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">puede que sí, puede que no</text>\n  <text x=\"442\" y=\"170\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">It'll probably</text>\n  <text x=\"442\" y=\"186\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">be late.</text>\n  <text x=\"442\" y=\"206\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">lo más seguro</text>\n  <text x=\"561\" y=\"170\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">She must be</text>\n  <text x=\"561\" y=\"186\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">tired.</text>\n  <text x=\"561\" y=\"206\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">casi seguro</text>\n  <line x1=\"20\" y1=\"224\" x2=\"620\" y2=\"224\" stroke=\"#D0D5DD\"/>\n  <text x=\"320\" y=\"246\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">Los dos extremos (can't be / must be) son <tspan font-weight=\"800\">deducciones</tspan>: tienes una razón o una evidencia.</text>\n  <text x=\"320\" y=\"262\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">El centro (might / may / could) es <tspan font-weight=\"800\">posibilidad</tspan>: no tienes datos suficientes.</text>\n</svg>",
+   "caption": "Figura 17.1 — Escala de probabilidad. Elige el punto de la escala antes de elegir la palabra."
+  },
+  {
+   "title": "La forma: igual que en el Módulo 16",
+   "html": "<p>Son modales, así que siguen las mismas reglas: una sola forma para todos los sujetos, verbo base sin <i>to</i> y sin <i>do/does</i>. Lo nuevo es <b>qué va después</b>, según hablas de un estado, de una acción en curso o del futuro:</p><table><thead><tr><th>Qué describes</th><th>Estructura</th><th>Ejemplo</th></tr></thead><tbody><tr><td>Un estado ahora (adjetivo, lugar, identidad)</td><td>modal + <b>be</b> + …</td><td><span class=\"en\">He might be at the warehouse.</span></td></tr><tr><td>Una acción en progreso ahora</td><td>modal + <b>be</b> + verbo-ing</td><td><span class=\"en\">She must be working from home today.</span></td></tr><tr><td>Algo en el futuro</td><td>modal + verbo base</td><td><span class=\"en\">The parts may arrive on Friday.</span></td></tr><tr><td>Algo habitual o general</td><td>modal + verbo base</td><td><span class=\"en\">He must live near here. He walks to work.</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 196\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"38\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">ESTADO</text>\n  <rect x=\"110\" y=\"16\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"160\" y=\"40\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">The tank</text>\n  <rect x=\"220\" y=\"16\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#1570EF\"/><text x=\"265\" y=\"40\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#FFFFFF\">might</text>\n  <rect x=\"320\" y=\"16\" width=\"64\" height=\"36\" rx=\"8\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/><text x=\"352\" y=\"40\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#E8590C\">be</text>\n  <rect x=\"394\" y=\"16\" width=\"120\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"454\" y=\"40\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">empty.</text>\n  <text x=\"20\" y=\"98\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">EN CURSO</text>\n  <rect x=\"110\" y=\"76\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"160\" y=\"100\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">They</text>\n  <rect x=\"220\" y=\"76\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#1570EF\"/><text x=\"265\" y=\"100\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#FFFFFF\">must</text>\n  <rect x=\"320\" y=\"76\" width=\"64\" height=\"36\" rx=\"8\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/><text x=\"352\" y=\"100\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#E8590C\">be</text>\n  <rect x=\"394\" y=\"76\" width=\"120\" height=\"36\" rx=\"8\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/><text x=\"454\" y=\"100\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#0E9384\">welding</text>\n  <rect x=\"524\" y=\"76\" width=\"96\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"572\" y=\"100\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">now.</text>\n  <text x=\"20\" y=\"158\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">FUTURO</text>\n  <rect x=\"110\" y=\"136\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"160\" y=\"160\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">The truck</text>\n  <rect x=\"220\" y=\"136\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#1570EF\"/><text x=\"265\" y=\"160\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#FFFFFF\">could</text>\n  <rect x=\"320\" y=\"136\" width=\"64\" height=\"36\" rx=\"8\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/><text x=\"352\" y=\"160\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#0E9384\">arrive</text>\n  <rect x=\"394\" y=\"136\" width=\"120\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"454\" y=\"160\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">late.</text>\n  <text x=\"320\" y=\"190\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">azul = modal (no cambia) · naranja = be (no se omite) · verde = verbo (base o -ing)</text>\n</svg>",
+   "caption": "Figura 17.2 — Construcción de la oración. Con adjetivos, lugares y acciones en curso, el BE es obligatorio."
+  },
+  {
+   "title": "Las reglas de oro",
+   "html": "<p><b>Regla de oro 1 — No olvides el BE</b></p><p>\"Puede que esté cansado\" → <span class=\"ok\">He might be tired.</span> Nunca <span class=\"wrong\">He might tired.</span> El modal no reemplaza al verbo: necesitas <b>be</b> cada vez que hay un adjetivo, un lugar o un -ing.</p><p><b>Regla de oro 2 — Lo contrario de MUST BE es CAN'T BE</b></p><p>Si estás casi seguro de que algo <b>no</b> es verdad, di <span class=\"en\">can't be</span> (o <span class=\"en\">couldn't be</span>): <span class=\"ok\">It can't be Carlos. He's on vacation.</span> <span class=\"en\">Mustn't</span> es prohibición (Módulo 16); <span class=\"wrong\">It mustn't be Carlos</span> suena muy raro en inglés estadounidense.</p><p><b>Regla de oro 3 — MAYBE (adverbio) ≠ MAY BE (modal + verbo)</b></p><p><span class=\"en\">Maybe</span> es una sola palabra y va al inicio: <span class=\"ok\">Maybe he's sick.</span> <span class=\"en\">May be</span> son dos palabras y van en el lugar del verbo: <span class=\"ok\">He may be sick.</span> Las dos dicen lo mismo; nunca <span class=\"wrong\">He maybe sick</span> ni <span class=\"wrong\">May be he's sick</span>.</p>"
+  },
+  {
+   "title": "Afirmativo, negativo, pregunta y respuesta corta",
+   "html": "<table><thead><tr><th></th><th>Estructura</th><th>Ejemplo</th><th>Nota</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td>Sujeto + might/may/could/must + verbo</td><td><span class=\"en\">It might rain later.</span></td><td>Mismo sentido con <i>may</i> o <i>could</i>.</td></tr><tr><td><b>Negativo (posible que no)</b></td><td>Sujeto + might not / may not + verbo</td><td><span class=\"en\">He might not come.</span></td><td>Sin contracción en EE. UU.: no se dice <i>mayn't</i>; <i>mightn't</i> casi no se usa.</td></tr><tr><td><b>Negativo (imposible)</b></td><td>Sujeto + can't / couldn't + verbo</td><td><span class=\"en\">That can't be right.</span></td><td><i>Could not</i> ≠ <i>might not</i>: <i>couldn't</i> = imposible.</td></tr><tr><td><b>Pregunta</b></td><td>Could + sujeto + verbo…? / Do you think…?</td><td><span class=\"en\">Could it be the gasket? / Do you think it's the gasket?</span></td><td><i>May</i> y <i>must</i> casi no se usan en preguntas de probabilidad.</td></tr><tr><td><b>Respuesta corta</b></td><td>Sujeto + modal (+ be)</td><td><span class=\"en\">— Is he at the site? — He might be. / He must be.</span></td><td>Con <i>be</i> se repite: <i>He might be.</i></td></tr></tbody></table><p><b>Así piensa un nativo — might es el comodín</b></p><p>En el habla diaria de EE. UU., <span class=\"en\">might</span> es la opción más frecuente para \"puede que\". <span class=\"en\">May</span> suena un poco más formal y aparece mucho en textos técnicos (<span class=\"en\">Overpressure may cause damage.</span>). <span class=\"en\">Could</span> se usa cuando enumeras opciones o hipótesis: <span class=\"en\">It could be the gasket, or it could be a crack in the weld.</span></p><p>Un nativo también suaviza con <span class=\"en\">probably</span> y <span class=\"en\">I think</span> en lugar de modales: <span class=\"en\">It's probably the gasket.</span> / <span class=\"en\">I think it's the gasket.</span> Y cuando dice <span class=\"en\">must be</span>, siempre tiene una razón en mente, que muchas veces dice después: <span class=\"en\">You must be tired. You worked 12 hours.</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 260\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs><marker id=\"m17a1\" markerWidth=\"10\" markerHeight=\"10\" refX=\"8\" refY=\"5\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#1570EF\"/></marker></defs>\n  <text x=\"110\" y=\"22\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">EVIDENCIA</text>\n  <text x=\"320\" y=\"22\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">¿QUÉ TAN FUERTE?</text>\n  <text x=\"530\" y=\"22\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">CONCLUSIÓN</text>\n  <rect x=\"20\" y=\"36\" width=\"180\" height=\"56\" rx=\"10\" fill=\"#F2F4F7\" stroke=\"#98A2B3\" stroke-width=\"1.5\"/>\n  <text x=\"110\" y=\"60\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1D2939\">Hay aceite debajo</text>\n  <text x=\"110\" y=\"78\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1D2939\">de la brida.</text>\n  <rect x=\"230\" y=\"36\" width=\"180\" height=\"56\" rx=\"10\" fill=\"#E8F7EF\" stroke=\"#079455\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"60\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#079455\">Evidencia clara</text>\n  <text x=\"320\" y=\"78\" text-anchor=\"middle\" font-size=\"12\" fill=\"#079455\">~95 % seguro</text>\n  <rect x=\"440\" y=\"36\" width=\"180\" height=\"56\" rx=\"10\" fill=\"#079455\"/>\n  <text x=\"530\" y=\"60\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#FFFFFF\">The flange must</text>\n  <text x=\"530\" y=\"78\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#FFFFFF\">be leaking.</text>\n  <rect x=\"20\" y=\"108\" width=\"180\" height=\"56\" rx=\"10\" fill=\"#F2F4F7\" stroke=\"#98A2B3\" stroke-width=\"1.5\"/>\n  <text x=\"110\" y=\"132\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1D2939\">La presión baja, pero</text>\n  <text x=\"110\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1D2939\">no sabemos por qué.</text>\n  <rect x=\"230\" y=\"108\" width=\"180\" height=\"56\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"132\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1570EF\">Varias causas posibles</text>\n  <text x=\"320\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1570EF\">~30–50 %</text>\n  <rect x=\"440\" y=\"108\" width=\"180\" height=\"56\" rx=\"10\" fill=\"#1570EF\"/>\n  <text x=\"530\" y=\"132\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#FFFFFF\">It might be the valve,</text>\n  <text x=\"530\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#FFFFFF\">or it could be the seal.</text>\n  <rect x=\"20\" y=\"180\" width=\"180\" height=\"56\" rx=\"10\" fill=\"#F2F4F7\" stroke=\"#98A2B3\" stroke-width=\"1.5\"/>\n  <text x=\"110\" y=\"204\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1D2939\">La bomba es nueva y</text>\n  <text x=\"110\" y=\"222\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1D2939\">pasó la prueba ayer.</text>\n  <rect x=\"230\" y=\"180\" width=\"180\" height=\"56\" rx=\"10\" fill=\"#FEF0EF\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"204\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#D92D20\">Evidencia en contra</text>\n  <text x=\"320\" y=\"222\" text-anchor=\"middle\" font-size=\"12\" fill=\"#D92D20\">~5 %</text>\n  <rect x=\"440\" y=\"180\" width=\"180\" height=\"56\" rx=\"10\" fill=\"#D92D20\"/>\n  <text x=\"530\" y=\"204\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#FFFFFF\">It can't be</text>\n  <text x=\"530\" y=\"222\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#FFFFFF\">the pump.</text>\n  <line x1=\"200\" y1=\"64\" x2=\"226\" y2=\"64\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m17a1)\"/>\n  <line x1=\"410\" y1=\"64\" x2=\"436\" y2=\"64\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m17a1)\"/>\n  <line x1=\"200\" y1=\"136\" x2=\"226\" y2=\"136\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m17a1)\"/>\n  <line x1=\"410\" y1=\"136\" x2=\"436\" y2=\"136\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m17a1)\"/>\n  <line x1=\"200\" y1=\"208\" x2=\"226\" y2=\"208\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m17a1)\"/>\n  <line x1=\"410\" y1=\"208\" x2=\"436\" y2=\"208\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m17a1)\"/>\n</svg>",
+   "caption": "Figura 17.3 — Razonar como un inspector: la fuerza de la evidencia decide el modal."
+  },
+  {
+   "title": "Traducción directa vs interpretación real",
+   "html": "<p>El español tiene <i>deber</i> para obligación y <i>deber de</i> para suposición, aunque en el habla se mezclan. El inglés usa <span class=\"en\">must</span> para los dos, y el contexto decide. Además, <i>puede que</i> + subjuntivo no se traduce con <i>can</i>: se traduce con <span class=\"en\">might / may</span>.</p><table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>Puede que llueva.</td><td><span class=\"en\">It might rain.</span> <span class=\"wrong\">Can that it rains</span></td></tr><tr><td>Debe de estar cansado.</td><td><span class=\"en\">He must be tired.</span></td></tr><tr><td>No puede ser él.</td><td><span class=\"en\">It can't be him.</span> <span class=\"wrong\">It mustn't be him</span></td></tr><tr><td>A lo mejor está en una reunión.</td><td><span class=\"en\">Maybe she's in a meeting.</span></td></tr><tr><td>Quizás no venga.</td><td><span class=\"en\">He might not come.</span> <span class=\"wrong\">Maybe he doesn't comes</span></td></tr><tr><td>¿Será la válvula?</td><td><span class=\"en\">Could it be the valve?</span> <span class=\"wrong\">Will be the valve?</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>Puede que llegue tarde.</td><td><span class=\"wrong\">Can be that he arrives late.</span></td><td><span class=\"ok\">He might arrive late.</span></td></tr><tr><td>Debe de estar en casa.</td><td><span class=\"wrong\">He must to be at home.</span></td><td><span class=\"ok\">He must be at home.</span></td></tr><tr><td>Es posible que esté roto.</td><td><span class=\"wrong\">Is possible that is broken.</span></td><td><span class=\"ok\">It may be broken. / It's possible that it's broken.</span></td></tr><tr><td>¿Quién será?</td><td><span class=\"wrong\">Who will be?</span></td><td><span class=\"ok\">Who could that be? / I wonder who that is.</span></td></tr><tr><td>No creo que sea grave.</td><td><span class=\"wrong\">I don't believe that is grave.</span></td><td><span class=\"ok\">I don't think it's serious. / It's probably not serious.</span></td></tr><tr><td>Seguro que está trabajando.</td><td><span class=\"wrong\">Sure that he is working.</span></td><td><span class=\"ok\">He must be working. / I'm sure he's working.</span></td></tr></tbody></table><p>\"Grave\" en inglés significa \"tumba\"; para salud o problemas se dice <b>serious</b>.</p>"
+  },
+  {
+   "title": "Detalles finos que marcan la diferencia",
+   "html": "<p><b>Detalles finos que marcan la diferencia</b></p><ul><li><b>Can vs could:</b> <span class=\"en\">can</span> expresa una posibilidad <b>general</b>, que a veces ocurre: <span class=\"en\">Hydrogen sulfide can be fatal.</span> Para una situación <b>concreta</b> usa <span class=\"en\">could / might</span>: <span class=\"en\">This leak could be dangerous.</span> Nunca <span class=\"wrong\">It can rain tomorrow</span> para una predicción.</li><li><b>May</b> también significa permiso formal (<span class=\"en\">May I come in?</span>, Módulo 7). El contexto lo aclara.</li><li><b>Will probably / probably won't:</b> <i>probably</i> va <b>después</b> de <i>will</i> y <b>antes</b> de <i>won't</i>: <span class=\"en\">It'll probably rain. It probably won't rain.</span></li><li><b>Pasado:</b> para deducir sobre el pasado se usa <span class=\"en\">must have / might have / can't have</span> + participio (<span class=\"en\">He must have left</span>). Se ve a fondo en el Módulo 19.</li></ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "It might rain later.",
+   "pron": "it mait REIN LÉI-tər",
+   "es": "Puede que llueva más tarde.",
+   "group": "A. Posibilidad (might / may / could)"
+  },
+  {
+   "en": "He might be in a meeting.",
+   "pron": "ji mait bi in ə MÍ-ting",
+   "es": "Quizás esté en una reunión.",
+   "group": "A. Posibilidad (might / may / could)"
+  },
+  {
+   "en": "The parts may arrive on Friday.",
+   "pron": "dhə PARTS mei ə-RÁIV on FRÁI-dei",
+   "es": "Puede que las piezas lleguen el viernes.",
+   "group": "A. Posibilidad (might / may / could)"
+  },
+  {
+   "en": "It could be the gasket.",
+   "pron": "it kud bi dhə GÁS-kit",
+   "es": "Podría ser la empaquetadura.",
+   "group": "A. Posibilidad (might / may / could)"
+  },
+  {
+   "en": "It could take a few days.",
+   "pron": "it kud TEIK ə fyu DEIZ",
+   "es": "Podría tomar unos días.",
+   "group": "A. Posibilidad (might / may / could)"
+  },
+  {
+   "en": "We might need more time.",
+   "pron": "wi mait NID mor TAIM",
+   "es": "Puede que necesitemos más tiempo.",
+   "group": "A. Posibilidad (might / may / could)"
+  },
+  {
+   "en": "I may be wrong, but…",
+   "pron": "ai mei bi RONG bat",
+   "es": "Puede que me equivoque, pero…",
+   "group": "A. Posibilidad (might / may / could)"
+  },
+  {
+   "en": "He might not come.",
+   "pron": "ji mait NOT KAM",
+   "es": "Quizás no venga.",
+   "group": "B. Posibilidad negativa (might not / may not)"
+  },
+  {
+   "en": "It may not be enough.",
+   "pron": "it mei NOT bi i-NÁF",
+   "es": "Puede que no sea suficiente.",
+   "group": "B. Posibilidad negativa (might not / may not)"
+  },
+  {
+   "en": "We might not finish today.",
+   "pron": "wi mait NOT FÍ-nish tə-DÉI",
+   "es": "Puede que no terminemos hoy.",
+   "group": "B. Posibilidad negativa (might not / may not)"
+  },
+  {
+   "en": "The client may not agree.",
+   "pron": "dhə KLÁI-ənt mei NOT ə-GRÍ",
+   "es": "Puede que el cliente no esté de acuerdo.",
+   "group": "B. Posibilidad negativa (might not / may not)"
+  },
+  {
+   "en": "It probably won't be ready.",
+   "pron": "it PRÓ-bə-bli WOUNT bi RÉ-di",
+   "es": "Lo más probable es que no esté listo.",
+   "group": "B. Posibilidad negativa (might not / may not)"
+  },
+  {
+   "en": "You must be tired.",
+   "pron": "yu məst bi TÁI-ərd",
+   "es": "Debes de estar cansado.",
+   "group": "C. Deducción segura (must be)"
+  },
+  {
+   "en": "You must be Ana.",
+   "pron": "yu məst bi Á-nə",
+   "es": "Tú debes de ser Ana.",
+   "group": "C. Deducción segura (must be)"
+  },
+  {
+   "en": "That must be the inspector.",
+   "pron": "dhat məst bi dhi in-SPÉK-tər",
+   "es": "Ese debe de ser el inspector.",
+   "group": "C. Deducción segura (must be)"
+  },
+  {
+   "en": "The flange must be leaking.",
+   "pron": "dhə FLANCH məst bi LÍ-king",
+   "es": "La brida debe de estar goteando.",
+   "group": "C. Deducción segura (must be)"
+  },
+  {
+   "en": "There must be a mistake.",
+   "pron": "dher məst bi ə mis-TÉIK",
+   "es": "Debe de haber un error.",
+   "group": "C. Deducción segura (must be)"
+  },
+  {
+   "en": "You must be joking!",
+   "pron": "yu məst bi YÓU-king",
+   "es": "¡Debes de estar bromeando!",
+   "group": "C. Deducción segura (must be)"
+  },
+  {
+   "en": "It must be nice to work from home.",
+   "pron": "it məst bi NAIS tə werk frəm JOUM",
+   "es": "Debe de ser agradable trabajar desde casa.",
+   "group": "C. Deducción segura (must be)"
+  },
+  {
+   "en": "That can't be right.",
+   "pron": "dhat KANT bi RAIT",
+   "es": "Eso no puede estar bien.",
+   "group": "D. Imposibilidad (can't be / couldn't be)"
+  },
+  {
+   "en": "It can't be the pump.",
+   "pron": "it KANT bi dhə PAMP",
+   "es": "No puede ser la bomba.",
+   "group": "D. Imposibilidad (can't be / couldn't be)"
+  },
+  {
+   "en": "She can't be home yet.",
+   "pron": "shi KANT bi JOUM yet",
+   "es": "No es posible que ya esté en casa.",
+   "group": "D. Imposibilidad (can't be / couldn't be)"
+  },
+  {
+   "en": "He can't be serious.",
+   "pron": "ji KANT bi SÍ-ri-əs",
+   "es": "No puede estar hablando en serio.",
+   "group": "D. Imposibilidad (can't be / couldn't be)"
+  },
+  {
+   "en": "It couldn't be easier.",
+   "pron": "it KÚ-dənt bi Í-zi-ər",
+   "es": "No podría ser más fácil.",
+   "group": "D. Imposibilidad (can't be / couldn't be)"
+  },
+  {
+   "en": "Maybe he's sick.",
+   "pron": "MÉI-bi jiz SIK",
+   "es": "A lo mejor está enfermo.",
+   "group": "E. Adverbios y expresiones de probabilidad"
+  },
+  {
+   "en": "Perhaps we should wait.",
+   "pron": "pər-JÁPS wi shud WEIT",
+   "es": "Quizás deberíamos esperar.",
+   "group": "E. Adverbios y expresiones de probabilidad"
+  },
+  {
+   "en": "It's probably the valve.",
+   "pron": "its PRÓ-bə-bli dhə VALV",
+   "es": "Probablemente es la válvula.",
+   "group": "E. Adverbios y expresiones de probabilidad"
+  },
+  {
+   "en": "It's likely to rain.",
+   "pron": "its LÁIK-li tə REIN",
+   "es": "Es probable que llueva.",
+   "group": "E. Adverbios y expresiones de probabilidad"
+  },
+  {
+   "en": "It's unlikely.",
+   "pron": "its an-LÁIK-li",
+   "es": "Es poco probable.",
+   "group": "E. Adverbios y expresiones de probabilidad"
+  },
+  {
+   "en": "I'm sure it's fine.",
+   "pron": "aim SHUR its FAIN",
+   "es": "Seguro que está bien.",
+   "group": "E. Adverbios y expresiones de probabilidad"
+  },
+  {
+   "en": "There's a good chance that…",
+   "pron": "dherz ə gud CHANS dhat",
+   "es": "Hay buenas probabilidades de que…",
+   "group": "E. Adverbios y expresiones de probabilidad"
+  },
+  {
+   "en": "Could it be the gasket?",
+   "pron": "kud it bi dhə GÁS-kit",
+   "es": "¿Podría ser la empaquetadura?",
+   "group": "F. Preguntar y reaccionar"
+  },
+  {
+   "en": "Do you think it's serious?",
+   "pron": "du yu THINK its SÍ-ri-əs",
+   "es": "¿Crees que es grave?",
+   "group": "F. Preguntar y reaccionar"
+  },
+  {
+   "en": "What could it be?",
+   "pron": "wot KUD it bi",
+   "es": "¿Qué podrá ser?",
+   "group": "F. Preguntar y reaccionar"
+  },
+  {
+   "en": "— Is he coming? — He might.",
+   "pron": "iz ji KÁ-ming / ji MAIT",
+   "es": "— ¿Viene? — Puede que sí.",
+   "group": "F. Preguntar y reaccionar"
+  },
+  {
+   "en": "— Is it ready? — It should be.",
+   "pron": "iz it RÉ-di / it SHUD bi",
+   "es": "— ¿Está listo? — Debería estarlo.",
+   "group": "F. Preguntar y reaccionar"
+  },
+  {
+   "en": "I'm not sure. It depends.",
+   "pron": "aim not SHUR / it di-PÉNDZ",
+   "es": "No estoy seguro. Depende.",
+   "group": "F. Preguntar y reaccionar"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The pressure is dropping. There might be a leak in the line.",
+   "es": "La presión está bajando. Puede que haya una fuga en la línea.",
+   "situation": "Falla en obra"
+  },
+  {
+   "en": "This crack is very small, but it could grow under pressure.",
+   "es": "Esta grieta es muy pequeña, pero podría crecer con la presión.",
+   "situation": "Inspección"
+  },
+  {
+   "en": "There's oil under the flange. The gasket must be damaged.",
+   "es": "Hay aceite debajo de la brida. La empaquetadura debe de estar dañada.",
+   "situation": "Deducción técnica"
+  },
+  {
+   "en": "It can't be the pump. We replaced it last week.",
+   "es": "No puede ser la bomba. La cambiamos la semana pasada.",
+   "situation": "Descartar una causa"
+  },
+  {
+   "en": "The crane may not be available until Thursday.",
+   "es": "Puede que la grúa no esté disponible hasta el jueves.",
+   "situation": "Planificación"
+  },
+  {
+   "en": "Mark isn't answering. He might be on another call.",
+   "es": "Mark no contesta. Quizás esté en otra llamada.",
+   "situation": "Oficina"
+  },
+  {
+   "en": "Look at those clouds. It's going to rain, and the wind could get stronger.",
+   "es": "Mira esas nubes. Va a llover, y el viento podría hacerse más fuerte.",
+   "situation": "Clima"
+  },
+  {
+   "en": "The supplier is probably going to raise prices next year.",
+   "es": "Probablemente el proveedor va a subir los precios el próximo año.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "That number can't be right. The total is too low.",
+   "es": "Ese número no puede estar bien. El total es demasiado bajo.",
+   "situation": "Presupuesto"
+  },
+  {
+   "en": "It's probably just a cold, but it might be the flu.",
+   "es": "Probablemente es solo un resfriado, pero podría ser gripe.",
+   "situation": "Médico"
+  },
+  {
+   "en": "You must be Priya! Sarah told me a lot about you.",
+   "es": "¡Tú debes de ser Priya! Sarah me habló mucho de ti.",
+   "situation": "Vida social"
+  },
+  {
+   "en": "You worked a double shift. You must be exhausted.",
+   "es": "Trabajaste doble turno. Debes de estar agotado.",
+   "situation": "Empatía"
+  },
+  {
+   "en": "The flight might be delayed because of the storm.",
+   "es": "Puede que el vuelo se retrase por la tormenta.",
+   "situation": "Viaje"
+  },
+  {
+   "en": "This place is always full. The food must be really good.",
+   "es": "Este lugar siempre está lleno. La comida debe de ser muy buena.",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "Further corrosion may occur if the coating is not repaired.",
+   "es": "Puede producirse más corrosión si no se repara el recubrimiento.",
+   "situation": "Reporte técnico"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "He might be at the site.",
+     "He might not be at the site.",
+     "Do you think he's at the site?",
+     "He might be. / He might not be."
+    ],
+    [
+     "It could be the valve.",
+     "It can't be the valve. (imposible)",
+     "Could it be the valve?",
+     "It could be. / No, it can't be."
+    ],
+    [
+     "She must be busy.",
+     "She can't be busy.",
+     "Do you think she's busy?",
+     "She must be. / She can't be."
+    ],
+    [
+     "The parts may arrive today.",
+     "The parts may not arrive today.",
+     "Will the parts arrive today?",
+     "They may. / They may not."
+    ],
+    [
+     "They might be working late.",
+     "They might not be working late.",
+     "Are they working late?",
+     "They might be. / They might not be."
+    ],
+    [
+     "It'll probably rain.",
+     "It probably won't rain.",
+     "Do you think it'll rain?",
+     "It might. / Probably not."
+    ],
+    [
+     "There must be a problem.",
+     "There can't be a problem.",
+     "Could there be a problem?",
+     "There must be. / There can't be."
+    ],
+    [
+     "The report should be ready.",
+     "The report might not be ready yet.",
+     "Is the report ready?",
+     "It should be. / It might not be."
+    ],
+    [
+     "Maybe he's sick.",
+     "Maybe he isn't sick.",
+     "Is he sick, maybe?",
+     "Maybe. / Maybe not."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Carlos",
+   "text": "Edwin, the pressure on line 3 keeps dropping. What could it be?"
+  },
+  {
+   "who": "Edwin",
+   "text": "It might be a leak, or the gauge could be broken. Did you check the gauge?"
+  },
+  {
+   "who": "Carlos",
+   "text": "Yes, I replaced it this morning. It's a new one."
+  },
+  {
+   "who": "Edwin",
+   "text": "Then it can't be the gauge. Is there any oil on the ground?"
+  },
+  {
+   "who": "Carlos",
+   "text": "Yes, a little, near the second flange."
+  },
+  {
+   "who": "Edwin",
+   "text": "OK, so the gasket must be damaged. When did they install it?"
+  },
+  {
+   "who": "Carlos",
+   "text": "Two years ago, I think. But I'm not sure. Mr. Lee may know."
+  },
+  {
+   "who": "Edwin",
+   "text": "He might be in the control room. Let's call him."
+  },
+  {
+   "who": "Carlos",
+   "text": "Do you think we'll have to stop the line?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Probably. It may only take an hour if we have a spare gasket."
+  },
+  {
+   "who": "Carlos",
+   "text": "We should have one in the warehouse."
+  },
+  {
+   "who": "Edwin",
+   "text": "Perfect. You must be tired after the night shift. Go get a coffee, and I'll call Mr. Lee."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "He might tired.",
+   "right": "He might be tired.",
+   "why": "Con adjetivo hace falta be."
+  },
+  {
+   "wrong": "It mustn't be him. (= imposible)",
+   "right": "It can't be him.",
+   "why": "Lo contrario de must be es can't be."
+  },
+  {
+   "wrong": "Can be that it rains.",
+   "right": "It might rain.",
+   "why": "\"Puede que\" = might / may, no can be that."
+  },
+  {
+   "wrong": "She might to come.",
+   "right": "She might come.",
+   "why": "Modal + verbo base, sin to."
+  },
+  {
+   "wrong": "He mights be late.",
+   "right": "He might be late.",
+   "why": "Los modales no llevan -s."
+  },
+  {
+   "wrong": "He maybe is at home.",
+   "right": "Maybe he's at home. / He may be at home.",
+   "why": "Maybe va al inicio; may be (dos palabras) va en lugar del verbo."
+  },
+  {
+   "wrong": "It can rain tomorrow.",
+   "right": "It might rain tomorrow.",
+   "why": "Can = posibilidad general; para una predicción concreta: might / could."
+  },
+  {
+   "wrong": "He doesn't might come.",
+   "right": "He might not come.",
+   "why": "Los modales se niegan solos: might not."
+  },
+  {
+   "wrong": "They must working now.",
+   "right": "They must be working now.",
+   "why": "Acción en curso = modal + be + -ing."
+  },
+  {
+   "wrong": "It will probably not rain.",
+   "right": "It probably won't rain.",
+   "why": "Con negativo, probably va antes de won't."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "eventually",
+   "looks": "eventualmente (quizás)",
+   "means": "al final, tarde o temprano",
+   "fix": "possibly / maybe"
+  },
+  {
+   "en": "actually",
+   "looks": "actualmente",
+   "means": "en realidad",
+   "fix": "currently / at the moment"
+  },
+  {
+   "en": "grave",
+   "looks": "grave (serio)",
+   "means": "tumba",
+   "fix": "serious"
+  },
+  {
+   "en": "probe",
+   "looks": "probable",
+   "means": "sonda / investigar",
+   "fix": "likely / probable"
+  },
+  {
+   "en": "casual",
+   "looks": "casual (por casualidad)",
+   "means": "informal, relajado",
+   "fix": "by chance / accidental"
+  },
+  {
+   "en": "sure",
+   "looks": "seguro (protegido)",
+   "means": "seguro (convencido)",
+   "fix": "safe (protegido) · insurance (póliza)"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Puede que llueva esta tarde. (usa might)",
+    "answers": [
+     "It might rain this afternoon."
+    ],
+    "explain": "\"Puede que\" = might + verbo base. El clima lleva it."
+   },
+   {
+    "prompt": "Debes de estar cansado.",
+    "answers": [
+     "You must be tired."
+    ],
+    "explain": "Deducción segura = must be + adjetivo."
+   },
+   {
+    "prompt": "No puede ser la válvula. La cambiamos ayer.",
+    "answers": [
+     "It can't be the valve. We changed it yesterday.",
+     "It cannot be the valve. We changed it yesterday.",
+     "It can't be the valve. We replaced it yesterday.",
+     "It cannot be the valve. We replaced it yesterday."
+    ],
+    "explain": "Imposible con evidencia → can't be. También replaced."
+   },
+   {
+    "prompt": "Quizás esté en una reunión. (usa might)",
+    "answers": [
+     "He might be in a meeting.",
+     "She might be in a meeting."
+    ],
+    "explain": "Lugar → hace falta be. El sujeto (he/she) se elige por contexto."
+   },
+   {
+    "prompt": "Puede que el cliente no esté de acuerdo. (usa may)",
+    "answers": [
+     "The client may not agree."
+    ],
+    "explain": "Posibilidad negativa → may not, sin contraer."
+   },
+   {
+    "prompt": "Debe de haber un error en el plano.",
+    "answers": [
+     "There must be a mistake in the drawing.",
+     "There must be an error in the drawing."
+    ],
+    "explain": "\"Debe de haber\" = there must be. También an error."
+   },
+   {
+    "prompt": "Ellos deben de estar soldando ahora.",
+    "answers": [
+     "They must be welding now."
+    ],
+    "explain": "Acción en curso → must be + -ing."
+   },
+   {
+    "prompt": "¿Podría ser la empaquetadura?",
+    "answers": [
+     "Could it be the gasket?"
+    ],
+    "explain": "Pregunta de posibilidad → Could + sujeto + be."
+   },
+   {
+    "prompt": "Probablemente no va a estar listo hasta el lunes. (usa will)",
+    "answers": [
+     "It probably won't be ready until Monday.",
+     "It probably will not be ready until Monday."
+    ],
+    "explain": "Probably va antes de won't. Until = hasta."
+   },
+   {
+    "prompt": "Ese número no puede estar bien.",
+    "answers": [
+     "That number can't be right.",
+     "That number cannot be right."
+    ],
+    "explain": "\"No puede estar bien\" = can't be right."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "The truck could arrive late because of the traffic.",
+    "answers": [
+     "El camión podría llegar tarde por el tráfico.",
+     "El camión podría llegar tarde debido al tráfico.",
+     "Puede que el camión llegue tarde por el tráfico."
+    ],
+    "explain": "Could = posibilidad concreta. Because of = por, a causa de."
+   },
+   {
+    "prompt": "You must be the new safety officer.",
+    "answers": [
+     "Usted debe de ser el nuevo encargado de seguridad.",
+     "Tú debes de ser el nuevo encargado de seguridad.",
+     "Usted debe ser el nuevo encargado de seguridad.",
+     "Debes de ser el nuevo encargado de seguridad."
+    ],
+    "explain": "Must be + identidad = deducción, no obligación."
+   },
+   {
+    "prompt": "I may be wrong, but I think the pipe is too short.",
+    "answers": [
+     "Puede que me equivoque, pero creo que el tubo es demasiado corto.",
+     "Quizás me equivoque, pero creo que la tubería es demasiado corta."
+    ],
+    "explain": "I may be wrong = fórmula para suavizar una opinión."
+   },
+   {
+    "prompt": "She can't be home yet. She left five minutes ago.",
+    "answers": [
+     "No es posible que ya esté en casa. Salió hace cinco minutos.",
+     "No puede estar en casa todavía. Salió hace cinco minutos.",
+     "Es imposible que ya esté en casa. Se fue hace cinco minutos."
+    ],
+    "explain": "Can't be = imposible; yet en negativo = todavía / ya."
+   },
+   {
+    "prompt": "Corrosion may occur if the coating is damaged.",
+    "answers": [
+     "Puede producirse corrosión si el recubrimiento está dañado.",
+     "Puede ocurrir corrosión si el recubrimiento está dañado."
+    ],
+    "explain": "May en textos técnicos = posibilidad formal."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "The inspector might busy right now.",
+    "answers": [
+     "The inspector might be busy right now."
+    ],
+    "explain": "Falta be antes del adjetivo."
+   },
+   {
+    "prompt": "It mustn't be Carlos. He's on vacation in Peru.",
+    "answers": [
+     "It can't be Carlos. He's on vacation in Peru.",
+     "It cannot be Carlos. He is on vacation in Peru."
+    ],
+    "explain": "Imposible = can't be, no mustn't."
+   },
+   {
+    "prompt": "She mights know the answer.",
+    "answers": [
+     "She might know the answer."
+    ],
+    "explain": "Los modales no llevan -s."
+   },
+   {
+    "prompt": "We may to need more welders next week.",
+    "answers": [
+     "We may need more welders next week."
+    ],
+    "explain": "Modal + verbo base, sin to."
+   },
+   {
+    "prompt": "He maybe is in the warehouse.",
+    "answers": [
+     "Maybe he's in the warehouse.",
+     "Maybe he is in the warehouse.",
+     "He may be in the warehouse."
+    ],
+    "explain": "Maybe va al inicio, o se usa may be separado."
+   },
+   {
+    "prompt": "They must working on the night shift.",
+    "answers": [
+     "They must be working on the night shift."
+    ],
+    "explain": "Acción en curso = must be + -ing."
+   },
+   {
+    "prompt": "He doesn't might come to the meeting.",
+    "answers": [
+     "He might not come to the meeting."
+    ],
+    "explain": "Los modales se niegan sin do/does."
+   },
+   {
+    "prompt": "Look at those clouds. It can rain this afternoon.",
+    "answers": [
+     "Look at those clouds. It might rain this afternoon.",
+     "Look at those clouds. It could rain this afternoon.",
+     "Look at those clouds. It's going to rain this afternoon.",
+     "Look at those clouds. It is going to rain this afternoon."
+    ],
+    "explain": "Predicción concreta → might / could. También vale It's going to rain."
+   },
+   {
+    "prompt": "Can be that the pump is broken.",
+    "answers": [
+     "The pump might be broken.",
+     "It's possible that the pump is broken.",
+     "It is possible that the pump is broken.",
+     "It may be that the pump is broken.",
+     "The pump may be broken."
+    ],
+    "explain": "\"Puede que\" ≠ can be that; usa might / may. También vale: It may be that the pump is broken."
+   },
+   {
+    "prompt": "Maybe is the gasket. The flange is wet.",
+    "answers": [
+     "Maybe it's the gasket. The flange is wet.",
+     "Maybe it is the gasket. The flange is wet.",
+     "It may be the gasket. The flange is wet."
+    ],
+    "explain": "Maybe es adverbio, no verbo: después va una oración completa con sujeto (it's). También vale It may be the gasket."
+   }
+  ],
+  "bonus": {
+   "prompt": "escribe el opuesto en la escala (de casi seguro a imposible): She must be at the office.",
+   "answer": "She can't be at the office."
+  },
+  "C1": {
+   "instructions": "Completa el diálogo. Usa cada opción una sola vez: must be · can't be · might · may not · could · maybe · probably · might be.",
+   "lines": [
+    {
+     "who": "Sarah",
+     "text": "The welding machine stopped again. What's wrong with it?"
+    },
+    {
+     "who": "Edwin",
+     "text": "I'm not sure. It [1] be the cable, or it could be the generator."
+    },
+    {
+     "who": "Sarah",
+     "text": "It [2] the generator. The lights are still on."
+    },
+    {
+     "who": "Edwin",
+     "text": "True. Then it [3] the cable. Look, it's burned here."
+    },
+    {
+     "who": "Sarah",
+     "text": "Do we have a spare cable?"
+    },
+    {
+     "who": "Edwin",
+     "text": "[4]. Ask Mark. He [5] in the warehouse right now."
+    },
+    {
+     "who": "Sarah",
+     "text": "And if there isn't one? We [6] finish the root pass today."
+    },
+    {
+     "who": "Edwin",
+     "text": "Don't worry. The supplier is close, so a new cable [7] arrive in an hour."
+    },
+    {
+     "who": "Sarah",
+     "text": "OK. It'll [8] cost about 80 dollars. I'll call them."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "might"
+     ],
+     "explain": "Le sigue be, y Edwin no está seguro: posibilidad."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "can't be",
+      "cannot be"
+     ],
+     "explain": "Evidencia en contra (the lights are still on) → imposible."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "must be"
+     ],
+     "explain": "Evidencia clara (it's burned) → deducción segura."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "Maybe"
+     ],
+     "explain": "Respuesta de una palabra: \"a lo mejor\". Va sola, al inicio."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "might be"
+     ],
+     "explain": "No hay verbo después: hace falta be antes del lugar."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "may not"
+     ],
+     "explain": "Posibilidad negativa: puede que no terminemos."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "could"
+     ],
+     "explain": "Posibilidad concreta + verbo base arrive."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "probably"
+     ],
+     "explain": "It'll probably cost: probably después de will."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un reporte breve. Escribe un correo de 6 a 8 oraciones a tu supervisor sobre un problema en obra (una fuga, un retraso, una máquina parada). Incluye: (a) saludo y el problema, (b) una posibilidad con might o may, (c) otra posibilidad con could, (d) una causa descartada con can't be y su razón, (e) una deducción con must be y su evidencia, (f) una predicción con probably, (g) despedida profesional.",
+   "rubric": [
+    "(a) Saludo y problema",
+    "(b) Posibilidad con might/may",
+    "(c) Posibilidad con could",
+    "(d) Causa descartada + razón",
+    "(e) Deducción + evidencia",
+    "(f) Predicción con probably",
+    "(g) Despedida"
+   ],
+   "model": "Subject: Pressure drop on line 3\nHi Mr. Lee,\nThe pressure on line 3 started dropping at 9 a.m. today. It might be a small leak in the underground section. It could also be a problem with the control valve. It can't be the gauge, because Carlos installed a new one this morning. There's oil near the second flange, so the gasket must be damaged. We'll probably need about two hours to replace it.\nBest regards,\nEdwin"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Ubicar una afirmación en la escala de probabilidad.",
+   "test": "Dibuja la escala 0–100 % y coloca 8 oraciones del módulo en 2 minutos; 8 de 8 correctas."
+  },
+  {
+   "skill": "Expresar posibilidad con might / may / could.",
+   "test": "Di 5 causas posibles de una falla real en 1 minuto, sin repetir el mismo modal más de 2 veces."
+  },
+  {
+   "skill": "Hacer deducciones con must be y can't be.",
+   "test": "Mira 5 fotos o situaciones y di una deducción con su evidencia para cada una; cero \"mustn't be\"."
+  },
+  {
+   "skill": "Poner BE donde hace falta.",
+   "test": "Escribe 6 oraciones (2 con adjetivo, 2 con lugar, 2 con -ing) en 3 minutos; 6 de 6 con be."
+  },
+  {
+   "skill": "Preguntar por probabilidad y responder corto.",
+   "test": "Haz 4 preguntas con Could…? / Do you think…? y respóndelas con He might be / It can't be. Grábate."
+  },
+  {
+   "skill": "Escribir un reporte breve de una falla.",
+   "test": "Redacta 6–8 oraciones que cumplan los 7 criterios de C2; compáralo con el modelo."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "Where do you think your best friend is right now?",
+  "What might you do next weekend?",
+  "Do you think it will rain tomorrow? Use might or probably.",
+  "Your coworker hasn't answered the phone all morning. Why might that be?",
+  "Someone has a big smile today. What must have happened? Use must be.",
+  "What job could you have in five years?"
+ ]
+}

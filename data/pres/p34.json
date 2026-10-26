@@ -1,0 +1,98 @@
+{
+ "id": 34,
+ "topic": "Presentaciones y storytelling",
+ "title": "My Proposal: A Simple Control System for {company}",
+ "practice": "Dila de pie, en voz alta, 3 veces, como si tuvieras público. Luego sin mirar.",
+ "rows": [
+  {
+   "en": "**Good morning, everyone**, and **thanks for coming**.",
+   "es": "Buenos días a todos y gracias por venir."
+  },
+  {
+   "en": "**I'll keep this short**: ten minutes.",
+   "es": "Seré breve: diez minutos."
+  },
+  {
+   "en": "**Let me start with a question**: how much time do we lose looking for information?",
+   "es": "Permítanme empezar con una pregunta: ¿cuánto tiempo perdemos buscando información?"
+  },
+  {
+   "en": "**I've divided my talk into three parts**.",
+   "es": "He dividido mi charla en tres partes."
+  },
+  {
+   "en": "**Imagine this**: a client needs a report today. Can we find the data?",
+   "es": "Imaginen esto: un cliente necesita un reporte hoy. ¿Podemos encontrar los datos?"
+  },
+  {
+   "en": "**This brings me to** my proposal: a simple control system in {tool}.",
+   "es": "Esto me lleva a mi propuesta: un sistema de control simple en {tool}."
+  },
+  {
+   "en": "**As you can see here**, it records every task and every change.",
+   "es": "Como pueden ver aquí, registra cada tarea y cada cambio."
+  },
+  {
+   "en": "It also generates a weekly summary report.",
+   "es": "También genera un reporte resumen semanal."
+  },
+  {
+   "en": "**So, what does this mean for us?** Fewer delays.",
+   "es": "Entonces, ¿qué significa esto para nosotros? Menos retrasos."
+  },
+  {
+   "en": "**To wrap up**: I'm asking for a one-month pilot.",
+   "es": "Para cerrar: les pido un piloto de un mes."
+  },
+  {
+   "en": "**Thanks for your time.** I'd be happy to take any questions.",
+   "es": "Gracias por su tiempo. Con gusto respondo preguntas."
+  }
+ ],
+ "dialogTitle": "Diálogo: la ronda de preguntas",
+ "dialog": [
+  {
+   "who": "Manager",
+   "text": "Have you tested the system with real data?"
+  },
+  {
+   "who": "{name}",
+   "text": "No, I haven't yet, but I can test it with last month's records by Friday."
+  },
+  {
+   "who": "Manager",
+   "text": "OK. And how much will it cost?"
+  },
+  {
+   "who": "{name}",
+   "text": "So, if I understand correctly, you're asking about software costs?"
+  },
+  {
+   "who": "Manager",
+   "text": "Exactly."
+  },
+  {
+   "who": "{name}",
+   "text": "It runs in {tool}, so we don't need any new software. Does that answer your question?"
+  }
+ ],
+ "pron": [
+  {
+   "en": "Good morning, everyone.",
+   "pron": "gud MÓR-ning ÉV-ri-wan"
+  },
+  {
+   "en": "I've divided my talk into three parts.",
+   "pron": "aiv di-VÁI-did mai TOK in-tu THRI parts"
+  },
+  {
+   "en": "This brings me to my proposal.",
+   "pron": "dhis BRINGZ mi tə mai prə-PÓU-zəl"
+  },
+  {
+   "en": "I'd be happy to take any questions.",
+   "pron": "aid bi JÁ-pi tə teik É-ni KUÉS-chənz"
+  }
+ ],
+ "check": "La digo de pie en menos de 2 minutos, sin leer la pantalla ni el papel, con las 5 partes del arco (gancho, problema, solución, prueba, pedido)."
+}

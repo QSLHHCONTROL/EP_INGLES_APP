@@ -1,0 +1,977 @@
+{
+ "id": 27,
+ "level": "C1",
+ "title": "Inversión y énfasis (Not only…, What I need is…)",
+ "goal": "Al terminar podrás dar fuerza y formalidad a lo que dices: invertir el orden tras expresiones negativas (Never have I…, Only after… did we…), usar la inversión condicional (Had I known…, Should you need…) y poner el foco donde quieras con oraciones escindidas (It was Carlos who…, What we need is…), en reportes, correos y reuniones.",
+ "lesson": [
+  {
+   "title": "Dos herramientas de énfasis",
+   "html": "<p>En español movemos las palabras con libertad para dar énfasis: <i>Nunca he visto algo así</i>, <i>Algo así nunca lo he visto</i>. El inglés tiene un orden mucho más rígido (sujeto + verbo + complemento), así que para enfatizar usa dos herramientas concretas:</p><ul>\n<li><b>Inversión</b>: cuando una expresión negativa o restrictiva va al inicio, la oración toma <b>orden de pregunta</b> (auxiliar antes del sujeto): <span class=\"en\">Never have I seen such corrosion.</span></li>\n<li><b>Oraciones escindidas (cleft sentences)</b>: se parte la oración en dos para iluminar una sola parte: <span class=\"en\">It was the gasket that failed.</span> / <span class=\"en\">What we need is more time.</span></li>\n</ul><p>¿Por qué existe la inversión? Porque al poner <i>Never</i> o <i>Not only</i> adelante, el hablante \"anuncia\" algo excepcional, y el orden de pregunta funciona como una señal sonora de que viene algo importante. Es un recurso de registro <b>formal o retórico</b>: aparece en informes, discursos, contratos, cartas al cliente y en relatos con dramatismo.</p>",
+   "svg": "<svg viewBox=\"0 0 640 360\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"44\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">NORMAL</text>\n  <rect x=\"130\" y=\"20\" width=\"60\" height=\"38\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"160\" y=\"45\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">We</text>\n  <rect x=\"200\" y=\"20\" width=\"70\" height=\"38\" rx=\"8\" fill=\"#E8590C\"/><text x=\"235\" y=\"45\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">have</text>\n  <rect x=\"280\" y=\"20\" width=\"90\" height=\"38\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/><text x=\"325\" y=\"45\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#6941C6\">never</text>\n  <rect x=\"380\" y=\"20\" width=\"70\" height=\"38\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"415\" y=\"45\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">seen</text>\n  <rect x=\"460\" y=\"20\" width=\"160\" height=\"38\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"540\" y=\"45\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">such corrosion.</text>\n  <path d=\"M325 60 C 325 92, 175 88, 175 116\" fill=\"none\" stroke=\"#6941C6\" stroke-width=\"2.5\"/>\n  <polygon points=\"169,112 175,122 181,112\" fill=\"#6941C6\"/>\n  <path d=\"M235 60 C 235 90, 265 90, 265 116\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"2.5\" stroke-dasharray=\"5 4\"/>\n  <polygon points=\"259,112 265,122 271,112\" fill=\"#E8590C\"/>\n  <text x=\"20\" y=\"146\" font-size=\"12\" font-weight=\"700\" fill=\"#6941C6\">INVERSIÓN</text>\n  <rect x=\"130\" y=\"122\" width=\"90\" height=\"38\" rx=\"8\" fill=\"#6941C6\"/><text x=\"175\" y=\"147\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">Never</text>\n  <rect x=\"230\" y=\"122\" width=\"70\" height=\"38\" rx=\"8\" fill=\"#E8590C\"/><text x=\"265\" y=\"147\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">have</text>\n  <rect x=\"310\" y=\"122\" width=\"60\" height=\"38\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"340\" y=\"147\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">we</text>\n  <rect x=\"380\" y=\"122\" width=\"70\" height=\"38\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"415\" y=\"147\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">seen</text>\n  <rect x=\"460\" y=\"122\" width=\"160\" height=\"38\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"540\" y=\"147\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">such corrosion.</text>\n  <line x1=\"20\" y1=\"182\" x2=\"620\" y2=\"182\" stroke=\"#F2F4F7\" stroke-width=\"2\"/>\n  <text x=\"20\" y=\"234\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">NORMAL</text>\n  <rect x=\"130\" y=\"210\" width=\"60\" height=\"38\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"160\" y=\"235\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">We</text>\n  <rect x=\"200\" y=\"210\" width=\"90\" height=\"38\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/><text x=\"245\" y=\"235\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#6941C6\">rarely</text>\n  <rect x=\"300\" y=\"210\" width=\"90\" height=\"38\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"345\" y=\"235\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">inspect</text>\n  <rect x=\"400\" y=\"210\" width=\"110\" height=\"38\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"455\" y=\"235\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">the roof.</text>\n  <text x=\"525\" y=\"234\" font-size=\"12\" fill=\"#667085\">sin auxiliar</text>\n  <path d=\"M245 250 C 245 268, 175 262, 175 276\" fill=\"none\" stroke=\"#6941C6\" stroke-width=\"2.5\"/>\n  <polygon points=\"169,272 175,282 181,272\" fill=\"#6941C6\"/>\n  <text x=\"20\" y=\"306\" font-size=\"12\" font-weight=\"700\" fill=\"#6941C6\">INVERSIÓN</text>\n  <rect x=\"130\" y=\"282\" width=\"90\" height=\"38\" rx=\"8\" fill=\"#6941C6\"/><text x=\"175\" y=\"307\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">Rarely</text>\n  <rect x=\"230\" y=\"282\" width=\"60\" height=\"38\" rx=\"8\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><text x=\"260\" y=\"307\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#E8590C\">do</text>\n  <rect x=\"300\" y=\"282\" width=\"60\" height=\"38\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"330\" y=\"307\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">we</text>\n  <rect x=\"370\" y=\"282\" width=\"90\" height=\"38\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"415\" y=\"307\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">inspect</text>\n  <rect x=\"470\" y=\"282\" width=\"110\" height=\"38\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"525\" y=\"307\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">the roof.</text>\n  <text x=\"260\" y=\"344\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#E8590C\">aparece do / does / did, como en una pregunta</text>\n</svg>",
+   "caption": "Figura 27.1 — La inversión: el negativo pasa al inicio y el auxiliar se pone antes del sujeto. Si no hay auxiliar, entra do / does / did."
+  },
+  {
+   "title": "¿Qué auxiliar se invierte?",
+   "html": "<p>Es exactamente la misma lógica que una pregunta (Módulos 4 y 13). Si sabes formar la pregunta, sabes formar la inversión.</p><table>\n<thead><tr><th>Oración normal</th><th>Pregunta</th><th>Inversión</th><th>Auxiliar</th></tr></thead>\n<tbody>\n<tr><td>We have never seen it.</td><td>Have we seen it?</td><td><span class=\"en\">Never have we seen it.</span></td><td>have (perfecto)</td></tr>\n<tr><td>She rarely makes mistakes.</td><td>Does she make mistakes?</td><td><span class=\"en\">Rarely does she make mistakes.</span></td><td>does + verbo base</td></tr>\n<tr><td>I didn't realize it until later.</td><td>Did I realize it?</td><td><span class=\"en\">Not until later did I realize it.</span></td><td>did + verbo base</td></tr>\n<tr><td>You should never open this valve.</td><td>Should you open it?</td><td><span class=\"en\">Under no circumstances should you open this valve.</span></td><td>modal</td></tr>\n<tr><td>The site was so noisy that…</td><td>Was the site noisy?</td><td><span class=\"en\">So noisy was the site that…</span></td><td>be se mueve solo</td></tr>\n<tr><td>We will only approve it if…</td><td>Will we approve it?</td><td><span class=\"en\">Only if … will we approve it.</span></td><td>will</td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 300\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"60\" y=\"14\" width=\"520\" height=\"56\" rx=\"12\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"38\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#4A2B91\">¿La oración empieza con un negativo o restrictivo?</text>\n  <text x=\"320\" y=\"58\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">Never · Rarely · Seldom · Not only · Only after · Not until · Little · Under no circumstances</text>\n  <path d=\"M160 70 L 125 112\" fill=\"none\" stroke=\"#98A2B3\" stroke-width=\"2.5\"/>\n  <polygon points=\"119,106 121,118 131,111\" fill=\"#98A2B3\"/>\n  <text x=\"122\" y=\"90\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">NO</text>\n  <path d=\"M460 70 L 470 106\" fill=\"none\" stroke=\"#6941C6\" stroke-width=\"2.5\"/>\n  <polygon points=\"463,103 471,114 476,101\" fill=\"#6941C6\"/>\n  <text x=\"482\" y=\"92\" font-size=\"12\" font-weight=\"800\" fill=\"#6941C6\">SÍ</text>\n  <rect x=\"20\" y=\"118\" width=\"210\" height=\"62\" rx=\"10\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/>\n  <text x=\"125\" y=\"144\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1D2939\">Orden normal</text>\n  <text x=\"125\" y=\"166\" text-anchor=\"middle\" font-size=\"12\" font-style=\"italic\" fill=\"#344054\">We never work late.</text>\n  <rect x=\"300\" y=\"114\" width=\"320\" height=\"50\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"460\" y=\"136\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">¿Hay auxiliar, modal o be?</text>\n  <text x=\"460\" y=\"154\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">have · will · can · should · is · was…</text>\n  <path d=\"M400 164 L 350 206\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"2.5\"/>\n  <polygon points=\"344,200 346,212 355,205\" fill=\"#E8590C\"/>\n  <text x=\"352\" y=\"186\" font-size=\"12\" font-weight=\"800\" fill=\"#E8590C\">SÍ</text>\n  <path d=\"M520 164 L 540 206\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"2.5\"/>\n  <polygon points=\"533,203 542,212 546,199\" fill=\"#E8590C\"/>\n  <text x=\"542\" y=\"186\" font-size=\"12\" font-weight=\"800\" fill=\"#E8590C\">NO</text>\n  <rect x=\"250\" y=\"212\" width=\"180\" height=\"76\" rx=\"10\" fill=\"#6941C6\"/>\n  <text x=\"340\" y=\"236\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#fff\">Aux + sujeto + verbo</text>\n  <text x=\"340\" y=\"256\" text-anchor=\"middle\" font-size=\"12\" font-style=\"italic\" fill=\"#F2EEFC\">Never have I seen…</text>\n  <text x=\"340\" y=\"276\" text-anchor=\"middle\" font-size=\"12\" font-style=\"italic\" fill=\"#F2EEFC\">Only then can we…</text>\n  <rect x=\"440\" y=\"212\" width=\"190\" height=\"76\" rx=\"10\" fill=\"#6941C6\"/>\n  <text x=\"535\" y=\"236\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#fff\">do / does / did + sujeto</text>\n  <text x=\"535\" y=\"254\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#fff\">+ verbo base</text>\n  <text x=\"535\" y=\"276\" text-anchor=\"middle\" font-size=\"11\" font-style=\"italic\" fill=\"#F2EEFC\">Rarely do we work late.</text>\n</svg>",
+   "caption": "Figura 27.2 — Mapa de decisión: ¿invierto?, ¿con qué auxiliar?"
+  },
+  {
+   "title": "Reglas de oro 1 y 2",
+   "html": "<p><b>Regla de oro 1 — Negativo adelante = orden de pregunta</b></p><p>Si una expresión negativa o restrictiva (<i>never, rarely, seldom, not only, only after, not until, little, at no time, under no circumstances</i>) abre la oración y afecta a toda la oración, el verbo va en <b>orden de pregunta</b>. Sin auxiliar, usa <b>do / does / did</b> + verbo base.</p><p><span class=\"ok\">Rarely do we work on Sundays.</span>   Nunca <span class=\"wrong\">Rarely we work on Sundays.</span></p><p><b>Regla de oro 2 — Solo se invierte la cláusula principal</b></p><p>Con <i>Only after…, Only when…, Not until…</i> hay dos cláusulas. La primera (subordinada) va en orden normal; la inversión ocurre en la segunda, la principal.</p><p><span class=\"ok\">Only after the test was complete did we release the line.</span><br/>Nunca <span class=\"wrong\">Only after was the test complete did we release the line.</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 230\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"165\" y=\"26\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">ORDEN NORMAL (no se invierte)</text>\n  <text x=\"455\" y=\"26\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#6941C6\">INVERSIÓN (cláusula principal)</text>\n  <rect x=\"20\" y=\"38\" width=\"290\" height=\"44\" rx=\"10\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/>\n  <text x=\"165\" y=\"66\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">Only after the test was complete</text>\n  <rect x=\"320\" y=\"38\" width=\"270\" height=\"44\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"455\" y=\"66\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\"><tspan fill=\"#E8590C\" font-weight=\"800\">did we</tspan> release the line.</text>\n  <rect x=\"20\" y=\"96\" width=\"290\" height=\"44\" rx=\"10\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/>\n  <text x=\"165\" y=\"124\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">Not until the client signed</text>\n  <rect x=\"320\" y=\"96\" width=\"270\" height=\"44\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"455\" y=\"124\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\"><tspan fill=\"#E8590C\" font-weight=\"800\">did we</tspan> order the steel.</text>\n  <rect x=\"20\" y=\"158\" width=\"600\" height=\"56\" rx=\"10\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/>\n  <text x=\"36\" y=\"182\" font-size=\"13\" font-weight=\"700\" fill=\"#D92D20\">✗ Only after was the test complete, we released the line.</text>\n  <text x=\"36\" y=\"202\" font-size=\"12\" fill=\"#D92D20\">Error doble: invierte la subordinada y deja la principal en orden normal.</text>\n</svg>",
+   "caption": "Figura 27.3 — Con Only after / Only when / Not until, la inversión va en la segunda parte, nunca en la primera."
+  },
+  {
+   "title": "Oraciones escindidas (cleft)",
+   "html": "<p>La segunda herramienta de énfasis no cambia el orden del auxiliar: <b>divide</b> la información en dos bloques para resaltar uno. Es muy común en el habla diaria, en reuniones y al corregir malentendidos.</p><table>\n<thead><tr><th>Tipo</th><th>Estructura</th><th>Ejemplo</th><th>Uso típico</th></tr></thead>\n<tbody>\n<tr><td><b>It-cleft</b></td><td>It + be + FOCO + who / that + resto</td><td><span class=\"en\">It was the gasket that failed, not the weld.</span></td><td>Corregir o contrastar: <i>fue X (y no Y)</i>.</td></tr>\n<tr><td><b>Wh-cleft</b></td><td>What + sujeto + verbo + be + FOCO</td><td><span class=\"en\">What we need is a revised schedule.</span></td><td>Presentar la idea clave al final, con suspenso.</td></tr>\n<tr><td><b>Wh-cleft con acción</b></td><td>What + sujeto + did + was + (to) verbo</td><td><span class=\"en\">What we did was replace the whole spool.</span></td><td>Contar la acción tomada.</td></tr>\n<tr><td><b>All-cleft</b></td><td>All + sujeto + verbo + be + FOCO</td><td><span class=\"en\">All I need is your signature.</span></td><td>\"Lo único que…\": minimiza lo que pides.</td></tr>\n<tr><td><b>Sustantivo + cláusula</b></td><td>The thing / reason / problem + (that) … + is …</td><td><span class=\"en\">The problem is that the crane isn't certified.</span></td><td>Ordenar el discurso en reuniones.</td></tr>\n</tbody></table><p><b>Regla de oro 3 — It-cleft siempre con IT; wh-cleft siempre con IS/WAS</b></p><p>El español dice <i>Fue Ana quien…</i> sin sujeto, pero el inglés exige <b>It</b>: <span class=\"ok\">It was Ana who approved it.</span> En el wh-cleft, la frase <i>What I need</i> ya es el sujeto: no se agrega <i>it</i>. <span class=\"ok\">What I need is time.</span> Nunca <span class=\"wrong\">What I need it's time.</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 310\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"130\" y=\"12\" width=\"380\" height=\"42\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"39\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#fff\">Carlos found the crack on Monday.</text>\n  <path d=\"M95 54 L 95 272\" fill=\"none\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <path d=\"M130 33 L 95 33 L 95 54\" fill=\"none\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <rect x=\"20\" y=\"80\" width=\"150\" height=\"48\" rx=\"10\" fill=\"#6941C6\"/><text x=\"95\" y=\"109\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">Foco: QUIÉN</text>\n  <rect x=\"190\" y=\"80\" width=\"430\" height=\"48\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <text x=\"206\" y=\"101\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">It was <tspan fill=\"#6941C6\" font-weight=\"800\">Carlos</tspan> who found the crack.</text>\n  <text x=\"206\" y=\"119\" font-size=\"11\" fill=\"#667085\">Fue Carlos quien encontró la grieta.</text>\n  <rect x=\"20\" y=\"136\" width=\"150\" height=\"48\" rx=\"10\" fill=\"#6941C6\"/><text x=\"95\" y=\"165\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">Foco: CUÁNDO</text>\n  <rect x=\"190\" y=\"136\" width=\"430\" height=\"48\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <text x=\"206\" y=\"157\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">It was <tspan fill=\"#6941C6\" font-weight=\"800\">on Monday</tspan> that Carlos found it.</text>\n  <text x=\"206\" y=\"175\" font-size=\"11\" fill=\"#667085\">Fue el lunes cuando Carlos la encontró.</text>\n  <rect x=\"20\" y=\"192\" width=\"150\" height=\"48\" rx=\"10\" fill=\"#6941C6\"/><text x=\"95\" y=\"221\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">Foco: QUÉ</text>\n  <rect x=\"190\" y=\"192\" width=\"430\" height=\"48\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <text x=\"206\" y=\"213\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">What Carlos found was <tspan fill=\"#6941C6\" font-weight=\"800\">a crack</tspan>.</text>\n  <text x=\"206\" y=\"231\" font-size=\"11\" fill=\"#667085\">Lo que Carlos encontró fue una grieta.</text>\n  <rect x=\"20\" y=\"248\" width=\"150\" height=\"48\" rx=\"10\" fill=\"#E8590C\"/><text x=\"95\" y=\"277\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">Foco: SOLO ESO</text>\n  <rect x=\"190\" y=\"248\" width=\"430\" height=\"48\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/>\n  <text x=\"206\" y=\"269\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">All Carlos found was <tspan fill=\"#E8590C\" font-weight=\"800\">a small crack</tspan>.</text>\n  <text x=\"206\" y=\"287\" font-size=\"11\" fill=\"#667085\">Lo único que Carlos encontró fue una pequeña grieta.</text>\n</svg>",
+   "caption": "Figura 27.4 — Una oración base, cuatro focos distintos. La parte resaltada es la información nueva o el contraste."
+  },
+  {
+   "title": "Traducción directa vs inglés real",
+   "html": "<p><b>Lo que piensas en español</b><br>Nunca he visto algo así.<br/>No solo es caro, sino también lento.<br/>Apenas llegamos, empezó a llover.<br/>Lo que necesito es más tiempo.<br/>Fue Ana quien lo aprobó.<br/>Solo después nos enteramos.<br/>Sí lo revisamos.</p><p><b>Lo que dice un nativo</b><br><span class=\"en\">Never have I seen anything like it.</span><br/>\n<span class=\"en\">Not only is it expensive, but it's also slow.</span><br/>\n<span class=\"en\">Hardly had we arrived when it started to rain.</span><br/>\n<span class=\"en\">What I need is more time.</span><br/>\n<span class=\"en\">It was Ana who approved it.</span><br/>\n<span class=\"en\">Only later did we find out.</span><br/>\n<span class=\"en\">We did check it.</span></p><table>\n<thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead>\n<tbody>\n<tr><td>Nunca he visto algo así.</td><td><span class=\"wrong\">Never I have seen something like this.</span></td><td><span class=\"ok\">Never have I seen anything like it.</span></td></tr>\n<tr><td>No solo es caro…</td><td><span class=\"wrong\">Not only is expensive…</span></td><td><span class=\"ok\">Not only is it expensive…</span></td></tr>\n<tr><td>Apenas llegamos, empezó a llover.</td><td><span class=\"wrong\">Hardly we arrived, started to rain.</span></td><td><span class=\"ok\">Hardly had we arrived when it started to rain.</span></td></tr>\n<tr><td>Lo que necesito es más tiempo.</td><td><span class=\"wrong\">That I need is more time.</span></td><td><span class=\"ok\">What I need is more time.</span></td></tr>\n<tr><td>Fue Ana quien lo aprobó.</td><td><span class=\"wrong\">Was Ana who approved it.</span></td><td><span class=\"ok\">It was Ana who approved it.</span></td></tr>\n<tr><td>Solo después nos enteramos.</td><td><span class=\"wrong\">Only later we knew.</span></td><td><span class=\"ok\">Only later did we find out.</span></td></tr>\n<tr><td>Sí lo revisamos (enfático).</td><td><span class=\"wrong\">Yes we revised it.</span></td><td><span class=\"ok\">We did check it.</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Así piensa un nativo",
+   "html": "<p><b>Así piensa un nativo — inversión para escribir, cleft para hablar</b></p><p>En una conversación normal un nativo dice <span class=\"en\">I've never seen anything like it</span>. Reserva <span class=\"en\">Never have I seen…</span> para un informe, un discurso o un momento dramático. En cambio, las oraciones escindidas son constantes en el habla: <span class=\"en\">What I'm saying is…</span>, <span class=\"en\">The thing is…</span>, <span class=\"en\">It's not the price that worries me, it's the lead time.</span> Usar ambas en el lugar correcto es lo que suena a C1.</p><p>Excepciones habladas muy comunes: <span class=\"en\">Little did I know…</span> (al contar una historia), <span class=\"en\">Neither do I / Nor can I</span>, y la inversión condicional formal en correos: <span class=\"en\">Should you have any questions, …</span></p>"
+  },
+  {
+   "title": "La inversión condicional: sin IF",
+   "html": "<p>En registro formal se puede quitar <i>if</i> e invertir el auxiliar (condicionales de los Módulos 18 y 19). Solo funciona con <b>had, should</b> y <b>were</b>.</p><table>\n<thead><tr><th>Con IF</th><th>Inversión (formal)</th><th>Matiz</th></tr></thead>\n<tbody>\n<tr><td>If I had known about the delay, …</td><td><span class=\"en\">Had I known about the delay, …</span></td><td>Condicional 3: pasado irreal.</td></tr>\n<tr><td>If it hadn't been for Ana, …</td><td><span class=\"en\">Had it not been for Ana, …</span></td><td>\"De no haber sido por…\". La negación no se contrae.</td></tr>\n<tr><td>If you need any assistance, …</td><td><span class=\"en\">Should you need any assistance, …</span></td><td>Posibilidad remota y cortés (correos, contratos).</td></tr>\n<tr><td>If we were to cancel the order, …</td><td><span class=\"en\">Were we to cancel the order, …</span></td><td>Hipótesis formal.</td></tr>\n<tr><td>If it weren't for the new pump, …</td><td><span class=\"en\">Were it not for the new pump, …</span></td><td>\"Si no fuera por…\" (presente irreal).</td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "El it-cleft en las cuatro formas",
+   "html": "<p>El it-cleft se comporta como cualquier oración con TO BE: el verbo <i>be</i> se niega con <i>not</i> y se invierte para preguntar. La segunda parte (<i>who/that…</i>) no cambia.</p><table>\n<thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead>\n<tbody>\n<tr><td><b>Afirmativo</b></td><td>It + be + foco + who/that…</td><td><span class=\"en\">It was the gasket that leaked.</span></td></tr>\n<tr><td><b>Negativo</b></td><td>It + be + not + foco + who/that…</td><td><span class=\"en\">It wasn't the weld that leaked.</span></td></tr>\n<tr><td><b>Pregunta</b></td><td>Be + it + foco + who/that…?</td><td><span class=\"en\">Was it the gasket that leaked?</span></td></tr>\n<tr><td><b>Respuesta corta</b></td><td>Yes, it + be. / No, it + be + not.</td><td><span class=\"en\">Yes, it was. / No, it wasn't.</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<p><b>Detalles que marcan la diferencia</b></p><ul>\n<li><b>Posición media = sin inversión.</b> <span class=\"en\">We have never seen it</span> / <span class=\"en\">It's not only expensive but also slow</span>: la inversión solo ocurre si la expresión va al <b>inicio</b>.</li>\n<li><b>Only + sujeto no invierte:</b> <span class=\"en\">Only Carlos knows the password.</span> (Aquí <i>only</i> modifica al sujeto, no a toda la oración.)</li>\n<li><b>Pares fijos:</b> <i>No sooner … <b>than</b></i>; <i>Hardly / Scarcely … <b>when</b></i>. Normalmente con pasado perfecto: <span class=\"en\">No sooner had we started than…</span></li>\n<li><b>Not only + inversión, but + orden normal:</b> <span class=\"en\">Not only did they finish early, but they also cut costs.</span></li>\n<li><b>Wh-cleft con acción:</b> tras <i>What … did was</i> se usa verbo base o <i>to</i> + verbo: <span class=\"en\">What we did was (to) replace the spool.</span> En inglés estadounidense hablado lo común es sin <i>to</i>.</li>\n<li><b>Énfasis con do:</b> en afirmativo, <span class=\"en\">I do understand</span> / <span class=\"en\">We did check</span> contradice una duda. El verbo va en forma base: nunca <span class=\"wrong\">I did checked</span>.</li>\n</ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "Never have I seen…",
+   "pron": "NÉ-ver jav ai SIN",
+   "es": "Nunca he visto…",
+   "group": "A. Adverbios negativos que provocan inversión"
+  },
+  {
+   "en": "Rarely do we…",
+   "pron": "RÉR-li du wi",
+   "es": "Rara vez (nosotros)…",
+   "group": "A. Adverbios negativos que provocan inversión"
+  },
+  {
+   "en": "Seldom does it…",
+   "pron": "SÉL-dəm dəz it",
+   "es": "Pocas veces (eso)…",
+   "group": "A. Adverbios negativos que provocan inversión"
+  },
+  {
+   "en": "Hardly ever does he…",
+   "pron": "JÁRD-li É-ver dəz ji",
+   "es": "Casi nunca (él)…",
+   "group": "A. Adverbios negativos que provocan inversión"
+  },
+  {
+   "en": "Not once did she…",
+   "pron": "not WANS did shi",
+   "es": "Ni una sola vez (ella)…",
+   "group": "A. Adverbios negativos que provocan inversión"
+  },
+  {
+   "en": "At no time did we…",
+   "pron": "ət NÓU taim did wi",
+   "es": "En ningún momento (nosotros)…",
+   "group": "A. Adverbios negativos que provocan inversión"
+  },
+  {
+   "en": "Under no circumstances should you…",
+   "pron": "ÁN-der nou SÉR-kəm-stan-siz shud yu",
+   "es": "Bajo ninguna circunstancia debe usted…",
+   "group": "A. Adverbios negativos que provocan inversión"
+  },
+  {
+   "en": "On no account must…",
+   "pron": "on nou ə-KÁUNT məst",
+   "es": "De ningún modo debe…",
+   "group": "A. Adverbios negativos que provocan inversión"
+  },
+  {
+   "en": "In no way does this…",
+   "pron": "in NÓU wei dəz dhis",
+   "es": "De ninguna manera esto…",
+   "group": "A. Adverbios negativos que provocan inversión"
+  },
+  {
+   "en": "Nowhere else can you…",
+   "pron": "NÓU-wer els kən yu",
+   "es": "En ningún otro lugar puedes…",
+   "group": "A. Adverbios negativos que provocan inversión"
+  },
+  {
+   "en": "No sooner had we … than …",
+   "pron": "nou SÚ-ner jad wi … dhan",
+   "es": "Apenas habíamos … cuando …",
+   "group": "B. Secuencia inmediata en el tiempo"
+  },
+  {
+   "en": "Hardly had I … when …",
+   "pron": "JÁRD-li jad ai … wen",
+   "es": "Apenas había … cuando …",
+   "group": "B. Secuencia inmediata en el tiempo"
+  },
+  {
+   "en": "Scarcely had … when …",
+   "pron": "SKÉRS-li jad … wen",
+   "es": "Apenas había … cuando … (más formal)",
+   "group": "B. Secuencia inmediata en el tiempo"
+  },
+  {
+   "en": "Not until … did …",
+   "pron": "not ən-TÍL … did",
+   "es": "No fue sino hasta … que …",
+   "group": "B. Secuencia inmediata en el tiempo"
+  },
+  {
+   "en": "Only then did we…",
+   "pron": "ÓUN-li DHEN did wi",
+   "es": "Solo entonces (nosotros)…",
+   "group": "C. ONLY + tiempo, condición o medio"
+  },
+  {
+   "en": "Only after … did …",
+   "pron": "ÓUN-li ÁF-ter … did",
+   "es": "Solo después de … (se hizo)…",
+   "group": "C. ONLY + tiempo, condición o medio"
+  },
+  {
+   "en": "Only when … do / did …",
+   "pron": "ÓUN-li WEN … du / did",
+   "es": "Solo cuando …",
+   "group": "C. ONLY + tiempo, condición o medio"
+  },
+  {
+   "en": "Only if … will …",
+   "pron": "ÓUN-li IF … wil",
+   "es": "Solo si …",
+   "group": "C. ONLY + tiempo, condición o medio"
+  },
+  {
+   "en": "Only by …ing can …",
+   "pron": "ÓUN-li BAI … kən",
+   "es": "Solo + gerundio (solo revisando…) se puede…",
+   "group": "C. ONLY + tiempo, condición o medio"
+  },
+  {
+   "en": "Only later did …",
+   "pron": "ÓUN-li LÉI-ter did",
+   "es": "Solo más tarde …",
+   "group": "C. ONLY + tiempo, condición o medio"
+  },
+  {
+   "en": "Not only does it … but it also …",
+   "pron": "not ÓUN-li dəz it … bət it ÓL-sou",
+   "es": "No solo … sino que también …",
+   "group": "D. Not only, Little, So, Such, Neither"
+  },
+  {
+   "en": "Little did I know (that)…",
+   "pron": "LÍ-təl did ai NÓU",
+   "es": "No tenía ni idea de que…",
+   "group": "D. Not only, Little, So, Such, Neither"
+  },
+  {
+   "en": "So + adjetivo + was … that …",
+   "pron": "SÓU … wəz … dhət",
+   "es": "Tan … era … que …",
+   "group": "D. Not only, Little, So, Such, Neither"
+  },
+  {
+   "en": "Such was … that …",
+   "pron": "SACH wəz … dhət",
+   "es": "Tal fue … que …",
+   "group": "D. Not only, Little, So, Such, Neither"
+  },
+  {
+   "en": "Neither do I. / Nor can we.",
+   "pron": "NÍ-dher du ai / NOR kən wi",
+   "es": "Yo tampoco. / Nosotros tampoco.",
+   "group": "D. Not only, Little, So, Such, Neither"
+  },
+  {
+   "en": "Had I known…",
+   "pron": "jad ai NÓUN",
+   "es": "Si hubiera sabido…",
+   "group": "E. Inversión condicional (registro formal)"
+  },
+  {
+   "en": "Had it not been for…",
+   "pron": "jad it NOT bin for",
+   "es": "De no haber sido por…",
+   "group": "E. Inversión condicional (registro formal)"
+  },
+  {
+   "en": "Should you need anything,…",
+   "pron": "shud yu NID É-ni-thing",
+   "es": "Si necesitara algo,…",
+   "group": "E. Inversión condicional (registro formal)"
+  },
+  {
+   "en": "Were it not for…",
+   "pron": "wer it NOT for",
+   "es": "Si no fuera por…",
+   "group": "E. Inversión condicional (registro formal)"
+  },
+  {
+   "en": "Were we to…",
+   "pron": "wer wi tu",
+   "es": "Si llegáramos a…",
+   "group": "E. Inversión condicional (registro formal)"
+  },
+  {
+   "en": "What I need is…",
+   "pron": "wot ai NID iz",
+   "es": "Lo que necesito es…",
+   "group": "F. Oraciones escindidas (cleft) para hablar y escribir"
+  },
+  {
+   "en": "What we did was…",
+   "pron": "wot wi DID wəz",
+   "es": "Lo que hicimos fue…",
+   "group": "F. Oraciones escindidas (cleft) para hablar y escribir"
+  },
+  {
+   "en": "What happened was (that)…",
+   "pron": "wot JÁ-pənd wəz",
+   "es": "Lo que pasó fue que…",
+   "group": "F. Oraciones escindidas (cleft) para hablar y escribir"
+  },
+  {
+   "en": "All I want is…",
+   "pron": "ol ai WONT iz",
+   "es": "Lo único que quiero es…",
+   "group": "F. Oraciones escindidas (cleft) para hablar y escribir"
+  },
+  {
+   "en": "The thing is,…",
+   "pron": "dhə THING iz",
+   "es": "El tema es que…",
+   "group": "F. Oraciones escindidas (cleft) para hablar y escribir"
+  },
+  {
+   "en": "The reason (why) … is that…",
+   "pron": "dhə RÍ-zən wai … iz dhət",
+   "es": "La razón por la que … es que…",
+   "group": "F. Oraciones escindidas (cleft) para hablar y escribir"
+  },
+  {
+   "en": "It was … who / that…",
+   "pron": "it wəz … ju / dhət",
+   "es": "Fue … quien / lo que…",
+   "group": "F. Oraciones escindidas (cleft) para hablar y escribir"
+  },
+  {
+   "en": "It's not … that …; it's …",
+   "pron": "its NOT … dhət … its",
+   "es": "No es … lo que …; es …",
+   "group": "F. Oraciones escindidas (cleft) para hablar y escribir"
+  },
+  {
+   "en": "The last thing we need is…",
+   "pron": "dhə LAST thing wi NID iz",
+   "es": "Lo último que necesitamos es…",
+   "group": "F. Oraciones escindidas (cleft) para hablar y escribir"
+  },
+  {
+   "en": "I do understand.",
+   "pron": "ai DU ən-der-STÁND",
+   "es": "Sí que lo entiendo / De verdad entiendo.",
+   "group": "G. Énfasis con DO e intensificadores"
+  },
+  {
+   "en": "We did check it.",
+   "pron": "wi DID CHEK it",
+   "es": "Sí lo revisamos.",
+   "group": "G. Énfasis con DO e intensificadores"
+  },
+  {
+   "en": "Do take a seat.",
+   "pron": "DU teik ə SIT",
+   "es": "Tome asiento, por favor (invitación cálida).",
+   "group": "G. Énfasis con DO e intensificadores"
+  },
+  {
+   "en": "not … at all",
+   "pron": "not … ə-TÓL",
+   "es": "para nada, en absoluto",
+   "group": "G. Énfasis con DO e intensificadores"
+  },
+  {
+   "en": "no … whatsoever",
+   "pron": "nou … wot-sou-É-ver",
+   "es": "ningún … en absoluto",
+   "group": "G. Énfasis con DO e intensificadores"
+  },
+  {
+   "en": "the very + sustantivo",
+   "pron": "dhə VÉ-ri",
+   "es": "precisamente ese / justo el",
+   "group": "G. Énfasis con DO e intensificadores"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Never have we seen corrosion this severe on a tank bottom.",
+   "es": "Nunca hemos visto una corrosión tan severa en el fondo de un tanque.",
+   "situation": "Informe de inspección"
+  },
+  {
+   "en": "Under no circumstances should hot work begin before the gas test is signed.",
+   "es": "Bajo ninguna circunstancia debe empezar el trabajo en caliente antes de que se firme la prueba de gases.",
+   "situation": "Permiso de trabajo"
+  },
+  {
+   "en": "Not only did the crane arrive late, but it also had the wrong rigging.",
+   "es": "No solo llegó tarde la grúa, sino que además traía el aparejo equivocado.",
+   "situation": "Reunión de obra"
+  },
+  {
+   "en": "Only after the hydrotest was approved did we release the line to operations.",
+   "es": "Solo después de que se aprobó la prueba hidrostática entregamos la línea a operaciones.",
+   "situation": "Prueba hidrostática"
+  },
+  {
+   "en": "What we need is a clear scope of work before we send a quote.",
+   "es": "Lo que necesitamos es un alcance de trabajo claro antes de enviar una cotización.",
+   "situation": "Oficina de ingeniería"
+  },
+  {
+   "en": "It was the flange rating, not the material, that caused the rejection.",
+   "es": "Fue la clase de presión de la brida, no el material, lo que causó el rechazo.",
+   "situation": "Reclamo a proveedor"
+  },
+  {
+   "en": "No sooner had we sat down to dinner than the power went out.",
+   "es": "Apenas nos habíamos sentado a cenar cuando se fue la luz.",
+   "situation": "Relato en casa"
+  },
+  {
+   "en": "Little did I know that my connecting flight had already been canceled.",
+   "es": "No tenía ni idea de que mi vuelo de conexión ya había sido cancelado.",
+   "situation": "Viaje"
+  },
+  {
+   "en": "Should you require any further information, please do not hesitate to contact us.",
+   "es": "Si necesitara más información, no dude en contactarnos.",
+   "situation": "Correo a cliente"
+  },
+  {
+   "en": "Had we known about the delay, we would have rescheduled the crew.",
+   "es": "Si hubiéramos sabido del retraso, habríamos reprogramado a la cuadrilla.",
+   "situation": "Negociación"
+  },
+  {
+   "en": "All I want this weekend is a quiet dinner with my family.",
+   "es": "Lo único que quiero este fin de semana es una cena tranquila con mi familia.",
+   "situation": "Vida social"
+  },
+  {
+   "en": "Rarely do we find this level of pitting in a tank less than ten years old.",
+   "es": "Rara vez encontramos este nivel de picaduras en un tanque de menos de diez años.",
+   "situation": "Reporte técnico"
+  },
+  {
+   "en": "I do understand your concern, but the shutdown date is fixed.",
+   "es": "De verdad entiendo su preocupación, pero la fecha de la parada es fija.",
+   "situation": "Discusión con el jefe"
+  },
+  {
+   "en": "The reason we recommend replacing the valve is that it no longer seals properly.",
+   "es": "La razón por la que recomendamos reemplazar la válvula es que ya no sella bien.",
+   "situation": "Recomendación técnica"
+  },
+  {
+   "en": "Not until I checked my statement did I realize I had been charged twice.",
+   "es": "No fue sino hasta que revisé mi estado de cuenta que me di cuenta de que me habían cobrado dos veces.",
+   "situation": "Banco"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "It was Carlos who signed the permit.",
+     "It wasn't Carlos who signed the permit.",
+     "Was it Carlos who signed the permit?",
+     "Yes, it was. / No, it wasn't."
+    ],
+    [
+     "It's the gasket that's leaking.",
+     "It isn't the gasket that's leaking.",
+     "Is it the gasket that's leaking?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "It was on Monday that the audit started.",
+     "It wasn't on Monday that the audit started.",
+     "Was it on Monday that the audit started?",
+     "Yes, it was. / No, it wasn't."
+    ],
+    [
+     "It's the client who decides.",
+     "It isn't the client who decides.",
+     "Is it the client who decides?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "It was the weather that delayed us.",
+     "It wasn't the weather that delayed us.",
+     "Was it the weather that delayed us?",
+     "Yes, it was. / No, it wasn't."
+    ],
+    [
+     "It's this drawing that has the error.",
+     "It isn't this drawing that has the error.",
+     "Is it this drawing that has the error?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "It was in Houston that they met.",
+     "It wasn't in Houston that they met.",
+     "Was it in Houston that they met?",
+     "Yes, it was. / No, it wasn't."
+    ],
+    [
+     "It's Priya who's in charge of QA.",
+     "It isn't Priya who's in charge of QA.",
+     "Is it Priya who's in charge of QA?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "It was the night shift that found the leak.",
+     "It wasn't the night shift that found the leak.",
+     "Was it the night shift that found the leak?",
+     "Yes, it was. / No, it wasn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Mr. Lee",
+   "text": "Edwin, I'll be honest. Not once in fifteen years have I seen a hydrotest fail on the first fill. What happened?"
+  },
+  {
+   "who": "Edwin",
+   "text": "I understand your frustration. What happened was that a gasket on the manway wasn't seated properly."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "So it wasn't the welds?"
+  },
+  {
+   "who": "Edwin",
+   "text": "No, it wasn't. It was the gasket that leaked. The welds passed radiography last week."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "That's a relief. But under no circumstances can this happen again on the next tank."
+  },
+  {
+   "who": "Edwin",
+   "text": "Agreed. What we're proposing is a second torque check before every fill, signed by our QC inspector."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Only if it's fully documented will our auditors accept it."
+  },
+  {
+   "who": "Edwin",
+   "text": "Of course. Not only will we document it, but we'll also send you the torque records within 24 hours."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Good. And had you called me earlier, I wouldn't have heard about it from the operators first."
+  },
+  {
+   "who": "Edwin",
+   "text": "You're right, and I apologize. Should anything like this happen again, you'll be the first person I call."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "Never I have seen such damage.",
+   "right": "Never have I seen such damage.",
+   "why": "Negativo al inicio exige orden de pregunta: aux + sujeto."
+  },
+  {
+   "wrong": "Rarely we inspect the roof.",
+   "right": "Rarely do we inspect the roof.",
+   "why": "Sin auxiliar en la oración neutra, se agrega do/does/did."
+  },
+  {
+   "wrong": "Not only is expensive, but also slow.",
+   "right": "Not only is it expensive, but it's also slow.",
+   "why": "Falta el sujeto it en ambas partes."
+  },
+  {
+   "wrong": "Only after the test was complete we released the line.",
+   "right": "… did we release the line.",
+   "why": "La cláusula principal debe invertirse."
+  },
+  {
+   "wrong": "Only when did the inspector arrive did we start.",
+   "right": "Only when the inspector arrived did we start.",
+   "why": "La subordinada (when…) va en orden normal."
+  },
+  {
+   "wrong": "No sooner had we arrived when it started to rain.",
+   "right": "No sooner had we arrived than it started to rain.",
+   "why": "No sooner va con than; hardly/scarcely van con when."
+  },
+  {
+   "wrong": "What I need it's more time.",
+   "right": "What I need is more time.",
+   "why": "What I need ya es el sujeto; no se agrega it."
+  },
+  {
+   "wrong": "Was Ana who approved it.",
+   "right": "It was Ana who approved it.",
+   "why": "El it-cleft necesita It al inicio."
+  },
+  {
+   "wrong": "If had I known about the delay, …",
+   "right": "Had I known about the delay, …",
+   "why": "La inversión reemplaza a if; no se usan juntos."
+  },
+  {
+   "wrong": "I did checked the calculations.",
+   "right": "I did check the calculations.",
+   "why": "Tras el do enfático, verbo en forma base."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "hardly",
+   "looks": "duramente",
+   "means": "apenas, casi no",
+   "fix": "hard (He works hard.)"
+  },
+  {
+   "en": "rarely",
+   "looks": "de forma rara",
+   "means": "rara vez",
+   "fix": "strangely / oddly"
+  },
+  {
+   "en": "actually",
+   "looks": "actualmente",
+   "means": "en realidad",
+   "fix": "currently / at present"
+  },
+  {
+   "en": "eventually",
+   "looks": "eventualmente",
+   "means": "al final, con el tiempo",
+   "fix": "occasionally / possibly"
+  },
+  {
+   "en": "on account of",
+   "looks": "\"de ningún modo\" (on no account)",
+   "means": "debido a",
+   "fix": "on no account (= de ningún modo)"
+  },
+  {
+   "en": "Little did I know…",
+   "looks": "\"sabía un poco\"",
+   "means": "no tenía ni idea",
+   "fix": "I knew a little about…"
+  },
+  {
+   "en": "the very problem",
+   "looks": "\"el muy problema\"",
+   "means": "justo ese problema",
+   "fix": "a very serious problem"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Nunca he visto una soldadura tan limpia. (inversión con Never)",
+    "answers": [
+     "Never have I seen such a clean weld.",
+     "Never have I seen a weld this clean."
+    ],
+    "explain": "Negativo al inicio + have I. También vale Never have I seen a weld this clean. Such a + adjetivo + sustantivo singular."
+   },
+   {
+    "prompt": "Rara vez trabajamos los domingos. (inversión con Rarely)",
+    "answers": [
+     "Rarely do we work on Sundays.",
+     "Rarely do we work on Sunday."
+    ],
+    "explain": "Presente simple sin auxiliar → se agrega do + verbo base."
+   },
+   {
+    "prompt": "No solo llegó tarde el proveedor, sino que además envió las bridas equivocadas. (Not only)",
+    "answers": [
+     "Not only did the supplier arrive late, but they also sent the wrong flanges.",
+     "Not only did the supplier arrive late, but it also sent the wrong flanges."
+    ],
+    "explain": "Primera parte invertida con did; segunda en orden normal. Para una empresa, they (más natural en EE. UU.) o it."
+   },
+   {
+    "prompt": "Bajo ninguna circunstancia debe abrirse esta válvula durante la prueba. (voz pasiva)",
+    "answers": [
+     "Under no circumstances should this valve be opened during the test.",
+     "Under no circumstances must this valve be opened during the test."
+    ],
+    "explain": "Modal should antes del sujeto; pasiva be opened (Módulo 20). También vale: Under no circumstances must this valve be opened…"
+   },
+   {
+    "prompt": "Lo que necesitamos es un plano actualizado.",
+    "answers": [
+     "What we need is an updated drawing."
+    ],
+    "explain": "Wh-cleft: What we need es el sujeto → is, sin it. An porque updated empieza con sonido vocal."
+   },
+   {
+    "prompt": "Fue Sarah quien encontró el error.",
+    "answers": [
+     "It was Sarah who found the error.",
+     "It was Sarah who found the mistake.",
+     "It was Sarah that found the error."
+    ],
+    "explain": "It-cleft con foco en persona → who. También the mistake."
+   },
+   {
+    "prompt": "Solo después de la reunión entendí el problema. (inversión)",
+    "answers": [
+     "Only after the meeting did I understand the problem."
+    ],
+    "explain": "Only after + sustantivo; la cláusula principal se invierte con did."
+   },
+   {
+    "prompt": "Apenas habíamos empezado cuando llegó el inspector. (Hardly)",
+    "answers": [
+     "Hardly had we started when the inspector arrived.",
+     "Hardly had we begun when the inspector arrived."
+    ],
+    "explain": "Par fijo Hardly had … when, con pasado perfecto en la parte invertida."
+   },
+   {
+    "prompt": "Si necesita algo, no dude en llamarme. (formal, sin if)",
+    "answers": [
+     "Should you need anything, please don't hesitate to call me.",
+     "Should you need anything, don't hesitate to call me.",
+     "Should you need anything, please do not hesitate to contact me.",
+     "Should you need anything, please do not hesitate to call me.",
+     "Should you need anything, do not hesitate to call me.",
+     "Should you need anything, please don't hesitate to contact me."
+    ],
+    "explain": "Inversión condicional con should reemplaza a if. En correo muy formal: do not hesitate."
+   },
+   {
+    "prompt": "Sí revisé los cálculos. (énfasis con do)",
+    "answers": [
+     "I did check the calculations."
+    ],
+    "explain": "Did enfático + verbo base; contradice una duda."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "Little did we know that the pump had already failed.",
+    "answers": [
+     "No teníamos ni idea de que la bomba ya había fallado.",
+     "No sabíamos en absoluto que la bomba ya había fallado.",
+     "Ni nos imaginábamos que la bomba ya había fallado."
+    ],
+    "explain": "Little did we know = no sabíamos en absoluto; no es \"sabíamos poco\"."
+   },
+   {
+    "prompt": "Not until the paint had dried did the inspector sign off.",
+    "answers": [
+     "El inspector no dio su aprobación hasta que la pintura se secó.",
+     "No fue sino hasta que la pintura se secó que el inspector dio su aprobación.",
+     "El inspector no firmó la conformidad hasta que se secó la pintura."
+    ],
+    "explain": "Not until … did = no fue sino hasta que…; sign off = aprobar, firmar la conformidad."
+   },
+   {
+    "prompt": "All I'm asking for is a realistic deadline.",
+    "answers": [
+     "Lo único que pido es un plazo realista.",
+     "Todo lo que pido es un plazo realista.",
+     "Lo único que estoy pidiendo es una fecha límite realista."
+    ],
+    "explain": "All I'm asking for = lo único que pido (all-cleft)."
+   },
+   {
+    "prompt": "Had it not been for Ana, the project would have stalled.",
+    "answers": [
+     "De no haber sido por Ana, el proyecto se habría estancado.",
+     "Si no hubiera sido por Ana, el proyecto se habría estancado.",
+     "De no ser por Ana, el proyecto se hubiera estancado."
+    ],
+    "explain": "Had it not been for = If it hadn't been for; condicional 3."
+   },
+   {
+    "prompt": "The reason we chose this supplier is that they always deliver on time.",
+    "answers": [
+     "La razón por la que elegimos a este proveedor es que siempre entrega a tiempo.",
+     "La razón por la cual elegimos a este proveedor es que siempre entrega a tiempo.",
+     "Elegimos a este proveedor porque siempre entrega a tiempo."
+    ],
+    "explain": "The reason (why) … is that…; they se refiere a la empresa → en español, singular."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "Never I have worked with such a professional team.",
+    "answers": [
+     "Never have I worked with such a professional team."
+    ],
+    "explain": "Faltaba invertir: have I."
+   },
+   {
+    "prompt": "Seldom the client visits the site.",
+    "answers": [
+     "Seldom does the client visit the site."
+    ],
+    "explain": "Sin auxiliar → does + verbo base (visit, sin -s)."
+   },
+   {
+    "prompt": "Not only the pipes were damaged, but the valves were also missing.",
+    "answers": [
+     "Not only were the pipes damaged, but the valves were also missing."
+    ],
+    "explain": "Tras Not only al inicio: were the pipes."
+   },
+   {
+    "prompt": "Only when the permit was signed we started the job.",
+    "answers": [
+     "Only when the permit was signed did we start the job."
+    ],
+    "explain": "La principal se invierte: did we start."
+   },
+   {
+    "prompt": "No sooner had I sent the email when I noticed the mistake.",
+    "answers": [
+     "No sooner had I sent the email than I noticed the mistake."
+    ],
+    "explain": "No sooner va con than, no con when."
+   },
+   {
+    "prompt": "What the client wants it's a fixed price.",
+    "answers": [
+     "What the client wants is a fixed price."
+    ],
+    "explain": "Sobra it: el sujeto es What the client wants."
+   },
+   {
+    "prompt": "Was the night shift that found the leak.",
+    "answers": [
+     "It was the night shift that found the leak."
+    ],
+    "explain": "Faltaba It al inicio del cleft."
+   },
+   {
+    "prompt": "If had we known, we would have ordered more steel.",
+    "answers": [
+     "Had we known, we would have ordered more steel.",
+     "If we had known, we would have ordered more steel."
+    ],
+    "explain": "Sobra if: la inversión lo reemplaza. (También: If we had known…)"
+   },
+   {
+    "prompt": "I do agreed with you on this point.",
+    "answers": [
+     "I do agree with you on this point."
+    ],
+    "explain": "Tras do enfático, verbo base: agree."
+   },
+   {
+    "prompt": "Under no circumstances you should remove the machine guard.",
+    "answers": [
+     "Under no circumstances should you remove the machine guard."
+    ],
+    "explain": "Modal antes del sujeto: should you."
+   }
+  ],
+  "bonus": {
+   "prompt": "reescribe de dos formas, una con Never y otra con Not once: We have never had a safety incident on this site.",
+   "answer": "Never have we had a safety incident on this site. / Not once have we had a safety incident on this site."
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con have, had, what, it, did, can, is, should. Usa cada palabra una sola vez (8 puntos).",
+   "lines": [
+    {
+     "who": "Sarah",
+     "text": "How was the shutdown at the terminal?"
+    },
+    {
+     "who": "You",
+     "text": "Intense. Never [1] I seen a crew work so hard."
+    },
+    {
+     "who": "Sarah",
+     "text": "Were there any problems?"
+    },
+    {
+     "who": "You",
+     "text": "A few. No sooner [2] we opened the manway than we found sludge everywhere."
+    },
+    {
+     "who": "Sarah",
+     "text": "So what slowed you down the most?"
+    },
+    {
+     "who": "You",
+     "text": "[3] slowed us down was the vacuum truck."
+    },
+    {
+     "who": "Sarah",
+     "text": "The truck? I thought [4] was the permits that delayed you."
+    },
+    {
+     "who": "You",
+     "text": "No. Not until Thursday [5] the truck arrive."
+    },
+    {
+     "who": "Sarah",
+     "text": "That's unacceptable. Under no circumstances [6] we accept that from a contractor again."
+    },
+    {
+     "who": "You",
+     "text": "Agreed. All we need [7] a backup supplier."
+    },
+    {
+     "who": "Sarah",
+     "text": "Fine. [8] you find one, send me their quote."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "have"
+     ],
+     "explain": "Never have I seen: presente perfecto invertido. (had también encajaría aquí, pero se necesita en el espacio 2.)"
+    },
+    {
+     "n": 2,
+     "answers": [
+      "had"
+     ],
+     "explain": "No sooner had … than, con pasado perfecto."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "What"
+     ],
+     "explain": "Wh-cleft: What slowed us down was…"
+    },
+    {
+     "n": 4,
+     "answers": [
+      "it"
+     ],
+     "explain": "It-cleft: it was the permits that delayed you."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "did"
+     ],
+     "explain": "Not until Thursday did the truck arrive: pasado simple → did + verbo base."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "can"
+     ],
+     "explain": "Modal invertido: Under no circumstances can we accept… (should también encajaría, pero se necesita en el espacio 8.)"
+    },
+    {
+     "n": 7,
+     "answers": [
+      "is"
+     ],
+     "explain": "All-cleft: All we need is…"
+    },
+    {
+     "n": 8,
+     "answers": [
+      "Should"
+     ],
+     "explain": "Inversión condicional: Should you find one = If you find one."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo formal (7 puntos). Escribe a un cliente, en 6 a 8 oraciones, para explicar por qué se retrasó la entrega de un trabajo y qué harán para recuperar el tiempo. Debes incluir: (a) un wh-cleft (What…), (b) un it-cleft (It was… that…), (c) una inversión con adverbio negativo (Never, Rarely, At no time…), (d) Not only… but… also con inversión, (e) Only after / Only when / Not until con inversión, (f) una inversión condicional (Should… o Had…), (g) saludo, petición clara y cierre formales.",
+   "rubric": [
+    "(a) un wh-cleft (What…)",
+    "(b) un it-cleft (It was… that…)",
+    "(c) una inversión con adverbio negativo (Never, Rarely, At no time…)",
+    "(d) Not only… but… also con inversión",
+    "(e) Only after / Only when / Not until con inversión",
+    "(f) una inversión condicional (Should… o Had…)",
+    "(g) saludo, petición clara y cierre formales"
+   ],
+   "model": "Dear Mr. Lee,\nI am writing to explain the delay in the handover of Tank T-204. It was the late delivery of the roof plates that pushed back our schedule; at no time was the quality of the work compromised. Not only did the supplier ship the plates eleven days late, but they also sent two plates with the wrong thickness. Only after the correct plates arrived on October 10 were we able to resume welding. What we are doing now is running a second shift so that the tank is ready by October 24. Should you wish to review the updated schedule, please let me know, and I will walk you through it on Thursday.\nBest regards,\nEdwin Prieto"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Invertir tras adverbios negativos (never, rarely, not once, at no time…).",
+   "test": "Transforma 8 oraciones neutras de la Parte 3 en menos de 3 minutos; 8 de 8 correctas."
+  },
+  {
+   "skill": "Elegir el auxiliar correcto (have, modal, be o do/does/did).",
+   "test": "Escribe 6 inversiones, una con cada tipo de auxiliar, sin errores de forma base."
+  },
+  {
+   "skill": "Usar Only after / Only when / Not until invirtiendo solo la cláusula principal.",
+   "test": "Redacta 4 oraciones sobre tu trabajo; ninguna con la subordinada invertida."
+  },
+  {
+   "skill": "Usar la inversión condicional (Had I known, Should you need, Were it not for).",
+   "test": "Reescribe 5 condicionales con if sin if, en 2 minutos, cero errores."
+  },
+  {
+   "skill": "Poner el foco con it-cleft y wh-cleft al hablar.",
+   "test": "Grábate 1 minuto explicando un problema de obra con al menos 2 clefts (What happened was…, It was … that…)."
+  },
+  {
+   "skill": "Corregir un malentendido con contraste.",
+   "test": "Di en voz alta 5 frases It's not X that…; it's Y. con entonación clara en X e Y."
+  },
+  {
+   "skill": "Escribir un correo formal con énfasis bien dosificado.",
+   "test": "Redacta un correo de 6–8 oraciones con los 7 elementos de C2 y compáralo con el modelo."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What is something you have never seen before at work? Start with \"Never have I…\".",
+  "What do you need most in your job right now? Start with \"What I need is…\".",
+  "Who helped you the most in your career? Use \"It was… who…\".",
+  "What is the main reason you are learning English? Start with \"The reason I'm learning English is…\".",
+  "How would you offer help at the end of a formal email? Use \"Should you need…\".",
+  "What surprised you about your first job? Start with \"Little did I know…\"."
+ ]
+}

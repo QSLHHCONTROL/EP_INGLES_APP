@@ -1,0 +1,94 @@
+{
+ "id": 19,
+ "topic": "Condicional 3 y mixtos",
+ "title": "Looking Back: Lessons I've Learned",
+ "practice": "Léela en voz alta 3 veces. Luego cuenta 3 lecciones de tu carrera en 1 minuto sin mirar.",
+ "rows": [
+  {
+   "en": "Looking back, every job taught me something.",
+   "es": "Mirando hacia atrás, cada trabajo me enseñó algo."
+  },
+  {
+   "en": "**If** I **hadn't studied** at {school}, I **wouldn't be** {a_profession}.",
+   "es": "Si no hubiera estudiado en {school}, no sería {profession_es}."
+  },
+  {
+   "en": "Without my time at {prevJob}, I **might not have gotten** this job.",
+   "es": "Sin mi etapa en {prevJob}, quizás no habría conseguido este trabajo."
+  },
+  {
+   "en": "**If** I **had studied** English earlier, **I'd speak** it better now.",
+   "es": "Si hubiera estudiado inglés antes, hoy lo hablaría mejor."
+  },
+  {
+   "en": "I **should have practiced** more when I was a student.",
+   "es": "Debí practicar más cuando era estudiante."
+  },
+  {
+   "en": "When something goes wrong, we ask: \"What **should** we **have checked**?\"",
+   "es": "Cuando algo sale mal, preguntamos: \"¿Qué debimos revisar?\""
+  },
+  {
+   "en": "Often the answer is: \"**If** we **had followed** the procedure, it **wouldn't have happened**.\"",
+   "es": "A menudo la respuesta es: \"Si hubiéramos seguido el procedimiento, no habría pasado.\""
+  },
+  {
+   "en": "Without my {tool} trackers, we **could have missed** important details.",
+   "es": "Sin mis controles en {tool}, se nos podrían haber escapado detalles importantes."
+  },
+  {
+   "en": "**I wish I had known** all this as a student.",
+   "es": "Ojalá hubiera sabido todo esto de estudiante."
+  },
+  {
+   "en": "But it's not too late: I'm learning now.",
+   "es": "Pero no es tarde: estoy aprendiendo ahora."
+  }
+ ],
+ "dialogTitle": "Diálogo en una entrevista",
+ "dialog": [
+  {
+   "who": "Recruiter",
+   "text": "What's the biggest lesson you've learned at work?"
+  },
+  {
+   "who": "{name}",
+   "text": "That records matter. Without good records, we would have lost track of many details."
+  },
+  {
+   "who": "Recruiter",
+   "text": "Would you do anything differently?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes. I should have created my {tool} templates earlier."
+  },
+  {
+   "who": "Recruiter",
+   "text": "And your English?"
+  },
+  {
+   "who": "{name}",
+   "text": "If I had started earlier, I'd be fluent now. But I'm working on it."
+  }
+ ],
+ "pron": [
+  {
+   "en": "If I had studied English earlier…",
+   "pron": "if ai jəd STÁ-did ÍN-glish ÉR-li-ər"
+  },
+  {
+   "en": "I should have practiced more.",
+   "pron": "ai SHÚ-dəv PRÁK-tist MOR"
+  },
+  {
+   "en": "It wouldn't have happened.",
+   "pron": "it WÚ-dən-təv JÁ-pənd"
+  },
+  {
+   "en": "I wish I had known.",
+   "pron": "ai WISH ai jəd NOUN"
+  }
+ ],
+ "check": "Digo el monólogo en menos de 90 segundos, sin leer, y pronuncio should have / would have / could have reducidos (SHÚ-dəv, WÚ-dəv, KÚ-dəv) sin errores de forma."
+}

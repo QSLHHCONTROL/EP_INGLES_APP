@@ -1,0 +1,102 @@
+{
+ "id": 3,
+ "topic": "Presente simple",
+ "title": "My Work Routine",
+ "practice": "Léela en voz alta 3 veces. Luego cuéntala 1 minuto sin mirar y cuida la -s de he / she / it.",
+ "rows": [
+  {
+   "en": "I **work** for {company}, a company in {companyPlace}.",
+   "es": "Trabajo para {company}, una empresa en {companyPlace}."
+  },
+  {
+   "en": "My team **handles** {work}.",
+   "es": "Mi equipo se encarga de {work_es}."
+  },
+  {
+   "en": "I **get up** at ___ every morning.",
+   "es": "Me levanto a las ___ todas las mañanas."
+  },
+  {
+   "en": "I **plan** my day, and I **check** a lot of documents.",
+   "es": "Planifico mi día y reviso muchos documentos."
+  },
+  {
+   "en": "I **use** {tool} every day.",
+   "es": "Uso {tool} todos los días."
+  },
+  {
+   "en": "I **keep** a control file for every project.",
+   "es": "Llevo un archivo de control para cada proyecto."
+  },
+  {
+   "en": "It **shows** the progress, the problems and the next steps.",
+   "es": "Muestra el avance, los problemas y los siguientes pasos."
+  },
+  {
+   "en": "Every project **needs** good planning.",
+   "es": "Cada proyecto necesita una buena planificación."
+  },
+  {
+   "en": "I **don't work** alone; I **work** with a great team.",
+   "es": "No trabajo solo; trabajo con un gran equipo."
+  },
+  {
+   "en": "I **always check** my email in the morning.",
+   "es": "Siempre reviso mi correo en la mañana."
+  },
+  {
+   "en": "I **study** English with this book, and I **like** it.",
+   "es": "Estudio inglés con este libro, y me gusta."
+  },
+  {
+   "en": "I **want** to work in {dreamCountry} one day.",
+   "es": "Quiero trabajar en {dreamCountry} algún día."
+  }
+ ],
+ "dialogTitle": "Diálogo con una compañera",
+ "dialog": [
+  {
+   "who": "{coworker}",
+   "text": "Do you speak Spanish, {name}?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, I do. I'm from {country}."
+  },
+  {
+   "who": "{coworker}",
+   "text": "Does {company} have a lot of work these days?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, it does. We have a lot of projects, like {project}."
+  },
+  {
+   "who": "{coworker}",
+   "text": "Do you need help with the report?"
+  },
+  {
+   "who": "{name}",
+   "text": "No, I don't, thanks. Everything is OK."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I always check my email in the morning.",
+   "pron": "ai ÓL-weiz CHEK mai Í-meil in dhə MÓR-ning"
+  },
+  {
+   "en": "I use {tool} every day.",
+   "pron": ""
+  },
+  {
+   "en": "Every project needs good planning.",
+   "pron": "É-vri PRÓ-yekt NIDZ gud PLÁ-ning"
+  },
+  {
+   "en": "I want to work in {dreamCountry}.",
+   "pron": ""
+  }
+ ],
+ "check": "Cuento mi rutina en menos de 1 minuto, sin leer, sin decir I am work y con la -s de la empresa / it / every job sin un solo error."
+}

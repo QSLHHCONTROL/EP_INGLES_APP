@@ -1,0 +1,98 @@
+{
+ "id": 5,
+ "topic": "Presente continuo",
+ "title": "What I'm Doing These Days",
+ "practice": "Léela en voz alta 3 veces. Luego cuenta 1 minuto, sin mirar, qué estás haciendo estos días.",
+ "rows": [
+  {
+   "en": "Right now, **I'm practicing** my English.",
+   "es": "Ahora mismo estoy practicando mi inglés."
+  },
+  {
+   "en": "I work for {company} as {a_jobTitle}.",
+   "es": "Trabajo para {company} como {jobTitle_es}."
+  },
+  {
+   "en": "These days, **I'm working** on projects in {companyPlace}.",
+   "es": "Estos días estoy trabajando en proyectos en {companyPlace}."
+  },
+  {
+   "en": "This month, **we're focusing** on {project}.",
+   "es": "Este mes nos estamos enfocando en {project_es}."
+  },
+  {
+   "en": "**I'm tracking** the daily progress in {tool}.",
+   "es": "Estoy haciendo el control del avance diario en {tool}."
+  },
+  {
+   "en": "**I'm** also **improving** our control files.",
+   "es": "También estoy mejorando nuestros archivos de control."
+  },
+  {
+   "en": "In my free time, **I'm preparing** my CV in English.",
+   "es": "En mi tiempo libre estoy preparando mi CV en inglés."
+  },
+  {
+   "en": "**I'm learning** English with this book.",
+   "es": "Estoy aprendiendo inglés con este libro."
+  },
+  {
+   "en": "**I'm thinking** about a job in {dreamCountry}.",
+   "es": "Estoy pensando en un trabajo en {dreamCountry}."
+  },
+  {
+   "en": "**I'm** also **planning** my future.",
+   "es": "También estoy planeando mi futuro."
+  },
+  {
+   "en": "I know it's a lot of work, but I like it.",
+   "es": "Sé que es mucho trabajo, pero me gusta."
+  }
+ ],
+ "dialogTitle": "Diálogo por teléfono",
+ "dialog": [
+  {
+   "who": "Carlos",
+   "text": "Hi, {name}. What are you doing?"
+  },
+  {
+   "who": "{name}",
+   "text": "I'm checking a report. Why?"
+  },
+  {
+   "who": "Carlos",
+   "text": "The team is waiting for the documents."
+  },
+  {
+   "who": "{name}",
+   "text": "OK. I'm printing the documents right now."
+  },
+  {
+   "who": "Carlos",
+   "text": "Great. Are you coming to the meeting?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, I am. I'm leaving the office now."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I'm practicing my English.",
+   "pron": "aim PRÁK-ti-sing mai ÍN-glish"
+  },
+  {
+   "en": "I'm tracking the daily progress.",
+   "pron": "aim TRÁ-king dhə DÉI-li PRÓ-gres"
+  },
+  {
+   "en": "I'm preparing my CV in English.",
+   "pron": "aim pri-PÉ-ring mai si-VÍ in ÍN-glish"
+  },
+  {
+   "en": "I'm thinking about a job in {dreamCountry}.",
+   "pron": ""
+  }
+ ],
+ "check": "Cuento qué estoy haciendo estos días en menos de 1 minuto, sin leer, sin olvidar am / is / are antes del -ing, y sin poner -ing a know ni a like."
+}

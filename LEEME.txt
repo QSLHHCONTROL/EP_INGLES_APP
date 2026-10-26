@@ -1,0 +1,33 @@
+INGLÉS PRÁCTICO — CÓMO SUBIRLA Y USARLA
+=========================================
+
+1) SUBIRLA A GITHUB (una sola vez, unos 5 minutos)
+   a. Entra a github.com con tu cuenta.
+   b. Arriba a la derecha: "+"  ->  "New repository".
+   c. Nombre: ingles-app   ·  marca "Public"  ·  botón "Create repository".
+   d. En la página del repositorio: "uploading an existing file".
+   e. Descomprime el .zip en tu laptop y ARRASTRA TODO el contenido de la carpeta
+      (index.html, app.js, app.css, sw.js, manifest.webmanifest, y las carpetas
+      data e icons). Botón "Commit changes".
+   f. Ve a "Settings"  ->  "Pages"  ->  en "Branch" elige "main" y "/ (root)"  ->  "Save".
+   g. Espera 1–2 minutos. Tu link será:
+         https://TU-USUARIO.github.io/ingles-app/
+
+2) ABRIRLA
+   - Laptop: abre el link en Edge o Chrome.
+   - iPhone: abre el link en Safari  ->  botón Compartir  ->  "Agregar a pantalla de inicio".
+     Así queda como una app y tus datos no se borran.
+   - Para cargar tus datos ya escritos (Edwin), abre la primera vez:
+         https://TU-USUARIO.github.io/ingles-app/?perfil=edwin
+     Un compañero solo abre el link normal y responde sus propias preguntas.
+
+3) BUENO SABER
+   - Tu progreso y tus grabaciones se guardan en cada equipo por separado.
+     Para pasarlos: Progreso -> "Guardar respaldo" en un equipo y "Cargar respaldo" en el otro.
+   - La primera vez que grabes, el navegador pedirá permiso para el micrófono: acepta.
+   - La transcripción de voz funciona en Safari (iPhone) y en Edge/Chrome (laptop).
+     Si en el iPhone no aparece el texto al grabar desde la pantalla de inicio,
+     abre el mismo link en Safari: tu audio igual queda guardado.
+   - Para actualizar la app más adelante, sube los archivos nuevos al mismo repositorio
+     (reemplazan a los anteriores). Tu progreso no se pierde.
+   - Costo: cero. No necesita cuentas ni internet después de la primera carga.

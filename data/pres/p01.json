@@ -1,0 +1,102 @@
+{
+ "id": 1,
+ "topic": "TO BE",
+ "title": "About Me — {name}",
+ "practice": "Léela en voz alta 3 veces. Luego grábate 45 segundos diciéndola sin mirar.",
+ "rows": [
+  {
+   "en": "Hi! **I'm** {name}.",
+   "es": "¡Hola! Soy {name}."
+  },
+  {
+   "en": "**I'm** from {city}, {country}.",
+   "es": "Soy de {city}, {country}."
+  },
+  {
+   "en": "**I'm** ___ years old.",
+   "es": "Tengo ___ años."
+  },
+  {
+   "en": "**I'm** {a_profession}.",
+   "es": "Soy {profession_es}."
+  },
+  {
+   "en": "**I'm** {a_jobTitle} at {company}.",
+   "es": "Soy {jobTitle_es} en {company}."
+  },
+  {
+   "en": "{company} **is** a company in {companyPlace}.",
+   "es": "{company} es una empresa en {companyPlace}."
+  },
+  {
+   "en": "My work **is** about {work}.",
+   "es": "Mi trabajo es sobre {work_es}."
+  },
+  {
+   "en": "My job **is** interesting, but it **isn't** easy.",
+   "es": "Mi trabajo es interesante, pero no es fácil."
+  },
+  {
+   "en": "My team **is** great, and my coworkers **are** very friendly.",
+   "es": "Mi equipo es genial y mis compañeros son muy amables."
+  },
+  {
+   "en": "Every day at work **is** different.",
+   "es": "Cada día en el trabajo es diferente."
+  },
+  {
+   "en": "**I'm** not a native speaker, but **I'm** ready to learn.",
+   "es": "No soy hablante nativo, pero estoy listo para aprender."
+  },
+  {
+   "en": "English **is** important for my future.",
+   "es": "El inglés es importante para mi futuro."
+  }
+ ],
+ "dialogTitle": "Diálogo en el trabajo",
+ "dialog": [
+  {
+   "who": "{coworker}",
+   "text": "Hi! Are you the new {jobTitle}?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, I am. I'm {name}. Nice to meet you."
+  },
+  {
+   "who": "{coworker}",
+   "text": "Nice to meet you too. Where are you from?"
+  },
+  {
+   "who": "{name}",
+   "text": "I'm from {country}. {city} is my hometown."
+  },
+  {
+   "who": "{coworker}",
+   "text": "Is it nice there?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, it is. It's beautiful!"
+  }
+ ],
+ "pron": [
+  {
+   "en": "I'm {a_profession}.",
+   "pron": ""
+  },
+  {
+   "en": "I'm {a_jobTitle}.",
+   "pron": ""
+  },
+  {
+   "en": "My coworkers are very friendly.",
+   "pron": "mai KÓU-wer-kərz ar VÉ-ri FRÉND-li"
+  },
+  {
+   "en": "I'm ready to learn.",
+   "pron": "aim RÉ-di tə LERN"
+  }
+ ],
+ "check": "Digo la presentación completa en menos de 1 minuto, sin leer, y uso am / is / are sin un solo error."
+}

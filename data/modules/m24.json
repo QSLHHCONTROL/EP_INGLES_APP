@@ -1,0 +1,930 @@
+{
+ "id": 24,
+ "level": "B2",
+ "title": "Oraciones relativas (who, which, that, where)",
+ "goal": "Al terminar podrás unir dos oraciones en una sola con who, which, that, where, whose y when, sabrás cuándo omitir el pronombre, cuándo usar comas y cuándo that está prohibido, y escribirás descripciones técnicas y correos más fluidos y precisos.",
+ "lesson": [
+  {
+   "title": "Introducción",
+   "html": "<p>Una <b>oración relativa</b> da información sobre un sustantivo sin empezar una oración nueva. En español casi todo se resuelve con <i>que</i>: <i>el soldador <b>que</b> contratamos</i>, <i>la válvula <b>que</b> falló</i>, <i>la planta <b>donde</b> trabajo</i>. El inglés exige elegir el pronombre según el <b>tipo de antecedente</b>: persona, cosa, lugar, tiempo o posesión.</p><p>¿Por qué importa? Porque sin relativas hablas en frases cortas y repetitivas: <i>\"We hired a welder. The welder is certified.\"</i> Con relativas suenas como un profesional: <span class=\"en\">We hired a welder who is certified.</span> En informes y especificaciones técnicas las relativas aparecen en casi cada párrafo.</p>",
+   "svg": "<svg viewBox=\"0 0 640 300\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs><marker id=\"ar24a\" markerWidth=\"10\" markerHeight=\"10\" refX=\"8\" refY=\"5\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#1570EF\"/></marker></defs>\n  <text x=\"20\" y=\"26\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">DOS ORACIONES</text>\n  <rect x=\"20\" y=\"36\" width=\"80\" height=\"34\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"60\" y=\"58\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">This is</text>\n  <rect x=\"106\" y=\"36\" width=\"110\" height=\"34\" rx=\"7\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/><text x=\"161\" y=\"58\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#1570EF\">the welder.</text>\n  <rect x=\"340\" y=\"36\" width=\"56\" height=\"34\" rx=\"7\" fill=\"#FEF0EF\" stroke=\"#D92D20\" stroke-width=\"2\"/><text x=\"368\" y=\"58\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#D92D20\">He</text>\n  <rect x=\"402\" y=\"36\" width=\"218\" height=\"34\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"511\" y=\"58\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">repaired the nozzle.</text>\n  <text x=\"278\" y=\"58\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"800\" fill=\"#98A2B3\">+</text>\n  <path d=\"M368 74 C 368 100, 320 100, 320 116\" fill=\"none\" stroke=\"#D92D20\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/>\n  <text x=\"384\" y=\"100\" font-size=\"12\" font-weight=\"700\" fill=\"#D92D20\">he = the welder → WHO</text>\n  <line x1=\"320\" y1=\"120\" x2=\"320\" y2=\"148\" stroke=\"#1570EF\" stroke-width=\"3\" marker-end=\"url(#ar24a)\"/>\n  <text x=\"20\" y=\"174\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">UNA ORACIÓN</text>\n  <rect x=\"20\" y=\"184\" width=\"80\" height=\"40\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"60\" y=\"209\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">This is</text>\n  <rect x=\"106\" y=\"184\" width=\"110\" height=\"40\" rx=\"7\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/><text x=\"161\" y=\"209\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#1570EF\">the welder</text>\n  <rect x=\"222\" y=\"184\" width=\"66\" height=\"40\" rx=\"7\" fill=\"#1570EF\"/><text x=\"255\" y=\"209\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">who</text>\n  <rect x=\"294\" y=\"184\" width=\"218\" height=\"40\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"403\" y=\"209\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">repaired the nozzle.</text>\n  <path d=\"M161 230 L161 246 L512 246 L512 230\" fill=\"none\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"161\" y=\"266\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1570EF\">antecedente</text>\n  <text x=\"403\" y=\"266\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1570EF\">oración relativa (dice cuál soldador)</text>\n  <text x=\"320\" y=\"290\" text-anchor=\"middle\" font-size=\"12\" fill=\"#D92D20\" font-weight=\"700\">Nunca repitas el sujeto: ✗ the welder who he repaired…</text>\n</svg>",
+   "caption": "Figura 24.1 — Unir dos oraciones en una: el pronombre repetido (he) se reemplaza por el relativo (who), que va justo después del antecedente."
+  },
+  {
+   "title": "Los pronombres relativos",
+   "html": "<table><thead><tr><th>Relativo</th><th>Pronunciación</th><th>Se usa para</th><th>Ejemplo</th></tr></thead><tbody><tr><td><span class=\"en\">who</span></td><td><span class=\"pron\">ju</span></td><td>personas</td><td><span class=\"en\">The engineer who designed the tank is from Chile.</span></td></tr><tr><td><span class=\"en\">which</span></td><td><span class=\"pron\">wich</span></td><td>cosas, animales, ideas</td><td><span class=\"en\">The valve which failed was new.</span></td></tr><tr><td><span class=\"en\">that</span></td><td><span class=\"pron\">dhat</span> / débil <span class=\"pron\">dhət</span></td><td>personas o cosas (solo en definidoras)</td><td><span class=\"en\">The valve that failed was new.</span></td></tr><tr><td><span class=\"en\">where</span></td><td><span class=\"pron\">wer</span></td><td>lugares (= in/at which)</td><td><span class=\"en\">This is the shop where we prefabricate the spools.</span></td></tr><tr><td><span class=\"en\">whose</span></td><td><span class=\"pron\">juz</span></td><td>posesión (= cuyo / cuya)</td><td><span class=\"en\">The contractor whose crew finished first got a bonus.</span></td></tr><tr><td><span class=\"en\">when</span></td><td><span class=\"pron\">wen</span></td><td>tiempo (día, año, momento)</td><td><span class=\"en\">I remember the day when the tank passed the hydrotest.</span></td></tr><tr><td><span class=\"en\">whom</span></td><td><span class=\"pron\">jum</span></td><td>persona como objeto (formal)</td><td><span class=\"en\">The inspector to whom I sent the report has replied.</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 300\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs><marker id=\"ar24b\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#667085\"/></marker></defs>\n  <rect x=\"200\" y=\"8\" width=\"240\" height=\"44\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"28\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">¿De qué hablo?</text>\n  <text x=\"320\" y=\"44\" text-anchor=\"middle\" font-size=\"11\" fill=\"#D0D5DD\">mira el antecedente</text>\n  <g stroke=\"#667085\" stroke-width=\"2\" fill=\"none\" marker-end=\"url(#ar24b)\">\n    <path d=\"M240 52 L68 90\"/><path d=\"M280 52 L194 90\"/><path d=\"M320 52 L320 90\"/><path d=\"M360 52 L446 90\"/><path d=\"M400 52 L572 90\"/>\n  </g>\n  <g font-weight=\"800\" text-anchor=\"middle\">\n    <rect x=\"12\" y=\"96\" width=\"112\" height=\"40\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/><text x=\"68\" y=\"121\" font-size=\"14\" fill=\"#1570EF\">Persona</text>\n    <rect x=\"138\" y=\"96\" width=\"112\" height=\"40\" rx=\"8\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/><text x=\"194\" y=\"121\" font-size=\"14\" fill=\"#0E9384\">Cosa / idea</text>\n    <rect x=\"264\" y=\"96\" width=\"112\" height=\"40\" rx=\"8\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/><text x=\"320\" y=\"121\" font-size=\"14\" fill=\"#E8590C\">Lugar</text>\n    <rect x=\"390\" y=\"96\" width=\"112\" height=\"40\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/><text x=\"446\" y=\"121\" font-size=\"14\" fill=\"#6941C6\">Posesión</text>\n    <rect x=\"516\" y=\"96\" width=\"112\" height=\"40\" rx=\"8\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"2\"/><text x=\"572\" y=\"121\" font-size=\"14\" fill=\"#7A5B00\">Tiempo</text>\n  </g>\n  <g font-weight=\"800\" text-anchor=\"middle\" font-size=\"18\">\n    <text x=\"68\" y=\"168\" fill=\"#1D2939\">who</text><text x=\"68\" y=\"190\" font-size=\"12\" fill=\"#667085\">(that)</text>\n    <text x=\"194\" y=\"168\" fill=\"#1D2939\">which</text><text x=\"194\" y=\"190\" font-size=\"12\" fill=\"#667085\">(that)</text>\n    <text x=\"320\" y=\"168\" fill=\"#1D2939\">where</text><text x=\"320\" y=\"190\" font-size=\"12\" fill=\"#667085\">= in / at which</text>\n    <text x=\"446\" y=\"168\" fill=\"#1D2939\">whose</text><text x=\"446\" y=\"190\" font-size=\"12\" fill=\"#667085\">+ sustantivo</text>\n    <text x=\"572\" y=\"168\" fill=\"#1D2939\">when</text><text x=\"572\" y=\"190\" font-size=\"12\" fill=\"#667085\">= on / in which</text>\n  </g>\n  <rect x=\"12\" y=\"210\" width=\"616\" height=\"80\" rx=\"10\" fill=\"#F2F4F7\"/>\n  <text x=\"320\" y=\"234\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1D2939\">Luego pregúntate: ¿identifica (sin comas) o es dato extra (con comas)?</text>\n  <text x=\"320\" y=\"258\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1570EF\">Sin comas → that es posible; si es objeto, puedes omitirlo.</text>\n  <text x=\"320\" y=\"278\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#E8590C\">Con comas → nunca that, nunca omitir.</text>\n</svg>",
+   "caption": "Figura 24.3 — Mapa de decisión: primero el tipo de antecedente, luego las comas."
+  },
+  {
+   "title": "Así piensa un nativo — \"that\" es el comodín de la conversación",
+   "html": "<p>En el inglés estadounidense hablado, <b>that</b> es lo más común para cosas en oraciones definidoras: <span class=\"en\">the report that I sent</span>. <b>Which</b> sin comas existe, pero suena más formal o británico. Para personas, <b>who</b> es lo normal; <i>that</i> también se oye (<span class=\"en\">the guy that called</span>), pero es más informal.</p><p>Y lo más frecuente de todo: <b>omitir</b> el relativo cuando es objeto. Un nativo no dice <i>the report that I sent you</i> sino <span class=\"en\">the report I sent you</span>. Si no reconoces esta omisión, al escuchar pierdes dónde empieza la relativa.</p>"
+  },
+  {
+   "title": "Definidoras y explicativas: la diferencia de las comas",
+   "html": "<p>Hay dos tipos de relativas, y el inglés las distingue mucho más que el español:</p><ul><li><b>Definidoras</b> (defining): dicen <b>cuál</b>. Sin ellas no sabes de quién o de qué hablas. <b>Sin comas</b>.</li><li><b>Explicativas</b> (non-defining): añaden un <b>dato extra</b>. Ya sabes de quién se habla; la información es un paréntesis. <b>Con comas</b>, y <b>nunca con that</b>.</li></ul><table><thead><tr><th></th><th>Definidora</th><th>Explicativa</th></tr></thead><tbody><tr><td><b>Función</b></td><td>Identifica: ¿cuál? ¿quién?</td><td>Añade información extra</td></tr><tr><td><b>Comas</b></td><td>No</td><td>Sí (dos comas, o coma + punto final)</td></tr><tr><td><b>Pronombres</b></td><td>who, which, that, whose, where, when</td><td>who, which, whose, where, when — <b>nunca that</b></td></tr><tr><td><b>¿Se omite el relativo?</b></td><td>Sí, si es objeto</td><td>Nunca</td></tr><tr><td><b>Antecedente típico</b></td><td>the / a + sustantivo común</td><td>nombres propios, <i>my father</i>, cosas únicas</td></tr><tr><td><b>En el habla</b></td><td>Sin pausa</td><td>Pausa breve y tono más bajo, como un paréntesis</td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 340\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <!-- left -->\n  <rect x=\"8\" y=\"8\" width=\"306\" height=\"324\" rx=\"12\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"161\" y=\"34\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#1570EF\">DEFINIDORA · sin comas</text>\n  <text x=\"161\" y=\"54\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">¿Cuál? Identifica entre varios</text>\n  <g>\n    <rect x=\"34\" y=\"70\" width=\"70\" height=\"80\" rx=\"6\" fill=\"#fff\" stroke=\"#98A2B3\" stroke-width=\"2\"/><text x=\"69\" y=\"115\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">T-1</text>\n    <rect x=\"126\" y=\"70\" width=\"70\" height=\"80\" rx=\"6\" fill=\"#1570EF\" stroke=\"#0F4FA8\" stroke-width=\"3\"/><text x=\"161\" y=\"108\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#fff\">T-2</text><text x=\"161\" y=\"126\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">fuga</text>\n    <rect x=\"218\" y=\"70\" width=\"70\" height=\"80\" rx=\"6\" fill=\"#fff\" stroke=\"#98A2B3\" stroke-width=\"2\"/><text x=\"253\" y=\"115\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">T-3</text>\n  </g>\n  <text x=\"161\" y=\"178\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">The tank that has a leak</text>\n  <text x=\"161\" y=\"196\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">is T-2.</text>\n  <text x=\"161\" y=\"218\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">Hay 3 tanques; la relativa dice cuál.</text>\n  <line x1=\"28\" y1=\"232\" x2=\"294\" y2=\"232\" stroke=\"#1570EF\" stroke-dasharray=\"3 3\"/>\n  <text x=\"161\" y=\"254\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#079455\">✓ who / which / that</text>\n  <text x=\"161\" y=\"274\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#079455\">✓ se puede omitir si es objeto</text>\n  <text x=\"161\" y=\"300\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">Si la quitas, la oración</text>\n  <text x=\"161\" y=\"316\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">pierde su sentido.</text>\n  <!-- right -->\n  <rect x=\"326\" y=\"8\" width=\"306\" height=\"324\" rx=\"12\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"479\" y=\"34\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#E8590C\">EXPLICATIVA · con comas</text>\n  <text x=\"479\" y=\"54\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">Dato extra sobre algo ya identificado</text>\n  <rect x=\"444\" y=\"70\" width=\"70\" height=\"80\" rx=\"6\" fill=\"#E8590C\" stroke=\"#B5470A\" stroke-width=\"3\"/><text x=\"479\" y=\"108\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#fff\">T-2</text><text x=\"479\" y=\"126\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">1998</text>\n  <text x=\"479\" y=\"178\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Tank T-2<tspan fill=\"#E8590C\" font-weight=\"800\">,</tspan> which was built</text>\n  <text x=\"479\" y=\"196\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">in 1998<tspan fill=\"#E8590C\" font-weight=\"800\">,</tspan> needs a new floor.</text>\n  <text x=\"479\" y=\"218\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">Ya sé cuál es; el año es un paréntesis.</text>\n  <line x1=\"346\" y1=\"232\" x2=\"612\" y2=\"232\" stroke=\"#E8590C\" stroke-dasharray=\"3 3\"/>\n  <text x=\"479\" y=\"254\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#079455\">✓ who / which</text>\n  <text x=\"479\" y=\"274\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#D92D20\">✗ that   ✗ nunca se omite</text>\n  <text x=\"479\" y=\"300\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">Si la quitas, la oración sigue</text>\n  <text x=\"479\" y=\"316\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">completa: \"Tank T-2 needs a new floor.\"</text>\n</svg>",
+   "caption": "Figura 24.2 — Definidora (identifica, sin comas) vs explicativa (dato extra, con comas, sin that)."
+  },
+  {
+   "title": "Reglas de oro",
+   "html": "<p><b>Regla de oro 1 — El relativo reemplaza al pronombre; no lo repitas</b></p><p>Si el relativo ya es el sujeto o el objeto, no añadas <i>he, she, it, them</i>:</p><p><span class=\"ok\">The pump that we installed works well.</span> Nunca <span class=\"wrong\">The pump that we installed it works well.</span></p><p><b>Regla de oro 2 — Con comas, nunca \"that\"</b></p><p><span class=\"ok\">My manager, who lives in Houston, is visiting next week.</span> Nunca <span class=\"wrong\">My manager, that lives in Houston, …</span></p><p>Truco: si el antecedente es un <b>nombre propio</b> o algo único (<i>my wife, the Eiffel Tower, Tank T-2</i>), casi siempre es explicativa → comas + <i>who/which</i>.</p><p><b>Regla de oro 3 — Relativo de objeto: puedes omitirlo; de sujeto: no</b></p><p>Mira qué viene después del relativo. Si viene un <b>sujeto nuevo</b> (<i>I, we, the client…</i>), el relativo es objeto y puede desaparecer: <span class=\"en\">the drawings (that) <b>you</b> sent</span>. Si viene un <b>verbo</b>, el relativo es sujeto y es obligatorio: <span class=\"en\">the drawings that <b>show</b> the nozzles</span>.</p>"
+  },
+  {
+   "title": "Sujeto u objeto: cuándo se puede omitir",
+   "html": "<table><thead><tr><th>Función del relativo</th><th>Patrón</th><th>Ejemplo</th><th>¿Omitir?</th></tr></thead><tbody><tr><td>Sujeto</td><td>antecedente + relativo + <b>verbo</b></td><td><span class=\"en\">The man who called you is the client.</span></td><td>No</td></tr><tr><td>Objeto</td><td>antecedente + relativo + <b>sujeto + verbo</b></td><td><span class=\"en\">The man (who) you called is the client.</span></td><td>Sí</td></tr><tr><td>Sujeto</td><td>antecedente + relativo + <b>verbo</b></td><td><span class=\"en\">The bolts that hold the flange are loose.</span></td><td>No</td></tr><tr><td>Objeto</td><td>antecedente + relativo + <b>sujeto + verbo</b></td><td><span class=\"en\">The bolts (that) we ordered arrived.</span></td><td>Sí</td></tr><tr><td>Objeto de preposición</td><td>preposición al final (habla)</td><td><span class=\"en\">The project (that) I'm working on is in Freeport.</span></td><td>Sí</td></tr><tr><td>Objeto de preposición</td><td>preposición + which/whom (formal)</td><td><span class=\"en\">The project on which I am working is in Freeport.</span></td><td>No</td></tr></tbody></table>"
+  },
+  {
+   "title": "Traducción literal vs inglés real",
+   "html": "<table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td><span class=\"es\">El ingeniero que vino ayer.</span></td><td><span class=\"en\">The engineer who came yesterday.</span></td></tr><tr><td><span class=\"es\">La empresa en la que trabajo.</span></td><td><span class=\"en\">The company I work for.</span> <span class=\"wrong\">in that I work</span></td></tr><tr><td><span class=\"es\">El cliente cuyo pedido llegó.</span></td><td><span class=\"en\">The client whose order arrived.</span></td></tr><tr><td><span class=\"es\">Lo que necesito es tiempo.</span></td><td><span class=\"en\">What I need is time.</span> <span class=\"wrong\">That I need</span></td></tr><tr><td><span class=\"es\">Mi jefe, que es chileno, …</span></td><td><span class=\"en\">My boss, who is Chilean, …</span> <span class=\"wrong\">, that is</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>La persona con la que hablé.</td><td><span class=\"wrong\">The person with that I spoke.</span></td><td><span class=\"ok\">The person I spoke with. / The person with whom I spoke.</span></td></tr><tr><td>Es el pueblo donde nací.</td><td><span class=\"wrong\">It's the town where I was born there.</span></td><td><span class=\"ok\">It's the town where I was born.</span></td></tr><tr><td>Lo que dijo es verdad.</td><td><span class=\"wrong\">That he said is true.</span></td><td><span class=\"ok\">What he said is true.</span></td></tr><tr><td>La válvula, que estaba oxidada, falló.</td><td><span class=\"wrong\">The valve, that was rusty, failed.</span></td><td><span class=\"ok\">The valve, which was rusty, failed.</span></td></tr><tr><td>El hombre cuyo auto choqué.</td><td><span class=\"wrong\">The man who his car I hit.</span></td><td><span class=\"ok\">The man whose car I hit.</span></td></tr><tr><td>Llegó tarde, lo que molestó al cliente.</td><td><span class=\"wrong\">He arrived late, what annoyed the client.</span></td><td><span class=\"ok\">He arrived late, which annoyed the client.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Afirmativo, negativo, pregunta y respuesta corta",
+   "html": "<p>La oración relativa tiene su propio verbo, que puede ser afirmativo o negativo. La pregunta y la respuesta corta se forman con el verbo de la <b>oración principal</b>.</p><table><thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td>Principal + relativa</td><td><span class=\"en\">The welder who fixed the leak is here.</span></td></tr><tr><td><b>Negativo (principal)</b></td><td>Se niega el verbo principal</td><td><span class=\"en\">The welder who fixed the leak isn't here.</span></td></tr><tr><td><b>Negativo (relativa)</b></td><td>Se niega el verbo de la relativa</td><td><span class=\"en\">Workers who don't wear a harness can't go up.</span></td></tr><tr><td><b>Pregunta</b></td><td>Auxiliar principal + sujeto (con su relativa) + …?</td><td><span class=\"en\">Is the welder who fixed the leak here?</span></td></tr><tr><td><b>Respuesta corta</b></td><td>Pronombre que resume todo el sujeto</td><td><span class=\"en\">Yes, he is. / No, he isn't.</span></td></tr><tr><td><b>Pregunta WH-</b></td><td>La relativa sigue al sustantivo</td><td><span class=\"en\">Where is the report that you wrote?</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<ul><li><b>What = \"lo que\"</b> (sin antecedente): <span class=\"en\">What we need is a bigger crane.</span> No confundas con <i>which</i>, que necesita antecedente.</li><li><b>Which para toda una idea</b> (explicativa, con coma): <span class=\"en\">The crane arrived late, which delayed the lift.</span> Aquí <i>which</i> se refiere a toda la oración anterior. Es el \"lo cual\" del español.</li><li><b>Where = in which / at which</b>: <span class=\"en\">the shop where we work</span> = <span class=\"en\">the shop in which we work</span> = <span class=\"en\">the shop (that) we work in</span>. Pero si el lugar es sujeto u objeto directo, usa <i>which/that</i>: <span class=\"ok\">The shop that we visited was clean.</span> (<i>visit</i> no lleva preposición).</li><li><b>Cuantificadores en explicativas</b> (formal): <span class=\"en\">We tested 20 welds, two of which failed.</span> <span class=\"en\">I have three brothers, all of whom are engineers.</span></li><li><b>Pasiva reducida</b> (Módulo 20): en lugar de <i>the pipes that were delivered yesterday</i>, se dice <span class=\"en\">the pipes delivered yesterday</span>. Y con -ing: <span class=\"en\">the man standing at the gate</span> = <i>who is standing</i>.</li></ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "the person who's in charge",
+   "pron": "dhə PÉR-sən juz in CHARCH",
+   "es": "la persona que está a cargo",
+   "group": "A. Personas (who / that)"
+  },
+  {
+   "en": "the engineer who designed it",
+   "pron": "dhi en-yi-NÍR ju di-ZÁIND it",
+   "es": "el ingeniero que lo diseñó",
+   "group": "A. Personas (who / that)"
+  },
+  {
+   "en": "anyone who needs help",
+   "pron": "É-ni-wan ju NIDZ JELP",
+   "es": "cualquiera que necesite ayuda",
+   "group": "A. Personas (who / that)"
+  },
+  {
+   "en": "the people I work with",
+   "pron": "dhə PÍ-pol ai WERK widh",
+   "es": "la gente con la que trabajo",
+   "group": "A. Personas (who / that)"
+  },
+  {
+   "en": "the guy who called you",
+   "pron": "dhə GAI ju KOLD yu",
+   "es": "el tipo que te llamó",
+   "group": "A. Personas (who / that)"
+  },
+  {
+   "en": "workers who don't wear a harness",
+   "pron": "WÉR-kərz ju dount WER ə JÁR-nəs",
+   "es": "trabajadores que no usan arnés",
+   "group": "A. Personas (who / that)"
+  },
+  {
+   "en": "the inspector I told you about",
+   "pron": "dhi in-SPÉK-tər ai TOULD yu ə-BÁUT",
+   "es": "el inspector del que te hablé",
+   "group": "A. Personas (who / that)"
+  },
+  {
+   "en": "the drawings you sent",
+   "pron": "dhə DRÓ-ingz yu SENT",
+   "es": "los planos que enviaste",
+   "group": "B. Cosas (which / that / omitido)"
+  },
+  {
+   "en": "the valve that failed",
+   "pron": "dhə VALV dhət FEILD",
+   "es": "la válvula que falló",
+   "group": "B. Cosas (which / that / omitido)"
+  },
+  {
+   "en": "the tools we need",
+   "pron": "dhə TULZ wi NID",
+   "es": "las herramientas que necesitamos",
+   "group": "B. Cosas (which / that / omitido)"
+  },
+  {
+   "en": "the bolts that hold the flange",
+   "pron": "dhə BOULTS dhət JOULD dhə FLANCH",
+   "es": "los pernos que sujetan la brida",
+   "group": "B. Cosas (which / that / omitido)"
+  },
+  {
+   "en": "the report I'm working on",
+   "pron": "dhə ri-PÓRT aim WÉR-king on",
+   "es": "el informe en el que estoy trabajando",
+   "group": "B. Cosas (which / that / omitido)"
+  },
+  {
+   "en": "something that works",
+   "pron": "SÁM-thing dhət WERKS",
+   "es": "algo que funcione",
+   "group": "B. Cosas (which / that / omitido)"
+  },
+  {
+   "en": "everything you need",
+   "pron": "ÉV-ri-thing yu NID",
+   "es": "todo lo que necesitas",
+   "group": "B. Cosas (which / that / omitido)"
+  },
+  {
+   "en": "the only thing that matters",
+   "pron": "dhi ÓUN-li thing dhət MÁ-tərz",
+   "es": "lo único que importa",
+   "group": "B. Cosas (which / that / omitido)"
+  },
+  {
+   "en": "the site where we work",
+   "pron": "dhə SAIT wer wi WERK",
+   "es": "la obra donde trabajamos",
+   "group": "C. Lugares y tiempo (where / when)"
+  },
+  {
+   "en": "the town where I grew up",
+   "pron": "dhə TAUN wer ai gru ÁP",
+   "es": "el pueblo donde crecí",
+   "group": "C. Lugares y tiempo (where / when)"
+  },
+  {
+   "en": "the area where the leak is",
+   "pron": "dhi É-ri-ə wer dhə LIK iz",
+   "es": "la zona donde está la fuga",
+   "group": "C. Lugares y tiempo (where / when)"
+  },
+  {
+   "en": "a place where you can relax",
+   "pron": "ə PLEIS wer yu kən ri-LÁKS",
+   "es": "un lugar donde puedes relajarte",
+   "group": "C. Lugares y tiempo (where / when)"
+  },
+  {
+   "en": "the day when we met",
+   "pron": "dhə DEI wen wi MET",
+   "es": "el día en que nos conocimos",
+   "group": "C. Lugares y tiempo (where / when)"
+  },
+  {
+   "en": "the year (when) I started",
+   "pron": "dhə YIR wen ai STÁR-tid",
+   "es": "el año en que empecé",
+   "group": "C. Lugares y tiempo (where / when)"
+  },
+  {
+   "en": "a time when prices were low",
+   "pron": "ə TAIM wen PRÁI-siz wər LOU",
+   "es": "una época en que los precios eran bajos",
+   "group": "C. Lugares y tiempo (where / when)"
+  },
+  {
+   "en": "the client whose order arrived",
+   "pron": "dhə KLÁI-ənt juz OR-dər ə-RÁIVD",
+   "es": "el cliente cuyo pedido llegó",
+   "group": "D. Posesión (whose)"
+  },
+  {
+   "en": "the welder whose test failed",
+   "pron": "dhə WÉL-dər juz TEST FEILD",
+   "es": "el soldador cuya prueba falló",
+   "group": "D. Posesión (whose)"
+  },
+  {
+   "en": "a company whose products I trust",
+   "pron": "ə KÁM-pə-ni juz PRÓ-dəkts ai TRAST",
+   "es": "una empresa en cuyos productos confío",
+   "group": "D. Posesión (whose)"
+  },
+  {
+   "en": "the tank whose roof collapsed",
+   "pron": "dhə TANK juz RUF kə-LÁPST",
+   "es": "el tanque cuyo techo colapsó",
+   "group": "D. Posesión (whose)"
+  },
+  {
+   "en": "my neighbor, whose son is a pilot",
+   "pron": "mai NÉI-bər, juz SAN iz ə PÁI-lət",
+   "es": "mi vecino, cuyo hijo es piloto",
+   "group": "D. Posesión (whose)"
+  },
+  {
+   "en": "…, which is great.",
+   "pron": "wich iz GREIT",
+   "es": "…, lo cual es genial.",
+   "group": "E. Explicativas y \"lo que / lo cual\""
+  },
+  {
+   "en": "…, which means that…",
+   "pron": "wich MINZ dhət",
+   "es": "…, lo que significa que…",
+   "group": "E. Explicativas y \"lo que / lo cual\""
+  },
+  {
+   "en": "…, which caused a delay.",
+   "pron": "wich KOZD ə di-LÉI",
+   "es": "…, lo cual causó un retraso.",
+   "group": "E. Explicativas y \"lo que / lo cual\""
+  },
+  {
+   "en": "What I mean is…",
+   "pron": "wo-TAI MIN iz",
+   "es": "Lo que quiero decir es…",
+   "group": "E. Explicativas y \"lo que / lo cual\""
+  },
+  {
+   "en": "That's exactly what we need.",
+   "pron": "dhats ig-ZÁKT-li wot wi NID",
+   "es": "Eso es exactamente lo que necesitamos.",
+   "group": "E. Explicativas y \"lo que / lo cual\""
+  },
+  {
+   "en": "…, most of whom are welders.",
+   "pron": "MOUST əv JUM ar WÉL-dərz",
+   "es": "…, la mayoría de los cuales son soldadores.",
+   "group": "E. Explicativas y \"lo que / lo cual\""
+  },
+  {
+   "en": "…, none of which passed.",
+   "pron": "NAN əv wich PAST",
+   "es": "…, ninguno de los cuales pasó.",
+   "group": "E. Explicativas y \"lo que / lo cual\""
+  },
+  {
+   "en": "Please find attached the report you requested.",
+   "pron": "pliz faind ə-TÁCHT dhə ri-PÓRT yu ri-KWÉS-tid",
+   "es": "Adjunto el informe que solicitó.",
+   "group": "F. Fórmulas de correo y reunión"
+  },
+  {
+   "en": "As per the drawing we discussed…",
+   "pron": "az pər dhə DRÓ-ing wi dis-KÁST",
+   "es": "Según el plano que conversamos…",
+   "group": "F. Fórmulas de correo y reunión"
+  },
+  {
+   "en": "The issue I mentioned yesterday…",
+   "pron": "dhi Í-shu ai MÉN-shənd YÉS-tər-dei",
+   "es": "El problema que mencioné ayer…",
+   "group": "F. Fórmulas de correo y reunión"
+  },
+  {
+   "en": "Is there anything else you need?",
+   "pron": "iz dher É-ni-thing ELS yu NID",
+   "es": "¿Necesitas algo más?",
+   "group": "F. Fórmulas de correo y reunión"
+  },
+  {
+   "en": "The person you should talk to is…",
+   "pron": "dhə PÉR-sən yu shud TOK tu iz",
+   "es": "La persona con quien deberías hablar es…",
+   "group": "F. Fórmulas de correo y reunión"
+  },
+  {
+   "en": "Here's what I suggest.",
+   "pron": "jirz wo-TAI səg-YÉST",
+   "es": "Esto es lo que sugiero.",
+   "group": "F. Fórmulas de correo y reunión"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "The man who called is the client.",
+     "The man who called isn't the client.",
+     "Is the man who called the client?",
+     "Yes, he is. / No, he isn't."
+    ],
+    [
+     "The valve that failed was new.",
+     "The valve that failed wasn't new.",
+     "Was the valve that failed new?",
+     "Yes, it was. / No, it wasn't."
+    ],
+    [
+     "The drawings you sent are correct.",
+     "The drawings you sent aren't correct.",
+     "Are the drawings I sent correct?",
+     "Yes, they are. / No, they aren't."
+    ],
+    [
+     "The welder whose test failed will retake it.",
+     "The welder whose test failed won't retake it.",
+     "Will the welder whose test failed retake it?",
+     "Yes, he will. / No, he won't."
+    ],
+    [
+     "The shop where we work has a crane.",
+     "The shop where we work doesn't have a crane.",
+     "Does the shop where you work have a crane?",
+     "Yes, it does. / No, it doesn't."
+    ],
+    [
+     "The people I work with speak Spanish.",
+     "The people I work with don't speak Spanish.",
+     "Do the people you work with speak Spanish?",
+     "Yes, they do. / No, they don't."
+    ],
+    [
+     "The engineer who designed it has left.",
+     "The engineer who designed it hasn't left.",
+     "Has the engineer who designed it left?",
+     "Yes, she has. / No, she hasn't."
+    ],
+    [
+     "The bolts we ordered arrived.",
+     "The bolts we ordered didn't arrive.",
+     "Did the bolts we ordered arrive?",
+     "Yes, they did. / No, they didn't."
+    ],
+    [
+     "The supplier you recommended can deliver.",
+     "The supplier you recommended can't deliver.",
+     "Can the supplier I recommended deliver?",
+     "Yes, they can. / No, they can't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Edwin",
+   "text": "Welcome, Mark. Let me show you around. This is the fabrication shop where we build the spools."
+  },
+  {
+   "who": "Mark",
+   "text": "Nice. Who's the guy who's welding over there?"
+  },
+  {
+   "who": "Edwin",
+   "text": "That's Carlos. He's the welder who repaired the nozzle on Tank 5. He's the best we have."
+  },
+  {
+   "who": "Mark",
+   "text": "Good to know. And the tank that's behind the shop, is that T-2?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes. T-2, which was built in 1998, needs a new floor. It's the job we're starting next week."
+  },
+  {
+   "who": "Mark",
+   "text": "Do we have all the plates we need?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Most of them. The supplier whose plates we ordered had a delay, which is why we're two days behind."
+  },
+  {
+   "who": "Mark",
+   "text": "I see. Is there anyone I should talk to about the schedule?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, Sarah. She's the planner who updates the schedule every Friday. Her office is the one next to the gate."
+  },
+  {
+   "who": "Mark",
+   "text": "Perfect. That's exactly what I needed. Thanks, Edwin."
+  }
+ ],
+ "examples": [
+  {
+   "en": "The welds that failed the X-ray test must be cut out and redone.",
+   "es": "Las soldaduras que no pasaron la radiografía deben cortarse y rehacerse.",
+   "situation": "Inspección"
+  },
+  {
+   "en": "Carlos is the welder who repaired the nozzle on Tank 5.",
+   "es": "Carlos es el soldador que reparó la boquilla del tanque 5.",
+   "situation": "Personal"
+  },
+  {
+   "en": "Please find attached the drawings you requested.",
+   "es": "Adjunto los planos que solicitó.",
+   "situation": "Correo"
+  },
+  {
+   "en": "This is the area where we'll store the steel plates.",
+   "es": "Esta es la zona donde almacenaremos las planchas de acero.",
+   "situation": "Obra"
+  },
+  {
+   "en": "Tank T-2, which was built in 1998, needs a new floor.",
+   "es": "El tanque T-2, que fue construido en 1998, necesita un fondo nuevo.",
+   "situation": "Informe técnico"
+  },
+  {
+   "en": "We chose the supplier whose prices were the lowest.",
+   "es": "Elegimos al proveedor cuyos precios eran los más bajos.",
+   "situation": "Proveedores"
+  },
+  {
+   "en": "Workers who don't have a valid permit can't enter the tank.",
+   "es": "Los trabajadores que no tengan un permiso vigente no pueden entrar al tanque.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "The crane arrived two hours late, which delayed the whole lift.",
+   "es": "La grúa llegó dos horas tarde, lo cual retrasó todo el izaje.",
+   "situation": "Reunión"
+  },
+  {
+   "en": "The project I'm working on is due next month.",
+   "es": "El proyecto en el que estoy trabajando vence el próximo mes.",
+   "situation": "Oficina"
+  },
+  {
+   "en": "My brother, who lives in Lima, is also an engineer.",
+   "es": "Mi hermano, que vive en Lima, también es ingeniero.",
+   "situation": "Familia"
+  },
+  {
+   "en": "Talara is the town where I grew up.",
+   "es": "Talara es el pueblo donde crecí.",
+   "situation": "Viaje"
+  },
+  {
+   "en": "I'll never forget the day when I got my first job abroad.",
+   "es": "Nunca olvidaré el día en que conseguí mi primer trabajo en el extranjero.",
+   "situation": "Recuerdo"
+  },
+  {
+   "en": "What the client wants is a fixed price, not an estimate.",
+   "es": "Lo que el cliente quiere es un precio fijo, no un estimado.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "Is this the restaurant you told me about?",
+   "es": "¿Este es el restaurante del que me hablaste?",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "We tested 40 joints, three of which showed porosity.",
+   "es": "Probamos 40 juntas, tres de las cuales mostraron porosidad.",
+   "situation": "Control de calidad"
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "The engineer which designed it…",
+   "right": "The engineer who designed it…",
+   "why": "Para personas, who (o that), no which."
+  },
+  {
+   "wrong": "The pump that we installed it works well.",
+   "right": "The pump that we installed works well.",
+   "why": "El relativo ya es el objeto; no se repite it."
+  },
+  {
+   "wrong": "My father, that is 70, still works.",
+   "right": "My father, who is 70, still works.",
+   "why": "Con comas (explicativa), nunca that."
+  },
+  {
+   "wrong": "The man who his car broke down…",
+   "right": "The man whose car broke down…",
+   "why": "Posesión = whose, no who his."
+  },
+  {
+   "wrong": "That I need is more time.",
+   "right": "What I need is more time.",
+   "why": "\"Lo que\" sin antecedente = what."
+  },
+  {
+   "wrong": "The crane broke down, what delayed the lift.",
+   "right": "The crane broke down, which delayed the lift.",
+   "why": "\"Lo cual\" (refiere a la oración anterior) = which con coma."
+  },
+  {
+   "wrong": "This is the town where I was born there.",
+   "right": "This is the town where I was born.",
+   "why": "Where ya significa \"allí\"; no se repite there."
+  },
+  {
+   "wrong": "The company in that I work…",
+   "right": "The company I work for… / The company for which I work…",
+   "why": "Nunca preposición + that. Preposición al final o + which."
+  },
+  {
+   "wrong": "The workers have a permit can enter.",
+   "right": "The workers who have a permit can enter.",
+   "why": "Relativo de sujeto no se puede omitir."
+  },
+  {
+   "wrong": "Lima which is the capital is very big.",
+   "right": "Lima, which is the capital, is very big.",
+   "why": "Nombre propio + dato extra → explicativa con dos comas."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "whose / who's",
+   "looks": "lo mismo (suenan igual)",
+   "means": "whose = cuyo; who's = who is / who has. Suenan igual.",
+   "fix": "The man whose car… / The man who's (who is) waiting…"
+  },
+  {
+   "en": "which / what",
+   "looks": "los dos = «que / lo que»",
+   "means": "which necesita antecedente; what = \"lo que\", sin antecedente.",
+   "fix": "The tool which broke… / What broke was the tool."
+  },
+  {
+   "en": "where / which",
+   "looks": "los dos = «donde / en el que»",
+   "means": "where = en el cual (lugar); si el lugar es objeto directo, which/that.",
+   "fix": "The city where I live. / The city (that) I visited."
+  },
+  {
+   "en": "that (relativo) / that (demostrativo)",
+   "looks": "la misma palabra",
+   "means": "Relativo débil dhət; demostrativo fuerte DHAT.",
+   "fix": "The bolt that broke… / That bolt is broken."
+  },
+  {
+   "en": "when (relativo) / when (pregunta)",
+   "looks": "la misma palabra",
+   "means": "Como relativo sigue a un sustantivo de tiempo y puede omitirse.",
+   "fix": "The day (when) we met. / When did you meet?"
+  },
+  {
+   "en": "\"el cual / la cual\"",
+   "looks": "the which",
+   "means": "No hay \"the which\". Usa which o who solo.",
+   "fix": "The report, which I sent… (no the which)"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "El ingeniero que diseñó el tanque es de Chile.",
+    "answers": [
+     "The engineer who designed the tank is from Chile.",
+     "The engineer that designed the tank is from Chile."
+    ],
+    "explain": "Persona + relativo de sujeto → who (también that); no se omite."
+   },
+   {
+    "prompt": "Esta es la válvula que falló ayer.",
+    "answers": [
+     "This is the valve that failed yesterday.",
+     "This is the valve which failed yesterday."
+    ],
+    "explain": "Cosa, definidora → that o which."
+   },
+   {
+    "prompt": "Los planos que me enviaste están incompletos. (omite el relativo)",
+    "answers": [
+     "The drawings you sent me are incomplete."
+    ],
+    "explain": "Relativo de objeto (sigue you) → se omite."
+   },
+   {
+    "prompt": "Esta es la planta donde trabajo.",
+    "answers": [
+     "This is the plant where I work.",
+     "This is the plant I work at."
+    ],
+    "explain": "Lugar → where. También the plant I work at."
+   },
+   {
+    "prompt": "Mi hermano, que vive en Lima, es médico.",
+    "answers": [
+     "My brother, who lives in Lima, is a doctor."
+    ],
+    "explain": "Explicativa: comas + who. Profesión con a."
+   },
+   {
+    "prompt": "Elegimos al proveedor cuyos precios eran más bajos.",
+    "answers": [
+     "We chose the supplier whose prices were lower.",
+     "We chose the supplier whose prices were the lowest."
+    ],
+    "explain": "Posesión → whose + sustantivo. También the lowest."
+   },
+   {
+    "prompt": "Lo que necesitamos es una grúa más grande.",
+    "answers": [
+     "What we need is a bigger crane."
+    ],
+    "explain": "\"Lo que\" sin antecedente → what."
+   },
+   {
+    "prompt": "La grúa llegó tarde, lo cual retrasó el izaje.",
+    "answers": [
+     "The crane arrived late, which delayed the lift."
+    ],
+    "explain": "\"Lo cual\" = which con coma, referido a toda la oración."
+   },
+   {
+    "prompt": "Nunca olvidaré el día en que nos conocimos.",
+    "answers": [
+     "I'll never forget the day when we met.",
+     "I will never forget the day when we met.",
+     "I'll never forget the day we met.",
+     "I will never forget the day we met."
+    ],
+    "explain": "Tiempo → when, que puede omitirse."
+   },
+   {
+    "prompt": "¿Quién es la persona con la que hablaste?",
+    "answers": [
+     "Who's the person you talked to?",
+     "Who's the person you spoke with?",
+     "Who's the person you spoke to?",
+     "Who's the person you talked with?",
+     "Who is the person you talked to?",
+     "Who is the person you spoke with?",
+     "Who is the person you spoke to?",
+     "Who is the person to whom you spoke?"
+    ],
+    "explain": "Preposición al final; relativo de objeto omitido. Formal: the person to whom you spoke."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "Workers who don't have a valid permit can't enter the tank.",
+    "answers": [
+     "Los trabajadores que no tengan un permiso vigente no pueden entrar al tanque.",
+     "Los trabajadores que no tienen un permiso vigente no pueden entrar al tanque.",
+     "Los trabajadores que no tengan un permiso válido no pueden entrar al tanque."
+    ],
+    "explain": "Definidora: identifica a qué trabajadores se refiere la norma."
+   },
+   {
+    "prompt": "Is this the restaurant you told me about?",
+    "answers": [
+     "¿Este es el restaurante del que me hablaste?",
+     "¿Es este el restaurante del que me hablaste?",
+     "¿Este es el restaurante sobre el que me hablaste?"
+    ],
+    "explain": "Relativo omitido + preposición final (about) = \"del que\"."
+   },
+   {
+    "prompt": "Tank T-2, which was built in 1998, needs a new floor.",
+    "answers": [
+     "El tanque T-2, que fue construido en 1998, necesita un fondo nuevo.",
+     "El tanque T-2, que se construyó en 1998, necesita un fondo nuevo.",
+     "El tanque T-2, construido en 1998, necesita un nuevo fondo."
+    ],
+    "explain": "Explicativa: el año es dato extra, de ahí las comas."
+   },
+   {
+    "prompt": "We tested 20 welds, two of which failed.",
+    "answers": [
+     "Probamos 20 soldaduras, dos de las cuales fallaron.",
+     "Probamos 20 soldaduras, de las cuales dos fallaron."
+    ],
+    "explain": "Two of which = dos de las cuales."
+   },
+   {
+    "prompt": "The project I'm working on is due next month.",
+    "answers": [
+     "El proyecto en el que estoy trabajando vence el próximo mes.",
+     "El proyecto en el que estoy trabajando vence el mes que viene.",
+     "El proyecto en que trabajo vence el próximo mes."
+    ],
+    "explain": "Work on con preposición final; due = con fecha de entrega."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "The inspector which approved the welds is very strict.",
+    "answers": [
+     "The inspector who approved the welds is very strict.",
+     "The inspector that approved the welds is very strict."
+    ],
+    "explain": "Persona → who, no which."
+   },
+   {
+    "prompt": "The bolts that we ordered them arrived this morning.",
+    "answers": [
+     "The bolts that we ordered arrived this morning.",
+     "The bolts we ordered arrived this morning."
+    ],
+    "explain": "Sobraba them: el relativo ya es el objeto."
+   },
+   {
+    "prompt": "My manager, that works in Houston, is visiting us.",
+    "answers": [
+     "My manager, who works in Houston, is visiting us."
+    ],
+    "explain": "Con comas, nunca that."
+   },
+   {
+    "prompt": "That's the welder who his test failed.",
+    "answers": [
+     "That's the welder whose test failed.",
+     "That is the welder whose test failed."
+    ],
+    "explain": "Posesión → whose."
+   },
+   {
+    "prompt": "That the client wants is a lower price.",
+    "answers": [
+     "What the client wants is a lower price."
+    ],
+    "explain": "\"Lo que\" → what."
+   },
+   {
+    "prompt": "This is the shop where we build the spools there.",
+    "answers": [
+     "This is the shop where we build the spools."
+    ],
+    "explain": "Sobraba there."
+   },
+   {
+    "prompt": "The pump stopped suddenly, what caused a pressure drop.",
+    "answers": [
+     "The pump stopped suddenly, which caused a pressure drop."
+    ],
+    "explain": "\"Lo cual\" → which."
+   },
+   {
+    "prompt": "The engineers designed this bridge are from Japan.",
+    "answers": [
+     "The engineers who designed this bridge are from Japan.",
+     "The engineers that designed this bridge are from Japan."
+    ],
+    "explain": "Faltaba el relativo de sujeto (who o that)."
+   },
+   {
+    "prompt": "The company in that I work has 300 employees.",
+    "answers": [
+     "The company I work for has 300 employees.",
+     "The company in which I work has 300 employees.",
+     "The company for which I work has 300 employees.",
+     "The company where I work has 300 employees."
+    ],
+    "explain": "Nunca preposición + that. También: The company in which I work… / for which I work…"
+   },
+   {
+    "prompt": "Do you know the man who's car is parked at the gate?",
+    "answers": [
+     "Do you know the man whose car is parked at the gate?"
+    ],
+    "explain": "Who's = who is; posesión = whose."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte a negativo y a pregunta: The valve that we replaced was leaking.",
+   "answer": "The valve that we replaced wasn't leaking. / Was the valve that we replaced leaking?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con who, which, where, whose o what. Para personas usa who.",
+   "lines": [
+    {
+     "who": "Client",
+     "text": "Hi Edwin. Is this the area [1] you'll store the new plates?"
+    },
+    {
+     "who": "Edwin",
+     "text": "Yes. And that's Carlos, the welder [2] will do the floor repairs."
+    },
+    {
+     "who": "Client",
+     "text": "Good. Tank T-4, [3] is the oldest one, needs inspection first."
+    },
+    {
+     "who": "Edwin",
+     "text": "Understood. The supplier [4] plates we ordered says they'll arrive Friday."
+    },
+    {
+     "who": "Client",
+     "text": "Friday? [5] worries me is the weather. A storm is coming."
+    },
+    {
+     "who": "Edwin",
+     "text": "I know. Our planner, [6] name is Sarah, is updating the schedule."
+    },
+    {
+     "who": "Client",
+     "text": "OK. And the crane broke down again, [7] is a big problem."
+    },
+    {
+     "who": "Edwin",
+     "text": "Don't worry. The mechanic [8] fixed it last time is on his way."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "where"
+     ],
+     "explain": "Lugar + sujeto nuevo (you'll store) → where (= in which)."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "who"
+     ],
+     "explain": "Persona, relativo de sujeto (sigue el verbo will do) → who. En otro ejercicio, that también sería correcto."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "which"
+     ],
+     "explain": "Explicativa con comas sobre una cosa → which (no that)."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "whose"
+     ],
+     "explain": "Las planchas del proveedor → whose plates."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "What"
+     ],
+     "explain": "\"Lo que me preocupa\" sin antecedente → What."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "whose"
+     ],
+     "explain": "\"cuyo nombre\" → whose name."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "which"
+     ],
+     "explain": "Refiere a toda la oración anterior, con coma → which."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "who"
+     ],
+     "explain": "Persona, relativo de sujeto (sigue el verbo fixed) → who; no se puede omitir."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta una descripción (7 puntos). Escribe un correo de 6 a 8 oraciones presentando tu equipo de trabajo o tu empresa a un cliente nuevo. Incluye: (a) una relativa con who, (b) una con which o that para una cosa, (c) una con where, (d) una con whose, (e) una explicativa con comas, (f) una relativa con el pronombre omitido, (g) which referido a toda una idea (…, which means…).",
+   "rubric": [
+    "(a) una relativa con who",
+    "(b) una con which o that para una cosa",
+    "(c) una con where",
+    "(d) una con whose",
+    "(e) una explicativa con comas",
+    "(f) una relativa con el pronombre omitido",
+    "(g) which referido a toda una idea (…, which means…)"
+   ],
+   "model": "Subject: Introducing our team\nDear Ms. Shah,\nI'd like to introduce the team that will work on your tank repair project. Our crew is led by Mark Davis, who has 20 years of experience in API 653 repairs. We will prefabricate the new plates at our shop in Freeport, where we have two overhead cranes that can lift up to 20 tons. Carlos, whose welds have a 99% acceptance rate, will be our lead welder. All the procedures we use are qualified to ASME Section IX. We can start on October 28, which means the work will be finished before the holidays.\nBest regards,\nEdwin"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Elegir el relativo correcto según el antecedente.",
+   "test": "Escribe 10 oraciones (2 con cada uno: who, which/that, where, whose, when) en 5 minutos; 10 de 10."
+  },
+  {
+   "skill": "Unir dos oraciones en una sin repetir pronombres.",
+   "test": "Une los 8 pares de la Parte 3 de la sección 3 tapando la columna derecha; 8 de 8, cero it/them/there repetidos."
+  },
+  {
+   "skill": "Distinguir definidoras y explicativas (comas).",
+   "test": "Copia sin comas las oraciones 1, 2, 4–8, 10, 11 y 15 de la Parte 1 (sección 3). Al día siguiente, sin mirar el libro, pon las comas donde van; 9 de 10."
+  },
+  {
+   "skill": "Omitir el relativo cuando es objeto.",
+   "test": "Tapa la columna «¿Omitir?» de la tabla «Sujeto u objeto» (sección 1) y decide en las 6 filas si el relativo se puede quitar; 6 de 6."
+  },
+  {
+   "skill": "Usar what (lo que) y , which (lo cual) sin confundirlos.",
+   "test": "Tapa el inglés y traduce en voz alta las oraciones 8 y 13 de la Parte 1 (sección 3) y las filas 3 y 6 de la tabla «Traducción literal» (sección 1); 4 de 4 en 1 minuto, sin error."
+  },
+  {
+   "skill": "Describir un equipo, una planta o un proceso con relativas.",
+   "test": "Grábate 1 minuto presentando tu lugar de trabajo con al menos 5 relativas distintas."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "Who is the person who has helped you most in your career?",
+  "What is the city where you would most like to live?",
+  "What is something that you can't live without?",
+  "Do you know someone whose job you would like to have?",
+  "What is the best project that you have worked on?",
+  "What do you like most about the place where you work?"
+ ]
+}

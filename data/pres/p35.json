@@ -1,0 +1,94 @@
+{
+ "id": 35,
+ "topic": "Escritura avanzada: CV",
+ "title": "My CV in English",
+ "practice": "Léelo 3 veces y luego escríbelo de memoria: registro formal, sin contracciones.",
+ "rows": [
+  {
+   "en": "{name} · {jobTitle} · {city}, {country}",
+   "es": "{name} · {jobTitle_es} · {city}, {country}"
+  },
+  {
+   "en": "Profile: {profession} with **hands-on experience** in {work}.",
+   "es": "Perfil: {profession_es} con experiencia práctica en {work_es}."
+  },
+  {
+   "en": "**Proficient in** {tool} for reporting and project controls.",
+   "es": "Dominio de {tool} para reportes y control de proyectos."
+  },
+  {
+   "en": "{company}, {companyPlace} · {startDate}–present",
+   "es": "{company}, {companyPlace} · {startDate}–actualidad"
+  },
+  {
+   "en": "**Designed** {tool} templates to track {work}.",
+   "es": "Diseñé plantillas en {tool} para controlar {work_es}."
+  },
+  {
+   "en": "**Developed** a daily progress tracker for {project}.",
+   "es": "Desarrollé un control de avance diario para {project_es}."
+  },
+  {
+   "en": "**Streamlined** weekly reports, **resulting in a** ___% **reduction in** preparation time.",
+   "es": "Agilicé los reportes semanales, lo que logró una reducción del ___ % en el tiempo de preparación."
+  },
+  {
+   "en": "Previously worked at {prevJob} in {prevPlace}.",
+   "es": "Experiencia anterior en {prevJob} ({prevPlace})."
+  },
+  {
+   "en": "Education: {school}, {country} (graduated in {gradYear})",
+   "es": "Formación: {school}, {country} (graduación: {gradYear})"
+  },
+  {
+   "en": "**References available on request.**",
+   "es": "Referencias disponibles a solicitud."
+  }
+ ],
+ "dialogTitle": "Diálogo: revisión del borrador de mi propuesta",
+ "dialog": [
+  {
+   "who": "Manager",
+   "text": "I've read your proposal draft. The first paragraph is a bit long."
+  },
+  {
+   "who": "{name}",
+   "text": "Should I put the bottom line up front?"
+  },
+  {
+   "who": "Manager",
+   "text": "Yes. Say what you propose, what it costs and when it'll be ready."
+  },
+  {
+   "who": "{name}",
+   "text": "Got it: \"This proposal outlines a new control system for {company}.\""
+  },
+  {
+   "who": "Manager",
+   "text": "Much better. Don't forget the assumptions and exclusions."
+  },
+  {
+   "who": "{name}",
+   "text": "I'll add them today, in formal style and with no contractions."
+  }
+ ],
+ "pron": [
+  {
+   "en": "hands-on experience",
+   "pron": "JANDZ-on ek-SPÍ-ri-əns"
+  },
+  {
+   "en": "Proficient in…",
+   "pron": "prə-FÍ-shənt in"
+  },
+  {
+   "en": "This proposal outlines…",
+   "pron": "dhis prə-PÓU-zəl ÁUT-lainz"
+  },
+  {
+   "en": "References available on request.",
+   "pron": "RÉ-fə-rən-siz ə-VÉI-lə-bol on ri-KWÉST"
+  }
+ ],
+ "check": "Escribo de memoria mi perfil y 3 logros que empiezan con verbo de acción en pasado, sin I, sin contracciones y sin Responsible for, con cero errores."
+}

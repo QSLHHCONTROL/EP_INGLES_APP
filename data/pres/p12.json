@@ -1,0 +1,98 @@
+{
+ "id": 12,
+ "topic": "Comparativos y frecuencia",
+ "title": "{city} and My Work",
+ "practice": "Léela en voz alta 3 veces. Luego grábate 1 minuto comparando lugares y diciendo tus hábitos sin mirar.",
+ "rows": [
+  {
+   "en": "For me, {city} is **the most beautiful** place in {country}.",
+   "es": "Para mí, {city} es el lugar más bonito de {country}."
+  },
+  {
+   "en": "My job at {company} is **more varied than** my old job at {prevJob}.",
+   "es": "Mi trabajo en {company} es más variado que mi trabajo anterior en {prevJob}."
+  },
+  {
+   "en": "My work on {project} was **harder than** my first projects, but **more interesting**.",
+   "es": "Mi trabajo en {project_es} fue más difícil que mis primeros proyectos, pero más interesante."
+  },
+  {
+   "en": "Quality is **the most important** thing in my job.",
+   "es": "La calidad es lo más importante en mi trabajo."
+  },
+  {
+   "en": "I **always** check my work twice.",
+   "es": "Siempre reviso mi trabajo dos veces."
+  },
+  {
+   "en": "{tool} is **the most useful** tool in my job.",
+   "es": "{tool} es la herramienta más útil en mi trabajo."
+  },
+  {
+   "en": "I **often** make new {tool} files for the team.",
+   "es": "A menudo hago nuevos archivos en {tool} para el equipo."
+  },
+  {
+   "en": "I update the progress report **every day**.",
+   "es": "Actualizo el reporte de avance todos los días."
+  },
+  {
+   "en": "I **never** send a report with errors.",
+   "es": "Nunca envío un informe con errores."
+  },
+  {
+   "en": "My English is **much better** now, but it isn't **as good as** my Spanish.",
+   "es": "Mi inglés está mucho mejor ahora, pero no es tan bueno como mi español."
+  },
+  {
+   "en": "I study English ____ times a week.",
+   "es": "Estudio inglés ____ veces por semana."
+  }
+ ],
+ "dialogTitle": "Diálogo en el trabajo: elegir proveedor",
+ "dialog": [
+  {
+   "who": "Mark",
+   "text": "Which supplier is cheaper for the new computers?"
+  },
+  {
+   "who": "{name}",
+   "text": "Supplier B is cheaper, but Supplier A is faster."
+  },
+  {
+   "who": "Mark",
+   "text": "Is Supplier A a lot more expensive?"
+  },
+  {
+   "who": "{name}",
+   "text": "No, only a little. And they're the most reliable in the area."
+  },
+  {
+   "who": "Mark",
+   "text": "How often do they deliver?"
+  },
+  {
+   "who": "{name}",
+   "text": "Twice a week. They're never late."
+  }
+ ],
+ "pron": [
+  {
+   "en": "My job at {company} is more varied than my old job.",
+   "pron": ""
+  },
+  {
+   "en": "{tool} is the most useful tool in my job.",
+   "pron": ""
+  },
+  {
+   "en": "I never send a report with errors.",
+   "pron": "ai NÉ-ver send ə ri-PÓRT widh É-rərz"
+  },
+  {
+   "en": "They're the most reliable.",
+   "pron": "dher dhə moust ri-LÁI-ə-bol"
+  }
+ ],
+ "check": "Digo la página en menos de 1 minuto, sin leer, sin decir \"more cheaper\" ni \"that\" en lugar de than, y con cada adverbio de frecuencia en su lugar."
+}

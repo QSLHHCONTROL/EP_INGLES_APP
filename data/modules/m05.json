@@ -1,0 +1,980 @@
+{
+ "id": 5,
+ "level": "A1",
+ "title": "Presente continuo: lo que pasa ahora",
+ "goal": "Al terminar podrás decir qué estás haciendo en este momento, describir lo que pasa a tu alrededor en obra, en la oficina o en casa, hablar de situaciones temporales (esta semana, estos días) y elegir sin dudar entre I work e I'm working.",
+ "lesson": [
+  {
+   "title": "Lo que pasa ahora vs lo que pasa siempre",
+   "html": "<p>En el Módulo 3 aprendiste el presente simple: <span class=\"en\">I work at QSL</span> (rutina, hecho estable). Ahora aprendes el <b>presente continuo</b>: <span class=\"en\">I'm working</span> = <i>estoy trabajando</i>. Sirve para una acción que <b>está en progreso</b>: empezó, sigue y todavía no termina.</p><p>El español tiene la misma idea (<i>estar + gerundio</i>), pero la usa menos. Decimos <i>¿Qué haces?</i> o <i>Llueve</i> aunque hablemos de este momento. El inglés no permite esa libertad: si la acción pasa <b>ahora</b>, el nativo usa el continuo casi siempre.</p>",
+   "svg": "<svg viewBox=\"0 0 640 256\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"26\" font-size=\"13\" font-weight=\"800\" fill=\"#1570EF\">PRESENTE SIMPLE</text>\n  <text x=\"20\" y=\"44\" font-size=\"12\" fill=\"#667085\">rutina: se repite antes, ahora y después</text>\n  <text x=\"620\" y=\"26\" text-anchor=\"end\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">I work at the site every day.</text>\n  <text x=\"100\" y=\"84\" text-anchor=\"end\" font-size=\"12\" fill=\"#667085\">pasado</text>\n  <line x1=\"110\" y1=\"80\" x2=\"566\" y2=\"80\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <polygon points=\"566,74 580,80 566,86\" fill=\"#98A2B3\"/>\n  <text x=\"588\" y=\"84\" font-size=\"12\" fill=\"#667085\">futuro</text>\n  <circle cx=\"140\" cy=\"80\" r=\"7\" fill=\"#1570EF\"/>\n  <circle cx=\"190\" cy=\"80\" r=\"7\" fill=\"#1570EF\"/>\n  <circle cx=\"240\" cy=\"80\" r=\"7\" fill=\"#1570EF\"/>\n  <circle cx=\"290\" cy=\"80\" r=\"7\" fill=\"#1570EF\"/>\n  <circle cx=\"340\" cy=\"80\" r=\"7\" fill=\"#1570EF\"/>\n  <circle cx=\"390\" cy=\"80\" r=\"7\" fill=\"#1570EF\"/>\n  <circle cx=\"440\" cy=\"80\" r=\"7\" fill=\"#1570EF\"/>\n  <circle cx=\"490\" cy=\"80\" r=\"7\" fill=\"#1570EF\"/>\n  <circle cx=\"540\" cy=\"80\" r=\"7\" fill=\"#1570EF\"/>\n  <text x=\"20\" y=\"136\" font-size=\"13\" font-weight=\"800\" fill=\"#0E9384\">PRESENTE CONTINUO</text>\n  <text x=\"20\" y=\"154\" font-size=\"12\" fill=\"#667085\">en progreso: empezó y aún no termina</text>\n  <text x=\"620\" y=\"136\" text-anchor=\"end\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">I'm working on Tank 5 right now.</text>\n  <text x=\"100\" y=\"204\" text-anchor=\"end\" font-size=\"12\" fill=\"#667085\">pasado</text>\n  <line x1=\"110\" y1=\"200\" x2=\"566\" y2=\"200\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <polygon points=\"566,194 580,200 566,206\" fill=\"#98A2B3\"/>\n  <text x=\"588\" y=\"204\" font-size=\"12\" fill=\"#667085\">futuro</text>\n  <rect x=\"260\" y=\"190\" width=\"160\" height=\"20\" rx=\"10\" fill=\"#0E9384\"/>\n  <text x=\"260\" y=\"182\" text-anchor=\"middle\" font-size=\"11\" fill=\"#0E9384\">empezó</text>\n  <text x=\"420\" y=\"182\" text-anchor=\"middle\" font-size=\"11\" fill=\"#0E9384\">sigue…</text>\n  <line x1=\"340\" y1=\"60\" x2=\"340\" y2=\"222\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/>\n  <text x=\"340\" y=\"242\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">AHORA · NOW</text>\n</svg>",
+   "caption": "Figura 5.1 — Línea de tiempo. Simple = puntos que se repiten siempre. Continuo = una barra que rodea el momento actual."
+  },
+  {
+   "title": "La forma: am / is / are + verbo-ing",
+   "html": "<p>Ya conoces <i>am, is, are</i> (Módulo 1). Solo agregas el verbo con <b>-ing</b>. El verbo TO BE hace el trabajo gramatical; el verbo con -ing lleva el significado.</p><table><thead><tr><th>Sujeto</th><th>TO BE</th><th>Verbo + -ing</th><th>Contracción (habla normal)</th><th>Pronunciación</th></tr></thead><tbody><tr><td>I</td><td>am</td><td>working</td><td><span class=\"en\">I'm working.</span></td><td><span class=\"pron\">aim WÉR-king</span></td></tr><tr><td>You</td><td>are</td><td>working</td><td><span class=\"en\">You're working.</span></td><td><span class=\"pron\">yur WÉR-king</span></td></tr><tr><td>He / She / It</td><td>is</td><td>working</td><td><span class=\"en\">She's working.</span></td><td><span class=\"pron\">shiz WÉR-king</span></td></tr><tr><td>We</td><td>are</td><td>working</td><td><span class=\"en\">We're working.</span></td><td><span class=\"pron\">wir WÉR-king</span></td></tr><tr><td>They</td><td>are</td><td>working</td><td><span class=\"en\">They're working.</span></td><td><span class=\"pron\">dher WÉR-king</span></td></tr></tbody></table><table><thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td>Sujeto + am/is/are + verbo-ing</td><td><span class=\"en\">They're testing the pump.</span></td></tr><tr><td><b>Negativo</b></td><td>Sujeto + am/is/are + not + verbo-ing</td><td><span class=\"en\">They aren't testing the pump.</span></td></tr><tr><td><b>Pregunta</b></td><td>Am/Is/Are + sujeto + verbo-ing … ?</td><td><span class=\"en\">Are they testing the pump?</span></td></tr><tr><td><b>Respuesta corta</b></td><td>Yes, + sujeto + be. / No, + sujeto + be + not.</td><td><span class=\"en\">Yes, they are. / No, they aren't.</span></td></tr><tr><td><b>Pregunta WH-</b></td><td>WH- + am/is/are + sujeto + verbo-ing?</td><td><span class=\"en\">What are they testing?</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 198\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"36\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">AFIRMATIVO</text>\n  <rect x=\"130\" y=\"14\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"170\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">He</text>\n  <rect x=\"222\" y=\"14\" width=\"70\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"257\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">is</text>\n  <rect x=\"304\" y=\"14\" width=\"120\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"364\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">welding</text>\n  <rect x=\"436\" y=\"14\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"491\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">the pipe.</text>\n  <text x=\"20\" y=\"96\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">NEGATIVO</text>\n  <rect x=\"130\" y=\"74\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"170\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">He</text>\n  <rect x=\"222\" y=\"74\" width=\"70\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"257\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">is</text>\n  <rect x=\"304\" y=\"74\" width=\"60\" height=\"36\" rx=\"8\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"334\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#D92D20\">not</text>\n  <rect x=\"376\" y=\"74\" width=\"120\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"436\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">welding</text>\n  <rect x=\"508\" y=\"74\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"563\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">the pipe.</text>\n  <text x=\"20\" y=\"156\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">PREGUNTA</text>\n  <rect x=\"130\" y=\"134\" width=\"70\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"165\" y=\"158\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">Is</text>\n  <rect x=\"212\" y=\"134\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"252\" y=\"158\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">he</text>\n  <rect x=\"304\" y=\"134\" width=\"120\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"364\" y=\"158\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">welding</text>\n  <rect x=\"436\" y=\"134\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"491\" y=\"158\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">the pipe?</text>\n  <text x=\"130\" y=\"186\" font-size=\"11\" fill=\"#E8590C\">Solo se mueve \"is\". El verbo con -ing no cambia nunca.</text>\n</svg>",
+   "caption": "Figura 5.2 — Las mismas reglas de TO BE del Módulo 1: NOT después de is; para preguntar, is pasa adelante."
+  },
+  {
+   "title": "Regla de oro 1 — Siempre dos piezas: BE + -ING",
+   "html": "<p>Falta una pieza y la oración se rompe. <span class=\"wrong\">I working.</span> <span class=\"wrong\">I am work.</span> → <span class=\"ok\">I'm working.</span></p><p>Y nunca uses <i>do/does</i> en el continuo: <span class=\"wrong\">Do you working?</span> → <span class=\"ok\">Are you working?</span></p>"
+  },
+  {
+   "title": "Cómo se escribe el -ing",
+   "html": "<p>La mayoría de verbos solo suman <b>-ing</b>. Hay tres cambios fáciles que debes saber escribir sin error.</p>",
+   "svg": "<svg viewBox=\"0 0 640 280\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"16\" width=\"290\" height=\"100\" rx=\"12\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"36\" y=\"40\" font-size=\"14\" font-weight=\"800\" fill=\"#0E9384\">1 · Regla general: + ing</text>\n  <text x=\"36\" y=\"60\" font-size=\"12\" fill=\"#344054\">La mayoría de verbos.</text>\n  <text x=\"36\" y=\"76\" font-size=\"12\" fill=\"#344054\">No cambia nada.</text>\n  <text x=\"36\" y=\"102\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">work → working · eat → eating</text>\n  <rect x=\"330\" y=\"16\" width=\"290\" height=\"100\" rx=\"12\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"346\" y=\"40\" font-size=\"14\" font-weight=\"800\" fill=\"#E8590C\">2 · Termina en -e: quita la e</text>\n  <text x=\"346\" y=\"60\" font-size=\"12\" fill=\"#344054\">La e final no suena,</text>\n  <text x=\"346\" y=\"76\" font-size=\"12\" fill=\"#344054\">así que desaparece.</text>\n  <text x=\"346\" y=\"102\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">make → making · write → writing</text>\n  <rect x=\"20\" y=\"128\" width=\"290\" height=\"100\" rx=\"12\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"36\" y=\"152\" font-size=\"14\" font-weight=\"800\" fill=\"#1570EF\">3 · Dobla la consonante</text>\n  <text x=\"36\" y=\"172\" font-size=\"12\" fill=\"#344054\">1 sílaba que termina en</text>\n  <text x=\"36\" y=\"188\" font-size=\"12\" fill=\"#344054\">consonante + vocal + consonante.</text>\n  <text x=\"36\" y=\"214\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">stop → stopping · cut → cutting</text>\n  <rect x=\"330\" y=\"128\" width=\"290\" height=\"100\" rx=\"12\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"346\" y=\"152\" font-size=\"14\" font-weight=\"800\" fill=\"#6941C6\">4 · Termina en -ie: cambia a y</text>\n  <text x=\"346\" y=\"172\" font-size=\"12\" fill=\"#344054\">Así no quedan tres vocales</text>\n  <text x=\"346\" y=\"188\" font-size=\"12\" fill=\"#344054\">seguidas (ieing).</text>\n  <text x=\"346\" y=\"214\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">lie → lying · die → dying</text>\n  <text x=\"20\" y=\"252\" font-size=\"12\" fill=\"#667085\">Ojo: see → seeing (la ee se queda) · fix → fixing (la x nunca se dobla)</text>\n  <text x=\"20\" y=\"270\" font-size=\"12\" fill=\"#667085\">visit → visiting (2 sílabas, fuerza en VÍ-: no se dobla la t)</text>\n</svg>",
+   "caption": "Figura 5.3 — Las cuatro reglas de ortografía del -ing. Con estas cuatro escribes bien casi cualquier verbo."
+  },
+  {
+   "title": "¿Cuándo se usa? Cuatro usos",
+   "html": "<table><thead><tr><th>Uso</th><th>Ejemplo</th><th>Palabras que lo acompañan</th></tr></thead><tbody><tr><td>Acción en progreso en este momento</td><td><span class=\"en\">I'm checking the welds right now.</span></td><td>now, right now, at the moment</td></tr><tr><td>Situación temporal (no permanente)</td><td><span class=\"en\">I'm staying at a hotel this month.</span></td><td>this week, this month, for now</td></tr><tr><td>Algo que pasa \"estos días\", alrededor de ahora</td><td><span class=\"en\">I'm learning English these days.</span></td><td>these days, currently</td></tr><tr><td>Cambio o tendencia en curso</td><td><span class=\"en\">Steel prices are going up.</span></td><td>more and more, every year</td></tr></tbody></table>"
+  },
+  {
+   "title": "Regla de oro 2 — Ahora o temporal → continuo. Siempre o rutina → simple",
+   "html": "<p><span class=\"en\">I work in an office.</span> (mi trabajo normal) · <span class=\"en\">This week I'm working at the site.</span> (solo esta semana).</p><p>Pregúntate: ¿esto pasa <b>en este momento o solo por un tiempo</b>? Si la respuesta es sí, usa el continuo.</p>",
+   "svg": "<svg viewBox=\"0 0 640 226\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"10\" width=\"270\" height=\"56\" rx=\"12\" fill=\"#F2F4F7\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <text x=\"155\" y=\"33\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">¿Está en progreso ahora</text>\n  <text x=\"155\" y=\"53\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">o es temporal (esta semana)?</text>\n  <line x1=\"290\" y1=\"38\" x2=\"352\" y2=\"38\" stroke=\"#0E9384\" stroke-width=\"3\"/>\n  <polygon points=\"352,31 366,38 352,45\" fill=\"#0E9384\"/>\n  <text x=\"321\" y=\"29\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#0E9384\">SÍ</text>\n  <rect x=\"370\" y=\"10\" width=\"250\" height=\"56\" rx=\"12\" fill=\"#0E9384\"/>\n  <text x=\"495\" y=\"33\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">PRESENTE CONTINUO</text>\n  <text x=\"495\" y=\"54\" text-anchor=\"middle\" font-size=\"13\" fill=\"#E6F7F5\">I'm working right now.</text>\n  <line x1=\"155\" y1=\"66\" x2=\"155\" y2=\"84\" stroke=\"#667085\" stroke-width=\"3\"/>\n  <polygon points=\"148,84 155,96 162,84\" fill=\"#667085\"/>\n  <text x=\"168\" y=\"86\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">NO</text>\n  <rect x=\"20\" y=\"98\" width=\"270\" height=\"56\" rx=\"12\" fill=\"#F2F4F7\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <text x=\"155\" y=\"121\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">¿Es rutina, hábito</text>\n  <text x=\"155\" y=\"141\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">o un hecho general?</text>\n  <line x1=\"290\" y1=\"126\" x2=\"352\" y2=\"126\" stroke=\"#1570EF\" stroke-width=\"3\"/>\n  <polygon points=\"352,119 366,126 352,133\" fill=\"#1570EF\"/>\n  <text x=\"321\" y=\"117\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#1570EF\">SÍ</text>\n  <rect x=\"370\" y=\"98\" width=\"250\" height=\"56\" rx=\"12\" fill=\"#1570EF\"/>\n  <text x=\"495\" y=\"121\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">PRESENTE SIMPLE</text>\n  <text x=\"495\" y=\"142\" text-anchor=\"middle\" font-size=\"13\" fill=\"#EAF2FF\">I work from 7 to 5.</text>\n  <rect x=\"20\" y=\"168\" width=\"600\" height=\"50\" rx=\"12\" fill=\"#FEF0EF\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"189\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#D92D20\">Excepción: verbos de estado (know, need, want, like) van en simple</text>\n  <text x=\"320\" y=\"208\" text-anchor=\"middle\" font-size=\"13\" fill=\"#1D2939\">aunque hables de ahora: I need help. — nunca \"I'm needing help\".</text>\n</svg>",
+   "caption": "Figura 5.4 — Mapa de decisión: ¿presente simple o presente continuo?"
+  },
+  {
+   "title": "Regla de oro 3 — Los verbos de estado no van en continuo",
+   "html": "<p>Algunos verbos no describen una acción sino un <b>estado</b> (saber, querer, necesitar, gustar, entender). No tienen \"proceso\", así que se quedan en presente simple aunque hables de este momento:</p><p><span class=\"ok\">I know.</span> <span class=\"ok\">I need a hand.</span> <span class=\"ok\">Do you understand?</span> — nunca <span class=\"wrong\">I'm knowing</span>, <span class=\"wrong\">I'm needing</span>, <span class=\"wrong\">Are you understanding?</span></p>"
+  },
+  {
+   "title": "Traducción directa vs interpretación real",
+   "html": "<table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>¿Qué haces? (en este momento)</td><td><span class=\"en\">What are you doing?</span></td></tr><tr><td>Llueve.</td><td><span class=\"en\">It's raining.</span></td></tr><tr><td>¡Ya voy!</td><td><span class=\"en\">I'm coming!</span></td></tr><tr><td>Te llamo por el pedido.</td><td><span class=\"en\">I'm calling about the order.</span></td></tr><tr><td>Por ahora vivo en Freeport.</td><td><span class=\"en\">I'm living in Freeport for now.</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th><th>Por qué</th></tr></thead><tbody><tr><td>¿Qué haces? (ahora)</td><td><span class=\"wrong\">What do you do?</span></td><td><span class=\"ok\">What are you doing?</span></td><td><i>What do you do?</i> = ¿a qué te dedicas?</td></tr><tr><td>Llueve.</td><td><span class=\"wrong\">Rains.</span></td><td><span class=\"ok\">It's raining.</span></td><td>Sujeto <i>it</i> + continuo para el clima de ahora.</td></tr><tr><td>¡Ya voy!</td><td><span class=\"wrong\">Already I go!</span></td><td><span class=\"ok\">I'm coming!</span></td><td>Vas hacia la persona que te llama → <i>come</i>.</td></tr><tr><td>Estoy parado (de pie).</td><td><span class=\"wrong\">I'm stopped.</span></td><td><span class=\"ok\">I'm standing.</span></td><td><i>Stopped</i> = detenido. De pie = <i>standing</i>.</td></tr><tr><td>Llevo puesto el casco.</td><td><span class=\"wrong\">I carry my helmet.</span></td><td><span class=\"ok\">I'm wearing my helmet.</span></td><td>Ropa y EPP puestos = <i>wear</i>.</td></tr><tr><td>Estoy necesitando ayuda.</td><td><span class=\"wrong\">I'm needing help.</span></td><td><span class=\"ok\">I need help.</span></td><td><i>Need</i> es verbo de estado.</td></tr></tbody></table>"
+  },
+  {
+   "title": "Así piensa un nativo — el continuo suena \"temporal\"",
+   "html": "<p><span class=\"en\">I live in Freeport.</span> = es mi casa, es estable. <span class=\"en\">I'm living in Freeport.</span> = estoy aquí por un tiempo (un contrato, un proyecto). Con un solo cambio de forma, el nativo sabe si tu situación es permanente o temporal. Para un trabajador en el extranjero, esta diferencia es muy útil.</p><p><b>Detalles que marcan la diferencia</b></p><ul><li><b>Have</b>: para posesión es verbo de estado (<span class=\"en\">I have two kids</span>), pero para acciones sí va en continuo: <span class=\"en\">We're having lunch</span>, <span class=\"en\">We're having a meeting</span>.</li><li><b>Think</b>: <span class=\"en\">I think it's OK</span> (opinión, estado) vs <span class=\"en\">I'm thinking about the problem</span> (proceso mental, acción).</li><li>Con una fecha u hora futura, el continuo también expresa un plan ya acordado: <span class=\"en\">I'm meeting the client tomorrow.</span> Por ahora, solo reconócelo; para el futuro usarás <i>going to</i> y <i>will</i> (Módulo 10).</li><li>La respuesta corta usa solo TO BE, sin repetir el verbo: <span class=\"en\">Are you working?</span> → <span class=\"ok\">Yes, I am.</span> Nunca <span class=\"wrong\">Yes, I'm.</span> (no se contrae).</li></ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "I'm working on the drawings.",
+   "pron": "aim WÉR-king on dhə DRÓ-ingz",
+   "es": "Estoy trabajando en los planos.",
+   "group": "A. En obra y en la oficina"
+  },
+  {
+   "en": "We're welding the new line.",
+   "pron": "wir WÉL-ding dhə nu LAIN",
+   "es": "Estamos soldando la línea nueva.",
+   "group": "A. En obra y en la oficina"
+  },
+  {
+   "en": "He's checking the welds.",
+   "pron": "jiz CHÉ-king dhə WELDZ",
+   "es": "Él está revisando las soldaduras.",
+   "group": "A. En obra y en la oficina"
+  },
+  {
+   "en": "They're installing the valves.",
+   "pron": "dher ins-TÓ-ling dhə VALVZ",
+   "es": "Están instalando las válvulas.",
+   "group": "A. En obra y en la oficina"
+  },
+  {
+   "en": "She's testing the pump.",
+   "pron": "shiz TÉS-ting dhə PAMP",
+   "es": "Ella está probando la bomba.",
+   "group": "A. En obra y en la oficina"
+  },
+  {
+   "en": "We're waiting for the crane.",
+   "pron": "wir WÉI-ting for dhə KREIN",
+   "es": "Estamos esperando la grúa.",
+   "group": "A. En obra y en la oficina"
+  },
+  {
+   "en": "They're painting the tank.",
+   "pron": "dher PÉIN-ting dhə TANK",
+   "es": "Están pintando el tanque.",
+   "group": "A. En obra y en la oficina"
+  },
+  {
+   "en": "He's fixing the leak.",
+   "pron": "jiz FÍK-sing dhə LIK",
+   "es": "Está reparando la fuga.",
+   "group": "A. En obra y en la oficina"
+  },
+  {
+   "en": "What are you doing?",
+   "pron": "wot ar yu DÚ-ing",
+   "es": "¿Qué estás haciendo?",
+   "group": "B. Teléfono y mensajes"
+  },
+  {
+   "en": "I'm driving.",
+   "pron": "aim DRÁI-ving",
+   "es": "Estoy manejando.",
+   "group": "B. Teléfono y mensajes"
+  },
+  {
+   "en": "We're having a meeting.",
+   "pron": "wir JÁ-ving ə MÍ-ting",
+   "es": "Estamos en una reunión.",
+   "group": "B. Teléfono y mensajes"
+  },
+  {
+   "en": "I'm calling about the order.",
+   "pron": "aim KÓ-ling ə-BÁUT dhi ÓR-der",
+   "es": "Llamo por el pedido.",
+   "group": "B. Teléfono y mensajes"
+  },
+  {
+   "en": "I'm coming!",
+   "pron": "aim KÁ-ming",
+   "es": "¡Ya voy!",
+   "group": "B. Teléfono y mensajes"
+  },
+  {
+   "en": "Are you listening?",
+   "pron": "ar yu LÍ-sə-ning",
+   "es": "¿Me estás escuchando?",
+   "group": "B. Teléfono y mensajes"
+  },
+  {
+   "en": "I'm looking for Mr. Lee.",
+   "pron": "aim LÚ-king for MÍS-ter LI",
+   "es": "Estoy buscando al Sr. Lee.",
+   "group": "B. Teléfono y mensajes"
+  },
+  {
+   "en": "I'm cooking dinner.",
+   "pron": "aim KÚ-king DÍ-ner",
+   "es": "Estoy cocinando la cena.",
+   "group": "C. Vida diaria"
+  },
+  {
+   "en": "She's taking a shower.",
+   "pron": "shiz TÉI-king ə SHÁ-wer",
+   "es": "Ella se está duchando.",
+   "group": "C. Vida diaria"
+  },
+  {
+   "en": "We're having lunch.",
+   "pron": "wir JÁ-ving LANCH",
+   "es": "Estamos almorzando.",
+   "group": "C. Vida diaria"
+  },
+  {
+   "en": "The kids are sleeping.",
+   "pron": "dhə KIDZ ar SLÍ-ping",
+   "es": "Los niños están durmiendo.",
+   "group": "C. Vida diaria"
+  },
+  {
+   "en": "He's watching TV.",
+   "pron": "jiz WÓ-ching ti-VI",
+   "es": "Él está viendo televisión.",
+   "group": "C. Vida diaria"
+  },
+  {
+   "en": "It's raining.",
+   "pron": "its RÉI-ning",
+   "es": "Está lloviendo.",
+   "group": "C. Vida diaria"
+  },
+  {
+   "en": "I'm wearing my helmet.",
+   "pron": "aim WÉ-ring mai JÉL-mət",
+   "es": "Tengo puesto el casco.",
+   "group": "C. Vida diaria"
+  },
+  {
+   "en": "now",
+   "pron": "NÁU",
+   "es": "ahora",
+   "group": "D. Expresiones de tiempo para el continuo",
+   "example": "I'm busy now. I'm writing a report."
+  },
+  {
+   "en": "right now",
+   "pron": "rait NÁU",
+   "es": "ahora mismo",
+   "group": "D. Expresiones de tiempo para el continuo",
+   "example": "He's on site right now."
+  },
+  {
+   "en": "at the moment",
+   "pron": "ət dhə MÓU-mənt",
+   "es": "en este momento",
+   "group": "D. Expresiones de tiempo para el continuo",
+   "example": "She's talking to a client at the moment."
+  },
+  {
+   "en": "today",
+   "pron": "tə-DÉI",
+   "es": "hoy",
+   "group": "D. Expresiones de tiempo para el continuo",
+   "example": "We're working inside today."
+  },
+  {
+   "en": "this week",
+   "pron": "dhis WIK",
+   "es": "esta semana",
+   "group": "D. Expresiones de tiempo para el continuo",
+   "example": "I'm working nights this week."
+  },
+  {
+   "en": "these days",
+   "pron": "dhiiz DEIZ",
+   "es": "estos días",
+   "group": "D. Expresiones de tiempo para el continuo",
+   "example": "Everyone is talking about the new project these days."
+  },
+  {
+   "en": "currently",
+   "pron": "KÉ-rənt-li",
+   "es": "actualmente",
+   "group": "D. Expresiones de tiempo para el continuo",
+   "example": "We're currently hiring welders."
+  },
+  {
+   "en": "I'm staying at a hotel.",
+   "pron": "aim STÉI-ing ət ə jou-TÉL",
+   "es": "Me estoy quedando en un hotel.",
+   "group": "E. Situaciones temporales y cambios"
+  },
+  {
+   "en": "I'm living in Freeport for now.",
+   "pron": "aim LÍ-ving in FRÍ-port for NÁU",
+   "es": "Por ahora vivo en Freeport.",
+   "group": "E. Situaciones temporales y cambios"
+  },
+  {
+   "en": "I'm learning English.",
+   "pron": "aim LÉR-ning ÍN-glish",
+   "es": "Estoy aprendiendo inglés.",
+   "group": "E. Situaciones temporales y cambios"
+  },
+  {
+   "en": "Prices are going up.",
+   "pron": "PRÁI-səz ar GÓU-ing AP",
+   "es": "Los precios están subiendo.",
+   "group": "E. Situaciones temporales y cambios"
+  },
+  {
+   "en": "The project is going well.",
+   "pron": "dhə PRÓ-yekt iz GÓU-ing WEL",
+   "es": "El proyecto va bien.",
+   "group": "E. Situaciones temporales y cambios"
+  },
+  {
+   "en": "More people are working from home.",
+   "pron": "mor PÍ-pol ar WÉR-king from JOUM",
+   "es": "Cada vez más gente trabaja desde casa.",
+   "group": "E. Situaciones temporales y cambios"
+  },
+  {
+   "en": "I know.",
+   "pron": "ai NÓU",
+   "es": "Lo sé. / Ya sé.",
+   "group": "F. Verbos de estado: siempre en presente simple"
+  },
+  {
+   "en": "I understand.",
+   "pron": "ai an-der-STÁND",
+   "es": "Entiendo.",
+   "group": "F. Verbos de estado: siempre en presente simple"
+  },
+  {
+   "en": "I need help.",
+   "pron": "ai NID JELP",
+   "es": "Necesito ayuda.",
+   "group": "F. Verbos de estado: siempre en presente simple"
+  },
+  {
+   "en": "I want a coffee.",
+   "pron": "ai WONT ə KÓ-fi",
+   "es": "Quiero un café.",
+   "group": "F. Verbos de estado: siempre en presente simple"
+  },
+  {
+   "en": "I like this job.",
+   "pron": "ai LAIK dhis YOB",
+   "es": "Me gusta este trabajo.",
+   "group": "F. Verbos de estado: siempre en presente simple"
+  },
+  {
+   "en": "It costs 50 dollars.",
+   "pron": "it KOSTS FÍF-ti DÓ-lərz",
+   "es": "Cuesta 50 dólares.",
+   "group": "F. Verbos de estado: siempre en presente simple"
+  },
+  {
+   "en": "I have two kids.",
+   "pron": "ai jav tu KIDZ",
+   "es": "Tengo dos hijos.",
+   "group": "F. Verbos de estado: siempre en presente simple"
+  },
+  {
+   "en": "I agree.",
+   "pron": "ai ə-GRÍ",
+   "es": "Estoy de acuerdo.",
+   "group": "F. Verbos de estado: siempre en presente simple"
+  }
+ ],
+ "examples": [
+  {
+   "en": "We're checking the bottom plates right now.",
+   "es": "Estamos revisando las planchas del fondo ahora mismo.",
+   "situation": "Reporte por radio"
+  },
+  {
+   "en": "Stop! The crane is moving.",
+   "es": "¡Alto! La grúa se está moviendo.",
+   "situation": "Seguridad en obra"
+  },
+  {
+   "en": "The crew is filling the line with water.",
+   "es": "La cuadrilla está llenando la línea con agua.",
+   "situation": "Prueba hidrostática"
+  },
+  {
+   "en": "Ana is updating the isometric drawings.",
+   "es": "Ana está actualizando los isométricos.",
+   "situation": "Oficina técnica"
+  },
+  {
+   "en": "Sorry, I can't hear you. I'm driving.",
+   "es": "Perdón, no te escucho. Estoy manejando.",
+   "situation": "Llamada telefónica"
+  },
+  {
+   "en": "Mr. Lee isn't available. He's talking to the client.",
+   "es": "El Sr. Lee no está disponible. Está hablando con el cliente.",
+   "situation": "Reunión"
+  },
+  {
+   "en": "This month I'm working on a project in Freeport.",
+   "es": "Este mes estoy trabajando en un proyecto en Freeport.",
+   "situation": "Trabajo temporal"
+  },
+  {
+   "en": "I usually work in the office, but today I'm working on site.",
+   "es": "Normalmente trabajo en la oficina, pero hoy estoy trabajando en obra.",
+   "situation": "Rutina vs ahora"
+  },
+  {
+   "en": "It's raining, so the painters aren't working.",
+   "es": "Está lloviendo, así que los pintores no están trabajando.",
+   "situation": "Clima"
+  },
+  {
+   "en": "Steel prices are going up this year.",
+   "es": "Los precios del acero están subiendo este año.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "The baby is sleeping. Please don't call now.",
+   "es": "El bebé está durmiendo. Por favor, no llames ahora.",
+   "situation": "En casa"
+  },
+  {
+   "en": "Are you waiting for a table? — Yes, we are.",
+   "es": "¿Están esperando una mesa? — Sí.",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "I'm learning English, and I'm enjoying it.",
+   "es": "Estoy aprendiendo inglés y lo estoy disfrutando.",
+   "situation": "Vida social"
+  },
+  {
+   "en": "What are you working on these days?",
+   "es": "¿En qué estás trabajando estos días?",
+   "situation": "Pregunta WH-"
+  },
+  {
+   "en": "I know you're busy, but the client needs an answer.",
+   "es": "Sé que estás ocupado, pero el cliente necesita una respuesta.",
+   "situation": "Verbo de estado"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "You're working late.",
+     "You aren't working late.",
+     "Are you working late?",
+     "Yes, I am. / No, I'm not."
+    ],
+    [
+     "He's welding the flange.",
+     "He isn't welding the flange.",
+     "Is he welding the flange?",
+     "Yes, he is. / No, he isn't."
+    ],
+    [
+     "She's talking to the client.",
+     "She isn't talking to the client.",
+     "Is she talking to the client?",
+     "Yes, she is. / No, she isn't."
+    ],
+    [
+     "It's raining.",
+     "It isn't raining.",
+     "Is it raining?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "We're waiting for the inspector.",
+     "We aren't waiting for the inspector.",
+     "Are we waiting for the inspector?",
+     "Yes, we are. / No, we aren't."
+    ],
+    [
+     "They're painting the tank.",
+     "They aren't painting the tank.",
+     "Are they painting the tank?",
+     "Yes, they are. / No, they aren't."
+    ],
+    [
+     "The welders are taking a break.",
+     "The welders aren't taking a break.",
+     "Are the welders taking a break?",
+     "Yes, they are. / No, they aren't."
+    ],
+    [
+     "The pump is running.",
+     "The pump isn't running.",
+     "Is the pump running?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "Ana is studying English.",
+     "Ana isn't studying English.",
+     "Is Ana studying English?",
+     "Yes, she is. / No, she isn't."
+    ],
+    [
+     "Mr. Lee is reviewing the budget.",
+     "Mr. Lee isn't reviewing the budget.",
+     "Is Mr. Lee reviewing the budget?",
+     "Yes, he is. / No, he isn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Mark",
+   "text": "Hi Edwin. Are you busy?"
+  },
+  {
+   "who": "Edwin",
+   "text": "A little. I'm checking the welds on Line 3. What's up?"
+  },
+  {
+   "who": "Mark",
+   "text": "The client is here. He's asking about the hydrotest."
+  },
+  {
+   "who": "Edwin",
+   "text": "OK. The crew is filling the line with water right now."
+  },
+  {
+   "who": "Mark",
+   "text": "Great. Is everything going well?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, but it's raining, so we're working slowly today."
+  },
+  {
+   "who": "Mark",
+   "text": "No problem. Where's Carlos? He isn't answering his phone."
+  },
+  {
+   "who": "Edwin",
+   "text": "He's talking to the inspector in the container."
+  },
+  {
+   "who": "Mark",
+   "text": "Thanks. I'm coming to the site now."
+  },
+  {
+   "who": "Edwin",
+   "text": "Perfect. I'm waiting for you at the gate."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "I working now.",
+   "right": "I'm working now.",
+   "why": "Falta TO BE. El continuo siempre tiene dos piezas."
+  },
+  {
+   "wrong": "She is work.",
+   "right": "She is working.",
+   "why": "Falta el -ing. Is work no existe."
+  },
+  {
+   "wrong": "Do you working?",
+   "right": "Are you working?",
+   "why": "El continuo pregunta con am/is/are, nunca con do."
+  },
+  {
+   "wrong": "He makeing a call.",
+   "right": "He's making a call.",
+   "why": "Falta is, y la -e final se quita: make → making."
+  },
+  {
+   "wrong": "The truck is stoping.",
+   "right": "The truck is stopping.",
+   "why": "Consonante + vocal + consonante: se dobla la p."
+  },
+  {
+   "wrong": "I'm knowing the answer.",
+   "right": "I know the answer.",
+   "why": "Know es verbo de estado: siempre simple."
+  },
+  {
+   "wrong": "I'm needing a hand.",
+   "right": "I need a hand.",
+   "why": "Need es verbo de estado."
+  },
+  {
+   "wrong": "Every day I'm taking the bus.",
+   "right": "Every day I take the bus.",
+   "why": "Rutina (every day) → presente simple."
+  },
+  {
+   "wrong": "What do you do now? (= qué haces en este momento)",
+   "right": "What are you doing now?",
+   "why": "What do you do? pregunta por la profesión."
+  },
+  {
+   "wrong": "— Are you busy? — Yes, I'm.",
+   "right": "Yes, I am.",
+   "why": "La respuesta corta afirmativa no se contrae."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "I'm actually working in Chile.",
+   "looks": "actualmente",
+   "means": "en realidad",
+   "fix": "I'm currently working in Chile."
+  },
+  {
+   "en": "He's assisting the engineer.",
+   "looks": "asistiendo (a una reunión)",
+   "means": "ayudando al ingeniero",
+   "fix": "He's attending the meeting."
+  },
+  {
+   "en": "They're discussing the budget.",
+   "looks": "discutiendo (peleando)",
+   "means": "conversando, analizando",
+   "fix": "They're arguing about the budget."
+  },
+  {
+   "en": "She's pretending to work.",
+   "looks": "pretendiendo",
+   "means": "fingiendo",
+   "fix": "She's trying to work."
+  },
+  {
+   "en": "He realizes the problem.",
+   "looks": "realiza",
+   "means": "se da cuenta (verbo de estado: no va en continuo)",
+   "fix": "He's doing the inspection."
+  },
+  {
+   "en": "I'm expecting a call.",
+   "looks": "esperando (en una fila)",
+   "means": "esperando algo que va a llegar",
+   "fix": "I'm waiting for the bus."
+  },
+  {
+   "en": "molest",
+   "looks": "molestar",
+   "means": "abusar, acosar (¡muy grave!)",
+   "fix": "Sorry, am I bothering you?"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Estoy trabajando en la oficina ahora.",
+    "answers": [
+     "I'm working at the office now.",
+     "I am working at the office now.",
+     "I'm working in the office now.",
+     "I am working in the office now."
+    ],
+    "explain": "Acción en progreso + now → continuo. También vale in the office."
+   },
+   {
+    "prompt": "Ella no está durmiendo; está leyendo.",
+    "answers": [
+     "She isn't sleeping; she's reading.",
+     "She is not sleeping; she is reading.",
+     "She's not sleeping; she's reading.",
+     "She isn't sleeping. She's reading.",
+     "She is not sleeping. She is reading.",
+     "She's not sleeping. She's reading.",
+     "She isn't sleeping, she's reading.",
+     "She is not sleeping, she is reading."
+    ],
+    "explain": "También vale She's not sleeping. Dos verbos, cada uno con su is."
+   },
+   {
+    "prompt": "¿Qué estás haciendo?",
+    "answers": [
+     "What are you doing?"
+    ],
+    "explain": "WH- + are + you + doing. No What do you do? (= profesión)."
+   },
+   {
+    "prompt": "Está lloviendo y hace frío.",
+    "answers": [
+     "It's raining and it's cold.",
+     "It is raining and it is cold.",
+     "It's raining and cold.",
+     "It is raining and cold."
+    ],
+    "explain": "Lluvia de ahora → continuo con it. Frío = be cold (Módulo 1)."
+   },
+   {
+    "prompt": "Los soldadores están esperando los materiales.",
+    "answers": [
+     "The welders are waiting for the materials."
+    ],
+    "explain": "Plural → are. \"Esperar algo\" = wait for."
+   },
+   {
+    "prompt": "¿Carlos está revisando los planos?",
+    "answers": [
+     "Is Carlos checking the drawings?",
+     "Is Carlos reviewing the drawings?"
+    ],
+    "explain": "Is va antes del sujeto. \"Revisar\" = check (o review)."
+   },
+   {
+    "prompt": "Normalmente trabajo de 7 a 5, pero esta semana estoy trabajando de noche.",
+    "answers": [
+     "I usually work from 7 to 5, but this week I'm working nights.",
+     "I usually work from 7 to 5, but this week I am working nights.",
+     "I usually work from 7 to 5, but this week I'm working at night.",
+     "I usually work from 7 to 5, but this week I am working at night.",
+     "I normally work from 7 to 5, but this week I'm working nights.",
+     "I normally work from 7 to 5, but this week I am working nights.",
+     "I normally work from 7 to 5, but this week I'm working at night.",
+     "I normally work from 7 to 5, but this week I am working at night."
+    ],
+    "explain": "Rutina → simple; esta semana (temporal) → continuo. También vale at night."
+   },
+   {
+    "prompt": "No necesito ayuda, gracias.",
+    "answers": [
+     "I don't need help, thanks.",
+     "I do not need help, thanks.",
+     "I don't need help, thank you.",
+     "I do not need help, thank you."
+    ],
+    "explain": "Need es verbo de estado: negativo con don't, no I'm not needing."
+   },
+   {
+    "prompt": "Estamos instalando las válvulas nuevas.",
+    "answers": [
+     "We're installing the new valves.",
+     "We are installing the new valves."
+    ],
+    "explain": "We → are; adjetivo antes del sustantivo: new valves."
+   },
+   {
+    "prompt": "¿Por qué estás corriendo?",
+    "answers": [
+     "Why are you running?"
+    ],
+    "explain": "Run → running: se dobla la n (consonante + vocal + consonante)."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "Sorry, I'm driving right now.",
+    "answers": [
+     "Perdón, estoy manejando ahora mismo.",
+     "Perdón, estoy conduciendo ahora mismo.",
+     "Lo siento, estoy manejando ahora mismo.",
+     "Disculpa, estoy manejando en este momento."
+    ],
+    "explain": "Right now = ahora mismo. En España: conduciendo."
+   },
+   {
+    "prompt": "Prices are going up this year.",
+    "answers": [
+     "Los precios están subiendo este año.",
+     "Los precios suben este año.",
+     "Los precios van en aumento este año."
+    ],
+    "explain": "Tendencia en curso; go up = subir."
+   },
+   {
+    "prompt": "Who is leading the inspection today?",
+    "answers": [
+     "¿Quién está dirigiendo la inspección hoy?",
+     "¿Quién está liderando la inspección hoy?",
+     "¿Quién dirige la inspección hoy?"
+    ],
+    "explain": "Who es el sujeto. Lead = dirigir, liderar."
+   },
+   {
+    "prompt": "She isn't working this week. She's on vacation.",
+    "answers": [
+     "Ella no está trabajando esta semana. Está de vacaciones.",
+     "No está trabajando esta semana. Está de vacaciones.",
+     "Ella no trabaja esta semana. Está de vacaciones."
+    ],
+    "explain": "Situación temporal. Be on vacation = estar de vacaciones."
+   },
+   {
+    "prompt": "I know you're busy, but the client is waiting.",
+    "answers": [
+     "Sé que estás ocupado, pero el cliente está esperando.",
+     "Sé que estás ocupada, pero el cliente está esperando.",
+     "Sé que estás ocupado, pero el cliente espera."
+    ],
+    "explain": "Know (estado) en simple; is waiting (acción ahora) en continuo."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "I working on the report now.",
+    "answers": [
+     "I'm working on the report now.",
+     "I am working on the report now."
+    ],
+    "explain": "Faltaba TO BE (am)."
+   },
+   {
+    "prompt": "She is make a phone call.",
+    "answers": [
+     "She is making a phone call."
+    ],
+    "explain": "Faltaba el -ing; make pierde la e → making."
+   },
+   {
+    "prompt": "Look! The truck is stoping at the gate.",
+    "answers": [
+     "Look! The truck is stopping at the gate."
+    ],
+    "explain": "Stop dobla la p → stopping."
+   },
+   {
+    "prompt": "I'm needing a new helmet.",
+    "answers": [
+     "I need a new helmet."
+    ],
+    "explain": "Need es verbo de estado: presente simple."
+   },
+   {
+    "prompt": "Do you working today?",
+    "answers": [
+     "Are you working today?"
+    ],
+    "explain": "El continuo pregunta con are, no con do."
+   },
+   {
+    "prompt": "Every morning I'm taking the bus to work.",
+    "answers": [
+     "Every morning I take the bus to work."
+    ],
+    "explain": "Rutina (every morning) → presente simple."
+   },
+   {
+    "prompt": "What do you doing?",
+    "answers": [
+     "What are you doing?"
+    ],
+    "explain": "Con -ing el auxiliar es are, no do."
+   },
+   {
+    "prompt": "They're writeing the daily report.",
+    "answers": [
+     "They're writing the daily report.",
+     "They are writing the daily report."
+    ],
+    "explain": "Write pierde la e → writing."
+   },
+   {
+    "prompt": "The welders is waiting for the inspector.",
+    "answers": [
+     "The welders are waiting for the inspector."
+    ],
+    "explain": "The welders es plural → are."
+   },
+   {
+    "prompt": "Listen! The phone ring.",
+    "answers": [
+     "Listen! The phone is ringing.",
+     "Listen! The phone's ringing."
+    ],
+    "explain": "Listen! indica que pasa ahora → is ringing."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte a negativo y a pregunta: Ana is checking the welds.",
+   "answer": "Ana isn't checking the welds. / Is Ana checking the welds?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con: am · are · isn't · don't · doing · working · raining. Una palabra se usa dos veces.",
+   "lines": [
+    {
+     "who": "Mark",
+     "text": "Hi Edwin, what are you [1] right now?"
+    },
+    {
+     "who": "Edwin",
+     "text": "I [2] checking the welds on Line 3."
+    },
+    {
+     "who": "Mark",
+     "text": "[3] the welders with you?"
+    },
+    {
+     "who": "Edwin",
+     "text": "Yes, they [4]."
+    },
+    {
+     "who": "Mark",
+     "text": "Is Ana [5] today?"
+    },
+    {
+     "who": "Edwin",
+     "text": "No, she [6]. She's at home today."
+    },
+    {
+     "who": "Mark",
+     "text": "OK. Is it [7] there?"
+    },
+    {
+     "who": "Edwin",
+     "text": "Yes, it is. We [8] usually work in the rain, so we're waiting in the container."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "doing"
+     ],
+     "explain": "What are you doing? = ¿qué estás haciendo?"
+    },
+    {
+     "n": 2,
+     "answers": [
+      "am"
+     ],
+     "explain": "I → am + checking."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "Are"
+     ],
+     "explain": "The welders es plural; pregunta con TO BE adelante."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "are"
+     ],
+     "explain": "Respuesta corta Yes, they are, sin contraer."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "working"
+     ],
+     "explain": "Is Ana working today? — situación de hoy → continuo."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "isn't",
+      "is not"
+     ],
+     "explain": "Respuesta corta negativa: No, she isn't."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "raining"
+     ],
+     "explain": "Clima en este momento → Is it raining?"
+    },
+    {
+     "n": 8,
+     "answers": [
+      "don't",
+      "do not"
+     ],
+     "explain": "Usually = rutina → presente simple negativo (Módulo 3)."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un mensaje. Escribe un WhatsApp de 5 a 7 oraciones a un amigo o familiar que diga: (a) dónde estás ahora, (b) qué estás haciendo tú, (c) qué están haciendo otras dos personas cerca de ti, (d) una rutina tuya en presente simple, (e) una pregunta en presente continuo. Incluye un negativo en continuo y escribe bien todos los -ing.",
+   "rubric": [
+    "(a) Dices dónde estás ahora",
+    "(b) Dices qué estás haciendo tú",
+    "(c) Dices qué están haciendo otras dos personas cerca de ti",
+    "(d) Una rutina tuya en presente simple",
+    "(e) Una pregunta en presente continuo",
+    "Incluyes un negativo en continuo (isn't / aren't / I'm not + -ing)",
+    "Todos los -ing están bien escritos"
+   ],
+   "model": "Hi Ana! I'm at the site in Freeport right now. I'm checking the new pipes with Mark. The welders are taking a break, and the client is waiting in the office. I usually work in the office, but this week I'm working outside. It isn't raining today, luckily. What are you doing?"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Describir lo que pasa a mi alrededor ahora.",
+   "test": "Grábate 30 segundos describiendo 5 acciones que están pasando ahora mismo, sin leer."
+  },
+  {
+   "skill": "Escribir el -ing sin errores de ortografía.",
+   "test": "Escribe en 1 minuto el -ing de: work, make, stop, lie, write, run, see, fix, sit, come, get, die. 12 de 12."
+  },
+  {
+   "skill": "Elegir entre presente simple y continuo.",
+   "test": "Tapa una columna de la Parte 3 y reconstruye los 8 pares. 8 de 8."
+  },
+  {
+   "skill": "Negar y preguntar en continuo.",
+   "test": "Convierte 5 oraciones afirmativas a negativo y pregunta en menos de 1 minuto, con respuesta corta."
+  },
+  {
+   "skill": "Usar los verbos de estado en simple.",
+   "test": "Di 6 oraciones con know, need, want, like, understand y agree. Cero \"-ing\"."
+  },
+  {
+   "skill": "Responder al teléfono \"What are you doing?\"",
+   "test": "Responde 5 llamadas simuladas en menos de 10 segundos cada una, con oraciones completas."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What are you doing right now?",
+  "What are you wearing today?",
+  "What is your family doing at the moment?",
+  "What are you working on these days?",
+  "Are you learning anything new this month?",
+  "Is it raining in your city today?"
+ ]
+}

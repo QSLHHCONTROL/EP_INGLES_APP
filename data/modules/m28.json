@@ -1,0 +1,950 @@
+{
+ "id": 28,
+ "level": "C1",
+ "title": "Subjuntivo y estructuras formales (I suggest that he be…)",
+ "goal": "Al terminar podrás usar el subjuntivo inglés en recomendaciones y requisitos (We recommend that the line be flushed), elegir el registro correcto en cada situación, y leer y redactar lenguaje contractual y de especificaciones (shall, is to, provided that, in the event that, prior to) sin ambigüedades.",
+ "lesson": [
+  {
+   "title": "El subjuntivo: la forma base",
+   "html": "<p>En español el subjuntivo está en todas partes: <i>Sugiero que él <b>revise</b></i>, <i>Es necesario que <b>estén</b> listos</i>. En inglés casi desapareció, pero sobrevive en un lugar clave: después de verbos y adjetivos de <b>recomendación, exigencia o necesidad</b>. Ahí el inglés usa el <b>verbo en forma base</b> (sin -s, sin pasado, sin <i>to</i>), para todas las personas:</p><ul>\n<li><span class=\"en\">I suggest that he <b>review</b> the drawings.</span> (no <i>reviews</i>)</li>\n<li><span class=\"en\">It is essential that the valves <b>be</b> closed.</span> (no <i>are</i>)</li>\n<li><span class=\"en\">The client insisted that we <b>not start</b> before Monday.</span> (no <i>don't start</i>)</li>\n</ul><p>¿Por qué la forma base? Porque la acción todavía <b>no es un hecho</b>: es algo que alguien quiere, exige o considera necesario. El inglés marca ese \"mundo deseado\" quitando todas las marcas de tiempo y persona. Es la misma idea del subjuntivo español, solo que con una forma más simple.</p>",
+   "svg": "<svg viewBox=\"0 0 640 300\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"28\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">HECHO (indicativo)</text>\n  <rect x=\"20\" y=\"38\" width=\"80\" height=\"40\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"60\" y=\"64\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">He</text>\n  <rect x=\"110\" y=\"38\" width=\"120\" height=\"40\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"170\" y=\"64\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">reviews</text>\n  <rect x=\"240\" y=\"38\" width=\"160\" height=\"40\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"320\" y=\"64\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">the drawings.</text>\n  <text x=\"420\" y=\"56\" font-size=\"12\" fill=\"#667085\">Él revisa los planos.</text>\n  <text x=\"420\" y=\"72\" font-size=\"12\" fill=\"#667085\">(lo hace, es real)</text>\n  <text x=\"20\" y=\"116\" font-size=\"12\" font-weight=\"800\" fill=\"#6941C6\">DESEO / EXIGENCIA (subjuntivo)</text>\n  <rect x=\"20\" y=\"126\" width=\"160\" height=\"40\" rx=\"8\" fill=\"#6941C6\"/><text x=\"100\" y=\"152\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">I suggest that</text>\n  <rect x=\"190\" y=\"126\" width=\"60\" height=\"40\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"220\" y=\"152\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">he</text>\n  <rect x=\"260\" y=\"126\" width=\"100\" height=\"40\" rx=\"8\" fill=\"#E8590C\"/><text x=\"310\" y=\"152\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">review</text>\n  <rect x=\"370\" y=\"126\" width=\"150\" height=\"40\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"445\" y=\"152\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">the drawings.</text>\n  <text x=\"310\" y=\"186\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#E8590C\">forma base: sin -s</text>\n  <rect x=\"20\" y=\"206\" width=\"210\" height=\"40\" rx=\"8\" fill=\"#6941C6\"/><text x=\"125\" y=\"232\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">It is essential that</text>\n  <rect x=\"240\" y=\"206\" width=\"110\" height=\"40\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"295\" y=\"232\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">the valves</text>\n  <rect x=\"360\" y=\"206\" width=\"60\" height=\"40\" rx=\"8\" fill=\"#E8590C\"/><text x=\"390\" y=\"232\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">be</text>\n  <rect x=\"430\" y=\"206\" width=\"100\" height=\"40\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"480\" y=\"232\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">closed.</text>\n  <text x=\"390\" y=\"266\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#E8590C\">be para todos: no is / are</text>\n  <text x=\"20\" y=\"290\" font-size=\"12\" fill=\"#667085\">Negativo: that he <tspan font-weight=\"800\" fill=\"#D92D20\">not</tspan> review · that the valves <tspan font-weight=\"800\" fill=\"#D92D20\">not</tspan> be opened (sin do / don't)</text>\n</svg>",
+   "caption": "Figura 28.1 — Hecho vs exigencia: el subjuntivo inglés es la forma base del verbo, igual para todas las personas."
+  },
+  {
+   "title": "Qué palabras activan el subjuntivo",
+   "html": "<table>\n<thead><tr><th>Tipo</th><th>Palabras</th><th>Ejemplo</th></tr></thead>\n<tbody>\n<tr><td><b>Verbos</b></td><td>suggest, recommend, propose, insist, demand, require, request, ask, urge, advise</td><td><span class=\"en\">We recommend that the tank be emptied before inspection.</span></td></tr>\n<tr><td><b>Adjetivos</b></td><td>essential, vital, imperative, crucial, necessary, important, critical, advisable</td><td><span class=\"en\">It is imperative that every welder hold a valid certificate.</span></td></tr>\n<tr><td><b>Sustantivos</b></td><td>recommendation, requirement, demand, proposal, insistence, request</td><td><span class=\"en\">Our recommendation is that the pump be replaced.</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Las formas del subjuntivo",
+   "html": "<table>\n<thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead>\n<tbody>\n<tr><td><b>Afirmativo</b></td><td>that + sujeto + verbo base</td><td><span class=\"en\">The client requires that Carlos attend the meeting.</span></td></tr>\n<tr><td><b>Negativo</b></td><td>that + sujeto + not + verbo base</td><td><span class=\"en\">The client requires that Carlos not attend the meeting.</span></td></tr>\n<tr><td><b>Pasiva</b></td><td>that + sujeto + be + participio</td><td><span class=\"en\">The client requires that the report be signed.</span></td></tr>\n<tr><td><b>Pasiva negativa</b></td><td>that + sujeto + not + be + participio</td><td><span class=\"en\">The client requires that the line not be pressurized.</span></td></tr>\n<tr><td><b>Pregunta</b></td><td>la pregunta va en el verbo principal</td><td><span class=\"en\">Does the client require that the report be signed?</span></td></tr>\n<tr><td><b>Respuesta corta</b></td><td>con el verbo principal</td><td><span class=\"en\">Yes, they do. / No, they don't.</span></td></tr>\n</tbody></table><p><b>Regla de oro 1 — Después de suggest / essential + that: verbo base</b></p><p>Sin <b>-s</b>, sin pasado, sin <i>to</i>, sin <i>will</i>. Con <i>be</i>, siempre <b>be</b>. Aunque el verbo principal esté en pasado, el subjuntivo no cambia.</p><p><span class=\"ok\">He insisted that she be present.</span>   Nunca <span class=\"wrong\">He insisted that she was present.</span> (con el sentido de exigencia)</p><p><b>Regla de oro 2 — El negativo es NOT + base, sin DO</b></p><p>El subjuntivo no usa auxiliar: <span class=\"ok\">We ask that visitors not enter the area.</span> Nunca <span class=\"wrong\">We ask that visitors don't enter the area.</span></p>"
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<p><b>Detalles que marcan la diferencia</b></p><ul>\n<li><b>Suggest + ¿to?</b> Nunca <span class=\"wrong\">I suggest him to check</span>. Opciones correctas: <span class=\"en\">I suggest that he check…</span> (formal), <span class=\"en\">I suggest checking…</span> (neutro), <span class=\"en\">I suggest he check / he checks…</span> (informal, se omite <i>that</i>).</li>\n<li><b>Recommend</b> sí admite otra forma: <span class=\"en\">We recommend replacing the valve.</span> Pero no <span class=\"wrong\">We recommend you to replace</span>.</li>\n<li><b>Variante británica:</b> en el Reino Unido es común <span class=\"en\">It is essential that the valves should be closed.</span> En inglés estadounidense formal se prefiere la forma base.</li>\n<li><b>Insist / suggest con hechos:</b> si informas un hecho, no hay subjuntivo: <span class=\"en\">The data suggest that the tank is settling.</span> (los datos indican que se está asentando: es un hecho, no una recomendación).</li>\n</ul>"
+  },
+  {
+   "title": "WERE y las expresiones fijas",
+   "html": "<p>Existe un segundo subjuntivo, el de <b>situaciones irreales</b>, que ya viste en el condicional 2 (Módulo 18). En registro formal se usa <b>were</b> para todas las personas:</p><table>\n<thead><tr><th>Estructura</th><th>Ejemplo</th><th>Nota de registro</th></tr></thead>\n<tbody>\n<tr><td>If + sujeto + were…</td><td><span class=\"en\">If I were you, I would ask for a written confirmation.</span></td><td><i>If I was</i> es común al hablar; <i>were</i> es lo correcto al escribir.</td></tr>\n<tr><td>I wish + sujeto + were…</td><td><span class=\"en\">I wish the deadline were more flexible.</span></td><td>Deseo sobre el presente.</td></tr>\n<tr><td>as if / as though + were</td><td><span class=\"en\">He talks as if he were the owner.</span></td><td>Comparación irreal.</td></tr>\n<tr><td>It's (high) time + pasado</td><td><span class=\"en\">It's time we updated the procedure.</span></td><td>Forma de pasado con sentido presente: \"ya es hora de que…\".</td></tr>\n<tr><td>would rather + sujeto + pasado</td><td><span class=\"en\">I'd rather you sent it by email.</span></td><td>\"Preferiría que…\": pasado con sentido presente.</td></tr>\n</tbody></table><p>Además, el inglés conserva <b>expresiones fijas</b> en subjuntivo. No se analizan: se memorizan.</p><table>\n<thead><tr><th>Expresión</th><th>Significado</th><th>Ejemplo</th></tr></thead>\n<tbody>\n<tr><td><span class=\"en\">Be that as it may,</span></td><td>Sea como sea, / Aun así,</td><td><span class=\"en\">Be that as it may, the contract is still binding.</span></td></tr>\n<tr><td><span class=\"en\">Come what may,</span></td><td>Pase lo que pase,</td><td><span class=\"en\">Come what may, we deliver on Friday.</span></td></tr>\n<tr><td><span class=\"en\">if need be</span></td><td>si hace falta</td><td><span class=\"en\">We can work Saturday if need be.</span></td></tr>\n<tr><td><span class=\"en\">So be it.</span></td><td>Que así sea. / Está bien.</td><td><span class=\"en\">If they want a full audit, so be it.</span></td></tr>\n<tr><td><span class=\"en\">Suffice it to say (that)…</span></td><td>Basta con decir que…</td><td><span class=\"en\">Suffice it to say that the client was not pleased.</span></td></tr>\n<tr><td><span class=\"en\">far be it from me to…</span></td><td>lejos de mí…</td><td><span class=\"en\">Far be it from me to criticize, but the welds look rushed.</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Registro: del chat al contrato",
+   "html": "<p>Una misma idea se dice de cinco maneras según el contexto. Elegir mal el registro es un error tan grave como uno gramatical: un tono de WhatsApp en un contrato suena poco profesional; un contrato en un chat suena frío o arrogante.</p>",
+   "svg": "<svg viewBox=\"0 0 640 380\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"44\" y=\"20\" width=\"28\" height=\"300\" rx=\"14\" fill=\"#F2F4F7\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <rect x=\"50\" y=\"26\" width=\"16\" height=\"294\" rx=\"8\" fill=\"#6941C6\"/>\n  <rect x=\"50\" y=\"86\" width=\"16\" height=\"60\" fill=\"#8B6AD8\"/>\n  <rect x=\"50\" y=\"146\" width=\"16\" height=\"60\" fill=\"#E9B949\"/>\n  <rect x=\"50\" y=\"206\" width=\"16\" height=\"60\" fill=\"#FFB27A\"/>\n  <rect x=\"50\" y=\"266\" width=\"16\" height=\"54\" fill=\"#0E9384\"/>\n  <circle cx=\"58\" cy=\"338\" r=\"26\" fill=\"#0E9384\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <text x=\"58\" y=\"343\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#fff\">BAJO</text>\n  <text x=\"58\" y=\"14\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#6941C6\">ALTO</text>\n  <line x1=\"76\" y1=\"56\" x2=\"100\" y2=\"56\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <line x1=\"76\" y1=\"116\" x2=\"100\" y2=\"116\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <line x1=\"76\" y1=\"176\" x2=\"100\" y2=\"176\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <line x1=\"76\" y1=\"236\" x2=\"100\" y2=\"236\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <line x1=\"76\" y1=\"296\" x2=\"100\" y2=\"296\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <rect x=\"104\" y=\"30\" width=\"520\" height=\"52\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <text x=\"118\" y=\"50\" font-size=\"12\" font-weight=\"800\" fill=\"#6941C6\">5 · CONTRATO / ESPECIFICACIÓN</text>\n  <text x=\"118\" y=\"70\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">The Contractor shall submit the report prior to mobilization.</text>\n  <rect x=\"104\" y=\"90\" width=\"520\" height=\"52\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#8B6AD8\"/>\n  <text x=\"118\" y=\"110\" font-size=\"12\" font-weight=\"800\" fill=\"#6941C6\">4 · INFORME TÉCNICO / CARTA FORMAL</text>\n  <text x=\"118\" y=\"130\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">We recommend that the report be submitted before mobilization.</text>\n  <rect x=\"104\" y=\"150\" width=\"520\" height=\"52\" rx=\"10\" fill=\"#FFF8E1\" stroke=\"#E9B949\"/>\n  <text x=\"118\" y=\"170\" font-size=\"12\" font-weight=\"800\" fill=\"#7A5B00\">3 · CORREO PROFESIONAL</text>\n  <text x=\"118\" y=\"190\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Could you please send the report before we mobilize?</text>\n  <rect x=\"104\" y=\"210\" width=\"520\" height=\"52\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/>\n  <text x=\"118\" y=\"230\" font-size=\"12\" font-weight=\"800\" fill=\"#E8590C\">2 · CONVERSACIÓN DE TRABAJO</text>\n  <text x=\"118\" y=\"250\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">We need the report before we head out to the site.</text>\n  <rect x=\"104\" y=\"270\" width=\"520\" height=\"52\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/>\n  <text x=\"118\" y=\"290\" font-size=\"12\" font-weight=\"800\" fill=\"#0E9384\">1 · CHAT CON UN COLEGA</text>\n  <text x=\"118\" y=\"310\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Hey, send me the report before we go, OK?</text>\n  <text x=\"104\" y=\"352\" font-size=\"12\" fill=\"#667085\">Señales de formalidad: sujeto en 3.ª persona (the Contractor), shall, subjuntivo,</text>\n  <text x=\"104\" y=\"370\" font-size=\"12\" fill=\"#667085\">vocabulario latino (submit, prior to, mobilization), sin contracciones ni phrasal verbs.</text>\n</svg>",
+   "caption": "Figura 28.2 — Termómetro de formalidad: la misma petición en cinco registros."
+  },
+  {
+   "title": "El lenguaje de contratos",
+   "html": "<p>Normas como API, ASME o AWS y los contratos de obra usan un vocabulario con <b>significado legal preciso</b>. Un ingeniero debe distinguir sin dudar lo obligatorio de lo recomendado (Módulo 33 profundiza en normas).</p><table>\n<thead><tr><th>Estructura formal</th><th>Equivale a</th><th>Ejemplo contractual</th></tr></thead>\n<tbody>\n<tr><td><b>shall / shall not</b></td><td>debe / no debe (obligación legal)</td><td><span class=\"en\">The Contractor shall provide all scaffolding.</span></td></tr>\n<tr><td><b>be to + verbo</b></td><td>debe (instrucción oficial)</td><td><span class=\"en\">All visitors are to report to the security office.</span></td></tr>\n<tr><td><b>provided (that) / providing</b></td><td>siempre que, a condición de que</td><td><span class=\"en\">Payment will be released provided that the punch list is closed.</span></td></tr>\n<tr><td><b>in the event that / in the event of</b></td><td>en caso de que / en caso de</td><td><span class=\"en\">In the event of a dispute, the parties shall seek mediation.</span></td></tr>\n<tr><td><b>unless otherwise specified</b></td><td>salvo que se indique lo contrario</td><td><span class=\"en\">Unless otherwise specified, all dimensions are in millimeters.</span></td></tr>\n<tr><td><b>subject to</b></td><td>sujeto a</td><td><span class=\"en\">The schedule is subject to client approval.</span></td></tr>\n<tr><td><b>prior to / upon</b></td><td>antes de / al (momento de)</td><td><span class=\"en\">Upon completion, the area shall be left clean.</span></td></tr>\n</tbody></table><p><b>Regla de oro 3 — En especificaciones: shall obliga, should recomienda, may permite</b></p><p>Nunca uses <i>must</i>, <i>will</i> o <i>should</i> al azar en un documento técnico. Si algo es obligatorio, <b>shall</b>; si es una buena práctica, <b>should</b>; si es opcional, <b>may</b>. Para prohibir, <b>shall not</b>. Muchos redactores modernos usan <i>must</i> en lugar de <i>shall</i> por claridad; lo importante es ser <b>consistente</b> en todo el documento.</p>",
+   "svg": "<svg viewBox=\"0 0 640 230\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"20\" width=\"190\" height=\"140\" rx=\"12\" fill=\"#FEF0EF\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <text x=\"115\" y=\"56\" text-anchor=\"middle\" font-size=\"26\" font-weight=\"800\" fill=\"#D92D20\">SHALL</text>\n  <text x=\"115\" y=\"82\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">obligatorio</text>\n  <text x=\"115\" y=\"104\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">incumplir = no conformidad</text>\n  <text x=\"115\" y=\"132\" text-anchor=\"middle\" font-size=\"12\" font-style=\"italic\" fill=\"#344054\">Welds shall be</text>\n  <text x=\"115\" y=\"148\" text-anchor=\"middle\" font-size=\"12\" font-style=\"italic\" fill=\"#344054\">100% radiographed.</text>\n  <rect x=\"225\" y=\"20\" width=\"190\" height=\"140\" rx=\"12\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"56\" text-anchor=\"middle\" font-size=\"26\" font-weight=\"800\" fill=\"#7A5B00\">SHOULD</text>\n  <text x=\"320\" y=\"82\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">recomendado</text>\n  <text x=\"320\" y=\"104\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">desviarse = justificarlo</text>\n  <text x=\"320\" y=\"132\" text-anchor=\"middle\" font-size=\"12\" font-style=\"italic\" fill=\"#344054\">Plates should be</text>\n  <text x=\"320\" y=\"148\" text-anchor=\"middle\" font-size=\"12\" font-style=\"italic\" fill=\"#344054\">stored off the ground.</text>\n  <rect x=\"430\" y=\"20\" width=\"190\" height=\"140\" rx=\"12\" fill=\"#E8F7EF\" stroke=\"#079455\" stroke-width=\"2\"/>\n  <text x=\"525\" y=\"56\" text-anchor=\"middle\" font-size=\"26\" font-weight=\"800\" fill=\"#079455\">MAY</text>\n  <text x=\"525\" y=\"82\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">permitido / opcional</text>\n  <text x=\"525\" y=\"104\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">se puede, no se exige</text>\n  <text x=\"525\" y=\"132\" text-anchor=\"middle\" font-size=\"12\" font-style=\"italic\" fill=\"#344054\">Either method</text>\n  <text x=\"525\" y=\"148\" text-anchor=\"middle\" font-size=\"12\" font-style=\"italic\" fill=\"#344054\">may be used.</text>\n  <rect x=\"20\" y=\"176\" width=\"600\" height=\"40\" rx=\"10\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/>\n  <text x=\"320\" y=\"201\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Prohibición: <tspan fill=\"#D92D20\">shall not</tspan> (prohibido) ≠ <tspan fill=\"#079455\">need not</tspan> (no es obligatorio)</text>\n</svg>",
+   "caption": "Figura 28.3 — Los tres verbos de toda norma técnica: SHALL, SHOULD y MAY no son intercambiables."
+  },
+  {
+   "title": "Traducción directa vs inglés real",
+   "html": "<p><b>Lo que piensas en español</b><br>Sugiero que él revise el plano.<br/>Es necesario que estén listos.<br/>Pidió que no empezáramos.<br/>Recomiendo que lo cambies.<br/>Si yo fuera usted…<br/>Ya es hora de que nos vayamos.<br/>El contratista deberá entregar…</p><p><b>Lo que dice un nativo (formal)</b><br><span class=\"en\">I suggest that he review the drawing.</span><br/>\n<span class=\"en\">It is necessary that they be ready.</span><br/>\n<span class=\"en\">She asked that we not start.</span><br/>\n<span class=\"en\">I recommend that you replace it.</span><br/>\n<span class=\"en\">If I were you…</span><br/>\n<span class=\"en\">It's time we left.</span><br/>\n<span class=\"en\">The Contractor shall submit…</span></p><table>\n<thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead>\n<tbody>\n<tr><td>Sugiero que él revise el plano.</td><td><span class=\"wrong\">I suggest him to review the drawing.</span></td><td><span class=\"ok\">I suggest that he review the drawing.</span></td></tr>\n<tr><td>Es esencial que el tanque esté vacío.</td><td><span class=\"wrong\">It's essential that the tank is being empty.</span></td><td><span class=\"ok\">It is essential that the tank be empty.</span></td></tr>\n<tr><td>Pidió que no empezáramos.</td><td><span class=\"wrong\">She asked that we didn't start.</span></td><td><span class=\"ok\">She asked that we not start.</span></td></tr>\n<tr><td>Recomiendo que lo cambies.</td><td><span class=\"wrong\">I recommend you to change it.</span></td><td><span class=\"ok\">I recommend that you change it. / I recommend changing it.</span></td></tr>\n<tr><td>El contratista deberá entregar…</td><td><span class=\"wrong\">The contractor will must deliver…</span></td><td><span class=\"ok\">The Contractor shall deliver…</span></td></tr>\n<tr><td>En caso de que llueva…</td><td><span class=\"wrong\">In case that it rains…</span></td><td><span class=\"ok\">In the event that it rains… / If it rains…</span></td></tr>\n<tr><td>Siempre que se cumpla…</td><td><span class=\"wrong\">Always that it is met…</span></td><td><span class=\"ok\">Provided that it is met…</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Así piensa un nativo",
+   "html": "<p><b>Así piensa un nativo — el subjuntivo \"suena a documento\"</b></p><p>En una conversación relajada un nativo dice <span class=\"en\">I think he should check the drawings</span> o <span class=\"en\">Maybe he could check…</span>. Pasa al subjuntivo (<span class=\"en\">I'd recommend that he check…</span>) cuando escribe un informe, una carta, una minuta o habla en una reunión formal. El subjuntivo no es \"más correcto\": es más <b>formal</b>. El reto C1 es sentir cuándo toca.</p><p>Truco de oído: si en español dirías <i>\"que + subjuntivo\"</i> después de sugerir, exigir o ser necesario, en inglés formal usa <b>that + forma base</b>.</p>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "I suggest that he…",
+   "pron": "ai səg-YÉST dhət ji",
+   "es": "Sugiero que él…",
+   "group": "A. Verbos de recomendación y exigencia + that + base"
+  },
+  {
+   "en": "We recommend that the line be…",
+   "pron": "wi re-kə-MÉND dhət dhə LAIN bi",
+   "es": "Recomendamos que la línea sea / esté…",
+   "group": "A. Verbos de recomendación y exigencia + that + base"
+  },
+  {
+   "en": "They insisted that we…",
+   "pron": "dhei in-SÍS-tid dhət wi",
+   "es": "Insistieron en que nosotros…",
+   "group": "A. Verbos de recomendación y exigencia + that + base"
+  },
+  {
+   "en": "The client demands that…",
+   "pron": "dhə KLÁI-ənt di-MÁNDZ dhət",
+   "es": "El cliente exige que…",
+   "group": "A. Verbos de recomendación y exigencia + that + base"
+  },
+  {
+   "en": "The code requires that…",
+   "pron": "dhə KOUD ri-KWÁI-erz dhət",
+   "es": "La norma exige que…",
+   "group": "A. Verbos de recomendación y exigencia + that + base"
+  },
+  {
+   "en": "We request that…",
+   "pron": "wi ri-KWÉST dhət",
+   "es": "Solicitamos que…",
+   "group": "A. Verbos de recomendación y exigencia + that + base"
+  },
+  {
+   "en": "I propose that…",
+   "pron": "ai prə-PÓUZ dhət",
+   "es": "Propongo que…",
+   "group": "A. Verbos de recomendación y exigencia + that + base"
+  },
+  {
+   "en": "We strongly urge that…",
+   "pron": "wi STRÓNG-li ÉRCH dhət",
+   "es": "Instamos encarecidamente a que…",
+   "group": "A. Verbos de recomendación y exigencia + that + base"
+  },
+  {
+   "en": "The engineer advised that…",
+   "pron": "dhi en-yi-NÍR əd-VÁIZD dhət",
+   "es": "El ingeniero aconsejó que…",
+   "group": "A. Verbos de recomendación y exigencia + that + base"
+  },
+  {
+   "en": "It is essential that…",
+   "pron": "it iz i-SÉN-shəl dhət",
+   "es": "Es esencial que…",
+   "group": "B. Adjetivos de necesidad + that + base"
+  },
+  {
+   "en": "It is vital that…",
+   "pron": "it iz VÁI-təl dhət",
+   "es": "Es vital que…",
+   "group": "B. Adjetivos de necesidad + that + base"
+  },
+  {
+   "en": "It is imperative that…",
+   "pron": "it iz im-PÉ-rə-tiv dhət",
+   "es": "Es imprescindible que…",
+   "group": "B. Adjetivos de necesidad + that + base"
+  },
+  {
+   "en": "It is crucial that…",
+   "pron": "it iz KRÚ-shəl dhət",
+   "es": "Es crucial que…",
+   "group": "B. Adjetivos de necesidad + that + base"
+  },
+  {
+   "en": "It is advisable that…",
+   "pron": "it iz əd-VÁI-zə-bəl dhət",
+   "es": "Es aconsejable que…",
+   "group": "B. Adjetivos de necesidad + that + base"
+  },
+  {
+   "en": "It is critical that…",
+   "pron": "it iz KRÍ-ti-kəl dhət",
+   "es": "Es crítico que…",
+   "group": "B. Adjetivos de necesidad + that + base"
+  },
+  {
+   "en": "Our recommendation is that…",
+   "pron": "aur re-kə-men-DÉI-shən iz dhət",
+   "es": "Nuestra recomendación es que…",
+   "group": "C. Sustantivos y negativo del subjuntivo"
+  },
+  {
+   "en": "It is a requirement that…",
+   "pron": "it iz ə ri-KWÁI-er-mənt dhət",
+   "es": "Es un requisito que…",
+   "group": "C. Sustantivos y negativo del subjuntivo"
+  },
+  {
+   "en": "…that he not be…",
+   "pron": "dhət ji NOT bi",
+   "es": "…que él no sea / no esté…",
+   "group": "C. Sustantivos y negativo del subjuntivo"
+  },
+  {
+   "en": "…that it not be used…",
+   "pron": "dhət it NOT bi YUZD",
+   "es": "…que no se use…",
+   "group": "C. Sustantivos y negativo del subjuntivo"
+  },
+  {
+   "en": "If I were you,…",
+   "pron": "if ai WER yu",
+   "es": "Si yo fuera tú / usted,…",
+   "group": "D. Subjuntivo WERE e irreal"
+  },
+  {
+   "en": "I wish it were…",
+   "pron": "ai WISH it wer",
+   "es": "Ojalá fuera / estuviera…",
+   "group": "D. Subjuntivo WERE e irreal"
+  },
+  {
+   "en": "as if he were…",
+   "pron": "əz if ji WER",
+   "es": "como si él fuera…",
+   "group": "D. Subjuntivo WERE e irreal"
+  },
+  {
+   "en": "It's (high) time we…",
+   "pron": "its (JAI) TAIM wi",
+   "es": "Ya es hora de que nosotros…",
+   "group": "D. Subjuntivo WERE e irreal"
+  },
+  {
+   "en": "I'd rather you…",
+   "pron": "aid RÁ-dher yu",
+   "es": "Preferiría que tú…",
+   "group": "D. Subjuntivo WERE e irreal"
+  },
+  {
+   "en": "Be that as it may,",
+   "pron": "BI dhat əz it MEI",
+   "es": "Sea como sea,",
+   "group": "E. Expresiones fijas"
+  },
+  {
+   "en": "Come what may,",
+   "pron": "KAM wot MEI",
+   "es": "Pase lo que pase,",
+   "group": "E. Expresiones fijas"
+  },
+  {
+   "en": "if need be",
+   "pron": "if NID bi",
+   "es": "si hace falta",
+   "group": "E. Expresiones fijas"
+  },
+  {
+   "en": "Suffice it to say…",
+   "pron": "sə-FÁIS it tə SEI",
+   "es": "Basta decir que…",
+   "group": "E. Expresiones fijas"
+  },
+  {
+   "en": "So be it.",
+   "pron": "SOU BI it",
+   "es": "Que así sea.",
+   "group": "E. Expresiones fijas"
+  },
+  {
+   "en": "The Contractor shall…",
+   "pron": "dhə KÓN-trak-ter SHAL",
+   "es": "El Contratista deberá…",
+   "group": "F. Lenguaje contractual y de especificaciones"
+  },
+  {
+   "en": "shall not",
+   "pron": "shal NOT",
+   "es": "no deberá (prohibido)",
+   "group": "F. Lenguaje contractual y de especificaciones"
+  },
+  {
+   "en": "… is to be + participio",
+   "pron": "iz tə BI",
+   "es": "debe ser… (instrucción)",
+   "group": "F. Lenguaje contractual y de especificaciones"
+  },
+  {
+   "en": "provided that",
+   "pron": "prə-VÁI-did dhət",
+   "es": "siempre que, a condición de que",
+   "group": "F. Lenguaje contractual y de especificaciones"
+  },
+  {
+   "en": "in the event that",
+   "pron": "in dhi i-VÉNT dhət",
+   "es": "en caso de que",
+   "group": "F. Lenguaje contractual y de especificaciones"
+  },
+  {
+   "en": "prior to",
+   "pron": "PRÁI-er tu",
+   "es": "antes de",
+   "group": "F. Lenguaje contractual y de especificaciones"
+  },
+  {
+   "en": "upon completion",
+   "pron": "ə-PON kəm-PLÍ-shən",
+   "es": "al terminar",
+   "group": "F. Lenguaje contractual y de especificaciones"
+  },
+  {
+   "en": "in accordance with",
+   "pron": "in ə-KÓR-dəns widh",
+   "es": "de conformidad con",
+   "group": "F. Lenguaje contractual y de especificaciones"
+  },
+  {
+   "en": "unless otherwise specified",
+   "pron": "ən-LÉS Á-dher-waiz SPÉ-si-faid",
+   "es": "salvo indicación contraria",
+   "group": "F. Lenguaje contractual y de especificaciones"
+  },
+  {
+   "en": "subject to",
+   "pron": "SÁB-yekt tu",
+   "es": "sujeto a",
+   "group": "F. Lenguaje contractual y de especificaciones"
+  },
+  {
+   "en": "notwithstanding",
+   "pron": "not-widh-STÁN-ding",
+   "es": "no obstante, a pesar de",
+   "group": "F. Lenguaje contractual y de especificaciones"
+  },
+  {
+   "en": "hereinafter referred to as",
+   "pron": "jir-in-ÁF-ter ri-FÉRD tu az",
+   "es": "en adelante denominado",
+   "group": "F. Lenguaje contractual y de especificaciones"
+  }
+ ],
+ "examples": [
+  {
+   "en": "We recommend that the bottom plates be replaced before the tank returns to service.",
+   "es": "Recomendamos que se reemplacen las planchas del fondo antes de que el tanque vuelva a servicio.",
+   "situation": "Informe de inspección"
+  },
+  {
+   "en": "It is essential that every worker wear a harness above 1.8 meters.",
+   "es": "Es esencial que todo trabajador use arnés por encima de 1,8 metros.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "The client insisted that the night shift not use the main gate.",
+   "es": "El cliente insistió en que el turno de noche no usara la puerta principal.",
+   "situation": "Reunión con cliente"
+  },
+  {
+   "en": "All butt welds shall be 100% radiographed in accordance with ASME B31.3.",
+   "es": "Todas las soldaduras a tope deberán radiografiarse al 100 % de conformidad con ASME B31.3.",
+   "situation": "Especificación"
+  },
+  {
+   "en": "Payment shall be released within 30 days, provided that all documentation has been approved.",
+   "es": "El pago se liberará dentro de 30 días, siempre que toda la documentación haya sido aprobada.",
+   "situation": "Contrato"
+  },
+  {
+   "en": "In the event of a gas alarm, all personnel are to evacuate to the muster point.",
+   "es": "En caso de alarma de gas, todo el personal debe evacuar al punto de reunión.",
+   "situation": "Procedimiento"
+  },
+  {
+   "en": "We request that the revised quotation be submitted no later than Friday.",
+   "es": "Solicitamos que la cotización revisada se presente a más tardar el viernes.",
+   "situation": "Correo a proveedor"
+  },
+  {
+   "en": "Unless otherwise specified, all dimensions are in millimeters.",
+   "es": "Salvo indicación contraria, todas las dimensiones están en milímetros.",
+   "situation": "Plano"
+  },
+  {
+   "en": "If I were you, I would ask for that change in writing.",
+   "es": "Si yo fuera tú, pediría ese cambio por escrito.",
+   "situation": "Consejo a un colega"
+  },
+  {
+   "en": "The doctor recommended that my father avoid salt and walk every day.",
+   "es": "El médico recomendó que mi padre evitara la sal y caminara todos los días.",
+   "situation": "Médico"
+  },
+  {
+   "en": "The bank requires that the account holder be present to sign.",
+   "es": "El banco exige que el titular de la cuenta esté presente para firmar.",
+   "situation": "Banco"
+  },
+  {
+   "en": "It's high time we booked our flights for December.",
+   "es": "Ya es hora de que reservemos los vuelos para diciembre.",
+   "situation": "Vida diaria"
+  },
+  {
+   "en": "Be that as it may, the penalty clause still applies.",
+   "es": "Sea como sea, la cláusula de penalidad sigue vigente.",
+   "situation": "Negociación"
+  },
+  {
+   "en": "No hot work shall be performed prior to gas testing.",
+   "es": "No se realizará ningún trabajo en caliente antes de la medición de gases.",
+   "situation": "Permiso de trabajo"
+  },
+  {
+   "en": "It was agreed that Mr. Lee approve the final drawings by October 30.",
+   "es": "Se acordó que el Sr. Lee aprobara los planos finales a más tardar el 30 de octubre.",
+   "situation": "Minuta de reunión"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo (de la cláusula)",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "They require that he sign the permit.",
+     "They require that he not sign the permit.",
+     "Do they require that he sign the permit?",
+     "Yes, they do. / No, they don't."
+    ],
+    [
+     "She suggested that we wait.",
+     "She suggested that we not wait.",
+     "Did she suggest that we wait?",
+     "Yes, she did. / No, she didn't."
+    ],
+    [
+     "It's essential that the area be fenced.",
+     "It's essential that the area not be accessed.",
+     "Is it essential that the area be fenced?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "The code requires that the test be witnessed.",
+     "The code requires that the test not be skipped.",
+     "Does the code require that the test be witnessed?",
+     "Yes, it does. / No, it doesn't."
+    ],
+    [
+     "He insisted that Ana lead the audit.",
+     "He insisted that Ana not lead the audit.",
+     "Did he insist that Ana lead the audit?",
+     "Yes, he did. / No, he didn't."
+    ],
+    [
+     "We recommend that the pump be replaced.",
+     "We recommend that the pump not be repaired.",
+     "Do you recommend that the pump be replaced?",
+     "Yes, we do. / No, we don't."
+    ],
+    [
+     "It was vital that the crew arrive early.",
+     "It was vital that the crew not arrive late.",
+     "Was it vital that the crew arrive early?",
+     "Yes, it was. / No, it wasn't."
+    ],
+    [
+     "The client asked that Carlos attend.",
+     "The client asked that Carlos not attend.",
+     "Did the client ask that Carlos attend?",
+     "Yes, they did. / No, they didn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Priya",
+   "text": "Edwin, before we sign, I'd like to go through clause 7 with you. The client has added a few requirements."
+  },
+  {
+   "who": "Edwin",
+   "text": "Sure. What do they say?"
+  },
+  {
+   "who": "Priya",
+   "text": "First, they require that all welders be qualified on their own test coupons, not ours."
+  },
+  {
+   "who": "Edwin",
+   "text": "That's fine, provided that they cover the cost of the extra tests."
+  },
+  {
+   "who": "Priya",
+   "text": "Second, it says the Contractor \"shall\" submit daily progress reports. Is that a problem?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Not at all. We already do that. But \"shall\" means it's mandatory, so if we miss one day, they could call it a breach."
+  },
+  {
+   "who": "Priya",
+   "text": "Good point. And clause 7.4 says that, in the event of a delay, penalties apply after five days."
+  },
+  {
+   "who": "Edwin",
+   "text": "I suggest that we propose ten days instead, and that weather delays not count."
+  },
+  {
+   "who": "Priya",
+   "text": "Agreed. I'll recommend that the clause be revised. If I were the client, I'd accept that."
+  },
+  {
+   "who": "Edwin",
+   "text": "Let's hope so. Be that as it may, it's essential that we get it in writing before mobilization."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "I suggest him to check the welds.",
+   "right": "I suggest that he check the welds.",
+   "why": "Suggest no acepta objeto + to."
+  },
+  {
+   "wrong": "We recommend that the valve is replaced.",
+   "right": "… that the valve be replaced.",
+   "why": "Subjuntivo con be: siempre be."
+  },
+  {
+   "wrong": "It is essential that he arrives early.",
+   "right": "… that he arrive early.",
+   "why": "Forma base, sin -s."
+  },
+  {
+   "wrong": "They asked that we don't park here.",
+   "right": "… that we not park here.",
+   "why": "Negativo del subjuntivo: not + base, sin do."
+  },
+  {
+   "wrong": "The client demanded that we finished by May.",
+   "right": "… that we finish by May.",
+   "why": "El pasado del verbo principal no cambia el subjuntivo."
+  },
+  {
+   "wrong": "I recommend you to replace the gasket.",
+   "right": "I recommend replacing / that you replace the gasket.",
+   "why": "Recommend no lleva objeto + to."
+  },
+  {
+   "wrong": "If I was you, I would sign it. (en un informe)",
+   "right": "If I were you, I would sign it.",
+   "why": "En escritura formal, were para todas las personas."
+  },
+  {
+   "wrong": "It's time we leave.",
+   "right": "It's time we left.",
+   "why": "It's time + sujeto va con pasado."
+  },
+  {
+   "wrong": "The Contractor will must provide…",
+   "right": "The Contractor shall provide…",
+   "why": "No se combinan modales; en contrato, shall."
+  },
+  {
+   "wrong": "Welds should be radiographed. (requisito obligatorio)",
+   "right": "Welds shall be radiographed.",
+   "why": "Should es recomendación; lo obligatorio es shall."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "to demand",
+   "looks": "demandar (judicialmente)",
+   "means": "exigir",
+   "fix": "to sue"
+  },
+  {
+   "en": "to pretend",
+   "looks": "pretender",
+   "means": "fingir",
+   "fix": "to intend / to aim to"
+  },
+  {
+   "en": "to assist",
+   "looks": "asistir (ir)",
+   "means": "ayudar",
+   "fix": "to attend"
+  },
+  {
+   "en": "to advise",
+   "looks": "avisar",
+   "means": "aconsejar (también \"informar\" en correo formal)",
+   "fix": "to notify / to let know"
+  },
+  {
+   "en": "compromise",
+   "looks": "compromiso (obligación)",
+   "means": "concesión mutua; también \"poner en riesgo\"",
+   "fix": "commitment"
+  },
+  {
+   "en": "in case",
+   "looks": "en caso de que (= si)",
+   "means": "por si acaso (prevención)",
+   "fix": "in the event that / if"
+  },
+  {
+   "en": "eventually",
+   "looks": "eventualmente",
+   "means": "finalmente, con el tiempo",
+   "fix": "possibly / if necessary"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Sugiero que él revise los cálculos otra vez.",
+    "answers": [
+     "I suggest that he review the calculations again.",
+     "I suggest that he check the calculations again.",
+     "I suggest he review the calculations again."
+    ],
+    "explain": "Suggest that + base: review, sin -s. También check."
+   },
+   {
+    "prompt": "Es esencial que la válvula esté cerrada durante la prueba.",
+    "answers": [
+     "It is essential that the valve be closed during the test.",
+     "It's essential that the valve be closed during the test."
+    ],
+    "explain": "Adjetivo de necesidad + be, no is."
+   },
+   {
+    "prompt": "El cliente exigió que termináramos antes de diciembre.",
+    "answers": [
+     "The client demanded that we finish before December.",
+     "The client demanded that we finish by December."
+    ],
+    "explain": "El subjuntivo no pasa a pasado: finish, no finished. También by December (a más tardar)."
+   },
+   {
+    "prompt": "Recomendamos que no se use la grúa con viento fuerte.",
+    "answers": [
+     "We recommend that the crane not be used in high winds.",
+     "We recommend that the crane not be used in strong winds."
+    ],
+    "explain": "Subjuntivo pasivo negativo: not be used. También in strong winds."
+   },
+   {
+    "prompt": "El Contratista deberá suministrar todos los andamios. (contrato)",
+    "answers": [
+     "The Contractor shall provide all scaffolding.",
+     "The Contractor shall supply all scaffolding.",
+     "The Contractor shall provide all the scaffolding.",
+     "The Contractor shall supply all the scaffolding."
+    ],
+    "explain": "Shall = obligación contractual. También supply; scaffolding es incontable."
+   },
+   {
+    "prompt": "El pago se liberará siempre que el informe haya sido aprobado.",
+    "answers": [
+     "Payment will be released provided that the report has been approved.",
+     "Payment will be released provided the report has been approved."
+    ],
+    "explain": "Provided that = siempre que; después va en indicativo, no en subjuntivo."
+   },
+   {
+    "prompt": "En caso de fuga, se detendrá el llenado. (especificación)",
+    "answers": [
+     "In the event of a leak, filling shall be stopped.",
+     "In the event that a leak occurs, filling shall be stopped.",
+     "In the event of a leak, the filling shall be stopped."
+    ],
+    "explain": "In the event of + sustantivo; shall en especificación. También In the event that a leak occurs."
+   },
+   {
+    "prompt": "Si yo fuera usted, pediría una prórroga.",
+    "answers": [
+     "If I were you, I would request an extension.",
+     "If I were you, I would ask for an extension.",
+     "If I were you, I'd request an extension.",
+     "If I were you, I'd ask for an extension."
+    ],
+    "explain": "Subjuntivo were en registro formal. También ask for."
+   },
+   {
+    "prompt": "Ya es hora de que actualicemos el procedimiento.",
+    "answers": [
+     "It's high time we updated the procedure.",
+     "It's time we updated the procedure.",
+     "It is high time we updated the procedure.",
+     "It is time we updated the procedure."
+    ],
+    "explain": "It's time + sujeto + pasado."
+   },
+   {
+    "prompt": "Salvo indicación contraria, todas las dimensiones están en pulgadas.",
+    "answers": [
+     "Unless otherwise specified, all dimensions are in inches."
+    ],
+    "explain": "Fórmula fija de planos; dimensions are en indicativo."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "The inspector requested that the welds be ground flush.",
+    "answers": [
+     "El inspector solicitó que las soldaduras se esmerilaran a ras.",
+     "El inspector pidió que las soldaduras fueran esmeriladas a ras.",
+     "El inspector solicitó que se esmerilaran las soldaduras al ras."
+    ],
+    "explain": "Be ground flush = esmerilarse a ras (subjuntivo pasivo)."
+   },
+   {
+    "prompt": "Visitors are to remain in the designated area at all times.",
+    "answers": [
+     "Los visitantes deben permanecer en el área designada en todo momento.",
+     "Los visitantes han de permanecer en la zona designada en todo momento.",
+     "Los visitantes deberán permanecer en el área designada en todo momento."
+    ],
+    "explain": "Be to = instrucción oficial; at all times = en todo momento."
+   },
+   {
+    "prompt": "Be that as it may, the deadline cannot be extended.",
+    "answers": [
+     "Sea como sea, el plazo no se puede ampliar.",
+     "Aun así, el plazo no se puede ampliar.",
+     "Sea como fuere, la fecha límite no puede extenderse."
+    ],
+    "explain": "Be that as it may = expresión fija; también \"aun así\"."
+   },
+   {
+    "prompt": "It is imperative that no one enter the tank without a permit.",
+    "answers": [
+     "Es imprescindible que nadie entre al tanque sin permiso.",
+     "Es imperativo que nadie entre al tanque sin un permiso.",
+     "Es indispensable que nadie ingrese al tanque sin permiso."
+    ],
+    "explain": "Enter sin -s tras imperative that, aunque no one es singular."
+   },
+   {
+    "prompt": "The schedule is subject to approval by the Owner.",
+    "answers": [
+     "El cronograma está sujeto a la aprobación del Propietario.",
+     "El cronograma está sujeto a aprobación por parte del Propietario.",
+     "El programa está sujeto a la aprobación del Propietario."
+    ],
+    "explain": "Subject to = sujeto a; Owner = Propietario / cliente en contratos."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "I suggest you to call the supplier today.",
+    "answers": [
+     "I suggest that you call the supplier today.",
+     "I suggest you call the supplier today.",
+     "I suggest calling the supplier today."
+    ],
+    "explain": "Suggest no va con objeto + to. También I suggest calling…"
+   },
+   {
+    "prompt": "The code requires that every weld is inspected.",
+    "answers": [
+     "The code requires that every weld be inspected."
+    ],
+    "explain": "Subjuntivo con be: be, no is."
+   },
+   {
+    "prompt": "It is vital that the operator follows the procedure.",
+    "answers": [
+     "It is vital that the operator follow the procedure.",
+     "It's vital that the operator follow the procedure."
+    ],
+    "explain": "Forma base sin -s: follow."
+   },
+   {
+    "prompt": "The manager asked that we don't leave before six.",
+    "answers": [
+     "The manager asked that we not leave before six."
+    ],
+    "explain": "Negativo: not + base, sin don't."
+   },
+   {
+    "prompt": "They demanded that she paid the full amount up front.",
+    "answers": [
+     "They demanded that she pay the full amount up front."
+    ],
+    "explain": "Subjuntivo: pay, aunque demanded esté en pasado."
+   },
+   {
+    "prompt": "We recommend you to replace the gasket.",
+    "answers": [
+     "We recommend replacing the gasket.",
+     "We recommend that you replace the gasket."
+    ],
+    "explain": "Recommend no lleva objeto + to. También We recommend that you replace…"
+   },
+   {
+    "prompt": "It's high time we start the inspection.",
+    "answers": [
+     "It's high time we started the inspection.",
+     "It is high time we started the inspection."
+    ],
+    "explain": "It's high time + sujeto + pasado."
+   },
+   {
+    "prompt": "The Contractor will must submit the report weekly.",
+    "answers": [
+     "The Contractor shall submit the report weekly."
+    ],
+    "explain": "No se juntan dos modales; en contrato, shall."
+   },
+   {
+    "prompt": "Payment will be made provide that the work is accepted.",
+    "answers": [
+     "Payment will be made provided that the work is accepted."
+    ],
+    "explain": "La conjunción es provided (participio), no provide."
+   },
+   {
+    "prompt": "No welding shall be performed prior the gas test.",
+    "answers": [
+     "No welding shall be performed prior to the gas test."
+    ],
+    "explain": "Prior to: siempre con to."
+   }
+  ],
+  "bonus": {
+   "prompt": "reescribe en registro de contrato: Hey guys, don't start welding till the gas test is done, OK?",
+   "answer": "Welding shall not commence until the gas test has been completed. / No welding shall be performed prior to completion of the gas test."
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con be, not, shall, provided, were, may, left, event. Usa cada palabra una sola vez (8 puntos).",
+   "lines": [
+    {
+     "who": "Mr. Lee",
+     "text": "Have you read the inspection report on the T-110 roof?"
+    },
+    {
+     "who": "You",
+     "text": "Yes. They recommend that the pontoons [1] inspected before the next filling."
+    },
+    {
+     "who": "Mr. Lee",
+     "text": "And the drainage system?"
+    },
+    {
+     "who": "You",
+     "text": "They suggest that it [2] be used until the hoses are replaced."
+    },
+    {
+     "who": "Mr. Lee",
+     "text": "What does the contract say about who pays?"
+    },
+    {
+     "who": "You",
+     "text": "Clause 9: \"The Contractor [3] bear the cost of all repairs, [4] that the damage was caused by the Contractor.\""
+    },
+    {
+     "who": "Mr. Lee",
+     "text": "And if it wasn't?"
+    },
+    {
+     "who": "You",
+     "text": "In the [5] that the Owner caused the damage, the Contractor [6] invoice the repairs as extra work. It's optional for us."
+    },
+    {
+     "who": "Mr. Lee",
+     "text": "If I [7] you, I'd document everything with photos."
+    },
+    {
+     "who": "You",
+     "text": "Agreed. It's time we [8] for the site to take them."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "be"
+     ],
+     "explain": "recommend that the pontoons be inspected: subjuntivo pasivo."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "not"
+     ],
+     "explain": "suggest that it not be used: subjuntivo negativo."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "shall"
+     ],
+     "explain": "Obligación contractual: The Contractor shall bear the cost."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "provided"
+     ],
+     "explain": "provided that = siempre que."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "event"
+     ],
+     "explain": "In the event that = en caso de que."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "may"
+     ],
+     "explain": "Permiso opcional (\"It's optional for us\"): may."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "were"
+     ],
+     "explain": "If I were you: subjuntivo irreal."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "left"
+     ],
+     "explain": "It's time we left: pasado con sentido presente."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta una recomendación técnica formal (7 puntos). Escribe un párrafo de 6 a 8 oraciones para el cliente, al final de un informe de inspección de una línea de tubería corroída. Debes incluir: (a) recommend / suggest that + verbo base, (b) It is essential / imperative that + verbo base, (c) un subjuntivo negativo (that … not …), (d) un subjuntivo pasivo (that … be + participio), (e) shall o is to para un requisito, (f) provided that o in the event that, (g) registro formal constante: sin contracciones ni phrasal verbs.",
+   "rubric": [
+    "(a) recommend / suggest that + verbo base",
+    "(b) It is essential / imperative that + verbo base",
+    "(c) un subjuntivo negativo (that … not …)",
+    "(d) un subjuntivo pasivo (that … be + participio)",
+    "(e) shall o is to para un requisito",
+    "(f) provided that o in the event that",
+    "(g) registro formal constante: sin contracciones ni phrasal verbs"
+   ],
+   "model": "Based on the ultrasonic thickness readings, we recommend that the 6-inch crude line between valves V-12 and V-15 be replaced in its entirety. It is essential that the line be isolated and drained before any work begins. We further recommend that the line not be returned to service until a hydrostatic test has been witnessed by the Owner's inspector. All replacement pipe shall comply with ASTM A106 Grade B. In the event that the replacement cannot be completed during the scheduled shutdown, it is imperative that the operating pressure be reduced to 50% of its current value. We would be pleased to provide a detailed execution plan upon request."
+  }
+ },
+ "cando": [
+  {
+   "skill": "Usar el subjuntivo tras verbos de recomendación y exigencia.",
+   "test": "Escribe 8 oraciones con suggest, recommend, require, insist + that; 8 de 8 con verbo base."
+  },
+  {
+   "skill": "Usar el subjuntivo tras adjetivos de necesidad.",
+   "test": "Completa 5 frases con It is essential / vital / imperative that… en 2 minutos, cero errores."
+  },
+  {
+   "skill": "Formar el subjuntivo negativo y pasivo.",
+   "test": "Transforma 6 oraciones a that … not … y that … be + participio; ninguna con don't ni is."
+  },
+  {
+   "skill": "Evitar suggest/recommend + objeto + to.",
+   "test": "Di en voz alta 5 consejos a un colega con I suggest… sin usar to; grábate y revisa."
+  },
+  {
+   "skill": "Distinguir shall, should y may en una norma.",
+   "test": "Clasifica 10 frases de una especificación real (obligatorio / recomendado / opcional) sin errores."
+  },
+  {
+   "skill": "Ajustar una misma idea a cinco registros.",
+   "test": "Escribe una petición en los 5 niveles de la Figura 28.2 en menos de 5 minutos."
+  },
+  {
+   "skill": "Redactar una recomendación técnica formal.",
+   "test": "Escribe un párrafo de 6–8 oraciones con los 7 elementos de C2 y compáralo con el modelo."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What do you suggest that a new employee do on the first day?",
+  "What rule is it essential that everyone follow at your workplace?",
+  "If you were the manager of your company, what would you change?",
+  "What do you recommend that someone do to learn English faster?",
+  "How would you write in a contract that something is mandatory?",
+  "Is it time you asked for a promotion? Why or why not?"
+ ]
+}

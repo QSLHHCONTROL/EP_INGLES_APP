@@ -1,0 +1,90 @@
+{
+ "id": 8,
+ "topic": "Pasado de TO BE (was / were)",
+ "title": "Where I Was Before",
+ "practice": "Léela en voz alta 3 veces. Luego cuenta tu historia 1 minuto sin mirar, con was débil (wəz).",
+ "rows": [
+  {
+   "en": "A couple of years **ago**, I **was** in {prevPlace}.",
+   "es": "Hace un par de años estaba en {prevPlace}."
+  },
+  {
+   "en": "Before {company}, I **was** at {prevJob}.",
+   "es": "Antes de {company}, estuve en {prevJob}."
+  },
+  {
+   "en": "That job **was** a great learning experience for me.",
+   "es": "Ese trabajo fue una gran experiencia de aprendizaje para mí."
+  },
+  {
+   "en": "I **was** a student at {school} until {gradYear}.",
+   "es": "Fui estudiante de {school} hasta {gradYear}."
+  },
+  {
+   "en": "My classes at {school} **were** hard, but they **were** useful.",
+   "es": "Mis clases en {school} eran difíciles, pero eran útiles."
+  },
+  {
+   "en": "In {startDate}, I **was** the new {jobTitle} at {company}.",
+   "es": "En {startDate} yo era el nuevo {jobTitle_es} en {company}."
+  },
+  {
+   "en": "Everything **was** new: the people, the projects and the office.",
+   "es": "Todo era nuevo: la gente, los proyectos y la oficina."
+  },
+  {
+   "en": "**Was** it easy? Not always, but it **was** a good experience.",
+   "es": "¿Fue fácil? No siempre, pero fue una buena experiencia."
+  },
+  {
+   "en": "{gradYear} **was** a great year for me. I **was** finally {a_profession}!",
+   "es": "{gradYear} fue un gran año para mí. ¡Por fin era {profession_es}!"
+  }
+ ],
+ "dialogTitle": "Diálogo: entrevista de trabajo (Priya, reclutadora)",
+ "dialog": [
+  {
+   "who": "Priya",
+   "text": "Where were you before {company}?"
+  },
+  {
+   "who": "{name}",
+   "text": "I was at {prevJob}, in {prevPlace}."
+  },
+  {
+   "who": "Priya",
+   "text": "Was it a good job?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, it was. It was a great learning experience."
+  },
+  {
+   "who": "Priya",
+   "text": "And your degree? When was that?"
+  },
+  {
+   "who": "{name}",
+   "text": "That was in {gradYear}, from {school}."
+  }
+ ],
+ "pron": [
+  {
+   "en": "A couple of years ago, I was in {prevPlace}.",
+   "pron": ""
+  },
+  {
+   "en": "That job was a great learning experience.",
+   "pron": "dhat YOB wəz ə greit LÉR-ning ik-SPÍ-ri-əns"
+  },
+  {
+   "en": "I was the new {jobTitle} at {company}.",
+   "pron": ""
+  },
+  {
+   "en": "Where were you before {company}?",
+   "pron": ""
+  }
+ ],
+ "check": "Cuento mi historia laboral en menos de 1 minuto, sin leer, con was / were y ago sin un solo error (nada de did ni de otros verbos en pasado)."
+}

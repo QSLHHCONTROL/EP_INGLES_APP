@@ -1,0 +1,98 @@
+{
+ "id": 2,
+ "topic": "A / AN / THE · THERE IS / ARE",
+ "title": "My Workplace",
+ "practice": "Léela en voz alta 3 veces. Luego describe tu lugar de trabajo 45 segundos sin mirar.",
+ "rows": [
+  {
+   "en": "I'm **{a_profession}** at {company}, **a** company in {companyPlace}.",
+   "es": "Soy {profession_es} en {company}, una empresa en {companyPlace}."
+  },
+  {
+   "en": "**There are** a lot of good restaurants in {city}, my hometown.",
+   "es": "Hay muchos restaurantes buenos en {city}, mi ciudad natal."
+  },
+  {
+   "en": "At work, **there's a** lot to do: {work}.",
+   "es": "En el trabajo hay mucho que hacer: {work_es}."
+  },
+  {
+   "en": "**There's a** big project at {company} right now: {project}.",
+   "es": "Ahora hay un proyecto grande en {company}: {project_es}."
+  },
+  {
+   "en": "**There's a** problem with **the** schedule, but **the** team is ready.",
+   "es": "Hay un problema con el cronograma, pero el equipo está listo."
+  },
+  {
+   "en": "**There are** a lot of **people** on my team.",
+   "es": "Hay mucha gente en mi equipo."
+  },
+  {
+   "en": "**There's** a lot of **information** to check every day.",
+   "es": "Hay mucha información que revisar todos los días."
+  },
+  {
+   "en": "**Safety** is very important at work.",
+   "es": "La seguridad es muy importante en el trabajo."
+  },
+  {
+   "en": "**Mistakes** are expensive here.",
+   "es": "Aquí los errores son caros."
+  },
+  {
+   "en": "**There's a** file for {project} on my computer. It's in {tool}.",
+   "es": "Hay un archivo de {project_es} en mi computadora. Está en {tool}."
+  },
+  {
+   "en": "**There are** 36 modules in this book, and this is Module 2!",
+   "es": "Hay 36 módulos en este libro, ¡y este es el Módulo 2!"
+  }
+ ],
+ "dialogTitle": "Diálogo en el trabajo",
+ "dialog": [
+  {
+   "who": "Mark",
+   "text": "Hi, {name}. Is there a parking lot here?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, there is. It's near the office."
+  },
+  {
+   "who": "Mark",
+   "text": "How many people are there on your team?"
+  },
+  {
+   "who": "{name}",
+   "text": "There are six people and a supervisor."
+  },
+  {
+   "who": "Mark",
+   "text": "Are there any problems today?"
+  },
+  {
+   "who": "{name}",
+   "text": "Just one. There's a problem with a printer. The printer is old."
+  }
+ ],
+ "pron": [
+  {
+   "en": "There's a big project at {company}.",
+   "pron": ""
+  },
+  {
+   "en": "There are a lot of people on my team.",
+   "pron": "dher ar ə LOT əv PÍ-pəl on mai TIM"
+  },
+  {
+   "en": "There's a lot of information.",
+   "pron": "dherz ə LOT əv in-fər-MÉI-shən"
+  },
+  {
+   "en": "Safety is very important.",
+   "pron": "SÉIF-ti iz VÉ-ri im-PÓR-tənt"
+  }
+ ],
+ "check": "Describo mi lugar de trabajo en menos de 1 minuto, sin leer, y uso there's / there are y a / an / the sin un solo error."
+}

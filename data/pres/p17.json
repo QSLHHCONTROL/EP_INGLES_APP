@@ -1,0 +1,98 @@
+{
+ "id": 17,
+ "topic": "MIGHT / MAY / COULD / MUST BE",
+ "title": "What Might Happen Next",
+ "practice": "Léela en voz alta 3 veces. Luego habla 1 minuto de tus planes sin mirar.",
+ "rows": [
+  {
+   "en": "I **might** apply for jobs in {dreamCountry}.",
+   "es": "Puede que postule a trabajos en {dreamCountry}."
+  },
+  {
+   "en": "I **may** also send my CV to international companies.",
+   "es": "Quizás también envíe mi CV a empresas internacionales."
+  },
+  {
+   "en": "It **could** take a few months.",
+   "es": "Podría tomar unos meses."
+  },
+  {
+   "en": "My English **might not** be perfect yet.",
+   "es": "Puede que mi inglés aún no sea perfecto."
+  },
+  {
+   "en": "Interviews in English **must be** hard.",
+   "es": "Las entrevistas en inglés deben de ser difíciles."
+  },
+  {
+   "en": "People with my experience are **probably** in demand there.",
+   "es": "Probablemente allá se necesita gente con mi experiencia."
+  },
+  {
+   "en": "When there's a problem at work, I think: \"It **could be** a small mistake.\"",
+   "es": "Cuando hay un problema en el trabajo, pienso: \"Podría ser un pequeño error.\""
+  },
+  {
+   "en": "\"It **can't be** the numbers. We checked them.\"",
+   "es": "\"No pueden ser los números. Los revisamos.\""
+  },
+  {
+   "en": "\"There **must be** a mistake in the report.\"",
+   "es": "\"Debe de haber un error en el reporte.\""
+  },
+  {
+   "en": "I **could** start my own business one day.",
+   "es": "Podría empezar mi propio negocio algún día."
+  },
+  {
+   "en": "It **may not** happen soon, but I like the idea.",
+   "es": "Puede que no pase pronto, pero me gusta la idea."
+  }
+ ],
+ "dialogTitle": "Diálogo en el trabajo",
+ "dialog": [
+  {
+   "who": "Mike",
+   "text": "{name}, there's a problem with {project}. What could it be?"
+  },
+  {
+   "who": "{name}",
+   "text": "It might be a missing document. Or the dates may not be correct."
+  },
+  {
+   "who": "Mike",
+   "text": "It can't be a missing document. We checked everything this morning."
+  },
+  {
+   "who": "{name}",
+   "text": "Then it must be the dates. Let's check them."
+  },
+  {
+   "who": "Mike",
+   "text": "Will we finish today?"
+  },
+  {
+   "who": "{name}",
+   "text": "Probably not. We might need one more day."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I might apply for jobs in {dreamCountry}.",
+   "pron": ""
+  },
+  {
+   "en": "It could be a small mistake.",
+   "pron": "it kud bi ə SMOL mis-TÉIK"
+  },
+  {
+   "en": "There must be a mistake in the report.",
+   "pron": "dher məst bi ə mis-TÉIK in dhə ri-PÓRT"
+  },
+  {
+   "en": "It can't be the numbers.",
+   "pron": "it KANT bi dhə NAM-bərz"
+  }
+ ],
+ "check": "Digo el monólogo en menos de 90 segundos, sin leer, y uso might / may / could (posible), must be (casi seguro) y can't be (imposible) sin un solo error."
+}

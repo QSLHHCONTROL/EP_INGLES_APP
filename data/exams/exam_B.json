@@ -1,0 +1,894 @@
+{
+ "id": "B",
+ "title": "Examen integrador B1–B2",
+ "goal": "Demuestra que puedes dar una presentación de 10 minutos y escribir un informe técnico de una página en inglés, usando todo lo aprendido en los Módulos 13 a 26: tiempos perfectos y narrativos, modales, condicionales, voz pasiva, estilo indirecto, conectores y el inglés de reuniones.",
+ "pass": 80,
+ "total": 100,
+ "time": "2 h 30 min (escrito) + 10 min (oral)",
+ "rules": [
+  "Este examen junta las habilidades de todo el nivel B. Hazlo en una sola sesión para las Partes 1 a 4 (2 h 30 min), sin diccionario ni apuntes, y graba la Parte 5 otro día si lo prefieres. Corrige con la clave al final y anota tu puntaje en cada parte.",
+  "Escribe las respuestas en las líneas, a lápiz, para poder repetir el examen más adelante.",
+  "Las Partes 4 y 5 se corrigen con rúbrica. Sé honesto: si dudas entre dos puntajes, elige el menor.",
+  "Al final, la tabla de repaso te dice qué módulo repetir según los ítems que fallaste."
+ ],
+ "parts": [
+  {
+   "title": "Parte 1 — Gramática (Módulos 13–26)",
+   "points": 30,
+   "instructions": "Completa cada espacio con una forma correcta de la palabra entre paréntesis o con la palabra que falta. 1 punto cada uno. Si se aceptan varias respuestas, basta una. En los ítems 3 y 6 los dos espacios forman una sola respuesta (1 punto).",
+   "items": [
+    {
+     "type": "write",
+     "n": 1,
+     "prompt": "I ___ (work) for this company since 2023.",
+     "answers": [
+      "have worked",
+      "'ve worked",
+      "have been working",
+      "'ve been working",
+      "I have worked for this company since 2023.",
+      "I've worked for this company since 2023.",
+      "I have been working for this company since 2023.",
+      "I've been working for this company since 2023."
+     ],
+     "points": 1,
+     "explain": "Since + punto de inicio que llega hasta hoy → presente perfecto (simple o continuo).",
+     "module": 13
+    },
+    {
+     "type": "write",
+     "n": 2,
+     "prompt": "We ___ (finish) the hydrostatic test yesterday afternoon.",
+     "answers": [
+      "finished",
+      "We finished the hydrostatic test yesterday afternoon."
+     ],
+     "points": 1,
+     "explain": "Yesterday = tiempo terminado → pasado simple, nunca presente perfecto.",
+     "module": 13
+    },
+    {
+     "type": "write",
+     "n": 3,
+     "prompt": "How long ___ you ___ (wait) for the inspector? Since 8 a.m.?",
+     "answers": [
+      "have been waiting",
+      "have … been waiting",
+      "have ... been waiting",
+      "have / been waiting",
+      "How long have you been waiting for the inspector? Since 8 a.m.?"
+     ],
+     "points": 1,
+     "explain": "How long + acción que sigue en curso → presente perfecto continuo.",
+     "module": 14
+    },
+    {
+     "type": "write",
+     "n": 4,
+     "prompt": "Carlos is exhausted because he ___ (weld) all morning.",
+     "answers": [
+      "has been welding",
+      "'s been welding",
+      "Carlos is exhausted because he has been welding all morning.",
+      "Carlos is exhausted because he's been welding all morning."
+     ],
+     "points": 1,
+     "explain": "Actividad reciente y continua que explica un resultado visible (cansancio).",
+     "module": 14
+    },
+    {
+     "type": "write",
+     "n": 5,
+     "prompt": "I ___ (inspect) the tank roof when the alarm went off.",
+     "answers": [
+      "was inspecting",
+      "I was inspecting the tank roof when the alarm went off."
+     ],
+     "points": 1,
+     "explain": "Acción en progreso interrumpida por otra corta (went off) → pasado continuo.",
+     "module": 15
+    },
+    {
+     "type": "write",
+     "n": 6,
+     "prompt": "When we arrived at the site, the night crew ___ already ___ (leave).",
+     "answers": [
+      "had left",
+      "had … left",
+      "had ... left",
+      "had / left",
+      "When we arrived at the site, the night crew had already left."
+     ],
+     "points": 1,
+     "explain": "Acción anterior a otra pasada (arrived) → pasado perfecto.",
+     "module": 15
+    },
+    {
+     "type": "write",
+     "n": 7,
+     "prompt": "Above 1.8 m, you ___ wear a harness. It's a legal requirement.",
+     "answers": [
+      "must",
+      "have to",
+      "Above 1.8 m, you must wear a harness. It's a legal requirement.",
+      "Above 1.8 m, you must wear a harness. It is a legal requirement.",
+      "Above 1.8 m, you have to wear a harness. It's a legal requirement.",
+      "Above 1.8 m, you have to wear a harness. It is a legal requirement."
+     ],
+     "points": 1,
+     "explain": "Obligación (norma o ley). Ambas son correctas.",
+     "module": 16
+    },
+    {
+     "type": "write",
+     "n": 8,
+     "prompt": "You look terrible. You ___ see a doctor. (consejo)",
+     "answers": [
+      "should",
+      "You look terrible. You should see a doctor."
+     ],
+     "points": 1,
+     "explain": "Consejo → should.",
+     "module": 16
+    },
+    {
+     "type": "write",
+     "n": 9,
+     "prompt": "The lights are off and nobody answers. They ___ be at home. (estás seguro de que no)",
+     "answers": [
+      "can't",
+      "cannot",
+      "The lights are off and nobody answers. They can't be at home.",
+      "The lights are off and nobody answers. They cannot be at home."
+     ],
+     "points": 1,
+     "explain": "Deducción negativa segura → can't be (no mustn't).",
+     "module": 17
+    },
+    {
+     "type": "write",
+     "n": 10,
+     "prompt": "Take a jacket. It ___ get cold later. (posibilidad)",
+     "answers": [
+      "might",
+      "may",
+      "could",
+      "Take a jacket. It might get cold later.",
+      "Take a jacket. It may get cold later.",
+      "Take a jacket. It could get cold later."
+     ],
+     "points": 1,
+     "explain": "Posibilidad futura.",
+     "module": 17
+    },
+    {
+     "type": "write",
+     "n": 11,
+     "prompt": "If the pressure ___ (drop) during the test, we will stop immediately.",
+     "answers": [
+      "drops",
+      "If the pressure drops during the test, we will stop immediately.",
+      "If the pressure drops during the test, we'll stop immediately."
+     ],
+     "points": 1,
+     "explain": "Condicional 1: presente después de if, will en la principal.",
+     "module": 18
+    },
+    {
+     "type": "write",
+     "n": 12,
+     "prompt": "If I ___ (have) more time, I would take the API 653 course.",
+     "answers": [
+      "had",
+      "If I had more time, I would take the API 653 course."
+     ],
+     "points": 1,
+     "explain": "Condicional 2 (hipótesis presente): if + pasado, would + verbo.",
+     "module": 18
+    },
+    {
+     "type": "write",
+     "n": 13,
+     "prompt": "If we ___ (check) the gasket, the flange wouldn't have leaked.",
+     "answers": [
+      "had checked",
+      "If we had checked the gasket, the flange wouldn't have leaked.",
+      "If we had checked the gasket, the flange would not have leaked."
+     ],
+     "points": 1,
+     "explain": "Condicional 3: if + pasado perfecto, wouldn't have + participio.",
+     "module": 19
+    },
+    {
+     "type": "write",
+     "n": 14,
+     "prompt": "You ___ (call) me earlier! Now it's too late. (crítica sobre el pasado)",
+     "answers": [
+      "should have called",
+      "should've called",
+      "You should have called me earlier! Now it's too late.",
+      "You should have called me earlier! Now it is too late.",
+      "You should've called me earlier! Now it's too late.",
+      "You should've called me earlier! Now it is too late."
+     ],
+     "points": 1,
+     "explain": "Crítica sobre el pasado: should have + participio.",
+     "module": 19
+    },
+    {
+     "type": "write",
+     "n": 15,
+     "prompt": "The tanks ___ (inspect) every five years.",
+     "answers": [
+      "are inspected",
+      "The tanks are inspected every five years."
+     ],
+     "points": 1,
+     "explain": "Pasiva en presente (rutina); tanks es plural → are.",
+     "module": 20
+    },
+    {
+     "type": "write",
+     "n": 16,
+     "prompt": "The new pump ___ (install) last week.",
+     "answers": [
+      "was installed",
+      "The new pump was installed last week."
+     ],
+     "points": 1,
+     "explain": "Pasiva en pasado; last week.",
+     "module": 20
+    },
+    {
+     "type": "write",
+     "n": 17,
+     "prompt": "\"I'm busy,\" Ana said. → Ana said that she ___ busy.",
+     "answers": [
+      "was",
+      "is",
+      "Ana said that she was busy.",
+      "Ana said that she is busy.",
+      "Ana said that she's busy."
+     ],
+     "points": 1,
+     "explain": "Estilo indirecto: am → was (retroceso de tiempo). También vale is si sigue siendo verdad.",
+     "module": 21
+    },
+    {
+     "type": "write",
+     "n": 18,
+     "prompt": "\"Did you send the report?\" → Mark asked me if I ___ (send) the report.",
+     "answers": [
+      "had sent",
+      "Mark asked me if I had sent the report."
+     ],
+     "points": 1,
+     "explain": "Pregunta indirecta: pasado simple → pasado perfecto; orden de afirmación. En el habla informal también se oye sent.",
+     "module": 21
+    },
+    {
+     "type": "write",
+     "n": 19,
+     "prompt": "I really enjoy ___ (work) outdoors.",
+     "answers": [
+      "working",
+      "I really enjoy working outdoors."
+     ],
+     "points": 1,
+     "explain": "Enjoy + gerundio.",
+     "module": 22
+    },
+    {
+     "type": "write",
+     "n": 20,
+     "prompt": "After the inspection, we decided ___ (replace) the valve.",
+     "answers": [
+      "to replace",
+      "After the inspection, we decided to replace the valve."
+     ],
+     "points": 1,
+     "explain": "Decide + infinitivo con to.",
+     "module": 22
+    },
+    {
+     "type": "write",
+     "n": 21,
+     "prompt": "Please fill ___ this permit form before you start.",
+     "answers": [
+      "out",
+      "in",
+      "Please fill out this permit form before you start.",
+      "Please fill in this permit form before you start."
+     ],
+     "points": 1,
+     "explain": "Fill out = llenar un formulario (EE. UU.); fill in también se acepta.",
+     "module": 23
+    },
+    {
+     "type": "write",
+     "n": 22,
+     "prompt": "The lift was called ___ because of the storm. (= cancelado)",
+     "answers": [
+      "off",
+      "The lift was called off because of the storm."
+     ],
+     "points": 1,
+     "explain": "Call off = cancelar.",
+     "module": 23
+    },
+    {
+     "type": "write",
+     "n": 23,
+     "prompt": "The engineer ___ designed these supports is from Chile.",
+     "answers": [
+      "who",
+      "that",
+      "The engineer who designed these supports is from Chile.",
+      "The engineer that designed these supports is from Chile."
+     ],
+     "points": 1,
+     "explain": "Relativo para personas en función de sujeto.",
+     "module": 24
+    },
+    {
+     "type": "write",
+     "n": 24,
+     "prompt": "This is the tank ___ roof collapsed last year.",
+     "answers": [
+      "whose",
+      "This is the tank whose roof collapsed last year."
+     ],
+     "points": 1,
+     "explain": "Posesión: el techo del tanque → whose.",
+     "module": 24
+    },
+    {
+     "type": "write",
+     "n": 25,
+     "prompt": "___ the rain, the crew finished the welds on time.",
+     "answers": [
+      "Despite",
+      "In spite of",
+      "Despite the rain, the crew finished the welds on time.",
+      "In spite of the rain, the crew finished the welds on time."
+     ],
+     "points": 1,
+     "explain": "Preposición + sustantivo (the rain).",
+     "module": 25
+    },
+    {
+     "type": "write",
+     "n": 26,
+     "prompt": "The X-ray test failed; ___, we had to repair the joint.",
+     "answers": [
+      "therefore",
+      "as a result",
+      "consequently",
+      "The X-ray test failed; therefore, we had to repair the joint.",
+      "The X-ray test failed; as a result, we had to repair the joint.",
+      "The X-ray test failed; consequently, we had to repair the joint."
+     ],
+     "points": 1,
+     "explain": "Resultado tras punto y coma, con coma después.",
+     "module": 25
+    },
+    {
+     "type": "write",
+     "n": 27,
+     "prompt": "Would you mind ___ (send) me the agenda before the meeting?",
+     "answers": [
+      "sending",
+      "Would you mind sending me the agenda before the meeting?"
+     ],
+     "points": 1,
+     "explain": "Would you mind + -ing.",
+     "module": 26
+    },
+    {
+     "type": "write",
+     "n": 28,
+     "prompt": "I'm ___ we can't accept that price. (negativa cortés)",
+     "answers": [
+      "afraid",
+      "I'm afraid we can't accept that price.",
+      "I am afraid we cannot accept that price."
+     ],
+     "points": 1,
+     "explain": "I'm afraid = negativa cortés.",
+     "module": 26
+    },
+    {
+     "type": "write",
+     "n": 29,
+     "prompt": "Have you ever ___ (be) to Houston?",
+     "answers": [
+      "been",
+      "Have you ever been to Houston?"
+     ],
+     "points": 1,
+     "explain": "Experiencia de vida: have you ever been to…? (been, no gone).",
+     "module": 13
+    },
+    {
+     "type": "write",
+     "n": 30,
+     "prompt": "\"Close the valve,\" the supervisor said. → The supervisor told me ___ the valve.",
+     "answers": [
+      "to close",
+      "The supervisor told me to close the valve."
+     ],
+     "points": 1,
+     "explain": "Orden en estilo indirecto: tell + persona + infinitivo con to.",
+     "module": 21
+    }
+   ]
+  },
+  {
+   "title": "Parte 2 — Traducción",
+   "points": 20,
+   "instructions": "2A (ítems 1–8): español → inglés, 2 puntos cada una (2 = correcta y natural; 1 = un error menor que no cambia el sentido; 0 = error de estructura). 2B (ítems 9–12): inglés → español, 1 punto cada una.",
+   "items": [
+    {
+     "type": "write",
+     "n": 1,
+     "prompt": "He trabajado en esta empresa desde 2025.",
+     "answers": [
+      "I have worked for this company since 2025.",
+      "I've worked for this company since 2025.",
+      "I have worked at this company since 2025.",
+      "I've worked at this company since 2025.",
+      "I've been working for this company since 2025.",
+      "I have been working for this company since 2025.",
+      "I've been working at this company since 2025.",
+      "I have been working at this company since 2025."
+     ],
+     "points": 2,
+     "explain": "Presente perfecto con since (Módulos 13–14). \"En esta empresa\" = for / at this company.",
+     "module": 13
+    },
+    {
+     "type": "write",
+     "n": 2,
+     "prompt": "Cuando llegó el inspector, ya habíamos terminado la prueba.",
+     "answers": [
+      "When the inspector arrived, we had already finished the test.",
+      "We had already finished the test when the inspector arrived."
+     ],
+     "points": 2,
+     "explain": "Pasado perfecto para la acción anterior; already entre had y el participio (Módulo 15).",
+     "module": 15
+    },
+    {
+     "type": "write",
+     "n": 3,
+     "prompt": "Si hubiéramos revisado el empaque, no habría habido una fuga.",
+     "answers": [
+      "If we had checked the gasket, there wouldn't have been a leak.",
+      "If we had checked the gasket, there would not have been a leak.",
+      "There wouldn't have been a leak if we had checked the gasket.",
+      "There would not have been a leak if we had checked the gasket."
+     ],
+     "points": 2,
+     "explain": "Condicional 3. \"Habría habido\" = there would have been (Módulo 19).",
+     "module": 19
+    },
+    {
+     "type": "write",
+     "n": 4,
+     "prompt": "El informe será enviado mañana por la mañana.",
+     "answers": [
+      "The report will be sent tomorrow morning."
+     ],
+     "points": 2,
+     "explain": "Pasiva en futuro: will be + participio (Módulo 20).",
+     "module": 20
+    },
+    {
+     "type": "write",
+     "n": 5,
+     "prompt": "Me dijo que la grúa no estaba disponible.",
+     "answers": [
+      "He told me the crane wasn't available.",
+      "He told me the crane was not available.",
+      "She told me the crane wasn't available.",
+      "She told me the crane was not available.",
+      "He told me that the crane wasn't available.",
+      "He told me that the crane was not available.",
+      "She told me that the crane wasn't available.",
+      "She told me that the crane was not available.",
+      "He said the crane wasn't available.",
+      "He said the crane was not available.",
+      "She said the crane wasn't available.",
+      "She said the crane was not available.",
+      "He said that the crane wasn't available.",
+      "He said that the crane was not available.",
+      "She said that the crane wasn't available.",
+      "She said that the crane was not available."
+     ],
+     "points": 2,
+     "explain": "Tell + persona; isn't → wasn't. También vale She told me… o He said (that)… (Módulo 21).",
+     "module": 21
+    },
+    {
+     "type": "write",
+     "n": 6,
+     "prompt": "Debe ser el soldador nuevo; lleva un casco azul.",
+     "answers": [
+      "He must be the new welder; he's wearing a blue hard hat.",
+      "He must be the new welder; he is wearing a blue hard hat.",
+      "He must be the new welder; he's wearing a blue helmet.",
+      "He must be the new welder; he is wearing a blue helmet.",
+      "He must be the new welder. He's wearing a blue hard hat.",
+      "He must be the new welder. He is wearing a blue hard hat.",
+      "He must be the new welder. He's wearing a blue helmet.",
+      "He must be the new welder. He is wearing a blue helmet."
+     ],
+     "points": 2,
+     "explain": "Deducción segura: must be (Módulo 17). \"Lleva puesto\" = is wearing; casco de obra = hard hat (vale helmet).",
+     "module": 17
+    },
+    {
+     "type": "write",
+     "n": 7,
+     "prompt": "Aunque el precio es alto, la calidad es excelente.",
+     "answers": [
+      "Although the price is high, the quality is excellent.",
+      "Even though the price is high, the quality is excellent.",
+      "The quality is excellent, although the price is high.",
+      "The quality is excellent, even though the price is high."
+     ],
+     "points": 2,
+     "explain": "Un solo conector de contraste; sin but (Módulo 25). Vale Even though.",
+     "module": 25
+    },
+    {
+     "type": "write",
+     "n": 8,
+     "prompt": "¿Le importaría enviarme la agenda antes de la reunión?",
+     "answers": [
+      "Would you mind sending me the agenda before the meeting?"
+     ],
+     "points": 2,
+     "explain": "Mind + -ing (Módulos 22 y 26).",
+     "module": 22
+    },
+    {
+     "type": "write",
+     "n": 9,
+     "prompt": "The valve that was replaced last week is leaking again.",
+     "answers": [
+      "La válvula que se reemplazó la semana pasada vuelve a tener una fuga.",
+      "La válvula que se reemplazó la semana pasada está fugando otra vez.",
+      "La válvula que se reemplazó la semana pasada vuelve a fugar.",
+      "La válvula que fue reemplazada la semana pasada vuelve a tener una fuga."
+     ],
+     "points": 1,
+     "explain": "Relativo that + pasiva (Módulos 20 y 24). Is leaking again = vuelve a fugar / está fugando otra vez.",
+     "module": 20
+    },
+    {
+     "type": "write",
+     "n": 10,
+     "prompt": "We should have ordered the spare parts earlier.",
+     "answers": [
+      "Deberíamos haber pedido los repuestos antes.",
+      "Debimos haber pedido los repuestos antes.",
+      "Deberíamos haber pedido los repuestos con más anticipación."
+     ],
+     "points": 1,
+     "explain": "Should have + participio = debería haber… (Módulo 19).",
+     "module": 19
+    },
+    {
+     "type": "write",
+     "n": 11,
+     "prompt": "I'm looking forward to meeting you in person.",
+     "answers": [
+      "Tengo muchas ganas de conocerte en persona.",
+      "Tengo muchas ganas de conocerlo en persona.",
+      "Espero con interés conocerlo en persona.",
+      "Espero con interés conocerte en persona."
+     ],
+     "points": 1,
+     "explain": "Look forward to + -ing = esperar con ilusión (Módulo 22). Vale \"Espero con interés conocerlo en persona\".",
+     "module": 22
+    },
+    {
+     "type": "write",
+     "n": 12,
+     "prompt": "The meeting has been put off until Friday.",
+     "answers": [
+      "La reunión se ha postergado hasta el viernes.",
+      "La reunión se ha aplazado hasta el viernes.",
+      "La reunión ha sido postergada hasta el viernes."
+     ],
+     "points": 1,
+     "explain": "Put off = postergar (Módulo 23), en pasiva de presente perfecto. Vale \"se ha aplazado\".",
+     "module": 23
+    }
+   ]
+  },
+  {
+   "title": "Parte 3 — Comprensión de lectura",
+   "points": 15,
+   "instructions": "Lee el informe (unas 350 palabras) en un máximo de 8 minutos. Luego responde en español las 5 preguntas (3 puntos cada una: 1 punto por cada elemento de la respuesta esperada).",
+   "text": "INCIDENT REPORT No. IR-2026-041\nSite: Freeport Terminal – Tank T-305 (crude oil, 40 m diameter)\nDate of incident: October 6, 2026, 2:20 p.m.\nPrepared by: Edwin Prieto, Mechanical and Piping Design Engineer\n\n1. Summary\nDuring the hydrostatic test of Tank T-305, a water leak was detected at the 24-inch flange of the main inlet nozzle (N1). The test was stopped immediately, and the tank was partially drained. Nobody was injured, and there was no environmental impact, since the test medium was fresh water.\n\n2. Description of events\nThe tank had been filled to 85% of its test height when the leak was noticed by a welder who was working on the stairway platform. He reported it to the test supervisor, who stopped the filling pump at 2:25 p.m. Water was spraying from the bottom of the flange at an estimated rate of 20 liters per minute. As a result, the water level was lowered 1.5 m below the nozzle so that the joint could be inspected safely.\n\n3. Root cause\nThe flange was disassembled on October 7. The inspection showed that the spiral wound gasket had been installed off-center, which means that it was not fully compressed on one side. In addition, four of the twenty bolts had been tightened below the specified torque. Although the torque procedure had been issued two weeks earlier, the bolting crew had never received a copy, and no torque record had been signed. Therefore, the leak was caused by incorrect installation, not by a defect in the gasket or the flange.\n\n4. Corrective actions\nA new gasket was installed and centered with the help of guide pins. All the bolts were retightened in a cross pattern to 100% of the specified torque, and the record was signed by the QC inspector. The test was resumed on October 8 and completed without any further leaks.\n\n5. Recommendations\nTo prevent this from happening again, we recommend giving every bolting crew a short training session before work starts. Moreover, a signed torque record should be required before any flange is closed. Carlos Méndez (QC) will prepare the training by October 20, and the new record form will be added to the inspection plan by October 23. If these measures had been in place, the incident would probably not have occurred.",
+   "items": [
+    {
+     "type": "write",
+     "n": 1,
+     "prompt": "¿Qué ocurrió, en qué parte exacta del tanque y en qué momento?",
+     "answers": [
+      "(1) Una fuga de agua durante la prueba hidrostática; (2) en la brida de 24\" de la boquilla de entrada principal N1 del tanque T-305; (3) el 6 de octubre de 2026 a las 2:20 p.m., con el tanque lleno al 85 % de la altura de prueba."
+     ],
+     "points": 3,
+     "explain": "Dónde está en el texto: Encabezado; secciones 1 y 2: was detected at the 24-inch flange…; had been filled to 85%.",
+     "module": 20
+    },
+    {
+     "type": "write",
+     "n": 2,
+     "prompt": "¿Quién detectó la fuga y qué dos medidas inmediatas se tomaron?",
+     "answers": [
+      "(1) Un soldador que trabajaba en la plataforma de la escalera; (2) se detuvo la bomba de llenado a las 2:25 p.m.; (3) se bajó el nivel de agua 1,5 m por debajo de la boquilla para inspeccionar la junta (drenaje parcial)."
+     ],
+     "points": 3,
+     "explain": "Dónde está en el texto: Sección 2: noticed by a welder who was working…; stopped the filling pump; the water level was lowered 1.5 m.",
+     "module": 15
+    },
+    {
+     "type": "write",
+     "n": 3,
+     "prompt": "Explica las dos fallas técnicas de instalación y la causa de fondo (por qué ocurrieron).",
+     "answers": [
+      "(1) El empaque espirometálico se instaló descentrado y no quedó comprimido de un lado; (2) cuatro de los veinte pernos tenían menos torque del especificado; (3) causa de fondo: la cuadrilla nunca recibió el procedimiento de torque y no se firmó ningún registro."
+     ],
+     "points": 3,
+     "explain": "Dónde está en el texto: Sección 3: installed off-center; four of the twenty bolts; had never received a copy.",
+     "module": 25
+    },
+    {
+     "type": "write",
+     "n": 4,
+     "prompt": "¿Verdadero o falso? Justifica cada una con datos del texto. (a) La fuga contaminó el entorno. (b) El empaque tenía un defecto de fabricación. (c) La prueba se completó el 8 de octubre.",
+     "answers": [
+      "(a) Falso: el medio de prueba era agua dulce, sin impacto ambiental. (b) Falso: la causa fue la instalación, no un defecto del material. (c) Verdadero: se reanudó el 8 de octubre y se completó sin fugas."
+     ],
+     "points": 3,
+     "explain": "Dónde está en el texto: Secciones 1, 3 y 4: no environmental impact; not by a defect; resumed on October 8 and completed.",
+     "module": 20
+    },
+    {
+     "type": "write",
+     "n": 5,
+     "prompt": "¿Qué dos recomendaciones se hacen, quién es responsable y cuáles son las fechas límite?",
+     "answers": [
+      "(1) Capacitar a cada cuadrilla de empernado antes de empezar, a cargo de Carlos Méndez (QC), para el 20 de octubre; (2) exigir un registro de torque firmado antes de cerrar cualquier brida; (3) el nuevo formato se añadirá al plan de inspección para el 23 de octubre."
+     ],
+     "points": 3,
+     "explain": "Dónde está en el texto: Sección 5: we recommend giving…; by October 20; by October 23.",
+     "module": 20
+    }
+   ],
+   "note": "Observa la gramática del nivel B en el informe: pasado perfecto pasivo (had been filled, had been installed), pasado continuo (was working, was spraying), relativos (who was working), conectores (As a result, Although, Therefore, Moreover), so that de propósito y condicional 3 al final."
+  },
+  {
+   "title": "Parte 4 — Redacción: informe de una página",
+   "points": 15,
+   "selfGraded": true,
+   "prompt": "Tarea. Escribe un informe de 180 a 250 palabras dirigido a tu gerente de proyecto sobre este caso: las tuberías prefabricadas (pipe spools) para el tanque T-210 llegaron con 6 días de retraso y 3 de los 40 spools tenían la brida girada respecto al plano. Puedes inventar los detalles que falten (fechas, nombres, cifras). Usa la estructura de la Figura B.2.\n\nEstructura (Figura B.2):\nTítulo · To / From / Date — qué informe es, para quién, fecha.\n1 Summary — 2–3 líneas: el problema y su impacto (lo primero).\n2 Background / Events — qué pasó, en orden: pasado simple, pasado continuo y pasado perfecto (Módulo 15).\n3 Cause — por qué: because / due to · which means… (Módulo 25).\n4 Actions taken — qué se hizo: voz pasiva (Módulo 20).\n5 Next steps — quién hará qué y cuándo: will, should, If…, we could… (Módulos 16 y 18).",
+   "rubric": [
+    {
+     "criterion": "Estructura y contenido",
+     "points": 4,
+     "levels": "Las 5 secciones de la Figura B.2 con encabezado; menciona retraso, spools defectuosos, impacto y próximos pasos con responsable y fecha."
+    },
+    {
+     "criterion": "Gramática",
+     "points": 4,
+     "levels": "Al menos 2 pasivas, 1 pasado perfecto y 1 modal o condicional, correctos. Restar 1 punto por cada 3 errores de gramática."
+    },
+    {
+     "criterion": "Conectores y cohesión",
+     "points": 3,
+     "levels": "Al menos 4 conectores distintos de funciones diferentes, bien puntuados (sin comma splice con however / therefore)."
+    },
+    {
+     "criterion": "Vocabulario técnico y registro",
+     "points": 2,
+     "levels": "Términos precisos (spool, flange, drawing, orientation, site, schedule); tono formal, sin contracciones."
+    },
+    {
+     "criterion": "Extensión, ortografía y puntuación",
+     "points": 2,
+     "levels": "180–250 palabras; máximo 2 errores de ortografía o puntuación."
+    }
+   ],
+   "model": "PROGRESS REPORT – T-210 PIPING: LATE AND NONCONFORMING SPOOLS\nTo: Sarah Collins, Project Manager · From: Edwin Prieto, Piping Engineer · Date: November 13, 2026\n\n1. Summary\nThe 40 pipe spools for Tank T-210 arrived six days late, and three of them did not match the drawings. As a result, piping installation is now five days behind schedule.\n\n2. Events\nThe spools were scheduled to arrive on November 3. However, the truck reached the site on November 9. While the crew was unloading them, the QC inspector noticed that three spools had been fabricated with the flange rotated 45 degrees.\n\n3. Cause\nThe delay was due to a late steel delivery to the fabrication shop. The flange error occurred because the shop had used Revision B of the drawings instead of Revision C.\n\n4. Actions taken\nThe three spools were tagged and sent back to the shop on November 10. In addition, the 37 correct spools have already been installed on supports.\n\n5. Next steps\nThe corrected spools will be delivered by November 17. If the shop meets this date, we could recover three days by working on Saturday. Moreover, all future drawings should be sent with a transmittal that confirms the current revision. I will check the corrected spools personally before they leave the shop.",
+   "modelNotes": [
+    "Estructura y contenido (4): Encabezado To/From/Date y secciones 1–5; impacto (five days behind); próximos pasos con fechas y responsable (I will check…).",
+    "Gramática (4): Pasivas: were scheduled, were tagged, will be delivered, should be sent, have already been installed. Pasado perfecto: had been fabricated, had used. Condicional/modal: If the shop meets…, we could…; should.",
+    "Conectores (3): As a result, However, While, due to, because, In addition, Moreover — funciones distintas y bien puntuados.",
+    "Vocabulario y registro (2): spools, flange, drawings, revision, transmittal, fabrication shop, supports; sin contracciones.",
+    "Extensión y ortografía (2): 213 palabras, dentro de 180–250."
+   ]
+  },
+  {
+   "title": "Parte 5 — Expresión oral: presentación de 10 minutos",
+   "points": 20,
+   "selfGraded": true,
+   "oral": true,
+   "prompt": "Tarea. Graba en video o audio una presentación de 9 a 11 minutos sobre un problema técnico de tu trabajo y la solución que recomiendas (puede ser el incidente de la Parte 3 o el caso de la Parte 4). Puedes usar 5–8 diapositivas o una hoja con palabras clave, pero no leas oraciones completas. Luego escucha la grabación dos veces y califícate con la rúbrica.\n\nGuion de tiempos (Figura B.3): 1 Inicio 1 min (0'–1') · 2 Contexto 1,5 min (1'–2'30\") · 3 Problema 2 min (2'30\"–4'30\") · 4 Opciones y análisis 2,5 min (4'30\"–7') · 5 Propuesta 1,5 min (7'–8'30\") · 6 Cierre + Q&A 1,5 min (8'30\"–10'). Señaliza cada cambio: \"Now let's look at…\" · \"Moving on to…\" · \"To sum up, …\". El bloque más largo (4) es donde se gana o se pierde la presentación. Ensaya con cronómetro: si te pasas en un bloque, recorta el siguiente.",
+   "questions": [
+    "1 Inicio (1 min): Saludo, quién eres, tema y objetivo, mapa de la charla. — Good morning. I'm… Today I'm going to talk about… I've divided my talk into four parts.",
+    "2 Contexto (1,5 min): Proyecto, equipo, cifras clave. — I've been working on… since… The tank was built in…",
+    "3 Problema (2 min): Qué pasó, en orden; impacto en costo, plazo o seguridad. — While we were…, we noticed… By the time…, we had already…",
+    "4 Opciones (2,5 min): 2–3 opciones con ventajas y desventajas; cifras. — Option A would… However, … If we chose B, we could…",
+    "5 Propuesta (1,5 min): Tu recomendación, responsables y fechas. — I recommend… because… The work should be finished by…",
+    "6 Cierre (1,5 min): Resumen en 3 ideas, agradecimiento, preguntas. — To sum up, … Thank you for your attention. Are there any questions?"
+   ],
+   "rubric": [
+    {
+     "criterion": "Fluidez",
+     "points": 4,
+     "levels": "4 = Habla de forma continua 9–11 min; pausas solo para dar énfasis · 2 = Algunas pausas para buscar palabras; se recupera · 0 = Pausas largas constantes; lee el texto",
+     "howTo": "Cuenta las pausas de más de 3 segundos en los minutos 4 a 6. Con 0–2 pausas, 4 puntos; con 3–5, 2–3 puntos; con más de 5, 0–1 puntos."
+    },
+    {
+     "criterion": "Precisión gramatical",
+     "points": 4,
+     "levels": "4 = Usa tiempos perfectos, pasiva y condicionales casi sin errores (máx. 3) · 2 = Errores frecuentes en tiempos o modales, pero se entiende · 0 = Errores que impiden entender",
+     "howTo": "Transcribe 1 minuto del bloque 4 (opciones). Cuenta los errores de tiempo verbal, modal o condicional. Hasta 1 error, 4 puntos; 2–4 errores, 2–3 puntos; más de 4, 0–1 puntos."
+    },
+    {
+     "criterion": "Pronunciación",
+     "points": 4,
+     "levels": "4 = Se entiende sin esfuerzo; acentúa bien las palabras técnicas; -ed y -s finales correctas · 2 = Se entiende con esfuerzo; acento fuerte en palabras clave · 0 = Muchas palabras no se entienden",
+     "howTo": "Revisa 5 palabras clave del nivel (schedule, therefore, although, agenda, attached) y las terminaciones -ed. Cuenta cuántas salieron bien."
+    },
+    {
+     "criterion": "Vocabulario",
+     "points": 4,
+     "levels": "4 = Técnico y preciso; colocaciones correctas (make a decision, reach an agreement) · 2 = Adecuado, con algunas repeticiones o falsos amigos · 0 = Básico y repetitivo; mezcla español",
+     "howTo": "Anota los términos técnicos que usaste. Si dijiste 10 o más sin falsos amigos (assist, actually), tienes 4 puntos."
+    },
+    {
+     "criterion": "Estructura",
+     "points": 4,
+     "levels": "4 = Los 6 bloques de la Figura B.3, transiciones claras y 9–11 minutos · 2 = Tiene partes, pero sin señales de transición o fuera de tiempo · 0 = Sin orden; no hay recomendación",
+     "howTo": "Marca los 6 bloques de la Figura B.3 y el tiempo total. Si están todos, hay transiciones y el tiempo es de 9–11 minutos, tienes 4 puntos."
+    }
+   ],
+   "rubricNote": "Cada criterio de 0 a 4. Se pueden dar 1 o 3 puntos cuando el desempeño queda entre dos descripciones. Si tienes un colega con buen inglés, pídele que te califique también y usa el promedio.",
+   "model": "Modelo de apertura (bloque 1): Good morning, everyone. I'm Edwin Prieto, a piping engineer at Coastal Tank Services. Today I'm going to talk about a flange leak that we had during a hydrostatic test, what caused it, and what I recommend so that it doesn't happen again. I've divided my talk into four parts."
+  }
+ ],
+ "review": [
+  {
+   "module": 13,
+   "topic": "Presente perfecto vs pasado simple",
+   "items": "P1: 1, 2, 29 · P2: 1"
+  },
+  {
+   "module": 14,
+   "topic": "Presente perfecto continuo",
+   "items": "P1: 3, 4 · P2: 1"
+  },
+  {
+   "module": 15,
+   "topic": "Pasado continuo y pasado perfecto",
+   "items": "P1: 5, 6 · P2: 2 · P3: 2 · P4 (gramática)"
+  },
+  {
+   "module": 16,
+   "topic": "Modales de obligación y consejo",
+   "items": "P1: 7, 8"
+  },
+  {
+   "module": 17,
+   "topic": "Modales de probabilidad",
+   "items": "P1: 9, 10 · P2: 6"
+  },
+  {
+   "module": 18,
+   "topic": "Condicionales 0, 1 y 2",
+   "items": "P1: 11, 12 · P4 (next steps)"
+  },
+  {
+   "module": 19,
+   "topic": "Condicional 3 y should have",
+   "items": "P1: 13, 14 · P2: 3, 10"
+  },
+  {
+   "module": 20,
+   "topic": "Voz pasiva",
+   "items": "P1: 15, 16 · P2: 4, 9, 12 · P3: 1–5 · P4 (pasivas)"
+  },
+  {
+   "module": 21,
+   "topic": "Estilo indirecto",
+   "items": "P1: 17, 18, 30 · P2: 5"
+  },
+  {
+   "module": 22,
+   "topic": "Verbos + gerundio o infinitivo",
+   "items": "P1: 19, 20 · P2: 8, 11"
+  },
+  {
+   "module": 23,
+   "topic": "Phrasal verbs",
+   "items": "P1: 21, 22 · P2: 12"
+  },
+  {
+   "module": 24,
+   "topic": "Oraciones relativas",
+   "items": "P1: 23, 24 · P2: 9"
+  },
+  {
+   "module": 25,
+   "topic": "Conectores y redacción",
+   "items": "P1: 25, 26 · P2: 7 · P3: 3 · P4 (conectores)"
+  },
+  {
+   "module": 26,
+   "topic": "Reuniones, llamadas y negociación",
+   "items": "P1: 27, 28 · P2: 8 · P5 (estructura, fluidez)"
+  }
+ ],
+ "bands": [
+  {
+   "range": "90–100",
+   "label": "Dominio",
+   "text": "Nivel B2 sólido. Pasa al nivel C."
+  },
+  {
+   "range": "80–89",
+   "label": "Aprobado",
+   "text": "Repasa los módulos de tus errores y avanza."
+  },
+  {
+   "range": "65–79",
+   "label": "Casi",
+   "text": "Repite los módulos de la tabla y rehaz el examen en 2 semanas."
+  },
+  {
+   "range": "0–64",
+   "label": "Repetir",
+   "text": "Vuelve a estudiar los Módulos 13–26 por bloques antes de repetir."
+  }
+ ],
+ "cando": [
+  {
+   "skill": "Elegir el tiempo verbal correcto para narrar un hecho pasado.",
+   "test": "Cuenta por escrito un incidente en 8 oraciones con pasado simple, continuo, perfecto y presente perfecto; cero errores de tiempo."
+  },
+  {
+   "skill": "Expresar obligación, consejo y probabilidad con modales.",
+   "test": "Escribe 6 oraciones (2 de cada función) en 3 minutos; 6 de 6 correctas."
+  },
+  {
+   "skill": "Usar los condicionales 1, 2 y 3 y should have.",
+   "test": "Parte 1, ítems 11–14: 4 de 4. Luego di en voz alta 3 condicionales sobre tu trabajo sin pausar."
+  },
+  {
+   "skill": "Escribir en voz pasiva y en estilo indirecto.",
+   "test": "Convierte 5 oraciones activas a pasiva y 5 citas a estilo indirecto en 5 minutos; 9 de 10 o más."
+  },
+  {
+   "skill": "Leer un informe técnico de unas 350 palabras.",
+   "test": "Parte 3 en 30 minutos o menos (lectura en 8 o menos); 12/15 o más."
+  },
+  {
+   "skill": "Escribir un informe de una página.",
+   "test": "Parte 4 en 50 minutos o menos, 180–250 palabras; 12/15 o más con la rúbrica."
+  },
+  {
+   "skill": "Dar una presentación de 10 minutos.",
+   "test": "Parte 5 grabada, 9–11 minutos sin leer; 16/20 o más y ningún criterio por debajo de 2."
+  },
+  {
+   "skill": "Aprobar el examen integrador.",
+   "test": "80/100 o más. Anota tu puntaje: ______ / 100"
+  }
+ ]
+}

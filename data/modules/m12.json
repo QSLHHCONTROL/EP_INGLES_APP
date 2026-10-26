@@ -1,0 +1,984 @@
+{
+ "id": 12,
+ "level": "A2",
+ "title": "Comparativos, superlativos y adverbios de frecuencia",
+ "goal": "Al terminar podrás comparar dos cosas (más grande, mejor, tan caro como), elegir la mejor de un grupo (el más seguro, el peor) y decir con qué frecuencia haces algo (siempre, a veces, nunca, dos veces por semana), en afirmativo, negativo y pregunta.",
+ "lesson": [
+  {
+   "title": "Comparar: -er / -est o more / the most",
+   "html": "<p>Comparar es diario en el trabajo y en la vida: qué proveedor es <b>más barato</b>, qué soldador es <b>el mejor</b>, qué tubería es <b>más pesada</b>. En español casi siempre usas <i>más</i> o <i>el más</i>. El inglés tiene <b>dos caminos</b> según el largo del adjetivo: una terminación (<span class=\"en\">-er / -est</span>) para palabras cortas, y las palabras <span class=\"en\">more / the most</span> para palabras largas.</p>"
+  },
+  {
+   "title": "Comparativo y superlativo: las formas",
+   "html": "<table>\n<thead><tr><th>Tipo de adjetivo</th><th>Regla</th><th>Comparativo (+ than)</th><th>Superlativo (the …)</th></tr></thead>\n<tbody>\n<tr><td>1 sílaba</td><td>+ <b>-er</b> / <b>-est</b></td><td><span class=\"en\">cheap → cheaper</span></td><td><span class=\"en\">the cheapest</span></td></tr>\n<tr><td>1 sílaba terminada en <b>-e</b></td><td>+ <b>-r</b> / <b>-st</b></td><td><span class=\"en\">safe → safer</span></td><td><span class=\"en\">the safest</span></td></tr>\n<tr><td>1 sílaba: consonante-vocal-consonante</td><td>dobla la última consonante</td><td><span class=\"en\">big → bigger · hot → hotter</span></td><td><span class=\"en\">the biggest · the hottest</span></td></tr>\n<tr><td>2 sílabas terminadas en <b>-y</b></td><td><b>y → i</b> + -er / -est</td><td><span class=\"en\">easy → easier · busy → busier</span></td><td><span class=\"en\">the easiest · the busiest</span></td></tr>\n<tr><td>2 sílabas o más (resto)</td><td><b>more</b> / <b>the most</b></td><td><span class=\"en\">more expensive · more modern</span></td><td><span class=\"en\">the most expensive · the most modern</span></td></tr>\n<tr><td>Irregulares</td><td>se memorizan</td><td><span class=\"en\">good → better · bad → worse · far → farther</span></td><td><span class=\"en\">the best · the worst · the farthest</span></td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 300\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"220\" y=\"14\" width=\"200\" height=\"44\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"42\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#FFFFFF\">¿Es irregular?</text>\n  <text x=\"445\" y=\"28\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#D92D20\">SÍ</text>\n  <line x1=\"420\" y1=\"36\" x2=\"470\" y2=\"36\" stroke=\"#D92D20\" stroke-width=\"2.5\"/>\n  <polygon points=\"470,30 482,36 470,42\" fill=\"#D92D20\"/>\n  <rect x=\"486\" y=\"14\" width=\"140\" height=\"44\" rx=\"10\" fill=\"#FEF0EF\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <text x=\"556\" y=\"33\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#D92D20\">good · bad · far</text>\n  <text x=\"556\" y=\"50\" text-anchor=\"middle\" font-size=\"12\" fill=\"#D92D20\">memoriza</text>\n  <line x1=\"320\" y1=\"58\" x2=\"320\" y2=\"86\" stroke=\"#667085\" stroke-width=\"2.5\"/>\n  <polygon points=\"314,84 320,96 326,84\" fill=\"#667085\"/>\n  <text x=\"330\" y=\"80\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">NO</text>\n  <rect x=\"220\" y=\"98\" width=\"200\" height=\"44\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"126\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#FFFFFF\">¿Cuántas sílabas?</text>\n  <path d=\"M260 142 L110 178\" stroke=\"#0E9384\" stroke-width=\"2.5\" fill=\"none\"/>\n  <path d=\"M320 142 L320 178\" stroke=\"#E9B949\" stroke-width=\"2.5\" fill=\"none\"/>\n  <path d=\"M380 142 L530 178\" stroke=\"#1570EF\" stroke-width=\"2.5\" fill=\"none\"/>\n  <rect x=\"20\" y=\"180\" width=\"180\" height=\"104\" rx=\"12\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"110\" y=\"204\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#0E9384\">1 SÍLABA</text>\n  <text x=\"110\" y=\"230\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#1D2939\">-er / -est</text>\n  <text x=\"110\" y=\"254\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">cheaper · the cheapest</text>\n  <text x=\"110\" y=\"272\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">bigger · the biggest</text>\n  <rect x=\"230\" y=\"180\" width=\"180\" height=\"104\" rx=\"12\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"204\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#7A5B00\">2 SÍLABAS EN -Y</text>\n  <text x=\"320\" y=\"230\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#1D2939\">-ier / -iest</text>\n  <text x=\"320\" y=\"254\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">easier · the easiest</text>\n  <text x=\"320\" y=\"272\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">heavier · the heaviest</text>\n  <rect x=\"440\" y=\"180\" width=\"180\" height=\"104\" rx=\"12\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"530\" y=\"204\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1570EF\">2 O MÁS (RESTO)</text>\n  <text x=\"530\" y=\"230\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#1D2939\">more / the most</text>\n  <text x=\"530\" y=\"254\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">more useful</text>\n  <text x=\"530\" y=\"272\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">the most expensive</text>\n</svg>",
+   "caption": "Figura 12.1 — Mapa de decisión: ¿-er/-est o more/the most?"
+  },
+  {
+   "title": "Tres niveles: igual, más, el más",
+   "html": "<table>\n<thead><tr><th>Para decir…</th><th>Estructura</th><th>Ejemplo</th></tr></thead>\n<tbody>\n<tr><td>Igualdad</td><td><b>as</b> + adjetivo + <b>as</b></td><td><span class=\"en\">This pump is as good as the old one.</span></td></tr>\n<tr><td>Desigualdad (negativo)</td><td><b>not as</b> + adjetivo + <b>as</b></td><td><span class=\"en\">Lima isn't as hot as Talara.</span></td></tr>\n<tr><td>Superioridad</td><td>adjetivo-<b>er</b> / <b>more</b> + adjetivo + <b>than</b></td><td><span class=\"en\">Steel is heavier than aluminum.</span></td></tr>\n<tr><td>Inferioridad</td><td><b>less</b> + adjetivo + <b>than</b></td><td><span class=\"en\">This option is less expensive than that one.</span></td></tr>\n<tr><td>Superlativo</td><td><b>the</b> + adjetivo-<b>est</b> / <b>the most</b> + adjetivo (+ in / of)</td><td><span class=\"en\">He's the best welder in the company.</span></td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 270\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <line x1=\"30\" y1=\"210\" x2=\"610\" y2=\"210\" stroke=\"#98A2B3\" stroke-width=\"3\"/>\n  <rect x=\"70\" y=\"140\" width=\"110\" height=\"70\" rx=\"6\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2.5\"/>\n  <ellipse cx=\"125\" cy=\"140\" rx=\"55\" ry=\"8\" fill=\"#FFFFFF\" stroke=\"#0E9384\" stroke-width=\"2.5\"/>\n  <text x=\"125\" y=\"182\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#0E9384\">T-1</text>\n  <text x=\"125\" y=\"232\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">5,000 bbl</text>\n  <rect x=\"265\" y=\"100\" width=\"110\" height=\"110\" rx=\"6\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2.5\"/>\n  <ellipse cx=\"320\" cy=\"100\" rx=\"55\" ry=\"8\" fill=\"#FFFFFF\" stroke=\"#1570EF\" stroke-width=\"2.5\"/>\n  <text x=\"320\" y=\"162\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#1570EF\">T-2</text>\n  <text x=\"320\" y=\"232\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">10,000 bbl</text>\n  <rect x=\"460\" y=\"40\" width=\"110\" height=\"170\" rx=\"6\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2.5\"/>\n  <ellipse cx=\"515\" cy=\"40\" rx=\"55\" ry=\"8\" fill=\"#FFFFFF\" stroke=\"#E8590C\" stroke-width=\"2.5\"/>\n  <text x=\"515\" y=\"132\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#E8590C\">T-3</text>\n  <text x=\"515\" y=\"232\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">20,000 bbl</text>\n  <text x=\"125\" y=\"120\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#0E9384\">big</text>\n  <text x=\"320\" y=\"80\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1570EF\">bigger than T-1</text>\n  <text x=\"515\" y=\"22\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#E8590C\">the biggest of the three</text>\n  <text x=\"320\" y=\"258\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">T-1 isn't as big as T-2. · T-2 is bigger than T-1. · T-3 is the biggest.</text>\n</svg>",
+   "caption": "Figura 12.2 — Positivo, comparativo y superlativo. Comparar 2 cosas → -er than; elegir 1 de un grupo → the -est."
+  },
+  {
+   "title": "Reglas de oro 1 y 2",
+   "html": "<p><b>Regla de oro 1 — Nunca \"more\" y \"-er\" juntos</b></p>\n<p>Elige un solo camino. <span class=\"ok\">It's cheaper.</span>   Nunca <span class=\"wrong\">It's more cheaper.</span>   <span class=\"ok\">the easiest</span>   Nunca <span class=\"wrong\">the most easiest</span>.</p>\n<p><b>Regla de oro 2 — Comparativo con THAN, superlativo con THE</b></p>\n<p>\"Que\" en una comparación es <b>than</b>, no <i>that</i> ni <i>what</i>: <span class=\"en\">bigger than</span>. El superlativo siempre lleva <b>the</b> y, para el grupo o lugar, <b>in</b> (lugar, empresa, grupo) u <b>of</b> (un número o periodo): <span class=\"en\">the best in the company · the best of the three · the hottest day of the year</span>.</p>"
+  },
+  {
+   "title": "Así piensa un nativo — \"not as… as\" suena más amable",
+   "html": "<p>Decir <span class=\"en\">Your price is higher than theirs</span> es directo. Un nativo en negocios prefiere suavizar: <span class=\"en\">Their price isn't as high as yours</span> o <span class=\"en\">Their offer is a little cheaper</span>. Para intensificar se usa <span class=\"en\">much / a lot</span>: <span class=\"en\">much better, a lot more expensive</span>; para suavizar, <span class=\"en\">a little / a bit</span>: <span class=\"en\">a bit faster</span>. Nunca <span class=\"wrong\">very better</span>.</p>"
+  },
+  {
+   "title": "Adverbios de frecuencia: ¿cada cuánto?",
+   "html": "<p>Estos adverbios responden a la pregunta <span class=\"en\">How often…?</span> (¿Con qué frecuencia…?). Cada uno ocupa un lugar aproximado en una escala del 0 % al 100 %.</p>",
+   "svg": "<svg viewBox=\"0 0 640 230\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs>\n    <linearGradient id=\"fq12\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"0\">\n      <stop offset=\"0\" stop-color=\"#FEF0EF\"/>\n      <stop offset=\"0.5\" stop-color=\"#FFF8E1\"/>\n      <stop offset=\"1\" stop-color=\"#E6F7F5\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"40\" y=\"96\" width=\"560\" height=\"28\" rx=\"14\" fill=\"url(#fq12)\" stroke=\"#98A2B3\" stroke-width=\"1.5\"/>\n  <text x=\"40\" y=\"146\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">0 %</text>\n  <text x=\"180\" y=\"146\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">25 %</text>\n  <text x=\"320\" y=\"146\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">50 %</text>\n  <text x=\"460\" y=\"146\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">75 %</text>\n  <text x=\"600\" y=\"146\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">100 %</text>\n  <g fill=\"#1D2939\"><circle cx=\"48\" cy=\"110\" r=\"6\"/><circle cx=\"96\" cy=\"110\" r=\"6\"/><circle cx=\"180\" cy=\"110\" r=\"6\"/><circle cx=\"320\" cy=\"110\" r=\"6\"/><circle cx=\"460\" cy=\"110\" r=\"6\"/><circle cx=\"530\" cy=\"110\" r=\"6\"/><circle cx=\"592\" cy=\"110\" r=\"6\"/></g>\n  <line x1=\"48\" y1=\"104\" x2=\"48\" y2=\"78\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <text x=\"48\" y=\"70\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#D92D20\">never</text>\n  <text x=\"48\" y=\"54\" text-anchor=\"middle\" font-size=\"11\" fill=\"#D92D20\">nunca</text>\n  <line x1=\"96\" y1=\"116\" x2=\"96\" y2=\"166\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <text x=\"96\" y=\"182\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#D92D20\">hardly ever</text>\n  <text x=\"96\" y=\"198\" text-anchor=\"middle\" font-size=\"11\" fill=\"#D92D20\">casi nunca</text>\n  <line x1=\"180\" y1=\"104\" x2=\"180\" y2=\"78\" stroke=\"#B54708\" stroke-width=\"2\"/>\n  <text x=\"180\" y=\"70\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#B54708\">rarely</text>\n  <text x=\"180\" y=\"54\" text-anchor=\"middle\" font-size=\"11\" fill=\"#B54708\">rara vez</text>\n  <line x1=\"320\" y1=\"116\" x2=\"320\" y2=\"166\" stroke=\"#7A5B00\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"182\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#7A5B00\">sometimes</text>\n  <text x=\"320\" y=\"198\" text-anchor=\"middle\" font-size=\"11\" fill=\"#7A5B00\">a veces</text>\n  <line x1=\"460\" y1=\"104\" x2=\"460\" y2=\"78\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"460\" y=\"70\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#0E9384\">often</text>\n  <text x=\"460\" y=\"54\" text-anchor=\"middle\" font-size=\"11\" fill=\"#0E9384\">a menudo</text>\n  <line x1=\"530\" y1=\"116\" x2=\"530\" y2=\"166\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"530\" y=\"182\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#0E9384\">usually</text>\n  <text x=\"530\" y=\"198\" text-anchor=\"middle\" font-size=\"11\" fill=\"#0E9384\">normalmente</text>\n  <line x1=\"592\" y1=\"104\" x2=\"592\" y2=\"78\" stroke=\"#079455\" stroke-width=\"2\"/>\n  <text x=\"592\" y=\"70\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#079455\">always</text>\n  <text x=\"592\" y=\"54\" text-anchor=\"middle\" font-size=\"11\" fill=\"#079455\">siempre</text>\n  <text x=\"320\" y=\"24\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">How often do you check the pressure gauge?</text>\n  <text x=\"320\" y=\"222\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">Los porcentajes son aproximados: sirven para ordenar, no para medir.</text>\n</svg>",
+   "caption": "Figura 12.3 — Escala de frecuencia del 0 % al 100 %."
+  },
+  {
+   "title": "La posición: antes del verbo, pero después de BE",
+   "html": "<table>\n<thead><tr><th>Caso</th><th>Posición</th><th>Ejemplo</th></tr></thead>\n<tbody>\n<tr><td>Verbo normal</td><td>sujeto + <b>adverbio</b> + verbo</td><td><span class=\"en\">I usually start at 7.</span></td></tr>\n<tr><td>TO BE</td><td>sujeto + be + <b>adverbio</b></td><td><span class=\"en\">The site is often muddy.</span></td></tr>\n<tr><td>Con auxiliar (can, don't, doesn't)</td><td>sujeto + auxiliar + <b>adverbio</b> + verbo</td><td><span class=\"en\">We can't always finish on time.</span></td></tr>\n<tr><td>Pregunta</td><td>auxiliar + sujeto + <b>adverbio</b> + verbo?</td><td><span class=\"en\">Do you often travel for work?</span></td></tr>\n<tr><td>Pregunta de frecuencia</td><td><b>How often</b> + do/does + sujeto + verbo?</td><td><span class=\"en\">How often does he call you? — Twice a week.</span></td></tr>\n<tr><td>Respuesta corta con adverbio</td><td>Yes/No, + sujeto + adverbio + auxiliar</td><td><span class=\"en\">Yes, I usually do. / No, I never do.</span></td></tr>\n</tbody></table><p><b>Regla de oro 3 — \"Never\" ya es negativo</b></p>\n<p><span class=\"en\">Never, hardly ever</span> y <span class=\"en\">rarely</span> ya niegan. No los combines con <i>not</i> ni con <i>don't</i>: <span class=\"ok\">I never work on Sundays.</span>   Nunca <span class=\"wrong\">I don't never work on Sundays.</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 170\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"38\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">VERBO NORMAL</text>\n  <rect x=\"150\" y=\"14\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"190\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">She</text>\n  <rect x=\"242\" y=\"14\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"292\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#FFFFFF\">always</text>\n  <rect x=\"354\" y=\"14\" width=\"96\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"402\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#FFFFFF\">checks</text>\n  <rect x=\"462\" y=\"14\" width=\"150\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"537\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">the welds.</text>\n  <text x=\"20\" y=\"96\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">TO BE</text>\n  <rect x=\"150\" y=\"72\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"190\" y=\"96\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">She</text>\n  <rect x=\"242\" y=\"72\" width=\"60\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"272\" y=\"96\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#FFFFFF\">is</text>\n  <rect x=\"314\" y=\"72\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"364\" y=\"96\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#FFFFFF\">always</text>\n  <rect x=\"426\" y=\"72\" width=\"120\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"486\" y=\"96\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">on time.</text>\n  <text x=\"20\" y=\"154\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">AUXILIAR</text>\n  <rect x=\"150\" y=\"130\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"190\" y=\"154\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">She</text>\n  <rect x=\"242\" y=\"130\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"287\" y=\"154\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#D92D20\">doesn't</text>\n  <rect x=\"344\" y=\"130\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"389\" y=\"154\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#FFFFFF\">usually</text>\n  <rect x=\"446\" y=\"130\" width=\"70\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"481\" y=\"154\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#FFFFFF\">work</text>\n  <rect x=\"528\" y=\"130\" width=\"96\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"576\" y=\"154\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">late.</text>\n</svg>",
+   "caption": "Figura 12.4 — El adverbio va antes del verbo principal, después de am/is/are y después del auxiliar (don't, doesn't, can)."
+  },
+  {
+   "title": "Traducción directa vs interpretación real",
+   "html": "<table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>Es más grande que el otro</td><td><span class=\"en\">It's bigger than the other one. more big that</span></td></tr><tr><td>Es el más alto de la empresa</td><td><span class=\"en\">He's the tallest in the company. of the company</span></td></tr><tr><td>Es más mejor</td><td><span class=\"en\">It's better. more better</span></td></tr><tr><td>Siempre llego a tiempo</td><td><span class=\"en\">I'm always on time. Always I'm on time</span></td></tr><tr><td>Nunca no trabajo los domingos</td><td><span class=\"en\">I never work on Sundays. I don't never work</span></td></tr></tbody></table><table>\n<thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead>\n<tbody>\n<tr><td>Es más caro que el otro.</td><td><span class=\"wrong\">It's more expensive that the other.</span></td><td><span class=\"ok\">It's more expensive than the other one.</span></td></tr>\n<tr><td>Es el mejor de todos.</td><td><span class=\"wrong\">Is the more good of all.</span></td><td><span class=\"ok\">It's the best of all.</span></td></tr>\n<tr><td>Tan rápido como tú.</td><td><span class=\"wrong\">So fast like you.</span></td><td><span class=\"ok\">As fast as you.</span></td></tr>\n<tr><td>Generalmente almuerzo a las 12.</td><td><span class=\"wrong\">Generally I lunch at 12.</span></td><td><span class=\"ok\">I usually have lunch at 12.</span></td></tr>\n<tr><td>Voy al gimnasio dos veces por semana.</td><td><span class=\"wrong\">I go to the gym two times for week.</span></td><td><span class=\"ok\">I go to the gym twice a week.</span></td></tr>\n<tr><td>¿Cada cuánto viajas?</td><td><span class=\"wrong\">Each how much you travel?</span></td><td><span class=\"ok\">How often do you travel?</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<ul>\n<li><b>Expresiones de frecuencia</b> van al final: <span class=\"en\">once a day, twice a week, three times a month, every day, every Monday</span>. <i>Once</i> = una vez, <i>twice</i> = dos veces; desde tres: <i>three times, four times…</i></li>\n<li><span class=\"en\">Sometimes</span> y <span class=\"en\">usually</span> también pueden ir al inicio para dar énfasis: <span class=\"en\">Sometimes we work at night.</span> <span class=\"en\">Always</span> y <span class=\"en\">never</span> no van al inicio en oraciones normales.</li>\n<li><span class=\"en\">Farther</span> es la forma estadounidense habitual para distancia; <span class=\"en\">further</span> también existe y se usa mucho para \"adicional\" (<i>further information</i>).</li>\n<li>Después de <i>than</i> y <i>as</i>, en habla normal se usa pronombre objeto: <span class=\"en\">He's taller than me.</span> (Módulo 6). Más formal: <span class=\"en\">than I am</span>.</li>\n<li>Algunos adjetivos de 2 sílabas aceptan las dos formas (<span class=\"en\">quieter / more quiet</span>). Si dudas, usa la tabla de arriba: nunca te equivocarás.</li>\n</ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "bigger than",
+   "pron": "BÍ-guer dhən",
+   "es": "más grande que",
+   "group": "A. Comparativos cortos (-er than)"
+  },
+  {
+   "en": "cheaper than",
+   "pron": "CHÍ-per dhən",
+   "es": "más barato que",
+   "group": "A. Comparativos cortos (-er than)"
+  },
+  {
+   "en": "faster than",
+   "pron": "FÁS-ter dhən",
+   "es": "más rápido que",
+   "group": "A. Comparativos cortos (-er than)"
+  },
+  {
+   "en": "heavier than",
+   "pron": "JÉ-vi-er dhən",
+   "es": "más pesado que",
+   "group": "A. Comparativos cortos (-er than)"
+  },
+  {
+   "en": "easier than",
+   "pron": "Í-zi-er dhən",
+   "es": "más fácil que",
+   "group": "A. Comparativos cortos (-er than)"
+  },
+  {
+   "en": "safer than",
+   "pron": "SÉI-fer dhən",
+   "es": "más seguro que",
+   "group": "A. Comparativos cortos (-er than)"
+  },
+  {
+   "en": "thicker than",
+   "pron": "THÍ-ker dhən",
+   "es": "más grueso que",
+   "group": "A. Comparativos cortos (-er than)"
+  },
+  {
+   "en": "older / newer than",
+   "pron": "ÓUL-der / NÚ-er dhən",
+   "es": "más viejo / más nuevo que",
+   "group": "A. Comparativos cortos (-er than)"
+  },
+  {
+   "en": "more expensive than",
+   "pron": "mor ek-SPÉN-siv dhən",
+   "es": "más caro que",
+   "group": "B. Comparativos largos e irregulares"
+  },
+  {
+   "en": "more difficult than",
+   "pron": "mor DÍ-fi-kəlt dhən",
+   "es": "más difícil que",
+   "group": "B. Comparativos largos e irregulares"
+  },
+  {
+   "en": "more reliable than",
+   "pron": "mor ri-LÁI-ə-bol dhən",
+   "es": "más confiable que",
+   "group": "B. Comparativos largos e irregulares"
+  },
+  {
+   "en": "more comfortable than",
+   "pron": "mor KÁMF-ter-bol dhən",
+   "es": "más cómodo que",
+   "group": "B. Comparativos largos e irregulares"
+  },
+  {
+   "en": "better than",
+   "pron": "BÉ-ter dhən",
+   "es": "mejor que",
+   "group": "B. Comparativos largos e irregulares"
+  },
+  {
+   "en": "worse than",
+   "pron": "WERS dhən",
+   "es": "peor que",
+   "group": "B. Comparativos largos e irregulares"
+  },
+  {
+   "en": "farther than",
+   "pron": "FAR-dher dhən",
+   "es": "más lejos que",
+   "group": "B. Comparativos largos e irregulares"
+  },
+  {
+   "en": "the biggest",
+   "pron": "dhə BÍ-guest",
+   "es": "el más grande",
+   "group": "C. Superlativos"
+  },
+  {
+   "en": "the cheapest",
+   "pron": "dhə CHÍ-pest",
+   "es": "el más barato",
+   "group": "C. Superlativos"
+  },
+  {
+   "en": "the easiest",
+   "pron": "dhi Í-zi-est",
+   "es": "el más fácil",
+   "group": "C. Superlativos"
+  },
+  {
+   "en": "the most important",
+   "pron": "dhə moust im-PÓR-tənt",
+   "es": "el más importante",
+   "group": "C. Superlativos"
+  },
+  {
+   "en": "the most experienced",
+   "pron": "dhə moust ek-SPÍ-ri-ənst",
+   "es": "el más experimentado",
+   "group": "C. Superlativos"
+  },
+  {
+   "en": "the best",
+   "pron": "dhə BEST",
+   "es": "el mejor",
+   "group": "C. Superlativos"
+  },
+  {
+   "en": "the worst",
+   "pron": "dhə WERST",
+   "es": "el peor",
+   "group": "C. Superlativos"
+  },
+  {
+   "en": "the best in the company",
+   "pron": "dhə BEST in dhə KÁM-pə-ni",
+   "es": "el mejor de la empresa",
+   "group": "C. Superlativos"
+  },
+  {
+   "en": "as good as",
+   "pron": "əz GUD əz",
+   "es": "tan bueno como",
+   "group": "D. Igualdad, diferencia e intensidad"
+  },
+  {
+   "en": "not as expensive as",
+   "pron": "not əz ek-SPÉN-siv əz",
+   "es": "no tan caro como",
+   "group": "D. Igualdad, diferencia e intensidad"
+  },
+  {
+   "en": "less expensive than",
+   "pron": "les ek-SPÉN-siv dhən",
+   "es": "menos caro que",
+   "group": "D. Igualdad, diferencia e intensidad"
+  },
+  {
+   "en": "much better",
+   "pron": "mach BÉ-ter",
+   "es": "mucho mejor",
+   "group": "D. Igualdad, diferencia e intensidad"
+  },
+  {
+   "en": "a lot cheaper",
+   "pron": "ə lot CHÍ-per",
+   "es": "mucho más barato",
+   "group": "D. Igualdad, diferencia e intensidad"
+  },
+  {
+   "en": "a little faster",
+   "pron": "ə LÍ-tol FÁS-ter",
+   "es": "un poco más rápido",
+   "group": "D. Igualdad, diferencia e intensidad"
+  },
+  {
+   "en": "the same as",
+   "pron": "dhə SEIM əz",
+   "es": "igual que, lo mismo que",
+   "group": "D. Igualdad, diferencia e intensidad"
+  },
+  {
+   "en": "always",
+   "pron": "ÓL-weiz",
+   "es": "siempre",
+   "group": "E. Adverbios de frecuencia"
+  },
+  {
+   "en": "usually",
+   "pron": "YÚ-zhu-ə-li",
+   "es": "normalmente, por lo general",
+   "group": "E. Adverbios de frecuencia"
+  },
+  {
+   "en": "often",
+   "pron": "Ó-fən",
+   "es": "a menudo, seguido",
+   "group": "E. Adverbios de frecuencia"
+  },
+  {
+   "en": "sometimes",
+   "pron": "SÁM-taimz",
+   "es": "a veces",
+   "group": "E. Adverbios de frecuencia"
+  },
+  {
+   "en": "rarely",
+   "pron": "RÉR-li",
+   "es": "rara vez",
+   "group": "E. Adverbios de frecuencia"
+  },
+  {
+   "en": "hardly ever",
+   "pron": "JÁRD-li É-ver",
+   "es": "casi nunca",
+   "group": "E. Adverbios de frecuencia"
+  },
+  {
+   "en": "never",
+   "pron": "NÉ-ver",
+   "es": "nunca",
+   "group": "E. Adverbios de frecuencia"
+  },
+  {
+   "en": "once a day",
+   "pron": "WANS ə DEI",
+   "es": "una vez al día",
+   "group": "F. Expresiones de frecuencia (al final de la oración)"
+  },
+  {
+   "en": "twice a week",
+   "pron": "TWAIS ə WIK",
+   "es": "dos veces por semana",
+   "group": "F. Expresiones de frecuencia (al final de la oración)"
+  },
+  {
+   "en": "three times a month",
+   "pron": "THRI taimz ə MANTH",
+   "es": "tres veces al mes",
+   "group": "F. Expresiones de frecuencia (al final de la oración)"
+  },
+  {
+   "en": "every day",
+   "pron": "É-vri DEI",
+   "es": "todos los días",
+   "group": "F. Expresiones de frecuencia (al final de la oración)"
+  },
+  {
+   "en": "every two hours",
+   "pron": "É-vri tu ÁU-erz",
+   "es": "cada dos horas",
+   "group": "F. Expresiones de frecuencia (al final de la oración)"
+  },
+  {
+   "en": "How often…?",
+   "pron": "jau Ó-fən",
+   "es": "¿Con qué frecuencia…? / ¿Cada cuánto…?",
+   "group": "F. Expresiones de frecuencia (al final de la oración)"
+  },
+  {
+   "en": "long → longer → the longest",
+   "pron": "",
+   "es": "largo",
+   "group": "G. Adjetivos útiles con sus tres formas"
+  },
+  {
+   "en": "high → higher → the highest",
+   "pron": "",
+   "es": "alto (precio, presión, altura de algo)",
+   "group": "G. Adjetivos útiles con sus tres formas"
+  },
+  {
+   "en": "tall → taller → the tallest",
+   "pron": "",
+   "es": "alto (personas, edificios, tanques)",
+   "group": "G. Adjetivos útiles con sus tres formas"
+  },
+  {
+   "en": "hot → hotter → the hottest",
+   "pron": "",
+   "es": "caliente, caluroso",
+   "group": "G. Adjetivos útiles con sus tres formas"
+  },
+  {
+   "en": "busy → busier → the busiest",
+   "pron": "",
+   "es": "ocupado, concurrido",
+   "group": "G. Adjetivos útiles con sus tres formas"
+  },
+  {
+   "en": "strong → stronger → the strongest",
+   "pron": "",
+   "es": "fuerte, resistente",
+   "group": "G. Adjetivos útiles con sus tres formas"
+  },
+  {
+   "en": "dangerous → more dangerous → the most dangerous",
+   "pron": "",
+   "es": "peligroso",
+   "group": "G. Adjetivos útiles con sus tres formas"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Stainless steel is more expensive than carbon steel.",
+   "es": "El acero inoxidable es más caro que el acero al carbono.",
+   "situation": "Materiales"
+  },
+  {
+   "en": "Tank T-3 is the biggest tank on the site.",
+   "es": "El tanque T-3 es el tanque más grande de la obra.",
+   "situation": "Obra"
+  },
+  {
+   "en": "Carlos is the most experienced welder on the team.",
+   "es": "Carlos es el soldador más experimentado del equipo.",
+   "situation": "Equipo"
+  },
+  {
+   "en": "This pipe is thicker than the one on the drawing.",
+   "es": "Esta tubería es más gruesa que la del plano.",
+   "situation": "Planos"
+  },
+  {
+   "en": "We always wear our helmets on the site.",
+   "es": "Siempre usamos el casco en obra.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "The inspector usually comes on Tuesdays.",
+   "es": "El inspector normalmente viene los martes.",
+   "situation": "Inspección"
+  },
+  {
+   "en": "We check the pressure gauges twice a day.",
+   "es": "Revisamos los manómetros dos veces al día.",
+   "situation": "Mantenimiento"
+  },
+  {
+   "en": "Mondays are the busiest days of the week.",
+   "es": "Los lunes son los días más ocupados de la semana.",
+   "situation": "Oficina"
+  },
+  {
+   "en": "Their offer isn't as good as ours, but it's a lot cheaper.",
+   "es": "Su oferta no es tan buena como la nuestra, pero es mucho más barata.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "This supplier is more reliable than the last one.",
+   "es": "Este proveedor es más confiable que el anterior.",
+   "situation": "Proveedores"
+  },
+  {
+   "en": "I hardly ever eat breakfast at home.",
+   "es": "Casi nunca desayuno en casa.",
+   "situation": "Vida diaria"
+  },
+  {
+   "en": "The bus is slower than the plane, but it's less expensive.",
+   "es": "El bus es más lento que el avión, pero es menos caro.",
+   "situation": "Viajes"
+  },
+  {
+   "en": "July is the hottest month of the year in Nassau.",
+   "es": "Julio es el mes más caluroso del año en Nassau.",
+   "situation": "Clima"
+  },
+  {
+   "en": "How often do you call your family? — Every Sunday.",
+   "es": "¿Cada cuánto llamas a tu familia? — Todos los domingos.",
+   "situation": "Social"
+  },
+  {
+   "en": "Option B is the safest and the most economical solution.",
+   "es": "La opción B es la solución más segura y más económica.",
+   "situation": "Correo formal"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "This pump is better than that one.",
+     "This pump isn't better than that one.",
+     "Is this pump better than that one?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "The new tank is bigger.",
+     "The new tank isn't bigger.",
+     "Is the new tank bigger?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "He's the best welder here.",
+     "He isn't the best welder here.",
+     "Is he the best welder here?",
+     "Yes, he is. / No, he isn't."
+    ],
+    [
+     "The flights are cheaper in May.",
+     "The flights aren't cheaper in May.",
+     "Are the flights cheaper in May?",
+     "Yes, they are. / No, they aren't."
+    ],
+    [
+     "Lima is as hot as Talara.",
+     "Lima isn't as hot as Talara.",
+     "Is Lima as hot as Talara?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "She usually works late.",
+     "She doesn't usually work late.",
+     "Does she usually work late?",
+     "Yes, she does. / No, she doesn't."
+    ],
+    [
+     "They often travel for work.",
+     "They don't often travel for work.",
+     "Do they often travel for work?",
+     "Yes, they do. / No, they don't."
+    ],
+    [
+     "You're always on time.",
+     "You aren't always on time.",
+     "Are you always on time?",
+     "Yes, I am. / No, I'm not."
+    ],
+    [
+     "The old crane was slower.",
+     "The old crane wasn't slower.",
+     "Was the old crane slower?",
+     "Yes, it was. / No, it wasn't."
+    ],
+    [
+     "I can usually leave at 5.",
+     "I can't usually leave at 5.",
+     "Can you usually leave at 5?",
+     "Yes, I can. / No, I can't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Mr. Lee",
+   "text": "Edwin, we have two offers for the pipes. Which one is better?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Pacific Steel is cheaper, but Atlas is more reliable."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "How much cheaper is Pacific?"
+  },
+  {
+   "who": "Edwin",
+   "text": "About ten percent. But their delivery time is longer: six weeks."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "And Atlas?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Four weeks. They're usually on time. We hardly ever have problems with them."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Is their quality as good as Pacific's?"
+  },
+  {
+   "who": "Edwin",
+   "text": "It's better. Their certificates are always complete."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "So Atlas is the safest option for this project."
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes. It's a little more expensive, but it's the best choice for the schedule."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "OK. Let's go with Atlas."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "It's more cheap.",
+   "right": "It's cheaper.",
+   "why": "Adjetivo de 1 sílaba → -er, no more."
+  },
+  {
+   "wrong": "It's more better.",
+   "right": "It's better.",
+   "why": "Better ya es comparativo; no se suma more."
+  },
+  {
+   "wrong": "It's bigger that the other.",
+   "right": "It's bigger than the other one.",
+   "why": "\"Que\" en comparación = than."
+  },
+  {
+   "wrong": "He's the most tall.",
+   "right": "He's the tallest.",
+   "why": "1 sílaba → the -est."
+  },
+  {
+   "wrong": "She's best engineer.",
+   "right": "She's the best engineer.",
+   "why": "El superlativo siempre lleva the."
+  },
+  {
+   "wrong": "It's the biggest of the city.",
+   "right": "It's the biggest in the city.",
+   "why": "Lugar o grupo → in, no of."
+  },
+  {
+   "wrong": "It's as expensive than that one.",
+   "right": "It's as expensive as that one.",
+   "why": "Igualdad: as … as, nunca as … than."
+  },
+  {
+   "wrong": "Always I arrive early.",
+   "right": "I always arrive early.",
+   "why": "Always va antes del verbo, no al inicio."
+  },
+  {
+   "wrong": "He is late never.",
+   "right": "He is never late.",
+   "why": "Con be, el adverbio va justo después: is never."
+  },
+  {
+   "wrong": "I don't never drink coffee.",
+   "right": "I never drink coffee.",
+   "why": "Never ya es negativo: sin don't."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "actually",
+   "looks": "actualmente",
+   "means": "en realidad",
+   "fix": "currently / nowadays"
+  },
+  {
+   "en": "eventually",
+   "looks": "eventualmente (a veces)",
+   "means": "finalmente, con el tiempo",
+   "fix": "sometimes / occasionally"
+  },
+  {
+   "en": "large",
+   "looks": "largo",
+   "means": "grande",
+   "fix": "long"
+  },
+  {
+   "en": "tall / high",
+   "looks": "\"alto\" (igual)",
+   "means": "tall = personas, edificios; high = precio, presión, nivel",
+   "fix": "a tall tank · a high price"
+  },
+  {
+   "en": "more / most",
+   "looks": "\"más\" (igual)",
+   "means": "more = comparativo (más … que); the most = superlativo (el más)",
+   "fix": "more useful · the most useful"
+  },
+  {
+   "en": "economic / economical",
+   "looks": "\"económico\" (igual)",
+   "means": "economic = de la economía; economical = que ahorra, barato de usar",
+   "fix": "an economical solution"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Este tanque es más grande que ese.",
+    "answers": [
+     "This tank is bigger than that one.",
+     "This tank is larger than that one."
+    ],
+    "explain": "1 sílaba consonante-vocal-consonante → dobla la g: bigger. \"Ese\" = that one."
+   },
+   {
+    "prompt": "El acero inoxidable es más caro que el aluminio.",
+    "answers": [
+     "Stainless steel is more expensive than aluminum.",
+     "Stainless steel is more expensive than aluminium."
+    ],
+    "explain": "Adjetivo largo → more … than."
+   },
+   {
+    "prompt": "Ella es la mejor ingeniera de la empresa.",
+    "answers": [
+     "She's the best engineer in the company.",
+     "She is the best engineer in the company.",
+     "She's the best engineer at the company.",
+     "She is the best engineer at the company."
+    ],
+    "explain": "Irregular: good → the best; grupo/empresa → in."
+   },
+   {
+    "prompt": "Siempre llego a tiempo.",
+    "answers": [
+     "I'm always on time.",
+     "I am always on time.",
+     "I always arrive on time."
+    ],
+    "explain": "Con be, el adverbio va después: am always. También vale I always arrive on time."
+   },
+   {
+    "prompt": "Nunca trabajamos los domingos.",
+    "answers": [
+     "We never work on Sundays."
+    ],
+    "explain": "Never antes del verbo y sin don't."
+   },
+   {
+    "prompt": "Lima no es tan calurosa como Piura.",
+    "answers": [
+     "Lima isn't as hot as Piura.",
+     "Lima is not as hot as Piura."
+    ],
+    "explain": "Desigualdad: not as … as."
+   },
+   {
+    "prompt": "¿Con qué frecuencia revisas las válvulas?",
+    "answers": [
+     "How often do you check the valves?"
+    ],
+    "explain": "¿Con qué frecuencia? = How often + do + sujeto + verbo."
+   },
+   {
+    "prompt": "Voy al gimnasio dos veces por semana.",
+    "answers": [
+     "I go to the gym twice a week.",
+     "I go to the gym two times a week."
+    ],
+    "explain": "Dos veces = twice; \"por semana\" = a week."
+   },
+   {
+    "prompt": "Este es el trabajo más peligroso de la obra.",
+    "answers": [
+     "This is the most dangerous job on the site.",
+     "This is the most dangerous job at the site."
+    ],
+    "explain": "Adjetivo largo → the most. \"En obra\" = on the site (también vale at the site)."
+   },
+   {
+    "prompt": "El nuevo software es mucho más fácil.",
+    "answers": [
+     "The new software is much easier."
+    ],
+    "explain": "2 sílabas en -y → easier; \"mucho más\" = much + comparativo."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "The bus is slower, but it's less expensive.",
+    "answers": [
+     "El bus es más lento, pero es menos caro.",
+     "El bus es más lento, pero es más barato.",
+     "El autobús es más lento, pero es más barato."
+    ],
+    "explain": "Less expensive = menos caro."
+   },
+   {
+    "prompt": "He's usually at the site in the morning.",
+    "answers": [
+     "Él normalmente está en obra en la mañana.",
+     "Él normalmente está en la obra por la mañana.",
+     "Él suele estar en obra en la mañana.",
+     "Normalmente él está en obra por las mañanas."
+    ],
+    "explain": "Usually va después de is."
+   },
+   {
+    "prompt": "This is the worst weld on the tank.",
+    "answers": [
+     "Esta es la peor soldadura del tanque.",
+     "Esta es la peor soldadura en el tanque."
+    ],
+    "explain": "Bad → worse → the worst."
+   },
+   {
+    "prompt": "We hardly ever have problems with this supplier.",
+    "answers": [
+     "Casi nunca tenemos problemas con este proveedor.",
+     "Casi nunca hay problemas con este proveedor."
+    ],
+    "explain": "Hardly ever = casi nunca (ya es negativo)."
+   },
+   {
+    "prompt": "Is the new pump as reliable as the old one?",
+    "answers": [
+     "¿La nueva bomba es tan confiable como la antigua?",
+     "¿Es la nueva bomba tan confiable como la vieja?",
+     "¿La nueva bomba es tan fiable como la antigua?"
+    ],
+    "explain": "As … as = tan … como; the old one = la antigua."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "This pipe is more long than that one.",
+    "answers": [
+     "This pipe is longer than that one."
+    ],
+    "explain": "1 sílaba → -er, no more long."
+   },
+   {
+    "prompt": "Our price is more better than theirs.",
+    "answers": [
+     "Our price is better than theirs."
+    ],
+    "explain": "Better ya es comparativo; sobra more."
+   },
+   {
+    "prompt": "Steel is heavier that aluminum.",
+    "answers": [
+     "Steel is heavier than aluminum."
+    ],
+    "explain": "\"Que\" = than, no that."
+   },
+   {
+    "prompt": "He's the most old worker on the team.",
+    "answers": [
+     "He's the oldest worker on the team.",
+     "He is the oldest worker on the team."
+    ],
+    "explain": "1 sílaba → the oldest."
+   },
+   {
+    "prompt": "This is best hotel in the city.",
+    "answers": [
+     "This is the best hotel in the city."
+    ],
+    "explain": "El superlativo necesita the."
+   },
+   {
+    "prompt": "The new crane is as fast than the old one.",
+    "answers": [
+     "The new crane is as fast as the old one."
+    ],
+    "explain": "Igualdad: as … as."
+   },
+   {
+    "prompt": "Always she checks the welds twice.",
+    "answers": [
+     "She always checks the welds twice."
+    ],
+    "explain": "Always va antes del verbo, no al inicio."
+   },
+   {
+    "prompt": "They are late never.",
+    "answers": [
+     "They are never late."
+    ],
+    "explain": "Con be: are never + adjetivo."
+   },
+   {
+    "prompt": "I don't never work on Sundays.",
+    "answers": [
+     "I never work on Sundays."
+    ],
+    "explain": "Doble negación: never no lleva don't."
+   },
+   {
+    "prompt": "We check the gauges twice for day.",
+    "answers": [
+     "We check the gauges twice a day."
+    ],
+    "explain": "Frecuencia por periodo = a + periodo: twice a day, no for day."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte a negativo y a pregunta: She usually starts at 7.",
+   "answer": "She doesn't usually start at 7. / Does she usually start at 7?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con la forma correcta de la palabra entre paréntesis, o con than, as, the, often.",
+   "lines": [
+    {
+     "who": "Sarah",
+     "text": "Which hotel is [1] (good), the Harbor or the Palm?"
+    },
+    {
+     "who": "You",
+     "text": "The Palm is [2] (cheap) [3] the Harbor, but it's far from the site."
+    },
+    {
+     "who": "Sarah",
+     "text": "Is the Harbor [4] comfortable as the Palm?"
+    },
+    {
+     "who": "You",
+     "text": "Yes, and it's [5] (modern). It's [6] newest hotel in town."
+    },
+    {
+     "who": "Sarah",
+     "text": "How [7] does the company bus stop there?"
+    },
+    {
+     "who": "You",
+     "text": "Every hour. And I [8] (always / take) it at 6:30."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "better"
+     ],
+     "explain": "Se comparan 2 hoteles → comparativo irregular de good."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "cheaper"
+     ],
+     "explain": "1 sílaba → -er."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "than"
+     ],
+     "explain": "Comparativo + than."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "as"
+     ],
+     "explain": "Igualdad: as comfortable as."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "more modern"
+     ],
+     "explain": "Modern tiene 2 sílabas y no termina en -y → more."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "the"
+     ],
+     "explain": "Superlativo newest → the."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "often"
+     ],
+     "explain": "Pregunta de frecuencia: How often."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "always take"
+     ],
+     "explain": "Adverbio antes del verbo normal."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo. Escribe 6 a 8 oraciones a tu jefe comparando dos opciones (dos proveedores, dos hoteles o dos máquinas) y recomendando una. Incluye: (a) un comparativo corto (-er than); (b) un comparativo largo (more … than); (c) un comparativo irregular (better / worse); (d) una igualdad o desigualdad (as … as / not as … as); (e) un superlativo con the; (f) un adverbio de frecuencia en la posición correcta; (g) tu recomendación final.",
+   "rubric": [
+    "(a) Un comparativo corto (-er than)",
+    "(b) Un comparativo largo (more … than)",
+    "(c) Un comparativo irregular (better / worse)",
+    "(d) Una igualdad o desigualdad (as … as / not as … as)",
+    "(e) Un superlativo con the",
+    "(f) Un adverbio de frecuencia en la posición correcta",
+    "(g) Tu recomendación final"
+   ],
+   "model": "Hi Mr. Lee,\nI compared the two crane companies for the T-3 job. Coral Lift is cheaper than Seaside Cranes. However, Seaside Cranes is more reliable than Coral Lift, and their operators are better. Coral Lift's cranes aren't as new as theirs. Seaside Cranes is the most experienced company in Freeport, and they always send the certificates on time. My recommendation is Seaside Cranes.\nBest regards,\nEdwin"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Formar comparativos y superlativos sin dudar.",
+   "test": "Escribe las 3 formas de 10 adjetivos (cortos, en -y, largos e irregulares) en 2 minutos. 10 de 10 correctas."
+  },
+  {
+   "skill": "Comparar dos opciones de trabajo o de compra.",
+   "test": "Grábate 45 segundos comparando dos productos con al menos 4 comparativos distintos, sin more + -er."
+  },
+  {
+   "skill": "Elegir el mejor de un grupo con superlativo.",
+   "test": "Di 5 oraciones con the -est / the most sobre tu ciudad o tu trabajo, con in u of correcto. 5 de 5."
+  },
+  {
+   "skill": "Usar los 7 adverbios de frecuencia en su lugar.",
+   "test": "Escribe 7 oraciones sobre tu rutina, una por adverbio, con al menos 2 con be. Cero errores de posición."
+  },
+  {
+   "skill": "Preguntar y responder con How often.",
+   "test": "Haz 5 preguntas con How often y respóndelas con once / twice / three times a… en menos de 1 minuto."
+  },
+  {
+   "skill": "Escribir un correo de recomendación.",
+   "test": "Redacta un correo comparando dos opciones; compáralo con el modelo C2: 7 de 7 elementos."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "Is your city bigger or smaller than Lima?",
+  "Who is the best cook in your family?",
+  "How often do you study English?",
+  "What do you usually do on Sundays?",
+  "What is the most difficult part of your job?",
+  "Is English easier or harder than Spanish for you?"
+ ]
+}

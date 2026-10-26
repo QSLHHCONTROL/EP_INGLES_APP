@@ -1,0 +1,98 @@
+{
+ "id": 26,
+ "topic": "Reuniones, llamadas y negociación",
+ "title": "I Lead the Progress Meeting",
+ "practice": "Léela en voz alta 3 veces, como si dirigieras la reunión. Luego grábate 1 minuto sin mirar.",
+ "rows": [
+  {
+   "en": "OK, **let's get started**. **Thanks for joining**.",
+   "es": "Bien, empecemos. Gracias por conectarse."
+  },
+  {
+   "en": "**The purpose of this meeting is to** review the progress on {project}.",
+   "es": "El objetivo de esta reunión es revisar el avance de {project_es}."
+  },
+  {
+   "en": "**We have three items on the agenda**: progress, problems and next steps.",
+   "es": "Tenemos tres puntos en la agenda: avance, problemas y próximos pasos."
+  },
+  {
+   "en": "First, I'll share the daily progress report.",
+   "es": "Primero, voy a compartir el reporte de avance diario."
+  },
+  {
+   "en": "**Let's move on to the next item**: the task list.",
+   "es": "Pasemos al siguiente punto: la lista de tareas."
+  },
+  {
+   "en": "**In my view**, we should update it at the end of every day.",
+   "es": "En mi opinión, deberíamos actualizarla al final de cada día."
+  },
+  {
+   "en": "**I see your point**, Carlos, **but** one update a week isn't enough.",
+   "es": "Entiendo tu punto, Carlos, pero una actualización por semana no es suficiente."
+  },
+  {
+   "en": "**Could you clarify** when we'll receive the missing documents?",
+   "es": "¿Podrías aclarar cuándo recibiremos los documentos que faltan?"
+  },
+  {
+   "en": "**So, to sum up**, the team will update the list every day.",
+   "es": "Entonces, en resumen, el equipo actualizará la lista todos los días."
+  },
+  {
+   "en": "**Is everyone OK with that?**",
+   "es": "¿Todos de acuerdo con eso?"
+  },
+  {
+   "en": "**I'll send the minutes by end of day.**",
+   "es": "Enviaré el acta antes del final del día."
+  }
+ ],
+ "dialogTitle": "Llamada: negocio el precio con un proveedor",
+ "dialog": [
+  {
+   "who": "{name}",
+   "text": "Hi, this is {name} from {company}. I'm calling about your quote for the new laptops."
+  },
+  {
+   "who": "Ms. Johnson",
+   "text": "Sure. How can I help you?"
+  },
+  {
+   "who": "{name}",
+   "text": "The price is a bit higher than we expected. Is there any flexibility?"
+  },
+  {
+   "who": "Ms. Johnson",
+   "text": "If you order this week, we could give you a 5% discount."
+  },
+  {
+   "who": "{name}",
+   "text": "That sounds good. I need to check with my manager. Could you put that in writing?"
+  },
+  {
+   "who": "Ms. Johnson",
+   "text": "Of course. I'll email it to you today."
+  }
+ ],
+ "pron": [
+  {
+   "en": "The purpose of this meeting is to…",
+   "pron": "dhə PÉR-pəs əv dhis MÍ-ting iz tu"
+  },
+  {
+   "en": "Let's move on to the next item.",
+   "pron": "lets muv ÓN tu dhə nekst ÁI-təm"
+  },
+  {
+   "en": "I see your point, but…",
+   "pron": "ai si yor POINT, bat"
+  },
+  {
+   "en": "The price is a bit higher than we expected.",
+   "pron": "dhə PRAIS iz ə bit JÁI-ər dhən wi ek-SPÉK-tid"
+  }
+ ],
+ "check": "Dirijo la reunión en menos de 90 segundos sin leer, pido con Could you…? (nunca con imperativo) y la cierro con quién, qué y cuándo."
+}

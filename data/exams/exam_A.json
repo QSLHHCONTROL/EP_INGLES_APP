@@ -1,0 +1,999 @@
+{
+ "id": "A",
+ "title": "Examen integrador A1–A2",
+ "goal": "Demuestra que puedes mantener una conversación de 5 minutos sobre ti, tu trabajo, tu pasado y tus planes, y escribir un correo corto y claro, usando todo lo aprendido en los módulos 1 al 12.",
+ "pass": 80,
+ "total": 100,
+ "time": "2 horas + 5 min de grabación",
+ "rules": [
+  "Sin libro, sin traductor, sin diccionario. Si no sabes algo, déjalo en blanco: el examen te dice qué repasar.",
+  "Escribe con letra clara. Un ítem vale el punto solo si está completamente correcto (ortografía incluida).",
+  "Corrige con la clave al día siguiente, no el mismo día: así eres un corrector más justo."
+ ],
+ "parts": [
+  {
+   "title": "Parte 1 — Gramática",
+   "points": 30,
+   "instructions": "1.1 (ítems 1–15): elige la opción correcta. 1.2 (ítems 16–30): completa con la forma correcta de la palabra entre paréntesis o con la palabra que falta. 1 punto cada uno.",
+   "items": [
+    {
+     "type": "choice",
+     "n": 1,
+     "prompt": "My brothers ___ engineers.",
+     "options": [
+      "is",
+      "are",
+      "be"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "My brothers = they → are.",
+     "module": 1
+    },
+    {
+     "type": "choice",
+     "n": 2,
+     "prompt": "___ a problem with the pump.",
+     "options": [
+      "There is",
+      "It has",
+      "There are"
+     ],
+     "answer": 0,
+     "points": 1,
+     "explain": "\"Hay\" + singular = there is. Nunca it has.",
+     "module": 2
+    },
+    {
+     "type": "choice",
+     "n": 3,
+     "prompt": "He's ___ electrician.",
+     "options": [
+      "a",
+      "an",
+      "the one"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Electrician empieza con sonido vocal → an.",
+     "module": 2
+    },
+    {
+     "type": "choice",
+     "n": 4,
+     "prompt": "She ___ in Freeport.",
+     "options": [
+      "work",
+      "works",
+      "is work"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "He/she/it en presente simple → verbo + -s.",
+     "module": 3
+    },
+    {
+     "type": "choice",
+     "n": 5,
+     "prompt": "___ you speak English at work?",
+     "options": [
+      "Does",
+      "Are",
+      "Do"
+     ],
+     "answer": 2,
+     "points": 1,
+     "explain": "You → auxiliar do.",
+     "module": 4
+    },
+    {
+     "type": "choice",
+     "n": 6,
+     "prompt": "Where ___ he live?",
+     "options": [
+      "do",
+      "does",
+      "is"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "He → does; el verbo queda en base (live).",
+     "module": 4
+    },
+    {
+     "type": "choice",
+     "n": 7,
+     "prompt": "Listen! The supervisor ___ to us.",
+     "options": [
+      "talks",
+      "is talking",
+      "talking"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Listen! indica que pasa ahora → presente continuo.",
+     "module": 5
+    },
+    {
+     "type": "choice",
+     "n": 8,
+     "prompt": "This is Ana. I work with ___ every day.",
+     "options": [
+      "she",
+      "her",
+      "hers"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Después de preposición (with) va pronombre objeto.",
+     "module": 6
+    },
+    {
+     "type": "choice",
+     "n": 9,
+     "prompt": "___ boots are these? — They're Carlos's.",
+     "options": [
+      "Who",
+      "Whose",
+      "Who's"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "¿De quién? = whose. Who's = who is.",
+     "module": 6
+    },
+    {
+     "type": "choice",
+     "n": 10,
+     "prompt": "___ you help me, please?",
+     "options": [
+      "Could",
+      "Do",
+      "Are"
+     ],
+     "answer": 0,
+     "points": 1,
+     "explain": "Pedido cortés = Could you…?",
+     "module": 7
+    },
+    {
+     "type": "choice",
+     "n": 11,
+     "prompt": "Where ___ you yesterday afternoon?",
+     "options": [
+      "was",
+      "were",
+      "did"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "You → were (pasado de be).",
+     "module": 8
+    },
+    {
+     "type": "choice",
+     "n": 12,
+     "prompt": "We ___ the report last Friday.",
+     "options": [
+      "send",
+      "sent",
+      "sended"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Send es irregular: sent. Sended no existe.",
+     "module": 9
+    },
+    {
+     "type": "choice",
+     "n": 13,
+     "prompt": "___ you finish the inspection? — Yes, I did.",
+     "options": [
+      "Did",
+      "Do",
+      "Were"
+     ],
+     "answer": 0,
+     "points": 1,
+     "explain": "Pregunta en pasado con verbo normal → did + base. La respuesta Yes, I did lo confirma.",
+     "module": 9
+    },
+    {
+     "type": "choice",
+     "n": 14,
+     "prompt": "— The phone is ringing! — OK, I ___ answer it.",
+     "options": [
+      "will",
+      "am going to",
+      "going"
+     ],
+     "answer": 0,
+     "points": 1,
+     "explain": "Decisión tomada en el momento → will (I'll answer it). Going to es para planes ya decididos.",
+     "module": 10
+    },
+    {
+     "type": "choice",
+     "n": 15,
+     "prompt": "The meeting is ___ Monday ___ 9 a.m.",
+     "options": [
+      "in / at",
+      "on / at",
+      "at / on"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Día → on; hora → at.",
+     "module": 11
+    },
+    {
+     "type": "write",
+     "n": 16,
+     "prompt": "I ___ (not / be) tired. I'm fine.",
+     "answers": [
+      "'m not",
+      "am not",
+      "I'm not tired. I'm fine.",
+      "I am not tired. I am fine.",
+      "I am not tired. I'm fine."
+     ],
+     "points": 1,
+     "explain": "Con I solo existe I'm not.",
+     "module": 1
+    },
+    {
+     "type": "write",
+     "n": 17,
+     "prompt": "There ___ three valves on this line.",
+     "answers": [
+      "are",
+      "There are three valves on this line."
+     ],
+     "points": 1,
+     "explain": "\"Hay\" + plural (three valves) = there are.",
+     "module": 2
+    },
+    {
+     "type": "write",
+     "n": 18,
+     "prompt": "He ___ (not / like) coffee.",
+     "answers": [
+      "doesn't like",
+      "does not like",
+      "He doesn't like coffee.",
+      "He does not like coffee."
+     ],
+     "points": 1,
+     "explain": "Negativo con he → doesn't + base (sin -s).",
+     "module": 3
+    },
+    {
+     "type": "write",
+     "n": 19,
+     "prompt": "What time ___ the night shift start?",
+     "answers": [
+      "does",
+      "What time does the night shift start?"
+     ],
+     "points": 1,
+     "explain": "The night shift = it → does.",
+     "module": 4
+    },
+    {
+     "type": "write",
+     "n": 20,
+     "prompt": "Be quiet, please. They ___ (work) in the tank right now.",
+     "answers": [
+      "are working",
+      "'re working",
+      "Be quiet, please. They are working in the tank right now.",
+      "Be quiet, please. They're working in the tank right now."
+     ],
+     "points": 1,
+     "explain": "Right now → presente continuo: be + -ing.",
+     "module": 5
+    },
+    {
+     "type": "write",
+     "n": 21,
+     "prompt": "Is this your helmet? — No, it isn't ___. (pronombre posesivo de I)",
+     "answers": [
+      "mine",
+      "Is this your helmet? — No, it isn't mine.",
+      "Is this your helmet? — No, it is not mine."
+     ],
+     "points": 1,
+     "explain": "Pronombre posesivo, sin sustantivo detrás: mine.",
+     "module": 6
+    },
+    {
+     "type": "write",
+     "n": 22,
+     "prompt": "Sorry, I ___ (can / not) come tomorrow.",
+     "answers": [
+      "can't",
+      "cannot",
+      "can not",
+      "Sorry, I can't come tomorrow.",
+      "Sorry, I cannot come tomorrow.",
+      "Sorry, I can not come tomorrow."
+     ],
+     "points": 1,
+     "explain": "Negativo de can; el verbo sigue en base.",
+     "module": 7
+    },
+    {
+     "type": "write",
+     "n": 23,
+     "prompt": "The tools ___ (be) in the truck yesterday.",
+     "answers": [
+      "were",
+      "The tools were in the truck yesterday."
+     ],
+     "points": 1,
+     "explain": "The tools = they → were.",
+     "module": 8
+    },
+    {
+     "type": "write",
+     "n": 24,
+     "prompt": "She ___ (go) to Lima last month.",
+     "answers": [
+      "went",
+      "She went to Lima last month."
+     ],
+     "points": 1,
+     "explain": "Pasado irregular de go.",
+     "module": 9
+    },
+    {
+     "type": "write",
+     "n": 25,
+     "prompt": "I ___ (not / see) your email yesterday.",
+     "answers": [
+      "didn't see",
+      "did not see",
+      "I didn't see your email yesterday.",
+      "I did not see your email yesterday."
+     ],
+     "points": 1,
+     "explain": "Negativo en pasado: didn't + base (nunca didn't saw).",
+     "module": 9
+    },
+    {
+     "type": "write",
+     "n": 26,
+     "prompt": "I think it ___ (be) a good year for the company.",
+     "answers": [
+      "will be",
+      "'ll be",
+      "is going to be",
+      "'s going to be",
+      "I think it will be a good year for the company.",
+      "I think it'll be a good year for the company.",
+      "I think it is going to be a good year for the company.",
+      "I think it's going to be a good year for the company."
+     ],
+     "points": 1,
+     "explain": "Predicción de opinión con I think → will. También se acepta is going to be.",
+     "module": 10
+    },
+    {
+     "type": "write",
+     "n": 27,
+     "prompt": "I was born ___ 1994.",
+     "answers": [
+      "in",
+      "I was born in 1994."
+     ],
+     "points": 1,
+     "explain": "Años → in.",
+     "module": 11
+    },
+    {
+     "type": "write",
+     "n": 28,
+     "prompt": "This pipe is ___ (heavy) than that one.",
+     "answers": [
+      "heavier",
+      "This pipe is heavier than that one."
+     ],
+     "points": 1,
+     "explain": "2 sílabas en -y → -ier + than.",
+     "module": 12
+    },
+    {
+     "type": "write",
+     "n": 29,
+     "prompt": "Carlos is ___ (good) welder on the team.",
+     "answers": [
+      "the best",
+      "Carlos is the best welder on the team."
+     ],
+     "points": 1,
+     "explain": "Superlativo irregular de good, con the.",
+     "module": 12
+    },
+    {
+     "type": "write",
+     "n": 30,
+     "prompt": "We ___ (never / work) on Sundays.",
+     "answers": [
+      "never work",
+      "We never work on Sundays."
+     ],
+     "points": 1,
+     "explain": "Adverbio de frecuencia antes del verbo; never sin don't.",
+     "module": 12
+    }
+   ]
+  },
+  {
+   "title": "Parte 2 — Traducción",
+   "points": 20,
+   "instructions": "2.1 (ítems 31–40): traduce del español al inglés; usa contracciones donde sea natural. 2.2 (ítems 41–50): traduce del inglés al español. 1 punto cada una.",
+   "items": [
+    {
+     "type": "write",
+     "n": 31,
+     "prompt": "Soy de Perú y tengo 31 años.",
+     "answers": [
+      "I'm from Peru and I'm 31 years old.",
+      "I am from Peru and I am 31 years old.",
+      "I'm from Peru and I'm 31.",
+      "I am from Peru and I am 31."
+     ],
+     "points": 1,
+     "explain": "Edad con be, nunca have.",
+     "module": 1
+    },
+    {
+     "type": "write",
+     "n": 32,
+     "prompt": "Hay dos soldadores en el tanque.",
+     "answers": [
+      "There are two welders in the tank."
+     ],
+     "points": 1,
+     "explain": "\"Hay\" + plural = there are; dentro del tanque → in.",
+     "module": 2
+    },
+    {
+     "type": "write",
+     "n": 33,
+     "prompt": "Ella trabaja en una refinería.",
+     "answers": [
+      "She works at a refinery.",
+      "She works in a refinery."
+     ],
+     "points": 1,
+     "explain": "He/she → works. También vale in a refinery.",
+     "module": 3
+    },
+    {
+     "type": "write",
+     "n": 34,
+     "prompt": "¿Dónde vives?",
+     "answers": [
+      "Where do you live?"
+     ],
+     "points": 1,
+     "explain": "WH- + do + sujeto + verbo base.",
+     "module": 4
+    },
+    {
+     "type": "write",
+     "n": 35,
+     "prompt": "Estamos revisando los planos ahora.",
+     "answers": [
+      "We're checking the drawings now.",
+      "We are checking the drawings now.",
+      "We're reviewing the drawings now.",
+      "We are reviewing the drawings now."
+     ],
+     "points": 1,
+     "explain": "Acción en curso → are + -ing. También vale reviewing.",
+     "module": 5
+    },
+    {
+     "type": "write",
+     "n": 36,
+     "prompt": "¿Podría repetirlo, por favor?",
+     "answers": [
+      "Could you repeat that, please?",
+      "Can you repeat that, please?",
+      "Could you repeat it, please?",
+      "Can you repeat it, please?"
+     ],
+     "points": 1,
+     "explain": "Pedido cortés con could. También vale Can you repeat that, please?",
+     "module": 7
+    },
+    {
+     "type": "write",
+     "n": 37,
+     "prompt": "Ayer estuve en el aeropuerto todo el día.",
+     "answers": [
+      "I was at the airport all day yesterday.",
+      "Yesterday I was at the airport all day.",
+      "Yesterday, I was at the airport all day."
+     ],
+     "points": 1,
+     "explain": "\"Estuve\" = was; lugar de actividad → at the airport. Yesterday también puede ir al inicio.",
+     "module": 8
+    },
+    {
+     "type": "write",
+     "n": 38,
+     "prompt": "No terminamos el informe el viernes.",
+     "answers": [
+      "We didn't finish the report on Friday.",
+      "We did not finish the report on Friday."
+     ],
+     "points": 1,
+     "explain": "Negativo en pasado: didn't + base; día → on.",
+     "module": 9
+    },
+    {
+     "type": "write",
+     "n": 39,
+     "prompt": "Voy a viajar a Canadá el próximo mes.",
+     "answers": [
+      "I'm going to travel to Canada next month.",
+      "I am going to travel to Canada next month."
+     ],
+     "points": 1,
+     "explain": "Plan → going to; con next no hay preposición.",
+     "module": 10
+    },
+    {
+     "type": "write",
+     "n": 40,
+     "prompt": "Nunca llego tarde; normalmente llego a las 7.",
+     "answers": [
+      "I'm never late. I usually arrive at 7.",
+      "I am never late. I usually arrive at 7.",
+      "I'm never late; I usually arrive at 7.",
+      "I am never late; I usually arrive at 7.",
+      "I'm never late. I usually arrive at seven.",
+      "I am never late. I usually arrive at seven.",
+      "I'm never late; I usually arrive at seven.",
+      "I am never late; I usually arrive at seven."
+     ],
+     "points": 1,
+     "explain": "Con be: am never; con verbo normal: usually arrive; hora → at.",
+     "module": 11
+    },
+    {
+     "type": "write",
+     "n": 41,
+     "prompt": "Her office is on the second floor.",
+     "answers": [
+      "Su oficina está en el segundo piso.",
+      "La oficina de ella está en el segundo piso.",
+      "Su oficina queda en el segundo piso."
+     ],
+     "points": 1,
+     "explain": "Her = de ella; pisos con on.",
+     "module": 6
+    },
+    {
+     "type": "write",
+     "n": 42,
+     "prompt": "Is there a pharmacy near here?",
+     "answers": [
+      "¿Hay una farmacia cerca de aquí?",
+      "¿Hay alguna farmacia cerca de aquí?",
+      "¿Hay una farmacia cerca?"
+     ],
+     "points": 1,
+     "explain": "Is there…? = ¿Hay…?",
+     "module": 2
+    },
+    {
+     "type": "write",
+     "n": 43,
+     "prompt": "He doesn't work on weekends.",
+     "answers": [
+      "Él no trabaja los fines de semana.",
+      "No trabaja los fines de semana."
+     ],
+     "points": 1,
+     "explain": "On weekends = los fines de semana (hábito).",
+     "module": 3
+    },
+    {
+     "type": "write",
+     "n": 44,
+     "prompt": "What are you doing?",
+     "answers": [
+      "¿Qué estás haciendo?",
+      "¿Qué está haciendo?",
+      "¿Qué están haciendo?"
+     ],
+     "points": 1,
+     "explain": "Presente continuo en pregunta.",
+     "module": 5
+    },
+    {
+     "type": "write",
+     "n": 45,
+     "prompt": "Can I pay by card?",
+     "answers": [
+      "¿Puedo pagar con tarjeta?",
+      "¿Se puede pagar con tarjeta?"
+     ],
+     "points": 1,
+     "explain": "Can I…? = pedir permiso; by card = con tarjeta.",
+     "module": 7
+    },
+    {
+     "type": "write",
+     "n": 46,
+     "prompt": "The weather was terrible last week.",
+     "answers": [
+      "El clima estuvo terrible la semana pasada.",
+      "El clima estaba terrible la semana pasada.",
+      "Hizo un tiempo terrible la semana pasada.",
+      "El tiempo estuvo terrible la semana pasada."
+     ],
+     "points": 1,
+     "explain": "Was = estuvo / estaba. También: \"Hizo un tiempo terrible\".",
+     "module": 8
+    },
+    {
+     "type": "write",
+     "n": 47,
+     "prompt": "Did you call the client?",
+     "answers": [
+      "¿Llamaste al cliente?",
+      "¿Llamó al cliente?"
+     ],
+     "points": 1,
+     "explain": "Did + base = pregunta en pasado.",
+     "module": 9
+    },
+    {
+     "type": "write",
+     "n": 48,
+     "prompt": "I'll send you the report tomorrow.",
+     "answers": [
+      "Te enviaré el informe mañana.",
+      "Te voy a enviar el informe mañana.",
+      "Te mandaré el informe mañana.",
+      "Le enviaré el informe mañana."
+     ],
+     "points": 1,
+     "explain": "I'll = promesa u ofrecimiento con will.",
+     "module": 10
+    },
+    {
+     "type": "write",
+     "n": 49,
+     "prompt": "This is the most important meeting of the year.",
+     "answers": [
+      "Esta es la reunión más importante del año.",
+      "Ésta es la reunión más importante del año."
+     ],
+     "points": 1,
+     "explain": "The most + adjetivo largo = el/la más.",
+     "module": 12
+    },
+    {
+     "type": "write",
+     "n": 50,
+     "prompt": "How often do you visit your family?",
+     "answers": [
+      "¿Con qué frecuencia visitas a tu familia?",
+      "¿Cada cuánto visitas a tu familia?",
+      "¿Cada cuánto tiempo visitas a tu familia?"
+     ],
+     "points": 1,
+     "explain": "How often = con qué frecuencia.",
+     "module": 4
+    }
+   ]
+  },
+  {
+   "title": "Parte 3 — Comprensión de lectura",
+   "points": 15,
+   "instructions": "Lee el texto dos veces: la primera sin detenerte, la segunda subrayando datos. Responde en inglés con una oración completa. Cada respuesta vale 3 puntos: 2 por la información correcta y 1 por la gramática correcta.",
+   "text": "My first week in Freeport\nHi, I'm Diego Ramos. I'm 29 years old and I'm a piping technician from Arequipa, Peru. Last Sunday I arrived in Freeport, in the Bahamas. It was my first time outside Peru, and I was very nervous.\nOn Monday morning, my supervisor, Mr. Lee, met me at the hotel at 6:30. He was very friendly. We went to the site together in his truck. The site is bigger than my old workplace in Peru. There are twelve tanks, a warehouse, and a small office next to the main gate.\nThe first day was difficult. Everybody spoke very fast, and I didn't understand everything. But my coworker, Ana, helped me a lot. She's from Colombia, and she speaks English and Spanish. On Tuesday and Wednesday we checked the welds on Tank 4. It was very hot inside the tank, so we drank a lot of water.\nOn Thursday it rained all day, and we didn't work outside. We stayed in the office and studied the drawings for the next job. On Friday afternoon the whole team had lunch together at a small restaurant on the beach. It was the best day of the week.\nNow I usually wake up at 5:30, and I always have breakfast at the hotel. The food here is more expensive than in Peru, but it's very good. I call my family every night.\nNext week is going to be busier. We're going to start the repairs on Tank 7. I'm not nervous anymore. I think I will learn a lot here.",
+   "items": [
+    {
+     "type": "write",
+     "n": 51,
+     "prompt": "Where is Diego from, and what is his job?",
+     "answers": [
+      "He's from Arequipa, Peru, and he's a piping technician.",
+      "He is from Arequipa, Peru, and he is a piping technician.",
+      "He's from Peru, and he's a piping technician.",
+      "He is from Peru, and he is a piping technician."
+     ],
+     "points": 3,
+     "explain": "Párrafo 1. Basta \"Peru\" para la información; 1 punto de gramática por He's from… / He's a…",
+     "module": 1
+    },
+    {
+     "type": "write",
+     "n": 52,
+     "prompt": "Who met Diego on Monday morning, and where?",
+     "answers": [
+      "His supervisor, Mr. Lee, met him at the hotel.",
+      "His supervisor, Mr. Lee, met him at the hotel at 6:30.",
+      "Mr. Lee met him at the hotel.",
+      "Mr. Lee met him at the hotel at 6:30."
+     ],
+     "points": 3,
+     "explain": "Párrafo 2. Se acepta añadir at 6:30. Ojo: him (pronombre objeto), no he.",
+     "module": 6
+    },
+    {
+     "type": "write",
+     "n": 53,
+     "prompt": "Why was the first day difficult for Diego?",
+     "answers": [
+      "Because everybody spoke very fast, and he didn't understand everything.",
+      "Because everybody spoke very fast, and he did not understand everything.",
+      "Because everybody spoke very fast and he didn't understand everything.",
+      "Because everybody spoke very fast and he did not understand everything.",
+      "It was difficult because everybody spoke very fast, and he didn't understand everything.",
+      "It was difficult because everybody spoke very fast, and he did not understand everything."
+     ],
+     "points": 3,
+     "explain": "Párrafo 3. Because responde a why; pasado: spoke, didn't understand.",
+     "module": 9
+    },
+    {
+     "type": "write",
+     "n": 54,
+     "prompt": "What did the team do on Thursday? Why?",
+     "answers": [
+      "They stayed in the office and studied the drawings because it rained all day.",
+      "Because it rained all day, they stayed in the office and studied the drawings."
+     ],
+     "points": 3,
+     "explain": "Párrafo 4. Las dos partes (qué hicieron y por qué) dan los 2 puntos de información.",
+     "module": 9
+    },
+    {
+     "type": "write",
+     "n": 55,
+     "prompt": "What is Diego going to do next week?",
+     "answers": [
+      "He's going to start the repairs on Tank 7.",
+      "He is going to start the repairs on Tank 7.",
+      "They're going to start the repairs on Tank 7.",
+      "They are going to start the repairs on Tank 7."
+     ],
+     "points": 3,
+     "explain": "Párrafo 6. Plan → going to; también vale They're going to start…",
+     "module": 10
+    }
+   ]
+  },
+  {
+   "title": "Parte 4 — Redacción",
+   "points": 15,
+   "selfGraded": true,
+   "prompt": "Imagina que llevas una semana en un trabajo nuevo en otro país. Escribe un correo de 80 a 120 palabras a un amigo, Carlos, que vive en Perú. Incluye:\n(a) un saludo y un cierre adecuados;\n(b) dónde estás y cuál es tu trabajo;\n(c) dos cosas que hiciste la semana pasada (pasado simple o was/were);\n(d) tu rutina, con al menos un adverbio de frecuencia;\n(e) una comparación entre tu ciudad nueva y tu ciudad (comparativo o superlativo);\n(f) un plan con going to o una predicción con will, y una pregunta para Carlos.",
+   "rubric": [
+    {
+     "criterion": "Contenido — elementos (a) a (f)",
+     "points": 6,
+     "levels": "1 punto por cada elemento presente y comprensible"
+    },
+    {
+     "criterion": "Precisión gramatical",
+     "points": 5,
+     "levels": "0 errores = 5 · 1–2 = 4 · 3–4 = 3 · 5–6 = 2 · 7–8 = 1 · 9 o más = 0"
+    },
+    {
+     "criterion": "Variedad de estructuras",
+     "points": 2,
+     "levels": "Usa 4 o más tiempos/estructuras distintos (presente simple, continuo, pasado, futuro, can) = 2 · 3 = 1 · menos = 0"
+    },
+    {
+     "criterion": "Preposiciones y conectores",
+     "points": 2,
+     "levels": "3 o más usos correctos de in/on/at y al menos un conector (and, but, so, because) = 2 · solo uno de los dos = 1 · ninguno = 0"
+    }
+   ],
+   "model": "Hi Carlos,\n\nHow are you? I'm in Freeport now. I'm a design engineer at a company that repairs tanks. Last week I visited the site and I met my new team. They were very friendly. I usually start work at 7 a.m., and I always have lunch at the site. The weather here is hotter than in Lima, but the beaches are beautiful. On Saturday I'm going to visit the city center with Ana, a coworker. I think I will be happy here. When are you going to visit me?\n\nBest wishes,\nEdwin",
+   "modelNotes": [
+    "(a) Saludo y cierre: Hi Carlos, … Best wishes, Edwin",
+    "(b) Dónde estás y tu trabajo: I'm in Freeport now. I'm a design engineer…",
+    "(c) Dos cosas en pasado: I visited the site · I met my new team · They were very friendly",
+    "(d) Rutina con frecuencia: I usually start work at 7 a.m. · I always have lunch",
+    "(e) Comparación: The weather here is hotter than in Lima",
+    "(f) Plan / predicción + pregunta: I'm going to visit… · I think I will be happy… · When are you going to visit me?",
+    "Variedad (2/2): Presente simple, pasado, be, comparativo, going to, will.",
+    "Preposiciones y conectores (2/2): in Freeport · at 7 a.m. · at the site · on Saturday + and, but.",
+    "A company that repairs tanks usa una oración relativa (se ve en el Módulo 24). Si prefieres algo más simple: I work for a tank repair company. El modelo tiene unas 100 palabras."
+   ]
+  },
+  {
+   "title": "Parte 5 — Expresión oral",
+   "points": 20,
+   "selfGraded": true,
+   "oral": true,
+   "prompt": "Vas a tener una conversación contigo mismo de 5 minutos. Lee cada pregunta en voz alta y respóndela sin leer notas, con 2 a 4 oraciones (unos 30 segundos). Graba todo en tu celular, sin pausar la grabación. Luego escúchate y puntúate con la rúbrica.\n1. Lee las 10 preguntas una vez antes de grabar. No escribas las respuestas.\n2. Si te equivocas, corrígete y sigue: un nativo también lo hace. No vuelvas a empezar.\n3. Escucha la grabación al día siguiente con la clave al lado (respuestas modelo) y marca tus errores.",
+   "questions": [
+    "What's your name, and where are you from?",
+    "What do you do, and where do you work?",
+    "Tell me about your family. Who are they, and where do they live?",
+    "What time do you usually get up? What do you do in the morning?",
+    "What are you working on these days?",
+    "Describe your town. What is there? What place do you really like there?",
+    "What can you do well? What can't you do?",
+    "Where were you last weekend, and what did you do?",
+    "What are you going to do next year?",
+    "Compare two cities you know. Which one is better for you, and why?"
+   ],
+   "questionModules": [
+    "1",
+    "3, 11",
+    "2, 6",
+    "3, 11, 12",
+    "5",
+    "2, 11",
+    "7",
+    "8, 9",
+    "10",
+    "12"
+   ],
+   "rubric": [
+    {
+     "criterion": "Fluidez",
+     "points": 5,
+     "levels": "5 = Hablo los 5 minutos completos; pausas cortas y naturales · 3 = Llego a 3–4 minutos; algunas pausas largas · 1 = Menos de 2 minutos; me detengo mucho"
+    },
+    {
+     "criterion": "Precisión",
+     "points": 5,
+     "levels": "5 = Máximo 3 errores de gramática en toda la grabación · 3 = Entre 4 y 8 errores; el mensaje se entiende · 1 = Más de 12 errores; cuesta entenderme"
+    },
+    {
+     "criterion": "Pronunciación",
+     "points": 5,
+     "levels": "5 = Sílaba fuerte correcta; -s, -ed y th bien hechas · 3 = Se me entiende, pero fallo varios sonidos · 1 = Muchas palabras no se entienden"
+    },
+    {
+     "criterion": "Vocabulario",
+     "points": 5,
+     "levels": "5 = Uso bloques del libro y palabras de mi trabajo, sin repetir mucho · 3 = Vocabulario básico; repito algunas palabras · 1 = Me faltan palabras; uso español"
+    }
+   ],
+   "rubricNote": "Cada criterio de 0 a 5: usa 4 o 2 si estás entre dos columnas; 0 si no lo intentaste.",
+   "model": "1. My name is Edwin. I'm from Talara, a city in the north of Peru. (Revisa: I'm from, no I am of.)\n2. I'm a mechanical engineer. I work at a tank repair company in Freeport. (Revisa: a/an con la profesión; works si hablas de otra persona.)\n3. There are four people in my family. My parents live in Piura, and my sister lives in Lima. (Revisa: There are; -s en lives; my / her / their.)\n4. I usually get up at 5:30. I take a shower, have breakfast, and go to work at 6:30. (Revisa: Adverbio antes del verbo; at + hora.)\n5. These days I'm working on a pipe repair. We're replacing two valves. (Revisa: be + -ing para lo que pasa estos días.)\n6. My town is small. There's a beach, a market and a big park. I really like the beach. (Revisa: There's / There are; nada de it has para \"hay\".)\n7. I can read drawings and I can use AutoCAD well, but I can't swim very well. (Revisa: can + base, sin to.)\n8. Last weekend I was at home. On Saturday I cleaned my room, and on Sunday I watched a movie. (Revisa: was/were; -ed bien pronunciada; irregulares.)\n9. Next year I'm going to take an English course, and I think I'll get a better job. (Revisa: going to para planes, will para predicciones; sin in antes de next.)\n10. Lima is bigger than Talara, but Talara is quieter. For me, Talara is better because my family is there. (Revisa: -er than; better, nunca more better.)"
+  }
+ ],
+ "review": [
+  {
+   "module": 1,
+   "topic": "TO BE",
+   "items": "1, 16, 31, 51"
+  },
+  {
+   "module": 2,
+   "topic": "Artículos, plurales y THERE IS/ARE",
+   "items": "2, 3, 17, 32, 42"
+  },
+  {
+   "module": 3,
+   "topic": "Presente simple",
+   "items": "4, 18, 33, 43"
+  },
+  {
+   "module": 4,
+   "topic": "Preguntas con DO/DOES y WH-",
+   "items": "5, 6, 19, 34, 50"
+  },
+  {
+   "module": 5,
+   "topic": "Presente continuo",
+   "items": "7, 20, 35, 44"
+  },
+  {
+   "module": 6,
+   "topic": "Posesivos, demostrativos y pronombres objeto",
+   "items": "8, 9, 21, 41, 52"
+  },
+  {
+   "module": 7,
+   "topic": "CAN/CAN'T y pedir con cortesía",
+   "items": "10, 22, 36, 45"
+  },
+  {
+   "module": 8,
+   "topic": "Pasado de TO BE (was/were)",
+   "items": "11, 23, 37, 46"
+  },
+  {
+   "module": 9,
+   "topic": "Pasado simple regular e irregular",
+   "items": "12, 13, 24, 25, 38, 47, 52, 53, 54"
+  },
+  {
+   "module": 10,
+   "topic": "Futuro GOING TO y WILL",
+   "items": "14, 26, 39, 48, 55"
+  },
+  {
+   "module": 11,
+   "topic": "Preposiciones de tiempo y lugar",
+   "items": "15, 27, 32, 37, 38, 39, 40, 41, 43"
+  },
+  {
+   "module": 12,
+   "topic": "Comparativos, superlativos y frecuencia",
+   "items": "28, 29, 30, 40, 49, 50"
+  },
+  {
+   "module": null,
+   "topic": "Parte 4 (redacción)",
+   "items": "Menos de 11/15 → repite los modelos C2 de los módulos 9, 10 y 12"
+  },
+  {
+   "module": null,
+   "topic": "Parte 5 (oral)",
+   "items": "Menos de 14/20 → repite los diálogos modelo (sección 3, Parte 4) de los módulos 1, 3, 9 y 10 en voz alta"
+  }
+ ],
+ "bands": [
+  {
+   "range": "90–100",
+   "label": "Dominio",
+   "text": "Pasa al nivel B (Módulo 13)."
+  },
+  {
+   "range": "80–89",
+   "label": "Aprobado",
+   "text": "Repasa los módulos de la tabla donde fallaste y avanza."
+  },
+  {
+   "range": "65–79",
+   "label": "Casi",
+   "text": "Repite los módulos señalados en la tabla y vuelve a dar el examen en una semana."
+  },
+  {
+   "range": "0–64",
+   "label": "Repetir",
+   "text": "Repite las secciones 1, 2 y 4 de cada módulo con fallos; examen nuevo en 2 semanas."
+  }
+ ],
+ "cando": [
+  {
+   "skill": "Presentarme y hablar de mi trabajo y mi familia.",
+   "test": "Grábate 1 minuto sin leer: nombre, origen, edad, trabajo, familia. Máximo 2 errores."
+  },
+  {
+   "skill": "Describir mi rutina con frecuencia y horarios.",
+   "test": "Di 8 oraciones de tu día típico con 4 adverbios de frecuencia y at + hora en 1 minuto. Cero errores de posición."
+  },
+  {
+   "skill": "Hacer preguntas en presente, pasado y futuro.",
+   "test": "Escribe 9 preguntas (3 con do/does, 3 con did, 3 con going to) en 3 minutos. 9 de 9 correctas."
+  },
+  {
+   "skill": "Contar lo que hice el fin de semana.",
+   "test": "Grábate 1 minuto con al menos 6 verbos en pasado, 3 de ellos irregulares, todos correctos."
+  },
+  {
+   "skill": "Hablar de mis planes y hacer predicciones.",
+   "test": "Di 3 planes con going to y 3 predicciones con I think … will. 6 de 6 correctas."
+  },
+  {
+   "skill": "Decir dónde y cuándo con in / on / at y comparar opciones.",
+   "test": "Describe tu oficina con 5 preposiciones y compara dos ciudades con 3 comparativos y 1 superlativo. Cero errores."
+  },
+  {
+   "skill": "Mantener una conversación de 5 minutos.",
+   "test": "Grabación de la Parte 5 completa, sin pausas largas: 14/20 o más en la rúbrica oral."
+  },
+  {
+   "skill": "Aprobar el examen integrador A1–A2.",
+   "test": "80/100 o más. Anota tu puntaje: ______ / 100"
+  }
+ ]
+}

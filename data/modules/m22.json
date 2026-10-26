@@ -1,0 +1,971 @@
+{
+ "id": 22,
+ "level": "B2",
+ "title": "Verbos + gerundio o infinitivo",
+ "goal": "Al terminar sabrás elegir sin dudar entre enjoy doing y want to do, usar verbo + persona + to (I want you to check), distinguir stop doing de stop to do, y decir que estás acostumbrado (o te estás acostumbrando) a algo con be/get used to doing.",
+ "lesson": [
+  {
+   "title": "Introducción",
+   "html": "<p>En español, cuando un verbo sigue a otro, casi siempre va en infinitivo: <i>disfruto trabajar</i>, <i>quiero trabajar</i>, <i>evito trabajar</i>. En inglés el segundo verbo puede tomar dos formas: el <b>gerundio</b> (<span class=\"en\">working</span>) o el <b>infinitivo con to</b> (<span class=\"en\">to work</span>). La elección <b>no depende del significado en español</b>: depende del <b>primer verbo</b>. Por eso se dice <span class=\"en\">I enjoy working</span> pero <span class=\"en\">I want to work</span>.</p><p>La buena noticia: no es una lista caótica. Los verbos se agrupan en familias con una lógica bastante clara. Si entiendes la lógica, memorizas menos y aciertas más.</p>",
+   "svg": "<svg viewBox=\"0 0 640 350\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs><marker id=\"ar22a\" markerWidth=\"10\" markerHeight=\"10\" refX=\"8\" refY=\"5\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#667085\"/></marker></defs>\n  <rect x=\"170\" y=\"8\" width=\"300\" height=\"58\" rx=\"12\" fill=\"#1570EF\"/>\n  <text x=\"320\" y=\"33\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">verbo 1 + ¿verbo 2?</text>\n  <text x=\"320\" y=\"55\" text-anchor=\"middle\" font-size=\"12\" fill=\"#EAF2FF\">¿-ing o to? Lo decide el verbo 1</text>\n  <line x1=\"300\" y1=\"66\" x2=\"88\" y2=\"106\" stroke=\"#667085\" stroke-width=\"2\" marker-end=\"url(#ar22a)\"/>\n  <line x1=\"312\" y1=\"66\" x2=\"243\" y2=\"106\" stroke=\"#667085\" stroke-width=\"2\" marker-end=\"url(#ar22a)\"/>\n  <line x1=\"328\" y1=\"66\" x2=\"397\" y2=\"106\" stroke=\"#667085\" stroke-width=\"2\" marker-end=\"url(#ar22a)\"/>\n  <line x1=\"340\" y1=\"66\" x2=\"552\" y2=\"106\" stroke=\"#667085\" stroke-width=\"2\" marker-end=\"url(#ar22a)\"/>\n  <!-- bin 1 -->\n  <rect x=\"8\" y=\"112\" width=\"150\" height=\"230\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <rect x=\"8\" y=\"112\" width=\"150\" height=\"48\" rx=\"10\" fill=\"#1570EF\"/>\n  <text x=\"83\" y=\"134\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">+ -ING</text>\n  <text x=\"83\" y=\"152\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">la actividad en sí</text>\n  <g font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\" text-anchor=\"middle\">\n    <text x=\"83\" y=\"182\">enjoy</text><text x=\"83\" y=\"198\">avoid</text><text x=\"83\" y=\"214\">finish</text><text x=\"83\" y=\"230\">mind</text><text x=\"83\" y=\"246\">keep</text><text x=\"83\" y=\"262\">suggest</text><text x=\"83\" y=\"278\">consider</text><text x=\"83\" y=\"294\">practice</text><text x=\"83\" y=\"310\">can't stand</text><text x=\"83\" y=\"326\">miss</text>\n  </g>\n  <!-- bin 2 -->\n  <rect x=\"166\" y=\"112\" width=\"150\" height=\"230\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <rect x=\"166\" y=\"112\" width=\"150\" height=\"48\" rx=\"10\" fill=\"#0E9384\"/>\n  <text x=\"241\" y=\"134\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">+ TO</text>\n  <text x=\"241\" y=\"152\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">meta, plan, futuro</text>\n  <g font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\" text-anchor=\"middle\">\n    <text x=\"241\" y=\"182\">want</text><text x=\"241\" y=\"198\">need</text><text x=\"241\" y=\"214\">decide</text><text x=\"241\" y=\"230\">plan</text><text x=\"241\" y=\"246\">hope</text><text x=\"241\" y=\"262\">agree</text><text x=\"241\" y=\"278\">refuse</text><text x=\"241\" y=\"294\">promise</text><text x=\"241\" y=\"310\">manage</text><text x=\"241\" y=\"326\">afford</text>\n  </g>\n  <!-- bin 3 -->\n  <rect x=\"324\" y=\"112\" width=\"150\" height=\"230\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <rect x=\"324\" y=\"112\" width=\"150\" height=\"48\" rx=\"10\" fill=\"#6941C6\"/>\n  <text x=\"399\" y=\"134\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">-ING o TO</text>\n  <text x=\"399\" y=\"152\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">mismo significado</text>\n  <g font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\" text-anchor=\"middle\">\n    <text x=\"399\" y=\"182\">like</text><text x=\"399\" y=\"198\">love</text><text x=\"399\" y=\"214\">hate</text><text x=\"399\" y=\"230\">prefer</text><text x=\"399\" y=\"246\">start</text><text x=\"399\" y=\"262\">begin</text><text x=\"399\" y=\"278\">continue</text>\n  </g>\n  <!-- bin 4 -->\n  <rect x=\"482\" y=\"112\" width=\"150\" height=\"230\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <rect x=\"482\" y=\"112\" width=\"150\" height=\"48\" rx=\"10\" fill=\"#E8590C\"/>\n  <text x=\"557\" y=\"134\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">-ING o TO</text>\n  <text x=\"557\" y=\"152\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">cambia el sentido</text>\n  <g font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\" text-anchor=\"middle\">\n    <text x=\"557\" y=\"182\">stop</text><text x=\"557\" y=\"198\">remember</text><text x=\"557\" y=\"214\">forget</text><text x=\"557\" y=\"230\">try</text><text x=\"557\" y=\"246\">regret</text><text x=\"557\" y=\"262\">go on</text>\n  </g>\n  <text x=\"557\" y=\"318\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#E8590C\">ver Figura 22.2</text>\n</svg>",
+   "caption": "Figura 22.1 — Clasificador de familias. Antes de poner el segundo verbo, mira en qué caja está el primero."
+  },
+  {
+   "title": "Las cinco familias y su lógica",
+   "html": "<table><thead><tr><th>Familia</th><th>Verbos frecuentes</th><th>Lógica</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>+ -ING</b></td><td>enjoy, avoid, finish, mind, keep, suggest, consider, practice, deny, risk, miss, can't stand</td><td>Ves la acción como una actividad real, ya existente o como un \"tema\" del que hablas.</td><td><span class=\"en\">I avoid driving at night.</span></td></tr><tr><td><b>+ TO</b></td><td>want, need, decide, plan, hope, agree, refuse, promise, offer, manage, afford, expect, learn, seem</td><td><i>To</i> es una flecha hacia adelante: meta, decisión, intención, algo que aún no ocurre.</td><td><span class=\"en\">We decided to replace the valve.</span></td></tr><tr><td><b>+ persona + TO</b></td><td>want, need, ask, tell, expect, allow, advise, remind, convince</td><td>Alguien quiere o pide que <b>otra persona</b> haga algo.</td><td><span class=\"en\">The client wants us to finish by Friday.</span></td></tr><tr><td><b>-ING o TO, igual</b></td><td>like, love, hate, prefer, start, begin, continue</td><td>Diferencia mínima; ambas formas son correctas.</td><td><span class=\"en\">It started raining. = It started to rain.</span></td></tr><tr><td><b>-ING o TO, cambia</b></td><td>stop, remember, forget, try, regret, go on</td><td>-ING mira la actividad o algo ya hecho; TO mira el propósito o lo que viene después.</td><td><span class=\"en\">I stopped smoking. ≠ I stopped to smoke.</span></td></tr></tbody></table><p><b>Así piensa un nativo — -ING es una cosa, TO es una flecha</b></p><p>El gerundio funciona como un <b>sustantivo</b>: <span class=\"en\">I enjoy swimming</span> es como <span class=\"en\">I enjoy music</span>. Hablas de una actividad que ya conoces o vives. El infinitivo con <i>to</i> conserva el sentido de dirección de la preposición <i>to</i> (hacia): <span class=\"en\">I want to swim</span> = mi deseo apunta hacia algo que todavía no pasa.</p><p>Por eso los verbos de decisión y futuro (<i>decide, plan, hope, promise</i>) llevan <b>to</b>, y los de experiencia o actitud ante una actividad (<i>enjoy, avoid, mind, can't stand</i>) llevan <b>-ing</b>. La regla no es perfecta, pero acierta en la gran mayoría de casos.</p>"
+  },
+  {
+   "title": "Traducción literal vs inglés real",
+   "html": "<table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td><span class=\"es\">Disfruto trabajar aquí.</span></td><td><span class=\"en\">I enjoy working here.</span> <span class=\"wrong\">enjoy to work</span></td></tr><tr><td><span class=\"es\">Quiero que me ayudes.</span></td><td><span class=\"en\">I want you to help me.</span> <span class=\"wrong\">want that you</span></td></tr><tr><td><span class=\"es\">Gracias por venir.</span></td><td><span class=\"en\">Thanks for coming.</span> <span class=\"wrong\">for come</span></td></tr><tr><td><span class=\"es\">Estoy acostumbrado a madrugar.</span></td><td><span class=\"en\">I'm used to getting up early.</span> <span class=\"wrong\">used to get up</span></td></tr><tr><td><span class=\"es\">Fumar está prohibido.</span></td><td><span class=\"en\">Smoking is prohibited.</span> <span class=\"wrong\">Smoke is</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>Te sugiero revisar el plano.</td><td><span class=\"wrong\">I suggest you to check the drawing.</span></td><td><span class=\"ok\">I suggest checking the drawing.</span></td></tr><tr><td>Evita tocar el cable.</td><td><span class=\"wrong\">Avoid to touch the cable.</span></td><td><span class=\"ok\">Avoid touching the cable.</span></td></tr><tr><td>Tengo muchas ganas de verte.</td><td><span class=\"wrong\">I look forward to see you.</span></td><td><span class=\"ok\">I look forward to seeing you.</span></td></tr><tr><td>Antes de soldar, limpia la junta.</td><td><span class=\"wrong\">Before to weld, clean the joint.</span></td><td><span class=\"ok\">Before welding, clean the joint.</span></td></tr><tr><td>El jefe nos pidió que esperáramos.</td><td><span class=\"wrong\">The boss asked that we wait us.</span></td><td><span class=\"ok\">The boss asked us to wait.</span></td></tr><tr><td>No puedo darme el lujo de perder tiempo.</td><td><span class=\"wrong\">I can't afford losing time.</span></td><td><span class=\"ok\">I can't afford to lose time.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Reglas de oro",
+   "html": "<p><b>Regla de oro 1 — Después de una preposición, siempre -ING</b></p><p><i>In, on, at, for, about, of, without, before, after, instead of</i> van seguidas de <b>-ing</b>, nunca de infinitivo: <span class=\"en\">She's good at solving problems.</span> <span class=\"en\">Thanks for helping.</span></p><p>Ojo: a veces <b>to</b> también es preposición: <span class=\"en\">look forward to</span>, <span class=\"en\">be used to</span>, <span class=\"en\">get used to</span>, <span class=\"en\">object to</span>. Prueba: si puedes poner un sustantivo después (<i>I look forward to <b>the weekend</b></i>), ese <i>to</i> es preposición → <span class=\"ok\">I look forward to seeing you.</span></p><p><b>Regla de oro 2 — \"Querer que alguien haga\" = want + persona + to</b></p><p>El español usa <i>que</i> + subjuntivo. El inglés usa <b>verbo + objeto + to + verbo</b>. Nunca <span class=\"wrong\">I want that you…</span></p><p><span class=\"es\">Quiero que revises el informe</span> → <span class=\"ok\">I want you to review the report.</span> <span class=\"es\">Le pidió que firmara</span> → <span class=\"ok\">She asked him to sign.</span></p><p><b>Regla de oro 3 — Una acción como sujeto = -ING</b></p><p>Cuando la acción es el sujeto de la oración, el inglés usa gerundio: <span class=\"en\">Working at heights requires a harness.</span> <span class=\"en\">Learning English takes time.</span> El infinitivo como sujeto (<i>To learn English takes time</i>) existe, pero suena formal y poco natural.</p>"
+  },
+  {
+   "title": "Afirmativo, negativo, pregunta y respuesta corta",
+   "html": "<p>El auxiliar (<i>do, does, did, have, will…</i>) trabaja solo con el <b>verbo 1</b>. El verbo 2 no cambia nunca. Si quieres negar el <b>verbo 2</b>, pones <b>not</b> justo antes de él.</p><table><thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td>Sujeto + verbo 1 + -ing / to + verbo</td><td><span class=\"en\">She enjoys working nights.</span></td></tr><tr><td><b>Negativo (verbo 1)</b></td><td>Sujeto + don't / doesn't / didn't + verbo 1 + …</td><td><span class=\"en\">She doesn't enjoy working nights.</span></td></tr><tr><td><b>Negativo (verbo 2)</b></td><td>Sujeto + verbo 1 + <b>not</b> + -ing / to + verbo</td><td><span class=\"en\">We decided not to sign. / He regrets not checking the weld.</span></td></tr><tr><td><b>Pregunta</b></td><td>Auxiliar + sujeto + verbo 1 + …?</td><td><span class=\"en\">Does she enjoy working nights?</span></td></tr><tr><td><b>Respuesta corta</b></td><td>Yes / No + sujeto + auxiliar</td><td><span class=\"en\">Yes, she does. / No, she doesn't.</span></td></tr><tr><td><b>Respuesta con to</b></td><td>Se conserva <i>to</i> y se omite el verbo</td><td><span class=\"en\">Do you want to join us? — I'd love to. / Sorry, I don't want to.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<ul><li><b>would like / would love / would prefer</b> siempre llevan <b>to</b>: <span class=\"en\">I'd like to schedule a call.</span> Compara: <span class=\"en\">I like working here</span> (en general) vs <span class=\"en\">I'd like to work here</span> (deseo concreto).</li><li><b>make</b> y <b>let</b> + persona + verbo <b>sin to</b>: <span class=\"en\">The inspector made us redo the weld.</span> <span class=\"en\">Let me check.</span></li><li><b>help</b> acepta las dos: <span class=\"en\">Can you help me (to) move this pipe?</span> En inglés estadounidense se omite <i>to</i> casi siempre.</li><li><b>suggest</b> y <b>recommend</b> no van con persona + to. Usa -ing o una cláusula con <i>that</i>: <span class=\"en\">I suggest checking the drawing.</span> / <span class=\"en\">I suggest (that) you check the drawing.</span> (Esta última estructura se ve a fondo en el Módulo 28.)</li><li><b>Do you mind…? / Would you mind…?</b> + -ing es una petición cortés. Para decir \"sí, claro\" se responde <span class=\"en\">No, not at all.</span> (literalmente: no me molesta).</li></ul>"
+  },
+  {
+   "title": "Verbos que cambian de significado",
+   "html": "<p>Seis verbos aceptan las dos formas, pero el sentido cambia. La clave casi siempre es el <b>orden de los hechos</b>: con -ING la acción ya existe o ya pasó; con TO la acción viene después o es el propósito.</p><table><thead><tr><th>Verbo</th><th>+ -ING</th><th>+ TO</th></tr></thead><tbody><tr><td><b>stop</b></td><td><span class=\"en\">I stopped drinking coffee.</span><br>Dejé de tomar café.</td><td><span class=\"en\">I stopped to drink a coffee.</span><br>Me detuve para tomar un café.</td></tr><tr><td><b>remember</b></td><td><span class=\"en\">I remember meeting her in Lima.</span><br>Recuerdo haberla conocido en Lima.</td><td><span class=\"en\">Remember to send the report.</span><br>Acuérdate de enviar el informe.</td></tr><tr><td><b>forget</b></td><td><span class=\"en\">I'll never forget seeing the Andes from the plane.</span><br>Nunca olvidaré haber visto los Andes desde el avión.</td><td><span class=\"en\">Don't forget to lock the gate.</span><br>No te olvides de cerrar el portón.</td></tr><tr><td><b>try</b></td><td><span class=\"en\">Try restarting the pump.</span><br>Prueba reiniciar la bomba (a ver si funciona).</td><td><span class=\"en\">I tried to lift the beam, but it was too heavy.</span><br>Intenté levantar la viga, pero pesaba demasiado.</td></tr><tr><td><b>regret</b></td><td><span class=\"en\">I regret saying that.</span><br>Me arrepiento de haber dicho eso.</td><td><span class=\"en\">We regret to inform you that…</span><br>Lamentamos informarle que… (formal, mala noticia)</td></tr><tr><td><b>go on</b></td><td><span class=\"en\">He went on talking for an hour.</span><br>Siguió hablando una hora (la misma actividad).</td><td><span class=\"en\">He then went on to explain the lift plan.</span><br>Luego pasó a explicar el plan de izaje (actividad nueva).</td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 325\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs><marker id=\"ar22b\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#1D2939\"/></marker></defs>\n  <text x=\"245\" y=\"20\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#1570EF\">+ -ING</text>\n  <text x=\"245\" y=\"38\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">la actividad / lo que ya ocurrió</text>\n  <text x=\"505\" y=\"20\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#0E9384\">+ TO</text>\n  <text x=\"505\" y=\"38\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">el propósito / lo que viene después</text>\n  <!-- row STOP -->\n  <rect x=\"10\" y=\"50\" width=\"100\" height=\"80\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"60\" y=\"95\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">STOP</text>\n  <rect x=\"120\" y=\"50\" width=\"250\" height=\"80\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"1.5\"/>\n  <text x=\"245\" y=\"69\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">He stopped smoking.</text>\n  <rect x=\"130\" y=\"78\" width=\"104\" height=\"24\" rx=\"6\" fill=\"#fff\" stroke=\"#1570EF\"/><text x=\"182\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">1 · fumaba</text>\n  <line x1=\"237\" y1=\"90\" x2=\"253\" y2=\"90\" stroke=\"#1D2939\" stroke-width=\"1.5\" marker-end=\"url(#ar22b)\"/>\n  <rect x=\"256\" y=\"78\" width=\"104\" height=\"24\" rx=\"6\" fill=\"#fff\" stroke=\"#1570EF\"/><text x=\"308\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">2 · ya no fuma</text>\n  <text x=\"245\" y=\"121\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">dejó de fumar</text>\n  <rect x=\"380\" y=\"50\" width=\"250\" height=\"80\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"1.5\"/>\n  <text x=\"505\" y=\"69\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">He stopped to smoke.</text>\n  <rect x=\"390\" y=\"78\" width=\"104\" height=\"24\" rx=\"6\" fill=\"#fff\" stroke=\"#0E9384\"/><text x=\"442\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">1 · se detiene</text>\n  <line x1=\"497\" y1=\"90\" x2=\"513\" y2=\"90\" stroke=\"#1D2939\" stroke-width=\"1.5\" marker-end=\"url(#ar22b)\"/>\n  <rect x=\"516\" y=\"78\" width=\"104\" height=\"24\" rx=\"6\" fill=\"#fff\" stroke=\"#0E9384\"/><text x=\"568\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">2 · fuma</text>\n  <text x=\"505\" y=\"121\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">se detuvo para fumar</text>\n  <!-- row REMEMBER -->\n  <rect x=\"10\" y=\"142\" width=\"100\" height=\"80\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"60\" y=\"187\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">REMEMBER</text>\n  <rect x=\"120\" y=\"142\" width=\"250\" height=\"80\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"1.5\"/>\n  <text x=\"245\" y=\"161\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">I remember locking the door.</text>\n  <rect x=\"130\" y=\"170\" width=\"104\" height=\"24\" rx=\"6\" fill=\"#fff\" stroke=\"#1570EF\"/><text x=\"182\" y=\"186\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">1 · cerré</text>\n  <line x1=\"237\" y1=\"182\" x2=\"253\" y2=\"182\" stroke=\"#1D2939\" stroke-width=\"1.5\" marker-end=\"url(#ar22b)\"/>\n  <rect x=\"256\" y=\"170\" width=\"104\" height=\"24\" rx=\"6\" fill=\"#fff\" stroke=\"#1570EF\"/><text x=\"308\" y=\"186\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">2 · lo recuerdo</text>\n  <text x=\"245\" y=\"213\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">recuerdo haberla cerrado</text>\n  <rect x=\"380\" y=\"142\" width=\"250\" height=\"80\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"1.5\"/>\n  <text x=\"505\" y=\"161\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">I remembered to lock the door.</text>\n  <rect x=\"390\" y=\"170\" width=\"104\" height=\"24\" rx=\"6\" fill=\"#fff\" stroke=\"#0E9384\"/><text x=\"442\" y=\"186\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">1 · me acuerdo</text>\n  <line x1=\"497\" y1=\"182\" x2=\"513\" y2=\"182\" stroke=\"#1D2939\" stroke-width=\"1.5\" marker-end=\"url(#ar22b)\"/>\n  <rect x=\"516\" y=\"170\" width=\"104\" height=\"24\" rx=\"6\" fill=\"#fff\" stroke=\"#0E9384\"/><text x=\"568\" y=\"186\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">2 · cierro</text>\n  <text x=\"505\" y=\"213\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">me acordé de cerrarla (y la cerré)</text>\n  <!-- row TRY -->\n  <rect x=\"10\" y=\"234\" width=\"100\" height=\"80\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"60\" y=\"279\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">TRY</text>\n  <rect x=\"120\" y=\"234\" width=\"250\" height=\"80\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"1.5\"/>\n  <text x=\"245\" y=\"253\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">Try restarting the pump.</text>\n  <rect x=\"130\" y=\"262\" width=\"104\" height=\"24\" rx=\"6\" fill=\"#fff\" stroke=\"#1570EF\"/><text x=\"182\" y=\"278\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">1 · pruebas</text>\n  <line x1=\"237\" y1=\"274\" x2=\"253\" y2=\"274\" stroke=\"#1D2939\" stroke-width=\"1.5\" marker-end=\"url(#ar22b)\"/>\n  <rect x=\"256\" y=\"262\" width=\"104\" height=\"24\" rx=\"6\" fill=\"#fff\" stroke=\"#1570EF\"/><text x=\"308\" y=\"278\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">2 · ¿funciona?</text>\n  <text x=\"245\" y=\"305\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">experimento: prueba a ver si sirve</text>\n  <rect x=\"380\" y=\"234\" width=\"250\" height=\"80\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"1.5\"/>\n  <text x=\"505\" y=\"253\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">I tried to lift the beam.</text>\n  <rect x=\"390\" y=\"262\" width=\"104\" height=\"24\" rx=\"6\" fill=\"#fff\" stroke=\"#0E9384\"/><text x=\"442\" y=\"278\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">1 · esfuerzo</text>\n  <line x1=\"497\" y1=\"274\" x2=\"513\" y2=\"274\" stroke=\"#1D2939\" stroke-width=\"1.5\" marker-end=\"url(#ar22b)\"/>\n  <rect x=\"516\" y=\"262\" width=\"104\" height=\"24\" rx=\"6\" fill=\"#fff\" stroke=\"#0E9384\"/><text x=\"568\" y=\"278\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">2 · ¿lo logras?</text>\n  <text x=\"505\" y=\"305\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">intento difícil; quizá no pude</text>\n</svg>",
+   "caption": "Figura 22.2 — Stop, remember y try: los números marcan qué ocurre primero."
+  },
+  {
+   "title": "Be used to y get used to: acostumbrarse",
+   "html": "<p>Aquí está una de las trampas más famosas del inglés. Hay <b>tres</b> estructuras con <i>used to</i> y se parecen mucho:</p><table><thead><tr><th>Estructura</th><th>Significado</th><th>Ejemplo</th></tr></thead><tbody><tr><td><span class=\"en\">used to + verbo base</span></td><td>Hábito o estado pasado que <b>ya no</b> existe (\"antes …\")</td><td><span class=\"en\">I used to work in Antofagasta.</span></td></tr><tr><td><span class=\"en\">be used to + -ing / sustantivo</span></td><td><b>Estar</b> acostumbrado (estado)</td><td><span class=\"en\">I'm used to working twelve-hour shifts.</span></td></tr><tr><td><span class=\"en\">get used to + -ing / sustantivo</span></td><td><b>Acostumbrarse</b> (proceso, cambio)</td><td><span class=\"en\">You'll get used to the humidity.</span></td></tr></tbody></table><p>En <i>be used to</i> y <i>get used to</i>, el <b>to es preposición</b> (Regla de oro 1). Por eso va seguido de -ing o de un sustantivo: <span class=\"en\">I'm used to the noise.</span> / <span class=\"en\">I'm used to working with noise.</span></p><table><thead><tr><th></th><th>be used to</th><th>get used to</th><th>used to (pasado)</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td><span class=\"en\">I'm used to driving on the right.</span></td><td><span class=\"en\">She's getting used to the new software.</span></td><td><span class=\"en\">He used to smoke.</span></td></tr><tr><td><b>Negativo</b></td><td><span class=\"en\">I'm not used to driving on the left.</span></td><td><span class=\"en\">She hasn't gotten used to it yet.</span></td><td><span class=\"en\">He didn't use to smoke.</span></td></tr><tr><td><b>Pregunta</b></td><td><span class=\"en\">Are you used to driving on the left?</span></td><td><span class=\"en\">Has she gotten used to it?</span></td><td><span class=\"en\">Did he use to smoke?</span></td></tr><tr><td><b>Respuesta corta</b></td><td><span class=\"en\">Yes, I am. / No, I'm not.</span></td><td><span class=\"en\">Yes, she has. / No, she hasn't.</span></td><td><span class=\"en\">Yes, he did. / No, he didn't.</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 270\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs><marker id=\"ar22c\" markerWidth=\"10\" markerHeight=\"10\" refX=\"8\" refY=\"5\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#1570EF\"/></marker></defs>\n  <text x=\"320\" y=\"16\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1570EF\">get used to = el proceso de acostumbrarse</text>\n  <line x1=\"136\" y1=\"56\" x2=\"556\" y2=\"56\" stroke=\"#1570EF\" stroke-width=\"3\" marker-end=\"url(#ar22c)\"/>\n  <circle cx=\"110\" cy=\"56\" r=\"26\" fill=\"#F2F4F7\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <text x=\"110\" y=\"61\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#344054\">Día 1</text>\n  <circle cx=\"320\" cy=\"56\" r=\"26\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"61\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1570EF\">Mes 1</text>\n  <circle cx=\"530\" cy=\"56\" r=\"26\" fill=\"#1570EF\"/>\n  <text x=\"530\" y=\"61\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">Mes 6</text>\n  <text x=\"110\" y=\"102\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1570EF\">not used to</text>\n  <text x=\"320\" y=\"102\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1570EF\">get used to</text>\n  <text x=\"530\" y=\"102\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1570EF\">be used to</text>\n  <text x=\"110\" y=\"124\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I'm not used to</text>\n  <text x=\"110\" y=\"142\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">the humidity.</text>\n  <text x=\"110\" y=\"162\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">no estoy acostumbrado</text>\n  <text x=\"320\" y=\"124\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I'm getting used to</text>\n  <text x=\"320\" y=\"142\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">the humidity.</text>\n  <text x=\"320\" y=\"162\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">me estoy acostumbrando</text>\n  <text x=\"530\" y=\"124\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I'm used to</text>\n  <text x=\"530\" y=\"142\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">working in the humidity.</text>\n  <text x=\"530\" y=\"162\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">ya estoy acostumbrado</text>\n  <rect x=\"20\" y=\"182\" width=\"600\" height=\"72\" rx=\"10\" fill=\"#FEF0EF\" stroke=\"#D92D20\" stroke-width=\"1.5\"/>\n  <text x=\"320\" y=\"210\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#D92D20\">No confundas: used to + verbo base = hábito pasado (ya no)</text>\n  <text x=\"320\" y=\"236\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I used to work in Chile.  →  Antes trabajaba en Chile.</text>\n</svg>",
+   "caption": "Figura 22.3 — De \"no estoy acostumbrado\" a \"ya estoy acostumbrado\". Abajo, la estructura que no hay que mezclar."
+  },
+  {
+   "title": "Tres detalles finos de used to",
+   "html": "<ul><li>Con <i>did</i> (negativo y pregunta) se escribe <b>use to</b>, sin -d: <span class=\"ok\">Did you use to live in Lima?</span> Igual que <i>Did you work?</i>, no <i>Did you worked?</i></li><li><i>Be/get used to</i> funcionan en cualquier tiempo: <span class=\"en\">I wasn't used to it.</span> <span class=\"en\">You'll get used to it.</span> <span class=\"en\">I've gotten used to it.</span> (<i>gotten</i> es la forma estadounidense).</li><li>No confundas con la pasiva (Módulo 20): <span class=\"en\">This brush is used to clean the welds</span> = este cepillo <b>se usa para</b> limpiar las soldaduras. Aquí <i>used</i> se pronuncia <span class=\"pron\">yuzd</span>; en <i>be used to</i> (acostumbrado) se dice <span class=\"pron\">YÚS-tə</span>.</li></ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "enjoy working outdoors",
+   "pron": "en-YÓI WÉR-king aut-DÓRZ",
+   "es": "disfrutar trabajar al aire libre",
+   "group": "A. Verbos + -ING"
+  },
+  {
+   "en": "avoid working at night",
+   "pron": "ə-VÓID WÉR-king ət NAIT",
+   "es": "evitar trabajar de noche",
+   "group": "A. Verbos + -ING"
+  },
+  {
+   "en": "finish welding",
+   "pron": "FÍ-nish WÉL-ding",
+   "es": "terminar de soldar",
+   "group": "A. Verbos + -ING"
+  },
+  {
+   "en": "keep trying",
+   "pron": "kip TRÁI-ing",
+   "es": "seguir intentando",
+   "group": "A. Verbos + -ING"
+  },
+  {
+   "en": "Do you mind waiting?",
+   "pron": "du yu MAIND WÉI-ting",
+   "es": "¿Te molesta esperar?",
+   "group": "A. Verbos + -ING"
+  },
+  {
+   "en": "suggest postponing the test",
+   "pron": "səg-YÉST poust-PÓU-ning dhə TEST",
+   "es": "sugerir postergar la prueba",
+   "group": "A. Verbos + -ING"
+  },
+  {
+   "en": "consider hiring more welders",
+   "pron": "kən-SÍ-dər JÁI-ring mor WÉL-dərz",
+   "es": "considerar contratar más soldadores",
+   "group": "A. Verbos + -ING"
+  },
+  {
+   "en": "practice speaking",
+   "pron": "PRÁK-tis SPÍ-king",
+   "es": "practicar hablar",
+   "group": "A. Verbos + -ING"
+  },
+  {
+   "en": "can't stand waiting",
+   "pron": "kant STAND WÉI-ting",
+   "es": "no soportar esperar",
+   "group": "A. Verbos + -ING"
+  },
+  {
+   "en": "miss living in Peru",
+   "pron": "mis LÍ-ving in pə-RÚ",
+   "es": "extrañar vivir en Perú",
+   "group": "A. Verbos + -ING"
+  },
+  {
+   "en": "want to learn",
+   "pron": "WÁNT tə LERN / informal WÁ-nə LERN",
+   "es": "querer aprender",
+   "group": "B. Verbos + TO"
+  },
+  {
+   "en": "need to check",
+   "pron": "NID tə CHEK",
+   "es": "necesitar revisar",
+   "group": "B. Verbos + TO"
+  },
+  {
+   "en": "decide to replace",
+   "pron": "di-SÁID tə ri-PLÉIS",
+   "es": "decidir reemplazar",
+   "group": "B. Verbos + TO"
+  },
+  {
+   "en": "plan to travel",
+   "pron": "PLAN tə TRÁ-vəl",
+   "es": "planear viajar",
+   "group": "B. Verbos + TO"
+  },
+  {
+   "en": "hope to see you",
+   "pron": "JOUP tə SÍ yu",
+   "es": "esperar (desear) verte",
+   "group": "B. Verbos + TO"
+  },
+  {
+   "en": "agree to pay",
+   "pron": "ə-GRÍ tə PEI",
+   "es": "aceptar pagar",
+   "group": "B. Verbos + TO"
+  },
+  {
+   "en": "refuse to sign",
+   "pron": "ri-FIÚZ tə SAIN",
+   "es": "negarse a firmar",
+   "group": "B. Verbos + TO"
+  },
+  {
+   "en": "promise to call back",
+   "pron": "PRÓ-mis tə kol BAK",
+   "es": "prometer devolver la llamada",
+   "group": "B. Verbos + TO"
+  },
+  {
+   "en": "manage to finish",
+   "pron": "MÁ-nich tə FÍ-nish",
+   "es": "lograr terminar",
+   "group": "B. Verbos + TO"
+  },
+  {
+   "en": "can't afford to lose",
+   "pron": "kant ə-FÓRD tə LUZ",
+   "es": "no poder darse el lujo de perder",
+   "group": "B. Verbos + TO"
+  },
+  {
+   "en": "offer to help",
+   "pron": "Ó-fər tə JELP",
+   "es": "ofrecerse a ayudar",
+   "group": "B. Verbos + TO"
+  },
+  {
+   "en": "want you to check",
+   "pron": "WÁNT yu tə CHEK",
+   "es": "querer que revises",
+   "group": "C. Verbo + persona + TO"
+  },
+  {
+   "en": "ask him to wait",
+   "pron": "ÁSK-im tə WEIT",
+   "es": "pedirle que espere",
+   "group": "C. Verbo + persona + TO"
+  },
+  {
+   "en": "tell them to stop",
+   "pron": "TEL dhəm tə STOP",
+   "es": "decirles que paren",
+   "group": "C. Verbo + persona + TO"
+  },
+  {
+   "en": "remind me to call",
+   "pron": "ri-MÁIND mi tə KOL",
+   "es": "recordarme llamar",
+   "group": "C. Verbo + persona + TO"
+  },
+  {
+   "en": "expect us to finish",
+   "pron": "ek-SPÉKT əs tə FÍ-nish",
+   "es": "esperar que terminemos",
+   "group": "C. Verbo + persona + TO"
+  },
+  {
+   "en": "allow visitors to enter",
+   "pron": "ə-LÁU VÍ-zi-tərz tə ÉN-tər",
+   "es": "permitir que los visitantes entren",
+   "group": "C. Verbo + persona + TO"
+  },
+  {
+   "en": "advise you to wear a mask",
+   "pron": "əd-VÁIZ yu tə WER ə MASK",
+   "es": "aconsejarte que uses mascarilla",
+   "group": "C. Verbo + persona + TO"
+  },
+  {
+   "en": "I look forward to hearing from you.",
+   "pron": "ai luk FÓR-wərd tə JÍ-ring frəm yu",
+   "es": "Quedo a la espera de su respuesta.",
+   "group": "D. Preposición + -ING"
+  },
+  {
+   "en": "be interested in working",
+   "pron": "bi ÍN-trəs-tid in WÉR-king",
+   "es": "estar interesado en trabajar",
+   "group": "D. Preposición + -ING"
+  },
+  {
+   "en": "be good at solving problems",
+   "pron": "bi GUD ət SÓL-ving PRÓ-bləmz",
+   "es": "ser bueno resolviendo problemas",
+   "group": "D. Preposición + -ING"
+  },
+  {
+   "en": "be responsible for checking",
+   "pron": "bi ris-PÓN-si-bol fər CHÉ-king",
+   "es": "ser responsable de revisar",
+   "group": "D. Preposición + -ING"
+  },
+  {
+   "en": "Thanks for coming.",
+   "pron": "THANKS fər KÁ-ming",
+   "es": "Gracias por venir.",
+   "group": "D. Preposición + -ING"
+  },
+  {
+   "en": "instead of waiting",
+   "pron": "in-STÉD əv WÉI-ting",
+   "es": "en lugar de esperar",
+   "group": "D. Preposición + -ING"
+  },
+  {
+   "en": "before starting / after finishing",
+   "pron": "bi-FÓR STÁR-ting / ÁF-tər FÍ-ni-shing",
+   "es": "antes de empezar / después de terminar",
+   "group": "D. Preposición + -ING"
+  },
+  {
+   "en": "How about meeting at three?",
+   "pron": "jau ə-BÁUT MÍ-ting ət THRI",
+   "es": "¿Qué tal si nos reunimos a las tres?",
+   "group": "D. Preposición + -ING"
+  },
+  {
+   "en": "stop smoking / stop to smoke",
+   "pron": "STOP SMÓU-king / STOP tə SMOUK",
+   "es": "dejar de fumar / detenerse para fumar",
+   "group": "E. Verbos que cambian de significado"
+  },
+  {
+   "en": "remember to call / remember calling",
+   "pron": "ri-MÉM-bər tə KOL / ri-MÉM-bər KÓ-ling",
+   "es": "acordarse de llamar / recordar haber llamado",
+   "group": "E. Verbos que cambian de significado"
+  },
+  {
+   "en": "forget to lock / never forget seeing",
+   "pron": "fər-GUÉT tə LOK / NÉ-vər fər-GUÉT SÍ-ing",
+   "es": "olvidarse de cerrar / nunca olvidar haber visto",
+   "group": "E. Verbos que cambian de significado"
+  },
+  {
+   "en": "try restarting / try to lift",
+   "pron": "TRAI ri-STÁR-ting / TRAI tə LIFT",
+   "es": "probar reiniciar / intentar levantar",
+   "group": "E. Verbos que cambian de significado"
+  },
+  {
+   "en": "regret saying / regret to inform you",
+   "pron": "ri-GRÉT SÉI-ing / ri-GRÉT tu in-FÓRM yu",
+   "es": "arrepentirse de decir / lamentar informarle",
+   "group": "E. Verbos que cambian de significado"
+  },
+  {
+   "en": "go on working / go on to explain",
+   "pron": "gou ON WÉR-king / gou ON tu ek-SPLÉIN",
+   "es": "seguir trabajando / pasar a explicar",
+   "group": "E. Verbos que cambian de significado"
+  },
+  {
+   "en": "I'm used to it.",
+   "pron": "aim YÚS-tə it",
+   "es": "Estoy acostumbrado.",
+   "group": "F. Be / get used to"
+  },
+  {
+   "en": "I'm used to working long hours.",
+   "pron": "aim YÚS-tə WÉR-king long ÁU-ərz",
+   "es": "Estoy acostumbrado a trabajar muchas horas.",
+   "group": "F. Be / get used to"
+  },
+  {
+   "en": "I'm not used to the cold.",
+   "pron": "aim NOT YÚS-tə dhə KOULD",
+   "es": "No estoy acostumbrado al frío.",
+   "group": "F. Be / get used to"
+  },
+  {
+   "en": "I'm getting used to it.",
+   "pron": "aim GUÉ-ting YÚS-tə it",
+   "es": "Me estoy acostumbrando.",
+   "group": "F. Be / get used to"
+  },
+  {
+   "en": "You'll get used to it.",
+   "pron": "yul guet YÚS-tə it",
+   "es": "Ya te acostumbrarás.",
+   "group": "F. Be / get used to"
+  },
+  {
+   "en": "It took me a month to get used to it.",
+   "pron": "it TÚK-mi ə MANTH tə guet YÚS-tə it",
+   "es": "Me tomó un mes acostumbrarme.",
+   "group": "F. Be / get used to"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "She enjoys working nights.",
+     "She doesn't enjoy working nights.",
+     "Does she enjoy working nights?",
+     "Yes, she does. / No, she doesn't."
+    ],
+    [
+     "They want to cancel the trip.",
+     "They don't want to cancel the trip.",
+     "Do they want to cancel the trip?",
+     "Yes, they do. / No, they don't."
+    ],
+    [
+     "He's finished painting the tank.",
+     "He hasn't finished painting the tank.",
+     "Has he finished painting the tank?",
+     "Yes, he has. / No, he hasn't."
+    ],
+    [
+     "You need to sign the permit.",
+     "You don't need to sign the permit.",
+     "Do I need to sign the permit?",
+     "Yes, you do. / No, you don't."
+    ],
+    [
+     "We managed to fix the leak.",
+     "We didn't manage to fix the leak.",
+     "Did you manage to fix the leak?",
+     "Yes, we did. / No, we didn't."
+    ],
+    [
+     "I'm used to driving here.",
+     "I'm not used to driving here.",
+     "Are you used to driving here?",
+     "Yes, I am. / No, I'm not."
+    ],
+    [
+     "She's getting used to the schedule.",
+     "She isn't getting used to the schedule.",
+     "Is she getting used to the schedule?",
+     "Yes, she is. / No, she isn't."
+    ],
+    [
+     "They'll keep working tonight.",
+     "They won't keep working tonight.",
+     "Will they keep working tonight?",
+     "Yes, they will. / No, they won't."
+    ],
+    [
+     "The manager asked us to stay.",
+     "The manager didn't ask us to stay.",
+     "Did the manager ask you to stay?",
+     "Yes, she did. / No, she didn't."
+    ],
+    [
+     "I used to live in Lima.",
+     "I didn't use to live in Lima.",
+     "Did you use to live in Lima?",
+     "Yes, I did. / No, I didn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Sarah",
+   "text": "So, how's the new site? Are you used to the heat yet?"
+  },
+  {
+   "who": "Edwin",
+   "text": "I'm getting used to it. I'm used to working in hot weather, but the humidity here is something else."
+  },
+  {
+   "who": "Sarah",
+   "text": "Don't worry, you'll get used to it. By the way, I need you to review the piping isometrics before Friday."
+  },
+  {
+   "who": "Edwin",
+   "text": "No problem. I've already started checking them. Can I ask you something, though?"
+  },
+  {
+   "who": "Sarah",
+   "text": "Sure, go ahead."
+  },
+  {
+   "who": "Edwin",
+   "text": "Would you mind asking the client to send the latest P&IDs? I tried downloading them from the portal, but the files won't open."
+  },
+  {
+   "who": "Sarah",
+   "text": "Have you tried using a different browser?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, I tried that too. I keep getting an error message."
+  },
+  {
+   "who": "Sarah",
+   "text": "OK, I'll ask them to email the files directly. And remember to log your hours today. The system closes at five."
+  },
+  {
+   "who": "Edwin",
+   "text": "Thanks for reminding me. I completely forgot to do it last week!"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The inspector suggested repeating the X-ray on joint 14.",
+   "es": "El inspector sugirió repetir la radiografía en la junta 14.",
+   "situation": "Inspección de soldadura"
+  },
+  {
+   "en": "We've decided to start the hydrotest on Monday.",
+   "es": "Hemos decidido empezar la prueba hidrostática el lunes.",
+   "situation": "Planificación"
+  },
+  {
+   "en": "Avoid standing under suspended loads.",
+   "es": "Eviten pararse debajo de cargas suspendidas.",
+   "situation": "Charla de seguridad"
+  },
+  {
+   "en": "Would you mind sending me the updated drawings?",
+   "es": "¿Te importaría enviarme los planos actualizados?",
+   "situation": "Oficina"
+  },
+  {
+   "en": "I look forward to hearing from you.",
+   "es": "Quedo a la espera de su respuesta.",
+   "situation": "Correo formal"
+  },
+  {
+   "en": "The client wants us to finish the repair by Friday.",
+   "es": "El cliente quiere que terminemos la reparación para el viernes.",
+   "situation": "Cliente"
+  },
+  {
+   "en": "I stopped drinking soda last year.",
+   "es": "Dejé de tomar gaseosa el año pasado.",
+   "situation": "Vida diaria"
+  },
+  {
+   "en": "We stopped to buy fuel on the way to the site.",
+   "es": "Paramos para comprar combustible camino a la obra.",
+   "situation": "Viaje a obra"
+  },
+  {
+   "en": "Remember to bring your safety glasses tomorrow.",
+   "es": "Acuérdate de traer tus lentes de seguridad mañana.",
+   "situation": "Recordatorio"
+  },
+  {
+   "en": "Try tightening the flange bolts in a star pattern.",
+   "es": "Prueba apretar los pernos de la brida en patrón de estrella.",
+   "situation": "Taller"
+  },
+  {
+   "en": "I'm used to working in the heat, but not in this humidity.",
+   "es": "Estoy acostumbrado a trabajar con calor, pero no con esta humedad.",
+   "situation": "Adaptación"
+  },
+  {
+   "en": "Ana is getting used to the new reporting software.",
+   "es": "Ana se está acostumbrando al nuevo software de reportes.",
+   "situation": "Nuevo sistema"
+  },
+  {
+   "en": "We can't afford to lose this contract.",
+   "es": "No podemos darnos el lujo de perder este contrato.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "Thanks for inviting me. I really enjoyed meeting your family.",
+   "es": "Gracias por invitarme. Disfruté mucho conocer a tu familia.",
+   "situation": "Social"
+  },
+  {
+   "en": "The doctor advised me to stop eating so much salt.",
+   "es": "El médico me aconsejó dejar de comer tanta sal.",
+   "situation": "Médico"
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "I enjoy to work here.",
+   "right": "I enjoy working here.",
+   "why": "Enjoy pertenece a la familia -ING."
+  },
+  {
+   "wrong": "I want that you call me.",
+   "right": "I want you to call me.",
+   "why": "Want + persona + to; nunca want that."
+  },
+  {
+   "wrong": "She suggested me to wait.",
+   "right": "She suggested waiting. / She suggested (that) I wait.",
+   "why": "Suggest no acepta persona + to."
+  },
+  {
+   "wrong": "I look forward to meet you.",
+   "right": "I look forward to meeting you.",
+   "why": "En look forward to, to es preposición → -ing."
+  },
+  {
+   "wrong": "I'm used to work at night.",
+   "right": "I'm used to working at night.",
+   "why": "Be used to + -ing (acostumbrado). Used to work = antes trabajaba."
+  },
+  {
+   "wrong": "We decided going by bus.",
+   "right": "We decided to go by bus.",
+   "why": "Decisión = meta futura → to."
+  },
+  {
+   "wrong": "Thank you for help me.",
+   "right": "Thank you for helping me.",
+   "why": "Después de preposición (for) → -ing."
+  },
+  {
+   "wrong": "Is dangerous work at heights without a harness.",
+   "right": "Working at heights without a harness is dangerous.",
+   "why": "La acción como sujeto = -ING al inicio."
+  },
+  {
+   "wrong": "I didn't used to smoke.",
+   "right": "I didn't use to smoke.",
+   "why": "Después de did, verbo base: use."
+  },
+  {
+   "wrong": "I stopped to smoke two years ago. (= dejé de fumar)",
+   "right": "I stopped smoking two years ago.",
+   "why": "Stop to smoke = detenerse para fumar."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "I pretended to be sick.",
+   "looks": "pretender",
+   "means": "fingí estar enfermo",
+   "fix": "Pretendo terminar hoy → I intend to finish today."
+  },
+  {
+   "en": "I attended the meeting.",
+   "looks": "atender",
+   "means": "asistí a la reunión",
+   "fix": "Atender a un cliente → help / serve a customer"
+  },
+  {
+   "en": "She assisted the surgeon.",
+   "looks": "asistir (ir)",
+   "means": "ayudó al cirujano",
+   "fix": "Asistir a clase → attend class"
+  },
+  {
+   "en": "I realized the weld was cracked.",
+   "looks": "realizar",
+   "means": "me di cuenta de que la soldadura estaba fisurada",
+   "fix": "Realizar una prueba → carry out / perform a test"
+  },
+  {
+   "en": "Remind me to call him.",
+   "looks": "recordar",
+   "means": "recuérdame llamarlo (a otra persona)",
+   "fix": "Recuerdo haberlo llamado → I remember calling him."
+  },
+  {
+   "en": "I expect to finish by six.",
+   "looks": "esperar",
+   "means": "calculo / preveo terminar a las seis",
+   "fix": "Espero (deseo) → hope to; espero (aguardo) → wait for"
+  },
+  {
+   "en": "I'm used to it.",
+   "looks": "usado",
+   "means": "estoy acostumbrado",
+   "fix": "Está usado → It's used / second-hand."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Disfruto trabajar con mi equipo.",
+    "answers": [
+     "I enjoy working with my team."
+    ],
+    "explain": "Enjoy + -ing: hablas de una actividad que ya vives."
+   },
+   {
+    "prompt": "Queremos que termines el informe hoy.",
+    "answers": [
+     "We want you to finish the report today."
+    ],
+    "explain": "\"Querer que alguien haga\" = want + persona + to."
+   },
+   {
+    "prompt": "Evita tocar los cables.",
+    "answers": [
+     "Avoid touching the cables.",
+     "Avoid touching the wires."
+    ],
+    "explain": "Avoid + -ing. Imperativo sin sujeto."
+   },
+   {
+    "prompt": "Ella decidió renunciar.",
+    "answers": [
+     "She decided to quit.",
+     "She decided to resign."
+    ],
+    "explain": "Decisión → to. Quit es común; resign es más formal."
+   },
+   {
+    "prompt": "Estoy acostumbrado a levantarme temprano.",
+    "answers": [
+     "I'm used to getting up early.",
+     "I am used to getting up early.",
+     "I'm used to waking up early.",
+     "I am used to waking up early."
+    ],
+    "explain": "Be used to + -ing; to es preposición. También vale waking up early."
+   },
+   {
+    "prompt": "Dejé de fumar hace dos años.",
+    "answers": [
+     "I stopped smoking two years ago.",
+     "I quit smoking two years ago."
+    ],
+    "explain": "Stop + -ing = dejar de. También vale I quit smoking."
+   },
+   {
+    "prompt": "Acuérdate de llamar al cliente.",
+    "answers": [
+     "Remember to call the client."
+    ],
+    "explain": "Remember to = acordarse de algo que aún hay que hacer."
+   },
+   {
+    "prompt": "Quedo a la espera de su respuesta. (correo formal)",
+    "answers": [
+     "I look forward to hearing from you.",
+     "I look forward to receiving your reply."
+    ],
+    "explain": "Fórmula fija de cierre; to es preposición → -ing."
+   },
+   {
+    "prompt": "¿Te importaría cerrar la puerta?",
+    "answers": [
+     "Would you mind closing the door?"
+    ],
+    "explain": "Mind + -ing; would lo hace más cortés."
+   },
+   {
+    "prompt": "Mi esposa se está acostumbrando al nuevo horario.",
+    "answers": [
+     "My wife is getting used to the new schedule."
+    ],
+    "explain": "Proceso → get used to en presente continuo + sustantivo."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "I tried to lift the beam, but it was too heavy.",
+    "answers": [
+     "Intenté levantar la viga, pero era demasiado pesada.",
+     "Traté de levantar la viga, pero era demasiado pesada.",
+     "Intenté levantar la viga, pero pesaba demasiado."
+    ],
+    "explain": "Try to = intento con esfuerzo; aquí no se logró."
+   },
+   {
+    "prompt": "Try restarting the computer.",
+    "answers": [
+     "Prueba reiniciar la computadora.",
+     "Intenta reiniciar la computadora.",
+     "Prueba a reiniciar el ordenador.",
+     "Prueba reiniciando la computadora."
+    ],
+    "explain": "Try + -ing = probar algo como solución."
+   },
+   {
+    "prompt": "We stopped to have lunch at noon.",
+    "answers": [
+     "Paramos para almorzar al mediodía.",
+     "Nos detuvimos para almorzar al mediodía.",
+     "Paramos a almorzar al mediodía."
+    ],
+    "explain": "Stop to = detenerse para hacer algo (propósito)."
+   },
+   {
+    "prompt": "I'll never forget working on my first tank.",
+    "answers": [
+     "Nunca olvidaré cuando trabajé en mi primer tanque.",
+     "Nunca olvidaré haber trabajado en mi primer tanque.",
+     "Jamás olvidaré cuando trabajé en mi primer tanque."
+    ],
+    "explain": "Forget + -ing = recuerdo de algo ya vivido. También: \"haber trabajado\"."
+   },
+   {
+    "prompt": "The supervisor didn't allow us to leave early.",
+    "answers": [
+     "El supervisor no nos permitió salir temprano.",
+     "El supervisor no nos dejó salir temprano.",
+     "El supervisor no nos permitió irnos temprano."
+    ],
+    "explain": "Allow + persona + to = permitir que alguien haga algo."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "I can't afford buying a new car this year.",
+    "answers": [
+     "I can't afford to buy a new car this year.",
+     "I cannot afford to buy a new car this year."
+    ],
+    "explain": "Afford va con to."
+   },
+   {
+    "prompt": "She finished to paint the tank yesterday.",
+    "answers": [
+     "She finished painting the tank yesterday."
+    ],
+    "explain": "Finish va con -ing."
+   },
+   {
+    "prompt": "My boss wants that I travel to Houston.",
+    "answers": [
+     "My boss wants me to travel to Houston."
+    ],
+    "explain": "Want + persona (pronombre objeto me) + to; nunca want that."
+   },
+   {
+    "prompt": "We're interested in hire two more welders.",
+    "answers": [
+     "We're interested in hiring two more welders.",
+     "We are interested in hiring two more welders."
+    ],
+    "explain": "Después de la preposición in → -ing."
+   },
+   {
+    "prompt": "I'm not used to drive on the left.",
+    "answers": [
+     "I'm not used to driving on the left.",
+     "I am not used to driving on the left."
+    ],
+    "explain": "Be used to + -ing."
+   },
+   {
+    "prompt": "Do you mind to wait a few minutes?",
+    "answers": [
+     "Do you mind waiting a few minutes?"
+    ],
+    "explain": "Mind va con -ing."
+   },
+   {
+    "prompt": "He promised calling me back after lunch.",
+    "answers": [
+     "He promised to call me back after lunch."
+    ],
+    "explain": "Promesa = compromiso futuro → to."
+   },
+   {
+    "prompt": "Did you used to live in Chile?",
+    "answers": [
+     "Did you use to live in Chile?"
+    ],
+    "explain": "Después de did, verbo base: use."
+   },
+   {
+    "prompt": "They suggested us to change the gasket.",
+    "answers": [
+     "They suggested changing the gasket.",
+     "They suggested that we change the gasket.",
+     "They suggested we change the gasket."
+    ],
+    "explain": "Suggest no lleva persona + to. También vale They suggested (that) we change the gasket."
+   },
+   {
+    "prompt": "Read the manual is the first step.",
+    "answers": [
+     "Reading the manual is the first step."
+    ],
+    "explain": "La acción como sujeto = -ing."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte a negativo y a pregunta: She's used to working night shifts.",
+   "answer": "She isn't used to working night shifts. / Is she used to working night shifts?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con la forma correcta del verbo entre paréntesis: -ing o to + verbo.",
+   "lines": [
+    {
+     "who": "Manager",
+     "text": "Hi Carlos. I'd like [1] (discuss) the schedule. Have you finished [2] (check) the welds on Line 3?"
+    },
+    {
+     "who": "Carlos",
+     "text": "Almost. I keep [3] (find) small defects, so I need [4] (repair) two joints."
+    },
+    {
+     "who": "Manager",
+     "text": "OK. Remember [5] (update) the weld map when you're done."
+    },
+    {
+     "who": "Carlos",
+     "text": "Sure. By the way, the client asked us [6] (stay) on Saturday."
+    },
+    {
+     "who": "Manager",
+     "text": "Hmm. I'd rather avoid [7] (work) weekends, but we can't afford [8] (miss) the deadline."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "to discuss"
+     ],
+     "explain": "Would like siempre + to."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "checking"
+     ],
+     "explain": "Finish + -ing."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "finding"
+     ],
+     "explain": "Keep + -ing = seguir haciendo algo una y otra vez."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "to repair"
+     ],
+     "explain": "Need + to."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "to update"
+     ],
+     "explain": "Remember to: la tarea aún no está hecha."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "to stay"
+     ],
+     "explain": "Ask + persona (us) + to."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "working"
+     ],
+     "explain": "Avoid + -ing. (I'd rather + verbo base afecta a avoid, no a work.)"
+    },
+    {
+     "n": 8,
+     "answers": [
+      "to miss"
+     ],
+     "explain": "Can't afford + to."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo (7 puntos). Escribe un correo de 6 a 8 oraciones a un cliente sobre una reparación. Debe incluir: (a) thank you for + -ing, (b) una decisión con decide/plan + to, (c) una petición con need/want/ask + persona + to, (d) stop, remember o try usado con el sentido correcto, (e) be used to o get used to + -ing, (f) avoid o suggest + -ing, (g) un cierre con look forward to + -ing.",
+   "rubric": [
+    "(a) thank you for + -ing",
+    "(b) una decisión con decide/plan + to",
+    "(c) una petición con need/want/ask + persona + to",
+    "(d) stop, remember o try usado con el sentido correcto",
+    "(e) be used to o get used to + -ing",
+    "(f) avoid o suggest + -ing",
+    "(g) un cierre con look forward to + -ing"
+   ],
+   "model": "Subject: Tank 5 repair – plan and next steps\nDear Mr. Lee,\nThank you for sending the inspection report so quickly. After reviewing it, we have decided to replace the two corroded shell plates. To avoid delaying the hydrotest, we need your team to approve the new plates by Wednesday. We tried to reuse the old nozzle, but it failed the thickness check. Our welders are used to working in confined spaces, so we expect the job to take about five days. I suggest holding a short call on Thursday to confirm the plan.\nI look forward to hearing from you.\nBest regards,\nEdwin"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Elegir -ing o to después de los 20 verbos más frecuentes.",
+   "test": "Un compañero (o tú con tarjetas) dice 20 verbos al azar de los grupos A y B de la sección 2; respondes \"enjoy working\", \"want to work\"… 18 de 20 correctas en 2 minutos."
+  },
+  {
+   "skill": "Pedir que otra persona haga algo con verbo + persona + to.",
+   "test": "Escribe 5 peticiones reales de tu trabajo (I need you to…, Could you ask him to…). Cero \"that\"."
+  },
+  {
+   "skill": "Usar -ing después de preposiciones, incluido look forward to.",
+   "test": "Tapa la columna \"Bloque\" del grupo D (sección 2) y di los 8 bloques en inglés a partir del significado, en 1 minuto; 8 de 8."
+  },
+  {
+   "skill": "Explicar la diferencia de stop, remember y try.",
+   "test": "Grábate 1 minuto contando en inglés los 3 pares de la Figura 22.2 con ejemplos propios, sin leer."
+  },
+  {
+   "skill": "Hablar de adaptación con be/get used to y distinguirlo de used to.",
+   "test": "Di 3 cosas a las que ya estás acostumbrado, 2 a las que te estás acostumbrando y 2 que antes hacías. 7 de 7 correctas."
+  },
+  {
+   "skill": "Escribir un correo profesional con estas estructuras.",
+   "test": "Redacta un correo de 6–8 oraciones con los 7 elementos de C2 en menos de 15 minutos."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What do you enjoy doing after work?",
+  "What do you want to learn this year?",
+  "What did you use to do when you were a child?",
+  "What are you getting used to at the moment?",
+  "What do you try to avoid doing at work?",
+  "What are you looking forward to doing next year?"
+ ]
+}

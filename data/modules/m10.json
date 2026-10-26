@@ -1,0 +1,949 @@
+{
+ "id": 10,
+ "level": "A2",
+ "title": "Futuro: GOING TO y WILL",
+ "goal": "Al terminar podrás hablar de tus planes (going to), decidir y ofrecer ayuda en el momento, prometer y hacer predicciones (will), y elegir la forma correcta en reuniones, correos y conversaciones, en afirmativo, negativo y pregunta.",
+ "lesson": [
+  {
+   "title": "Dos futuros que no son iguales",
+   "html": "<p>El español tiene un futuro (<i>trabajaré</i>) y una forma con \"ir a\" (<i>voy a trabajar</i>), y las usa casi igual. El inglés también tiene dos formas, pero <b>no son intercambiables</b>: cada una dice algo distinto sobre <b>cuándo tomaste la decisión</b>.</p>",
+   "svg": "<svg viewBox=\"0 0 640 230\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <line x1=\"30\" y1=\"120\" x2=\"600\" y2=\"120\" stroke=\"#667085\" stroke-width=\"3\"/>\n  <polygon points=\"600,113 615,120 600,127\" fill=\"#667085\"/>\n  <text x=\"90\" y=\"146\" text-anchor=\"middle\" font-size=\"12\" fill=\"#667085\">ayer</text>\n  <circle cx=\"90\" cy=\"120\" r=\"8\" fill=\"#0E9384\"/>\n  <line x1=\"300\" y1=\"86\" x2=\"300\" y2=\"134\" stroke=\"#E8590C\" stroke-width=\"3\"/>\n  <circle cx=\"300\" cy=\"120\" r=\"9\" fill=\"#E8590C\"/>\n  <text x=\"308\" y=\"104\" font-size=\"12\" font-weight=\"800\" fill=\"#E8590C\">AHORA</text>\n  <circle cx=\"500\" cy=\"120\" r=\"9\" fill=\"#1570EF\"/>\n  <text x=\"512\" y=\"150\" font-size=\"12\" fill=\"#667085\">mañana</text>\n  <rect x=\"20\" y=\"14\" width=\"250\" height=\"62\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"145\" y=\"38\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#0B6B60\">GOING TO — ya lo decidí antes</text>\n  <text x=\"145\" y=\"60\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I'm going to call him tomorrow.</text>\n  <path d=\"M90 112 C 150 70, 420 70, 492 112\" fill=\"none\" stroke=\"#0E9384\" stroke-width=\"2.5\" stroke-dasharray=\"6 4\"/>\n  <polygon points=\"486,104 498,116 482,116\" fill=\"#0E9384\"/>\n  <rect x=\"330\" y=\"166\" width=\"290\" height=\"58\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"475\" y=\"188\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">WILL — lo decido ahora mismo</text>\n  <text x=\"475\" y=\"210\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">OK, I'll call him tomorrow.</text>\n  <path d=\"M300 130 C 350 162, 445 162, 488 132\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"2.5\"/>\n  <polygon points=\"480,130 495,127 488,141\" fill=\"#E8590C\"/>\n  <text x=\"30\" y=\"200\" font-size=\"12\" fill=\"#667085\">Misma acción futura,</text>\n  <text x=\"30\" y=\"216\" font-size=\"12\" fill=\"#667085\">distinto momento de decisión.</text>\n</svg>",
+   "caption": "Figura 10.1 — Línea de tiempo: con going to la decisión viene del pasado; con will nace en este momento."
+  },
+  {
+   "title": "Las formas de GOING TO",
+   "html": "<p>Es el presente de TO BE (Módulo 1) + <b>going to</b> + verbo base. Ya conoces la mitad.</p><table>\n<thead><tr><th>Sujeto</th><th>Forma completa</th><th>Contracción</th><th>Pronunciación (informal)</th></tr></thead>\n<tbody>\n<tr><td>I</td><td>I am going to work</td><td><span class=\"en\">I'm going to work</span></td><td><span class=\"pron\">aim GÓ-nə werk</span></td></tr>\n<tr><td>You</td><td>you are going to work</td><td><span class=\"en\">you're going to work</span></td><td><span class=\"pron\">yur GÓ-nə werk</span></td></tr>\n<tr><td>He / She / It</td><td>he is going to work</td><td><span class=\"en\">he's going to work</span></td><td><span class=\"pron\">jiz GÓ-nə werk</span></td></tr>\n<tr><td>We</td><td>we are going to work</td><td><span class=\"en\">we're going to work</span></td><td><span class=\"pron\">wir GÓ-nə werk</span></td></tr>\n<tr><td>They</td><td>they are going to work</td><td><span class=\"en\">they're going to work</span></td><td><span class=\"pron\">dher GÓ-nə werk</span></td></tr>\n</tbody></table><p>Pronunciación cuidada: <span class=\"pron\">GÓU-ing tu</span>. En el habla rápida, <span class=\"pron\">GÓ-nə</span>. Se escribe <i>gonna</i> solo en mensajes muy informales; nunca en correos de trabajo.</p>"
+  },
+  {
+   "title": "Las formas de WILL",
+   "html": "<p><b>Will</b> + verbo base, <b>igual para todos</b>. Sin -s, sin <i>to</i>.</p><table>\n<thead><tr><th>Sujeto</th><th>Afirmativo</th><th>Contracción</th><th>Negativo</th><th>Pronunciación</th></tr></thead>\n<tbody>\n<tr><td>I</td><td>I will help</td><td><span class=\"en\">I'll help</span></td><td><span class=\"en\">I won't help</span></td><td><span class=\"pron\">ail JELP · ai WOUNT jelp</span></td></tr>\n<tr><td>You</td><td>you will help</td><td><span class=\"en\">you'll help</span></td><td><span class=\"en\">you won't help</span></td><td><span class=\"pron\">yul JELP · yu WOUNT jelp</span></td></tr>\n<tr><td>He / She / It</td><td>she will help</td><td><span class=\"en\">she'll help</span></td><td><span class=\"en\">she won't help</span></td><td><span class=\"pron\">shil JELP · shi WOUNT jelp</span></td></tr>\n<tr><td>We</td><td>we will help</td><td><span class=\"en\">we'll help</span></td><td><span class=\"en\">we won't help</span></td><td><span class=\"pron\">wil JELP · wi WOUNT jelp</span></td></tr>\n<tr><td>They</td><td>they will help</td><td><span class=\"en\">they'll help</span></td><td><span class=\"en\">they won't help</span></td><td><span class=\"pron\">dheil JELP · dhei WOUNT jelp</span></td></tr>\n</tbody></table><p><i>Won't</i> = <i>will not</i>. Cuidado: <span class=\"pron\">wount</span> (no quiero / no lo haré) suena distinto de <span class=\"pron\">want</span> (querer).</p>"
+  },
+  {
+   "title": "¿Cuál uso? El mapa de decisión",
+   "html": "<table>\n<thead><tr><th>Uso</th><th>Forma</th><th>Ejemplo</th><th>Señal típica</th></tr></thead>\n<tbody>\n<tr><td>Plan o intención ya decidida</td><td><b>going to</b></td><td><span class=\"en\">We're going to replace the valve next week.</span></td><td>agenda, decisión previa</td></tr>\n<tr><td>Predicción con prueba visible</td><td><b>going to</b></td><td><span class=\"en\">Look at that crack. It's going to leak.</span></td><td>look, mira, ya se ve</td></tr>\n<tr><td>Decisión en el momento</td><td><b>will</b></td><td><span class=\"en\">The phone's ringing. I'll answer it.</span></td><td>reacción inmediata</td></tr>\n<tr><td>Oferta de ayuda</td><td><b>will</b></td><td><span class=\"en\">That box looks heavy. I'll carry it.</span></td><td>ofrecerse</td></tr>\n<tr><td>Promesa</td><td><b>will</b></td><td><span class=\"en\">I'll send you the report today. I promise.</span></td><td>I promise, don't worry</td></tr>\n<tr><td>Predicción por opinión</td><td><b>will</b></td><td><span class=\"en\">I think the client will accept the price.</span></td><td>I think, probably, I'm sure</td></tr>\n<tr><td>Negarse</td><td><b>won't</b></td><td><span class=\"en\">The bolt won't move.</span></td><td>algo o alguien no quiere</td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 390\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"200\" y=\"10\" width=\"240\" height=\"40\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"36\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">Hablo del futuro…</text>\n  <line x1=\"320\" y1=\"50\" x2=\"320\" y2=\"70\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <rect x=\"140\" y=\"70\" width=\"360\" height=\"44\" rx=\"10\" fill=\"#F2F4F7\" stroke=\"#98A2B3\" stroke-width=\"1.5\"/>\n  <text x=\"320\" y=\"91\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">¿Ya lo decidí o lo planeé ANTES</text>\n  <text x=\"320\" y=\"107\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">de este momento?</text>\n  <path d=\"M140 92 L 100 92 L 100 140\" fill=\"none\" stroke=\"#0E9384\" stroke-width=\"2.5\"/>\n  <polygon points=\"93,136 100,150 107,136\" fill=\"#0E9384\"/>\n  <text x=\"112\" y=\"86\" text-anchor=\"end\" font-size=\"13\" font-weight=\"800\" fill=\"#0E9384\">SÍ</text>\n  <path d=\"M500 92 L 540 92 L 540 140\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"2.5\"/>\n  <polygon points=\"533,136 540,150 547,136\" fill=\"#E8590C\"/>\n  <text x=\"528\" y=\"86\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">NO</text>\n  <rect x=\"20\" y=\"152\" width=\"160\" height=\"100\" rx=\"12\" fill=\"#0E9384\"/>\n  <text x=\"100\" y=\"180\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#fff\">GOING TO</text>\n  <text x=\"100\" y=\"202\" text-anchor=\"middle\" font-size=\"12\" fill=\"#E6F7F5\">plan o intención</text>\n  <text x=\"100\" y=\"218\" text-anchor=\"middle\" font-size=\"12\" fill=\"#E6F7F5\">ya decidida</text>\n  <text x=\"100\" y=\"240\" text-anchor=\"middle\" font-size=\"11\" fill=\"#E6F7F5\">I'm going to buy a car.</text>\n  <rect x=\"380\" y=\"152\" width=\"240\" height=\"44\" rx=\"10\" fill=\"#F2F4F7\" stroke=\"#98A2B3\" stroke-width=\"1.5\"/>\n  <text x=\"500\" y=\"173\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">¿Decido, ofrezco o prometo</text>\n  <text x=\"500\" y=\"189\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">algo AHORA MISMO?</text>\n  <path d=\"M440 196 L 440 226\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"2.5\"/>\n  <polygon points=\"433,222 440,236 447,222\" fill=\"#E8590C\"/>\n  <text x=\"430\" y=\"216\" text-anchor=\"end\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">SÍ</text>\n  <rect x=\"330\" y=\"238\" width=\"180\" height=\"88\" rx=\"12\" fill=\"#E8590C\"/>\n  <text x=\"420\" y=\"264\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#fff\">WILL</text>\n  <text x=\"420\" y=\"285\" text-anchor=\"middle\" font-size=\"12\" fill=\"#FFF2E8\">decisión instantánea,</text>\n  <text x=\"420\" y=\"301\" text-anchor=\"middle\" font-size=\"12\" fill=\"#FFF2E8\">oferta o promesa</text>\n  <text x=\"420\" y=\"318\" text-anchor=\"middle\" font-size=\"11\" fill=\"#FFF2E8\">I'll help you.</text>\n  <path d=\"M580 196 L 580 226\" fill=\"none\" stroke=\"#667085\" stroke-width=\"2.5\"/>\n  <polygon points=\"573,222 580,236 587,222\" fill=\"#667085\"/>\n  <text x=\"590\" y=\"216\" font-size=\"13\" font-weight=\"800\" fill=\"#667085\">NO</text>\n  <rect x=\"520\" y=\"238\" width=\"110\" height=\"44\" rx=\"10\" fill=\"#F2F4F7\" stroke=\"#98A2B3\" stroke-width=\"1.5\"/>\n  <text x=\"575\" y=\"257\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">Es una</text>\n  <text x=\"575\" y=\"273\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">predicción</text>\n  <line x1=\"575\" y1=\"282\" x2=\"575\" y2=\"300\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <rect x=\"200\" y=\"338\" width=\"430\" height=\"44\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"1.5\"/>\n  <text x=\"415\" y=\"356\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">¿Ves la prueba AHORA? (nubes, fuga) → GOING TO: It's going to rain.</text>\n  <text x=\"415\" y=\"374\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">¿Es tu opinión o creencia? (I think…) → WILL: I think it will rain.</text>\n  <path d=\"M575 300 L 575 338\" fill=\"none\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <polygon points=\"568,330 575,338 582,330\" fill=\"#6941C6\"/>\n  <text x=\"20\" y=\"290\" font-size=\"12\" fill=\"#667085\">Regla rápida:</text>\n  <text x=\"20\" y=\"308\" font-size=\"12\" fill=\"#667085\">plan → going to</text>\n  <text x=\"20\" y=\"326\" font-size=\"12\" fill=\"#667085\">ahora / promesa → will</text>\n</svg>",
+   "caption": "Figura 10.2 — Mapa de decisión: plan ya decidido (going to) vs decisión en el momento, oferta o promesa (will), y los dos tipos de predicción."
+  },
+  {
+   "title": "Las tres reglas de oro",
+   "html": "<p><b>Regla de oro 1 — ¿Lo decidiste antes? GOING TO. ¿Lo decides ahora? WILL.</b></p>\n<p>Si ya está en tu agenda o en tu cabeza: <span class=\"en\">I'm going to visit my parents on Sunday.</span> Si se te ocurre en la conversación: <span class=\"en\">— There's no coffee. — Oh, I'll buy some.</span></p>\n<p><b>Regla de oro 2 — Después de WILL, verbo base sin TO</b></p>\n<p><span class=\"ok\">I'll call you.</span>   Nunca <span class=\"wrong\">I'll to call you</span> ni <span class=\"wrong\">I'll calling you</span>. En cambio, <i>going</i> siempre lleva <b>to</b>: <span class=\"ok\">I'm going to call you.</span></p>\n<p><b>Regla de oro 3 — GOING TO necesita TO BE</b></p>\n<p>El error más común es olvidar <i>am / is / are</i>: <span class=\"ok\">She's going to travel.</span>   Nunca <span class=\"wrong\">She going to travel.</span></p>"
+  },
+  {
+   "title": "Así piensa un nativo — la oferta con WILL es cortesía",
+   "html": "<p>En el trabajo, <span class=\"en\">I'll check it</span> <span class=\"pron\">ail CHEK it</span> o <span class=\"en\">I'll take care of it</span> <span class=\"pron\">ail teik KER əv it</span> es la forma natural de decir \"yo me encargo\". Es una pequeña promesa. Si luego no lo haces, el nativo lo recuerda. Por eso en los correos se cierra con: <span class=\"en\">I'll keep you posted.</span> (Te mantendré informado.)</p>"
+  },
+  {
+   "title": "Traducción directa vs interpretación real",
+   "html": "<p>El español usa \"voy a\" y el futuro (<i>-ré</i>) casi sin diferencia, y usa el presente para ofrecer ayuda (<i>¿te ayudo?</i>, <i>yo lo hago</i>). El inglés no: la oferta y la decisión del momento van con <b>will</b>.</p><table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>Yo lo hago</td><td><span class=\"en\">I'll do it. I do it</span></td></tr><tr><td>¿Te ayudo?</td><td><span class=\"en\">I'll help you. I help you?</span></td></tr><tr><td>Ya te llamo</td><td><span class=\"en\">I'll call you back. Already I call you</span></td></tr><tr><td>Mañana lo termino (te prometo)</td><td><span class=\"en\">I'll finish it tomorrow. Tomorrow I finish it</span></td></tr><tr><td>¿Abro la ventana?</td><td><span class=\"en\">Shall I open the window? I open the window?</span></td></tr><tr><td>Va a llover (hay nubes)</td><td><span class=\"en\">It's going to rain. It goes to rain</span></td></tr></tbody></table><table>\n<thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead>\n<tbody>\n<tr><td>Voy a viajar en diciembre.</td><td><span class=\"wrong\">I go to travel in December.</span></td><td><span class=\"ok\">I'm going to travel in December.</span></td></tr>\n<tr><td>No voy a ir.</td><td><span class=\"wrong\">I no go to go.</span></td><td><span class=\"ok\">I'm not going to go.</span></td></tr>\n<tr><td>¿Vas a venir?</td><td><span class=\"wrong\">You go to come?</span></td><td><span class=\"ok\">Are you going to come?</span></td></tr>\n<tr><td>Te lo envío ahora (lo decido ya).</td><td><span class=\"wrong\">I send it to you now.</span></td><td><span class=\"ok\">I'll send it to you now.</span></td></tr>\n<tr><td>Probablemente llegaré tarde.</td><td><span class=\"wrong\">Probably I will to arrive late.</span></td><td><span class=\"ok\">I'll probably be late.</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Negativo, pregunta y respuesta corta",
+   "html": "<table>\n<thead><tr><th></th><th>GOING TO</th><th>WILL</th></tr></thead>\n<tbody>\n<tr><td><b>Afirmativo</b></td><td><span class=\"en\">They're going to start on Monday.</span></td><td><span class=\"en\">They'll start on Monday.</span></td></tr>\n<tr><td><b>Negativo</b></td><td><span class=\"en\">They aren't going to start on Monday.</span></td><td><span class=\"en\">They won't start on Monday.</span></td></tr>\n<tr><td><b>Pregunta</b></td><td><span class=\"en\">Are they going to start on Monday?</span></td><td><span class=\"en\">Will they start on Monday?</span></td></tr>\n<tr><td><b>Respuesta corta</b></td><td><span class=\"en\">Yes, they are. / No, they aren't.</span></td><td><span class=\"en\">Yes, they will. / No, they won't.</span></td></tr>\n</tbody></table><p><b>Detalles que marcan la diferencia</b></p>\n<ul>\n<li>Respuesta corta afirmativa sin contraer: <span class=\"ok\">Yes, I will.</span> Nunca <span class=\"wrong\">Yes, I'll.</span> Igual que <i>Yes, I am</i> (Módulo 1).</li>\n<li><b>Probably</b> va después de <i>will</i> pero antes de <i>won't</i>: <span class=\"en\">I'll probably be late. / I probably won't come.</span></li>\n<li>Para ofrecer en pregunta, se usa <span class=\"en\">Shall I…?</span> o <span class=\"en\">Do you want me to…?</span>: <span class=\"en\">Shall I close the door?</span> No <span class=\"wrong\">Will I close the door?</span> En EE. UU. <i>Shall I…?</i> suena algo formal; en la conversación diaria es más común <i>Do you want me to…?</i></li>\n<li>Para pedir un favor: <span class=\"en\">Will you help me?</span> es directo; <span class=\"en\">Can you…? / Could you…?</span> (Módulo 7) es más suave.</li>\n<li>Futuro de TO BE: <span class=\"en\">I'll be there at 8.</span> / <span class=\"en\">It's going to be hot.</span> Nunca <span class=\"wrong\">I'll there at 8.</span></li>\n</ul>",
+   "svg": "<svg viewBox=\"0 0 640 250\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"22\" font-size=\"13\" font-weight=\"800\" fill=\"#0B6B60\">GOING TO (TO BE se mueve)</text>\n  <rect x=\"20\" y=\"32\" width=\"70\" height=\"34\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"55\" y=\"55\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">She</text>\n  <rect x=\"98\" y=\"32\" width=\"50\" height=\"34\" rx=\"8\" fill=\"#0E9384\"/><text x=\"123\" y=\"55\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">'s</text>\n  <rect x=\"156\" y=\"32\" width=\"50\" height=\"34\" rx=\"8\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"181\" y=\"55\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#D92D20\">not</text>\n  <rect x=\"214\" y=\"32\" width=\"96\" height=\"34\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"262\" y=\"55\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">going to</text>\n  <rect x=\"318\" y=\"32\" width=\"64\" height=\"34\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"350\" y=\"55\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">quit.</text>\n  <rect x=\"20\" y=\"78\" width=\"50\" height=\"34\" rx=\"8\" fill=\"#0E9384\"/><text x=\"45\" y=\"101\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">Is</text>\n  <rect x=\"78\" y=\"78\" width=\"70\" height=\"34\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"113\" y=\"101\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">she</text>\n  <rect x=\"156\" y=\"78\" width=\"96\" height=\"34\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"204\" y=\"101\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">going to</text>\n  <rect x=\"260\" y=\"78\" width=\"64\" height=\"34\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"292\" y=\"101\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">quit?</text>\n  <text x=\"400\" y=\"54\" font-size=\"12\" fill=\"#344054\">negativo: not después de is</text>\n  <text x=\"400\" y=\"100\" font-size=\"12\" fill=\"#344054\">pregunta: is antes del sujeto</text>\n  <line x1=\"20\" y1=\"128\" x2=\"620\" y2=\"128\" stroke=\"#F2F4F7\" stroke-width=\"2\"/>\n  <text x=\"20\" y=\"152\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">WILL (will se mueve)</text>\n  <rect x=\"20\" y=\"162\" width=\"70\" height=\"34\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"55\" y=\"185\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">She</text>\n  <rect x=\"98\" y=\"162\" width=\"76\" height=\"34\" rx=\"8\" fill=\"#E8590C\"/><text x=\"136\" y=\"185\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">won't</text>\n  <rect x=\"182\" y=\"162\" width=\"64\" height=\"34\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"214\" y=\"185\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">quit.</text>\n  <rect x=\"20\" y=\"206\" width=\"60\" height=\"34\" rx=\"8\" fill=\"#E8590C\"/><text x=\"50\" y=\"229\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">Will</text>\n  <rect x=\"88\" y=\"206\" width=\"70\" height=\"34\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"123\" y=\"229\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">she</text>\n  <rect x=\"166\" y=\"206\" width=\"64\" height=\"34\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"198\" y=\"229\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">quit?</text>\n  <text x=\"400\" y=\"184\" font-size=\"12\" fill=\"#344054\">negativo: will not = won't</text>\n  <text x=\"400\" y=\"228\" font-size=\"12\" fill=\"#344054\">pregunta: will antes del sujeto</text>\n</svg>",
+   "caption": "Figura 10.3 — Ninguna de las dos formas usa do / did. En going to se mueve TO BE; en will se mueve will."
+  }
+ ],
+ "blocks": [
+  {
+   "en": "tomorrow",
+   "pron": "tə-MÓ-rou",
+   "es": "mañana",
+   "group": "A. Marcadores de tiempo futuro"
+  },
+  {
+   "en": "tomorrow morning",
+   "pron": "tə-MÓ-rou MÓR-ning",
+   "es": "mañana por la mañana",
+   "group": "A. Marcadores de tiempo futuro"
+  },
+  {
+   "en": "the day after tomorrow",
+   "pron": "dhə DEI af-ter tə-MÓ-rou",
+   "es": "pasado mañana",
+   "group": "A. Marcadores de tiempo futuro"
+  },
+  {
+   "en": "next week / next month",
+   "pron": "nekst WIK / nekst MANTH",
+   "es": "la próxima semana / el próximo mes",
+   "group": "A. Marcadores de tiempo futuro"
+  },
+  {
+   "en": "in two weeks",
+   "pron": "in tu WIKS",
+   "es": "dentro de dos semanas",
+   "group": "A. Marcadores de tiempo futuro"
+  },
+  {
+   "en": "tonight",
+   "pron": "tə-NÁIT",
+   "es": "esta noche",
+   "group": "A. Marcadores de tiempo futuro"
+  },
+  {
+   "en": "later",
+   "pron": "LÉI-ter",
+   "es": "más tarde",
+   "group": "A. Marcadores de tiempo futuro"
+  },
+  {
+   "en": "soon",
+   "pron": "sun",
+   "es": "pronto",
+   "group": "A. Marcadores de tiempo futuro"
+  },
+  {
+   "en": "I'm going to travel.",
+   "pron": "aim GÓ-nə TRÁ-vel",
+   "es": "Voy a viajar.",
+   "group": "B. Planes con GOING TO"
+  },
+  {
+   "en": "I'm going to study English.",
+   "pron": "aim GÓ-nə STÁ-di ÍN-glish",
+   "es": "Voy a estudiar inglés.",
+   "group": "B. Planes con GOING TO"
+  },
+  {
+   "en": "We're going to start on Monday.",
+   "pron": "wir GÓ-nə START on MÁN-dei",
+   "es": "Vamos a empezar el lunes.",
+   "group": "B. Planes con GOING TO"
+  },
+  {
+   "en": "They're going to replace the valve.",
+   "pron": "dher GÓ-nə ri-PLÉIS dhə VALV",
+   "es": "Van a cambiar la válvula.",
+   "group": "B. Planes con GOING TO"
+  },
+  {
+   "en": "She's going to visit the site.",
+   "pron": "shiz GÓ-nə VÍ-zit dhə SAIT",
+   "es": "Ella va a visitar la obra.",
+   "group": "B. Planes con GOING TO"
+  },
+  {
+   "en": "I'm not going to work on Sunday.",
+   "pron": "aim NOT GÓ-nə werk on SÁN-dei",
+   "es": "No voy a trabajar el domingo.",
+   "group": "B. Planes con GOING TO"
+  },
+  {
+   "en": "What are you going to do?",
+   "pron": "wot ar yu GÓ-nə DU",
+   "es": "¿Qué vas a hacer?",
+   "group": "B. Planes con GOING TO"
+  },
+  {
+   "en": "Are you going to come?",
+   "pron": "ar yu GÓ-nə KAM",
+   "es": "¿Vas a venir?",
+   "group": "B. Planes con GOING TO"
+  },
+  {
+   "en": "It's going to rain.",
+   "pron": "its GÓ-nə REIN",
+   "es": "Va a llover.",
+   "group": "C. Predicciones con prueba visible"
+  },
+  {
+   "en": "It's going to leak.",
+   "pron": "its GÓ-nə LIK",
+   "es": "Va a gotear / fugar.",
+   "group": "C. Predicciones con prueba visible"
+  },
+  {
+   "en": "We're going to be late.",
+   "pron": "wir GÓ-nə bi LEIT",
+   "es": "Vamos a llegar tarde.",
+   "group": "C. Predicciones con prueba visible"
+  },
+  {
+   "en": "It's going to fall!",
+   "pron": "its GÓ-nə FOL",
+   "es": "¡Se va a caer!",
+   "group": "C. Predicciones con prueba visible"
+  },
+  {
+   "en": "It's going to be a long day.",
+   "pron": "its GÓ-nə bi ə long DEI",
+   "es": "Va a ser un día largo.",
+   "group": "C. Predicciones con prueba visible"
+  },
+  {
+   "en": "I'll do it.",
+   "pron": "ail DU it",
+   "es": "Yo lo hago.",
+   "group": "D. Decisiones, ofertas y promesas con WILL"
+  },
+  {
+   "en": "I'll check it.",
+   "pron": "ail CHEK it",
+   "es": "Lo reviso.",
+   "group": "D. Decisiones, ofertas y promesas con WILL"
+  },
+  {
+   "en": "I'll take care of it.",
+   "pron": "ail teik KER əv it",
+   "es": "Yo me encargo.",
+   "group": "D. Decisiones, ofertas y promesas con WILL"
+  },
+  {
+   "en": "I'll call you back.",
+   "pron": "ail kol yu BAK",
+   "es": "Te devuelvo la llamada.",
+   "group": "D. Decisiones, ofertas y promesas con WILL"
+  },
+  {
+   "en": "I'll send it today.",
+   "pron": "ail SEND it tə-DÉI",
+   "es": "Lo envío hoy.",
+   "group": "D. Decisiones, ofertas y promesas con WILL"
+  },
+  {
+   "en": "I'll have the chicken.",
+   "pron": "ail jav dhə CHÍ-ken",
+   "es": "Voy a pedir el pollo. (restaurante)",
+   "group": "D. Decisiones, ofertas y promesas con WILL"
+  },
+  {
+   "en": "I'll be there at 8.",
+   "pron": "ail bi DHER ət EIT",
+   "es": "Estaré ahí a las 8.",
+   "group": "D. Decisiones, ofertas y promesas con WILL"
+  },
+  {
+   "en": "I promise I won't forget.",
+   "pron": "ai PRÓ-mis ai wount fər-GUÉT",
+   "es": "Prometo que no lo olvidaré.",
+   "group": "D. Decisiones, ofertas y promesas con WILL"
+  },
+  {
+   "en": "I'll keep you posted.",
+   "pron": "ail kip yu PÓUS-tid",
+   "es": "Te mantendré informado.",
+   "group": "D. Decisiones, ofertas y promesas con WILL"
+  },
+  {
+   "en": "I think it'll be OK.",
+   "pron": "ai think ITL bi ou-KÉI",
+   "es": "Creo que estará bien.",
+   "group": "E. Predicciones y opiniones con WILL"
+  },
+  {
+   "en": "I'm sure you'll pass.",
+   "pron": "aim SHUR yul PAS",
+   "es": "Seguro que vas a aprobar.",
+   "group": "E. Predicciones y opiniones con WILL"
+  },
+  {
+   "en": "It'll probably take two days.",
+   "pron": "ITL PRÓ-bə-bli teik tu DEIZ",
+   "es": "Probablemente tomará dos días.",
+   "group": "E. Predicciones y opiniones con WILL"
+  },
+  {
+   "en": "I don't think they'll come.",
+   "pron": "ai dount think dheil KAM",
+   "es": "No creo que vengan.",
+   "group": "E. Predicciones y opiniones con WILL"
+  },
+  {
+   "en": "It won't take long.",
+   "pron": "it wount teik LONG",
+   "es": "No tomará mucho.",
+   "group": "E. Predicciones y opiniones con WILL"
+  },
+  {
+   "en": "Don't worry, it'll be fine.",
+   "pron": "dount WÉ-ri, itl bi FAIN",
+   "es": "No te preocupes, saldrá bien.",
+   "group": "E. Predicciones y opiniones con WILL"
+  },
+  {
+   "en": "Shall I help you?",
+   "pron": "shal ai JELP yu",
+   "es": "¿Te ayudo?",
+   "group": "F. Ofrecer y pedir"
+  },
+  {
+   "en": "Do you want me to call him?",
+   "pron": "du yu WONT mi tə KOL jim",
+   "es": "¿Quieres que lo llame?",
+   "group": "F. Ofrecer y pedir"
+  },
+  {
+   "en": "Will you be at the meeting?",
+   "pron": "wil yu bi ət dhə MÍ-ting",
+   "es": "¿Estarás en la reunión?",
+   "group": "F. Ofrecer y pedir"
+  },
+  {
+   "en": "When will it be ready?",
+   "pron": "wen wil it bi RÉ-di",
+   "es": "¿Cuándo estará listo?",
+   "group": "F. Ofrecer y pedir"
+  },
+  {
+   "en": "What time will you arrive?",
+   "pron": "wot TAIM wil yu ə-RÁIV",
+   "es": "¿A qué hora llegarás?",
+   "group": "F. Ofrecer y pedir"
+  }
+ ],
+ "examples": [
+  {
+   "en": "We're going to replace the bottom plates next week.",
+   "es": "La próxima semana vamos a cambiar las planchas del fondo.",
+   "situation": "Plan de obra"
+  },
+  {
+   "en": "Look at that gasket. It's going to leak.",
+   "es": "Mira esa empaquetadura. Va a gotear.",
+   "situation": "Predicción con prueba"
+  },
+  {
+   "en": "That pipe looks heavy. I'll help you.",
+   "es": "Ese tubo se ve pesado. Te ayudo.",
+   "situation": "Oferta en obra"
+  },
+  {
+   "en": "I'll send you the weld map before 5 p.m.",
+   "es": "Te envío el mapa de soldaduras antes de las 5 p. m.",
+   "situation": "Promesa al jefe"
+  },
+  {
+   "en": "I'm in a meeting now. I'll call you back in ten minutes.",
+   "es": "Estoy en una reunión. Te devuelvo la llamada en diez minutos.",
+   "situation": "Llamada"
+  },
+  {
+   "en": "I'm going to visit my family in Talara in December.",
+   "es": "En diciembre voy a visitar a mi familia en Talara.",
+   "situation": "Planes personales"
+  },
+  {
+   "en": "I think the repair will take about three days.",
+   "es": "Creo que la reparación tomará unos tres días.",
+   "situation": "Estimado"
+  },
+  {
+   "en": "I'll have the fish and a lemonade, please.",
+   "es": "Para mí el pescado y una limonada, por favor.",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "Those clouds are very dark. It's going to rain.",
+   "es": "Esas nubes están muy oscuras. Va a llover.",
+   "situation": "Clima"
+  },
+  {
+   "en": "We aren't going to lift the tank today. The wind is too strong.",
+   "es": "Hoy no vamos a izar el tanque. El viento está demasiado fuerte.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "I'm going to study English every day this year.",
+   "es": "Este año voy a estudiar inglés todos los días.",
+   "situation": "Estudio"
+  },
+  {
+   "en": "Don't worry. You'll pass the test.",
+   "es": "No te preocupes. Vas a aprobar el examen.",
+   "situation": "Tranquilizar"
+  },
+  {
+   "en": "This bolt won't move. Can you bring the big wrench?",
+   "es": "Este perno no se mueve. ¿Puedes traer la llave grande?",
+   "situation": "Equipo atascado"
+  },
+  {
+   "en": "When will the material arrive? — It'll arrive on Thursday.",
+   "es": "¿Cuándo llegará el material? — Llegará el jueves.",
+   "situation": "Pregunta al cliente"
+  },
+  {
+   "en": "We are going to start the inspection on Monday. I will send the report on Friday.",
+   "es": "Vamos a empezar la inspección el lunes. Enviaré el informe el viernes.",
+   "situation": "Correo formal"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "I'm going to stay.",
+     "I'm not going to stay.",
+     "Am I going to stay?",
+     "Yes, you are. / No, you aren't."
+    ],
+    [
+     "You're going to travel.",
+     "You aren't going to travel.",
+     "Are you going to travel?",
+     "Yes, I am. / No, I'm not."
+    ],
+    [
+     "He's going to quit.",
+     "He isn't going to quit.",
+     "Is he going to quit?",
+     "Yes, he is. / No, he isn't."
+    ],
+    [
+     "It's going to rain.",
+     "It isn't going to rain.",
+     "Is it going to rain?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "They're going to buy the pipes.",
+     "They aren't going to buy the pipes.",
+     "Are they going to buy the pipes?",
+     "Yes, they are. / No, they aren't."
+    ],
+    [
+     "We'll win.",
+     "We won't win.",
+     "Will we win?",
+     "Yes, you will. / No, you won't."
+    ],
+    [
+     "You'll pass.",
+     "You won't pass.",
+     "Will you pass?",
+     "Yes, I will. / No, I won't."
+    ],
+    [
+     "She'll be late.",
+     "She won't be late.",
+     "Will she be late?",
+     "Yes, she will. / No, she won't."
+    ],
+    [
+     "It'll take two days.",
+     "It won't take two days.",
+     "Will it take two days?",
+     "Yes, it will. / No, it won't."
+    ],
+    [
+     "The client will accept.",
+     "The client won't accept.",
+     "Will the client accept?",
+     "Yes, he/she will. / No, he/she won't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Mr. Lee",
+   "text": "Edwin, what's the plan for next week?"
+  },
+  {
+   "who": "Edwin",
+   "text": "We're going to start the bottom repair on Monday. The plates arrived yesterday."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Good. How long is it going to take?"
+  },
+  {
+   "who": "Edwin",
+   "text": "I think it'll take about four days, if the weather is OK."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Hmm, the forecast says strong wind on Wednesday."
+  },
+  {
+   "who": "Edwin",
+   "text": "Then we won't lift the plates that day. We'll do the welding inside."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Makes sense. Who's going to inspect the welds?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Carlos is going to do the visual inspection. I'll call the NDT company today."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Great. Can you send me the schedule?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Sure. I'll send it this afternoon and keep you posted."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "I going to travel.",
+   "right": "I'm going to travel.",
+   "why": "Going to necesita am / is / are."
+  },
+  {
+   "wrong": "I'll to call you.",
+   "right": "I'll call you.",
+   "why": "Después de will, verbo base sin to."
+  },
+  {
+   "wrong": "She wills come.",
+   "right": "She'll come.",
+   "why": "Will no lleva -s."
+  },
+  {
+   "wrong": "I go to travel next year.",
+   "right": "I'm going to travel next year.",
+   "why": "\"Voy a\" = be going to, no go to."
+  },
+  {
+   "wrong": "— The phone is ringing. — I answer.",
+   "right": "— I'll answer it.",
+   "why": "Decisión del momento = will."
+  },
+  {
+   "wrong": "I'm going to help you! (oferta repentina)",
+   "right": "I'll help you!",
+   "why": "Ofrecer en el momento = will."
+  },
+  {
+   "wrong": "Do you will come?",
+   "right": "Will you come?",
+   "why": "Will no usa do."
+  },
+  {
+   "wrong": "I willn't go.",
+   "right": "I won't go.",
+   "why": "El negativo contraído de will es won't."
+  },
+  {
+   "wrong": "— Will you come? — Yes, I'll.",
+   "right": "— Yes, I will.",
+   "why": "Respuesta corta afirmativa sin contraer."
+  },
+  {
+   "wrong": "I'll there at 8.",
+   "right": "I'll be there at 8.",
+   "why": "Futuro de TO BE = will be."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "the next week",
+   "looks": "la próxima semana",
+   "means": "Sin the, igual que last week (Módulo 8).",
+   "fix": "next week"
+  },
+  {
+   "en": "inside two days",
+   "looks": "dentro de dos días",
+   "means": "In + tiempo = dentro de.",
+   "fix": "in two days"
+  },
+  {
+   "en": "the tomorrow",
+   "looks": "mañana (día)",
+   "means": "Sin artículo.",
+   "fix": "tomorrow"
+  },
+  {
+   "en": "already",
+   "looks": "ahorita / ya mismo",
+   "means": "Already = ya (algo terminado), Módulo 13.",
+   "fix": "right now / in a minute"
+  },
+  {
+   "en": "I won't a coffee.",
+   "looks": "querer (I want)",
+   "means": "Won't = no + futuro; want = querer.",
+   "fix": "I want a coffee."
+  },
+  {
+   "en": "I promise you to call.",
+   "looks": "prometer",
+   "means": "Promesa natural: I promise (that) I'll… o I promise to call.",
+   "fix": "I promise I'll call."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Voy a viajar a Chile el próximo mes. (plan)",
+    "answers": [
+     "I'm going to travel to Chile next month.",
+     "I am going to travel to Chile next month."
+    ],
+    "explain": "Plan decidido → going to; next month sin the."
+   },
+   {
+    "prompt": "No vamos a trabajar el domingo. (plan)",
+    "answers": [
+     "We aren't going to work on Sunday.",
+     "We are not going to work on Sunday.",
+     "We're not going to work on Sunday."
+    ],
+    "explain": "Negativo: aren't + going to. También vale We're not going to."
+   },
+   {
+    "prompt": "¿Vas a venir a la reunión? (plan)",
+    "answers": [
+     "Are you going to come to the meeting?"
+    ],
+    "explain": "Pregunta: Are antes de you."
+   },
+   {
+    "prompt": "Mira esas nubes. Va a llover.",
+    "answers": [
+     "Look at those clouds. It's going to rain.",
+     "Look at those clouds. It is going to rain."
+    ],
+    "explain": "Predicción con prueba visible → going to."
+   },
+   {
+    "prompt": "Ese tubo pesa mucho. Te ayudo. (oferta ahora)",
+    "answers": [
+     "That pipe is very heavy. I'll help you.",
+     "That pipe is very heavy. I will help you.",
+     "That tube is very heavy. I'll help you.",
+     "That tube is very heavy. I will help you."
+    ],
+    "explain": "Oferta en el momento → will."
+   },
+   {
+    "prompt": "Te prometo que enviaré el informe hoy.",
+    "answers": [
+     "I promise I'll send the report today.",
+     "I promise I will send the report today.",
+     "I promise you I'll send the report today.",
+     "I promise you I will send the report today.",
+     "I promise I'll send you the report today.",
+     "I promise I will send you the report today.",
+     "I promise you I'll send you the report today.",
+     "I promise you I will send you the report today."
+    ],
+    "explain": "Promesa → will. También vale I promise (you) I'll send you the report today."
+   },
+   {
+    "prompt": "Creo que el cliente aceptará el precio.",
+    "answers": [
+     "I think the client will accept the price."
+    ],
+    "explain": "Opinión con I think → will."
+   },
+   {
+    "prompt": "Estaré en la oficina a las 8.",
+    "answers": [
+     "I'll be at the office at 8.",
+     "I will be at the office at 8.",
+     "I'll be in the office at 8.",
+     "I will be in the office at 8."
+    ],
+    "explain": "Futuro de TO BE = will be."
+   },
+   {
+    "prompt": "No te preocupes, no lo olvidaré.",
+    "answers": [
+     "Don't worry, I won't forget.",
+     "Do not worry, I will not forget.",
+     "Don't worry. I won't forget.",
+     "Do not worry. I will not forget.",
+     "Don't worry, I won't forget it.",
+     "Do not worry, I will not forget it."
+    ],
+    "explain": "Promesa negativa → won't."
+   },
+   {
+    "prompt": "¿Cuándo estarán listos los planos?",
+    "answers": [
+     "When will the drawings be ready?",
+     "When are the drawings going to be ready?"
+    ],
+    "explain": "WH- + will + sujeto + be. También vale When are the drawings going to be ready?"
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "We're going to replace the valve next week.",
+    "answers": [
+     "La próxima semana vamos a cambiar la válvula.",
+     "Vamos a reemplazar la válvula la próxima semana.",
+     "Vamos a cambiar la válvula la próxima semana."
+    ],
+    "explain": "Plan decidido; replace = reemplazar, cambiar."
+   },
+   {
+    "prompt": "I'm busy now. I'll call you back later.",
+    "answers": [
+     "Estoy ocupado ahora. Te devuelvo la llamada más tarde.",
+     "Estoy ocupado ahora. Te llamo más tarde.",
+     "Ahora estoy ocupado. Te devolveré la llamada más tarde."
+    ],
+    "explain": "I'll call you back: decisión/promesa del momento; en español suena natural en presente."
+   },
+   {
+    "prompt": "It won't take long.",
+    "answers": [
+     "No tomará mucho tiempo.",
+     "No tardará mucho.",
+     "No va a tardar mucho.",
+     "No llevará mucho tiempo."
+    ],
+    "explain": "Take long = tardar mucho."
+   },
+   {
+    "prompt": "Are they going to paint the tank? — No, they aren't.",
+    "answers": [
+     "¿Van a pintar el tanque? — No.",
+     "¿Van a pintar el tanque? — No, no lo van a pintar."
+    ],
+    "explain": "Respuesta corta con are; en español basta \"No\"."
+   },
+   {
+    "prompt": "I think it'll be a long day.",
+    "answers": [
+     "Creo que va a ser un día largo.",
+     "Creo que será un día largo."
+    ],
+    "explain": "It'll be = será / va a ser."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "She going to visit the site tomorrow.",
+    "answers": [
+     "She's going to visit the site tomorrow.",
+     "She is going to visit the site tomorrow."
+    ],
+    "explain": "Faltaba TO BE: is."
+   },
+   {
+    "prompt": "I'll to send you the drawings today.",
+    "answers": [
+     "I'll send you the drawings today.",
+     "I will send you the drawings today."
+    ],
+    "explain": "Después de will, sin to."
+   },
+   {
+    "prompt": "He wills be at the meeting.",
+    "answers": [
+     "He'll be at the meeting.",
+     "He will be at the meeting."
+    ],
+    "explain": "Will no lleva -s."
+   },
+   {
+    "prompt": "We go to start the test next Monday.",
+    "answers": [
+     "We're going to start the test next Monday.",
+     "We are going to start the test next Monday."
+    ],
+    "explain": "\"Vamos a\" = are going to."
+   },
+   {
+    "prompt": "Do you will help me with the report?",
+    "answers": [
+     "Will you help me with the report?"
+    ],
+    "explain": "Will no usa do."
+   },
+   {
+    "prompt": "I willn't forget.",
+    "answers": [
+     "I won't forget.",
+     "I will not forget."
+    ],
+    "explain": "Negativo de will = won't."
+   },
+   {
+    "prompt": "— Will you be there? — Yes, I'll.",
+    "answers": [
+     "— Will you be there? — Yes, I will.",
+     "Will you be there? Yes, I will."
+    ],
+    "explain": "Respuesta corta afirmativa sin contraer."
+   },
+   {
+    "prompt": "They're going to installing the pump on Friday.",
+    "answers": [
+     "They're going to install the pump on Friday.",
+     "They are going to install the pump on Friday."
+    ],
+    "explain": "Después de going to, verbo base."
+   },
+   {
+    "prompt": "I'll there at 7 tomorrow.",
+    "answers": [
+     "I'll be there at 7 tomorrow.",
+     "I will be there at 7 tomorrow."
+    ],
+    "explain": "Faltaba be."
+   },
+   {
+    "prompt": "We're going to finish the job the next week.",
+    "answers": [
+     "We're going to finish the job next week.",
+     "We are going to finish the job next week."
+    ],
+    "explain": "Next week sin the."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte a negativo y a pregunta: The welders are going to work on Saturday.",
+   "answer": "The welders aren't going to work on Saturday. / Are the welders going to work on Saturday?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con going, will, won't, am, is o are.",
+   "lines": [
+    {
+     "who": "Sarah",
+     "text": "What [1] you going to do this weekend?"
+    },
+    {
+     "who": "Edwin",
+     "text": "I'm [2] to visit my cousin in Nassau. I bought the ferry tickets yesterday."
+    },
+    {
+     "who": "Sarah",
+     "text": "Nice! [3] you be back on Monday?"
+    },
+    {
+     "who": "Edwin",
+     "text": "Yes, I [4]. Why?"
+    },
+    {
+     "who": "Sarah",
+     "text": "The client [5] going to visit the site on Monday morning."
+    },
+    {
+     "who": "Edwin",
+     "text": "OK, no problem. I [6] be late, I promise. I [7] prepare the progress report tonight."
+    },
+    {
+     "who": "Sarah",
+     "text": "Great. And the welders? [8] they going to work on Saturday?"
+    },
+    {
+     "who": "Edwin",
+     "text": "No, they aren't. They're going to rest."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "are"
+     ],
+     "explain": "WH- + are + you + going to."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "going"
+     ],
+     "explain": "Plan decidido (ya compró los boletos): I'm going to visit."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "Will"
+     ],
+     "explain": "Pregunta: Will + you + be."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "will"
+     ],
+     "explain": "Respuesta corta: Yes, I will, sin contraer."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "is"
+     ],
+     "explain": "The client = he/she → is going to."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "won't"
+     ],
+     "explain": "Promesa negativa: I won't be late, I promise."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "will"
+     ],
+     "explain": "Decisión/promesa del momento: I will (I'll) prepare."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "Are"
+     ],
+     "explain": "They + going to → Are al inicio."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo. Escribe un correo de 5 a 7 oraciones a tu supervisor con el plan de la próxima semana: (a) dos planes ya decididos con going to, (b) una predicción o estimado con I think … will, (c) un negativo (aren't going to o won't), (d) una oferta o promesa con I'll, (e) una pregunta en futuro. Usa al menos un marcador de tiempo (next week, on Monday, tomorrow…).",
+   "rubric": [
+    "(a) Primer plan ya decidido con going to",
+    "(a) Segundo plan ya decidido con going to",
+    "(b) Una predicción o estimado con I think … will",
+    "(c) Un negativo (aren't going to o won't)",
+    "(d) Una oferta o promesa con I'll",
+    "(e) Una pregunta en futuro",
+    "Al menos un marcador de tiempo bien usado (next week, on Monday, tomorrow…)"
+   ],
+   "model": "Hi Mr. Lee,\nHere is the plan for next week. On Monday we're going to clean the tank bottom, and on Tuesday we're going to start the plate repair. I think the welding will take about three days. We aren't going to work on Wednesday afternoon because of the strong wind. I'll send you photos every evening. Will you be at the site on Friday for the final inspection?"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Elegir entre going to y will.",
+   "test": "Clasifica las 6 situaciones de la Parte 3 tapando la columna Inglés; 6 de 6 correctas en 1 minuto."
+  },
+  {
+   "skill": "Contar mis planes de la semana.",
+   "test": "Grábate 30 segundos sin leer con al menos 4 planes con going to y 2 marcadores de tiempo."
+  },
+  {
+   "skill": "Ofrecer ayuda y prometer al instante.",
+   "test": "Responde en voz alta a 5 situaciones (teléfono suena, caja pesada, jefe pide algo…) con I'll… en menos de 3 segundos cada una."
+  },
+  {
+   "skill": "Hacer predicciones con y sin prueba.",
+   "test": "Escribe 2 predicciones con going to (prueba visible) y 2 con I think … will; 4 de 4 correctas."
+  },
+  {
+   "skill": "Negar, preguntar y responder en corto.",
+   "test": "Convierte 6 oraciones (3 de cada forma) a negativo y pregunta con respuesta corta en 2 minutos. Cero do, cero Yes, I'll."
+  },
+  {
+   "skill": "Escribir un plan de trabajo semanal.",
+   "test": "Redacta 6 oraciones con el plan de tu próxima semana y compáralas con el modelo C2."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What are you going to do this weekend?",
+  "What are you going to do after work today?",
+  "Where will you be in five years?",
+  "Do you think English will help you at work?",
+  "What are you going to do on your next vacation?",
+  "What will you do tomorrow morning?"
+ ]
+}

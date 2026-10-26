@@ -1,0 +1,94 @@
+{
+ "id": 20,
+ "topic": "Voz pasiva",
+ "title": "How Things Are Done at {company}",
+ "practice": "Léela en voz alta 3 veces. Luego explica cómo se hace tu trabajo en 1 minuto sin mirar.",
+ "rows": [
+  {
+   "en": "I **was hired** by {company} in {startDate}.",
+   "es": "Fui contratado por {company} en {startDate}."
+  },
+  {
+   "en": "My work at {company} **is focused** on {work}.",
+   "es": "Mi trabajo en {company} se centra en {work_es}."
+  },
+  {
+   "en": "One of my projects is {project}.",
+   "es": "Uno de mis proyectos es {project_es}."
+  },
+  {
+   "en": "First, the work **is planned** and the tasks **are assigned**.",
+   "es": "Primero, se planifica el trabajo y se asignan las tareas."
+  },
+  {
+   "en": "Then the information **is collected** and **checked**.",
+   "es": "Luego se recopila y se revisa la información."
+  },
+  {
+   "en": "Every step **is reviewed** by a supervisor.",
+   "es": "Cada paso es revisado por un supervisor."
+  },
+  {
+   "en": "All the work **must be done** according to the standards.",
+   "es": "Todo el trabajo debe hacerse según las normas."
+  },
+  {
+   "en": "The progress **is recorded** every day in {tool}.",
+   "es": "El avance se registra cada día en {tool}."
+  },
+  {
+   "en": "My new {tool} tracker **will be presented** to the managers.",
+   "es": "Mi nuevo control en {tool} será presentado a los gerentes."
+  },
+  {
+   "en": "Hopefully, it **will be used** on every project.",
+   "es": "Ojalá se use en todos los proyectos."
+  }
+ ],
+ "dialogTitle": "Diálogo con el cliente",
+ "dialog": [
+  {
+   "who": "Client",
+   "text": "Has the final review been done?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, it has. Everything was checked this morning."
+  },
+  {
+   "who": "Client",
+   "text": "Were any errors found?"
+  },
+  {
+   "who": "{name}",
+   "text": "Two small errors were found. They've already been corrected and checked again."
+  },
+  {
+   "who": "Client",
+   "text": "Good. When will the report be sent?"
+  },
+  {
+   "who": "{name}",
+   "text": "It'll be sent by Friday. All the files will be attached."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I was hired by {company}.",
+   "pron": ""
+  },
+  {
+   "en": "Everything was checked this morning.",
+   "pron": "ÉV-ri-thing wəz CHEKT dhis MÓR-ning"
+  },
+  {
+   "en": "Two small errors were found.",
+   "pron": "tu smol É-rərz wer FÁUND"
+  },
+  {
+   "en": "It'll be sent by Friday.",
+   "pron": "Í-təl bi SENT bai FRÁI-dei"
+  }
+ ],
+ "check": "Explico cómo se hace mi trabajo en menos de 90 segundos, sin leer, con is / are / was / were / will be + participio y sin olvidar ningún -ed."
+}

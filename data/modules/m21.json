@@ -1,0 +1,948 @@
+{
+ "id": 21,
+ "level": "B2",
+ "title": "Estilo indirecto (he said that…)",
+ "goal": "Al terminar podrás contar lo que otra persona dijo, preguntó, pidió o prometió (he said that…, she asked if…, they told us to…), ajustar tiempos, pronombres y expresiones de tiempo sin errores, y redactar el resumen de una reunión o un acta para alguien que no estuvo.",
+ "lesson": [
+  {
+   "title": "Introducción",
+   "html": "<p>El <b>estilo directo</b> repite las palabras exactas, entre comillas: <span class=\"en\">Mark said, \"The crane is broken.\"</span> El <b>estilo indirecto</b> cuenta el mensaje con tus palabras, sin comillas: <span class=\"en\">Mark said (that) the crane was broken.</span></p><p>En el trabajo lo usas todo el tiempo: cuando le cuentas a tu jefe lo que dijo el cliente, cuando resumes una reunión para alguien que no fue, cuando escribes un acta (<i>minutes</i>) o cuando explicas por qué se cambió un plan (<i>the inspector told us to stop</i>). Un error aquí cambia el mensaje: <i>he said he will</i> vs <i>he said he would</i> no es solo gramática; marca si la promesa sigue vigente.</p>",
+   "svg": "<svg viewBox=\"0 0 640 225\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"22\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">DIRECTO (lunes, en obra)</text>\n  <rect x=\"20\" y=\"32\" width=\"600\" height=\"44\" rx=\"10\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/>\n  <text x=\"34\" y=\"60\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">Mark: \"</text>\n  <rect x=\"88\" y=\"42\" width=\"22\" height=\"26\" rx=\"5\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/><text x=\"99\" y=\"60\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#6941C6\">I</text>\n  <rect x=\"116\" y=\"42\" width=\"40\" height=\"26\" rx=\"5\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/><text x=\"136\" y=\"60\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#E8590C\">'ll</text>\n  <text x=\"162\" y=\"60\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">send</text>\n  <rect x=\"204\" y=\"42\" width=\"44\" height=\"26\" rx=\"5\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/><text x=\"226\" y=\"60\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#0E9384\">you</text>\n  <text x=\"254\" y=\"60\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">the drawings</text>\n  <rect x=\"362\" y=\"42\" width=\"98\" height=\"26\" rx=\"5\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"411\" y=\"60\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#1570EF\">tomorrow</text>\n  <text x=\"466\" y=\"60\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">.\"</text>\n  <path d=\"M320 80 L320 112\" stroke=\"#1570EF\" stroke-width=\"3\"/>\n  <polygon points=\"312,110 320,124 328,110\" fill=\"#1570EF\"/>\n  <text x=\"336\" y=\"104\" font-size=\"12\" font-weight=\"700\" fill=\"#1570EF\">lo cuentas el viernes, en la oficina</text>\n  <text x=\"20\" y=\"142\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">INDIRECTO</text>\n  <rect x=\"20\" y=\"150\" width=\"600\" height=\"44\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"34\" y=\"178\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">Mark said</text>\n  <rect x=\"116\" y=\"160\" width=\"34\" height=\"26\" rx=\"5\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/><text x=\"133\" y=\"178\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#6941C6\">he</text>\n  <rect x=\"156\" y=\"160\" width=\"64\" height=\"26\" rx=\"5\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/><text x=\"188\" y=\"178\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#E8590C\">would</text>\n  <text x=\"226\" y=\"178\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">send</text>\n  <rect x=\"268\" y=\"160\" width=\"34\" height=\"26\" rx=\"5\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/><text x=\"285\" y=\"178\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#0E9384\">me</text>\n  <text x=\"308\" y=\"178\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">the drawings</text>\n  <rect x=\"416\" y=\"160\" width=\"128\" height=\"26\" rx=\"5\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"480\" y=\"178\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#1570EF\">the next day</text>\n  <text x=\"550\" y=\"178\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">.</text>\n  <text x=\"99\" y=\"214\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#6941C6\">pronombre</text>\n  <text x=\"188\" y=\"214\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#E8590C\">tiempo verbal</text>\n  <text x=\"285\" y=\"214\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#0E9384\">pronombre</text>\n  <text x=\"480\" y=\"214\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#1570EF\">tiempo y lugar</text>\n</svg>",
+   "caption": "Figura 21.1 — Al pasar a estilo indirecto cambian tres cosas: pronombres (quién habla), tiempo verbal (cuándo se dijo) y expresiones de tiempo y lugar (dónde y cuándo lo cuentas)."
+  },
+  {
+   "title": "El \"paso atrás\" de los tiempos (backshift)",
+   "html": "<p>Si el verbo que introduce la frase está en pasado (<i>said, told, asked</i>), lo que se dijo normalmente da <b>un paso atrás</b> en el tiempo. La lógica es simple: hablas desde el presente sobre palabras que ya quedaron en el pasado.</p><table><thead><tr><th>Directo</th><th>Indirecto (said / told…)</th><th>En español</th></tr></thead><tbody><tr><td><span class=\"en\">\"The pump is noisy.\"</span></td><td><span class=\"en\">He said the pump was noisy.</span></td><td>Dijo que la bomba hacía ruido.</td></tr><tr><td><span class=\"en\">\"We're welding the nozzle.\"</span></td><td><span class=\"en\">They said they were welding the nozzle.</span></td><td>Dijeron que estaban soldando la boquilla.</td></tr><tr><td><span class=\"en\">\"I checked the bolts.\"</span></td><td><span class=\"en\">She said she had checked the bolts.</span></td><td>Dijo que había revisado los pernos.</td></tr><tr><td><span class=\"en\">\"The client has approved it.\"</span></td><td><span class=\"en\">He said the client had approved it.</span></td><td>Dijo que el cliente lo había aprobado.</td></tr><tr><td><span class=\"en\">\"I'll send the report.\"</span></td><td><span class=\"en\">Ana said she would send the report.</span></td><td>Ana dijo que enviaría el informe.</td></tr><tr><td><span class=\"en\">\"We can start on Monday.\"</span></td><td><span class=\"en\">They said they could start on Monday.</span></td><td>Dijeron que podían empezar el lunes.</td></tr><tr><td><span class=\"en\">\"You must wear a harness.\"</span></td><td><span class=\"en\">He said we had to wear a harness.</span></td><td>Dijo que teníamos que usar arnés.</td></tr><tr><td><span class=\"en\">\"The test may take two days.\"</span></td><td><span class=\"en\">She said the test might take two days.</span></td><td>Dijo que la prueba podría tardar dos días.</td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 300\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"150\" y=\"20\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">LO QUE DIJO</text>\n  <text x=\"490\" y=\"20\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">LO QUE CUENTAS</text>\n  <g font-size=\"13\" font-weight=\"700\">\n  <rect x=\"20\" y=\"30\" width=\"260\" height=\"30\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"150\" y=\"50\" text-anchor=\"middle\" fill=\"#1D2939\">is / are · \"It's ready.\"</text>\n  <rect x=\"360\" y=\"30\" width=\"260\" height=\"30\" rx=\"7\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"490\" y=\"50\" text-anchor=\"middle\" fill=\"#1D2939\">was / were · it was ready</text>\n  <rect x=\"20\" y=\"66\" width=\"260\" height=\"30\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"150\" y=\"86\" text-anchor=\"middle\" fill=\"#1D2939\">works · \"I work here.\"</text>\n  <rect x=\"360\" y=\"66\" width=\"260\" height=\"30\" rx=\"7\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"490\" y=\"86\" text-anchor=\"middle\" fill=\"#1D2939\">worked · he worked there</text>\n  <rect x=\"20\" y=\"102\" width=\"260\" height=\"30\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"150\" y=\"122\" text-anchor=\"middle\" fill=\"#1D2939\">is working · \"I'm testing.\"</text>\n  <rect x=\"360\" y=\"102\" width=\"260\" height=\"30\" rx=\"7\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"490\" y=\"122\" text-anchor=\"middle\" fill=\"#1D2939\">was working · he was testing</text>\n  <rect x=\"20\" y=\"138\" width=\"260\" height=\"30\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"150\" y=\"158\" text-anchor=\"middle\" fill=\"#1D2939\">worked · \"I finished.\"</text>\n  <rect x=\"360\" y=\"138\" width=\"260\" height=\"30\" rx=\"7\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/><text x=\"490\" y=\"158\" text-anchor=\"middle\" fill=\"#1D2939\">had worked · he had finished</text>\n  <rect x=\"20\" y=\"174\" width=\"260\" height=\"30\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"150\" y=\"194\" text-anchor=\"middle\" fill=\"#1D2939\">has worked · \"I've sent it.\"</text>\n  <rect x=\"360\" y=\"174\" width=\"260\" height=\"30\" rx=\"7\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/><text x=\"490\" y=\"194\" text-anchor=\"middle\" fill=\"#1D2939\">had worked · he had sent it</text>\n  <rect x=\"20\" y=\"210\" width=\"260\" height=\"30\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"150\" y=\"230\" text-anchor=\"middle\" fill=\"#1D2939\">will · \"I'll call.\"</text>\n  <rect x=\"360\" y=\"210\" width=\"260\" height=\"30\" rx=\"7\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/><text x=\"490\" y=\"230\" text-anchor=\"middle\" fill=\"#1D2939\">would · he would call</text>\n  <rect x=\"20\" y=\"246\" width=\"260\" height=\"30\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"150\" y=\"266\" text-anchor=\"middle\" fill=\"#1D2939\">can · may · must</text>\n  <rect x=\"360\" y=\"246\" width=\"260\" height=\"30\" rx=\"7\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/><text x=\"490\" y=\"266\" text-anchor=\"middle\" fill=\"#1D2939\">could · might · had to</text>\n  </g>\n  <g fill=\"#1570EF\">\n  <polygon points=\"300,39 340,45 300,51\"/><polygon points=\"300,75 340,81 300,87\"/><polygon points=\"300,111 340,117 300,123\"/>\n  <polygon points=\"300,147 340,153 300,159\"/><polygon points=\"300,183 340,189 300,195\"/><polygon points=\"300,219 340,225 300,231\"/><polygon points=\"300,255 340,261 300,267\"/>\n  </g>\n  <text x=\"320\" y=\"294\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#667085\">No cambian: would, could, should, might, had + participio (ya no pueden ir más atrás).</text>\n</svg>",
+   "caption": "Figura 21.2 — Tabla de backshift: cada tiempo baja un escalón cuando el verbo introductor está en pasado."
+  },
+  {
+   "title": "Reglas de oro",
+   "html": "<p><b>Regla de oro 1 — Verbo introductor en pasado = un paso atrás</b></p><p>Con <i>said, told, explained, mentioned</i>: <b>is → was</b>, <b>will → would</b>, <b>can → could</b>, <b>pasado / presente perfecto → had + participio</b>.</p><p><span class=\"ok\">He said he would call.</span> Nunca <span class=\"wrong\">He said he will called.</span></p><p><b>Regla de oro 2 — SAY algo; TELL a alguien</b></p><p><b>Say</b> no lleva persona directamente: <span class=\"en\">She said (that)…</span> / <span class=\"en\">She said to me…</span> (poco común). <b>Tell</b> siempre lleva persona: <span class=\"en\">She told me (that)…</span></p><p><span class=\"ok\">He told us the test was OK.</span> Nunca <span class=\"wrong\">He said us…</span> ni <span class=\"wrong\">He told that…</span></p><p><b>Regla de oro 3 — Pregunta indirecta = orden de afirmación</b></p><p>Al reportar una pregunta, el sujeto vuelve antes del verbo y desaparecen <i>do/does/did</i> y el signo de interrogación. Si no hay palabra WH-, se usa <b>if</b> o <b>whether</b>.</p><p><span class=\"en\">\"Where is the inspector?\"</span> → <span class=\"ok\">He asked where the inspector was.</span> Nunca <span class=\"wrong\">He asked where was the inspector.</span></p><p><span class=\"en\">\"Did you check the torque?\"</span> → <span class=\"ok\">She asked if I had checked the torque.</span></p>"
+  },
+  {
+   "title": "Cuándo NO hace falta dar el paso atrás",
+   "html": "<table><thead><tr><th>Caso</th><th>Ejemplo</th><th>Por qué</th></tr></thead><tbody><tr><td>El verbo introductor está en presente</td><td><span class=\"en\">Mark says the crane is broken.</span></td><td>Lo dice ahora (o acaba de escribirlo): no hay distancia.</td></tr><tr><td>Sigue siendo verdad hoy</td><td><span class=\"en\">She said she works in Houston.</span></td><td>Aún trabaja ahí. <i>She said she worked…</i> también es correcto.</td></tr><tr><td>Verdad general o dato técnico</td><td><span class=\"en\">He said carbon steel rusts in seawater.</span></td><td>Es un hecho permanente.</td></tr><tr><td>Algo futuro que aún no pasa</td><td><span class=\"en\">The client said he will visit next week.</span></td><td>La visita sigue pendiente; <i>would</i> también es correcto.</td></tr><tr><td>Modales sin pasado</td><td><span class=\"en\">He said we should check it.</span></td><td><i>Should, would, could, might</i> no cambian.</td></tr></tbody></table><p><b>Así piensa un nativo — el backshift marca distancia</b></p><p>Un nativo no aplica la tabla como una máquina. Elige según cómo ve el mensaje <b>hoy</b>. <span class=\"en\">He said the valve is leaking</span> = sigue fugando, hay que actuar. <span class=\"en\">He said the valve was leaking</span> = lo reporto como dato del momento en que lo dijo, sin afirmar que sigue igual.</p><p>En actas y reportes formales, lo más seguro es <b>siempre dar el paso atrás</b>. En conversación, si es actual, mantener el presente suena natural y más urgente.</p>"
+  },
+  {
+   "title": "Pronombres, tiempo y lugar",
+   "html": "<p>Cambian porque cambia quién habla, cuándo y dónde. Cambia solo lo que la lógica exija: si lo cuentas el mismo día, <i>today</i> sigue siendo <i>today</i>.</p><table><thead><tr><th>Directo</th><th>Indirecto (otro día / otro lugar)</th><th>Ejemplo</th></tr></thead><tbody><tr><td><span class=\"en\">today / tonight</span></td><td><span class=\"en\">that day / that night</span></td><td><span class=\"en\">He said he was busy that day.</span></td></tr><tr><td><span class=\"en\">yesterday</span></td><td><span class=\"en\">the day before / the previous day</span></td><td><span class=\"en\">She said the parts had arrived the day before.</span></td></tr><tr><td><span class=\"en\">tomorrow</span></td><td><span class=\"en\">the next day / the following day</span></td><td><span class=\"en\">They said they would finish the next day.</span></td></tr><tr><td><span class=\"en\">next week</span></td><td><span class=\"en\">the following week</span></td><td><span class=\"en\">He said the crane would come the following week.</span></td></tr><tr><td><span class=\"en\">last month</span></td><td><span class=\"en\">the month before / the previous month</span></td><td><span class=\"en\">She said the tank had been inspected the previous month.</span></td></tr><tr><td><span class=\"en\">… ago</span></td><td><span class=\"en\">… before / … earlier</span></td><td><span class=\"en\">He said he had joined two years before.</span></td></tr><tr><td><span class=\"en\">now</span></td><td><span class=\"en\">then / at that moment</span></td><td><span class=\"en\">She said she was in a meeting at that moment.</span></td></tr><tr><td><span class=\"en\">here / this / these</span></td><td><span class=\"en\">there / that / those</span></td><td><span class=\"en\">He said those pipes were damaged.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Traducción directa vs interpretación real",
+   "html": "<p>El español hace casi lo mismo (<i>dijo que <b>estaba</b></i>, <i>dijo que <b>vendría</b></i>), así que tu instinto ayuda. Los problemas vienen de <i>decir</i> (que en inglés se divide en <i>say</i> y <i>tell</i>), del <b>subjuntivo</b> en órdenes (<i>me dijo que esperara</i>) y del orden en las preguntas.</p><table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td><span class=\"es\">Me dijo que estaba cansado.</span></td><td><span class=\"en\">He told me he was tired.</span></td></tr><tr><td><span class=\"es\">Me dijo que esperara.</span></td><td><span class=\"en\">He told me to wait.</span></td></tr><tr><td><span class=\"es\">Me preguntó dónde vivía.</span></td><td><span class=\"en\">She asked me where I lived.</span></td></tr><tr><td><span class=\"es\">Me preguntó si tenía auto.</span></td><td><span class=\"en\">She asked me if I had a car.</span></td></tr><tr><td><span class=\"es\">Nos pidió que no fumáramos.</span></td><td><span class=\"en\">He asked us not to smoke.</span></td></tr><tr><td><span class=\"es\">Dijo que vendría mañana.</span></td><td><span class=\"en\">He said he would come the next day.</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>Me dijo que estaba cansado.</td><td><span class=\"wrong\">He said me that he was tired.</span></td><td><span class=\"en\">He told me (that) he was tired.</span></td></tr><tr><td>Me dijo que esperara.</td><td><span class=\"wrong\">He said me that I wait.</span></td><td><span class=\"en\">He told me to wait.</span></td></tr><tr><td>Me preguntó dónde vivía.</td><td><span class=\"wrong\">She asked me where did I live.</span></td><td><span class=\"en\">She asked me where I lived.</span></td></tr><tr><td>Me preguntó si tenía auto.</td><td><span class=\"wrong\">She asked me do I have a car.</span></td><td><span class=\"en\">She asked me if I had a car.</span></td></tr><tr><td>Nos pidió que no fumáramos.</td><td><span class=\"wrong\">He asked us that we don't smoke.</span></td><td><span class=\"en\">He asked us not to smoke.</span></td></tr><tr><td>Le pregunté qué hora era.</td><td><span class=\"wrong\">I asked him what time was it.</span></td><td><span class=\"en\">I asked him what time it was.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Afirmaciones, preguntas, órdenes y respuestas",
+   "html": "<p>Cada tipo de frase tiene su propia estructura en estilo indirecto. Esta tabla cubre afirmativo, negativo, pregunta (sí/no y WH-) y la respuesta corta.</p><table><thead><tr><th>Tipo</th><th>Estructura</th><th>Directo → Indirecto</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td>said (that) / told + persona (that) + oración</td><td><span class=\"en\">\"It's ready.\" → He said it was ready.</span></td></tr><tr><td><b>Negativo</b></td><td>igual, con el negativo desplazado</td><td><span class=\"en\">\"I don't know.\" → She said she didn't know.</span></td></tr><tr><td><b>Pregunta sí/no</b></td><td>asked (+ persona) + if / whether + sujeto + verbo</td><td><span class=\"en\">\"Is it safe?\" → He asked if it was safe.</span></td></tr><tr><td><b>Pregunta WH-</b></td><td>asked (+ persona) + WH- + sujeto + verbo</td><td><span class=\"en\">\"When did it fail?\" → She asked when it had failed.</span></td></tr><tr><td><b>Respuesta corta</b></td><td>said (that) + sujeto + auxiliar (desplazado)</td><td><span class=\"en\">\"Yes, I can.\" → He said he could.</span></td></tr><tr><td><b>Orden / pedido</b></td><td>told / asked + persona + (not) to + verbo</td><td><span class=\"en\">\"Don't touch the valve.\" → He told us not to touch the valve.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<ul><li><b>That</b> es opcional después de <i>say</i> y <i>tell</i>: <span class=\"en\">He said (that) he was late.</span> En textos formales se suele escribir.</li><li><b>Whether</b> = <i>if</i>, un poco más formal; es obligatorio antes de <i>or not</i> al inicio: <span class=\"en\">She asked whether or not the test had passed.</span></li><li>No uses comillas ni signo de pregunta en la pregunta indirecta: <span class=\"ok\">He asked what I wanted.</span></li><li>Las preguntas indirectas también sirven para preguntar con cortesía (sin pasado): <span class=\"en\">Could you tell me where the site office is?</span> · <span class=\"en\">Do you know if the crane has arrived?</span></li></ul>"
+  },
+  {
+   "title": "Verbos para reportar: más precisos que SAY",
+   "html": "<p>Elegir el verbo correcto vale más que repetir <i>said</i>. Cada grupo tiene su propia estructura:</p><table><thead><tr><th>¿Qué hizo la persona?</th><th>Verbos</th><th>Estructura</th></tr></thead><tbody><tr><td>Informó algo</td><td><span class=\"en\">said / told me, explained, confirmed, mentioned</span></td><td>+ (that) + oración</td></tr><tr><td>Preguntó</td><td><span class=\"en\">asked, wanted to know, wondered</span></td><td>+ if / WH- + sujeto + verbo</td></tr><tr><td>Pidió u ordenó</td><td><span class=\"en\">told us, asked us, reminded us, warned us</span></td><td>+ (not) to + verbo</td></tr><tr><td>Se comprometió</td><td><span class=\"en\">promised, agreed, offered, refused</span></td><td>+ to + verbo</td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 230\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"200\" y=\"10\" width=\"240\" height=\"40\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"35\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">¿Qué hizo la persona?</text>\n  <path d=\"M320 50 L320 62 M88 62 L552 62 M88 62 L88 76 M243 62 L243 76 M397 62 L397 76 M552 62 L552 76\" stroke=\"#98A2B3\" stroke-width=\"2\" fill=\"none\"/>\n  <rect x=\"15\" y=\"78\" width=\"146\" height=\"142\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"1.5\"/>\n  <text x=\"88\" y=\"100\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#1570EF\">Informó algo</text>\n  <text x=\"88\" y=\"124\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">said / told me</text>\n  <text x=\"88\" y=\"144\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">explained</text>\n  <text x=\"88\" y=\"164\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">confirmed</text>\n  <text x=\"88\" y=\"184\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">mentioned</text>\n  <text x=\"88\" y=\"208\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">+ (that) + oración</text>\n  <rect x=\"170\" y=\"78\" width=\"146\" height=\"142\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"1.5\"/>\n  <text x=\"243\" y=\"100\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#6941C6\">Preguntó</text>\n  <text x=\"243\" y=\"124\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">asked</text>\n  <text x=\"243\" y=\"144\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">wanted to know</text>\n  <text x=\"243\" y=\"164\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">wondered</text>\n  <text x=\"243\" y=\"196\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">+ if / WH- +</text>\n  <text x=\"243\" y=\"210\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">sujeto + verbo</text>\n  <rect x=\"324\" y=\"78\" width=\"146\" height=\"142\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"1.5\"/>\n  <text x=\"397\" y=\"100\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#E8590C\">Pidió u ordenó</text>\n  <text x=\"397\" y=\"124\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">told us</text>\n  <text x=\"397\" y=\"144\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">asked us</text>\n  <text x=\"397\" y=\"164\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">reminded us</text>\n  <text x=\"397\" y=\"184\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">warned us</text>\n  <text x=\"397\" y=\"208\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">+ (not) to + verbo</text>\n  <rect x=\"479\" y=\"78\" width=\"146\" height=\"142\" rx=\"10\" fill=\"#E8F7EF\" stroke=\"#079455\" stroke-width=\"1.5\"/>\n  <text x=\"552\" y=\"100\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#079455\">Se comprometió</text>\n  <text x=\"552\" y=\"124\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">promised</text>\n  <text x=\"552\" y=\"144\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">agreed</text>\n  <text x=\"552\" y=\"164\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">offered</text>\n  <text x=\"552\" y=\"184\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">refused</text>\n  <text x=\"552\" y=\"208\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">+ to + verbo</text>\n</svg>",
+   "caption": "Figura 21.3 — Mapa de verbos para reportar. Cada grupo tiene su propia estructura; elegir el verbo correcto vale más que repetir \"said\"."
+  }
+ ],
+ "blocks": [
+  {
+   "en": "He said (that)…",
+   "pron": "ji SED dhət",
+   "es": "Dijo que…",
+   "group": "A. Contar lo que alguien dijo"
+  },
+  {
+   "en": "She told me (that)…",
+   "pron": "shi TOULD mi dhət",
+   "es": "Me dijo que…",
+   "group": "A. Contar lo que alguien dijo"
+  },
+  {
+   "en": "They told us (that)…",
+   "pron": "dhei TOULD əs dhət",
+   "es": "Nos dijeron que…",
+   "group": "A. Contar lo que alguien dijo"
+  },
+  {
+   "en": "He explained that…",
+   "pron": "ji ik-SPLÉIND dhət",
+   "es": "Explicó que…",
+   "group": "A. Contar lo que alguien dijo"
+  },
+  {
+   "en": "She mentioned that…",
+   "pron": "shi MÉN-shənd dhət",
+   "es": "Mencionó que…",
+   "group": "A. Contar lo que alguien dijo"
+  },
+  {
+   "en": "The client confirmed that…",
+   "pron": "dhə KLÁI-ənt kən-FÉRMD dhət",
+   "es": "El cliente confirmó que…",
+   "group": "A. Contar lo que alguien dijo"
+  },
+  {
+   "en": "He admitted that…",
+   "pron": "ji əd-MÍ-tid dhət",
+   "es": "Admitió que…",
+   "group": "A. Contar lo que alguien dijo"
+  },
+  {
+   "en": "According to Mark, …",
+   "pron": "ə-KÓR-ding tə MARK",
+   "es": "Según Mark, …",
+   "group": "A. Contar lo que alguien dijo"
+  },
+  {
+   "en": "He asked if…",
+   "pron": "ji ASKT if",
+   "es": "Preguntó si…",
+   "group": "B. Contar preguntas"
+  },
+  {
+   "en": "She asked me whether…",
+   "pron": "shi ASKT mi WÉ-dher",
+   "es": "Me preguntó si…",
+   "group": "B. Contar preguntas"
+  },
+  {
+   "en": "He asked where the inspector was.",
+   "pron": "ji ASKT wer dhi in-SPÉK-ter WAZ",
+   "es": "Preguntó dónde estaba el inspector.",
+   "group": "B. Contar preguntas"
+  },
+  {
+   "en": "She asked when we would finish.",
+   "pron": "shi ASKT wen wi wud FÍ-nish",
+   "es": "Preguntó cuándo terminaríamos.",
+   "group": "B. Contar preguntas"
+  },
+  {
+   "en": "They wanted to know how much it cost.",
+   "pron": "dhei WÓN-tid tə NOU jau MACH it KOST",
+   "es": "Querían saber cuánto costaba.",
+   "group": "B. Contar preguntas"
+  },
+  {
+   "en": "I wondered why…",
+   "pron": "ai WÁN-derd WAI",
+   "es": "Me preguntaba por qué…",
+   "group": "B. Contar preguntas"
+  },
+  {
+   "en": "Do you know if…?",
+   "pron": "də-yə NOU if",
+   "es": "¿Sabes si…?",
+   "group": "B. Contar preguntas"
+  },
+  {
+   "en": "He told us to stop the test.",
+   "pron": "ji TOULD əs tə STOP dhə TEST",
+   "es": "Nos dijo que paráramos la prueba.",
+   "group": "C. Contar órdenes, pedidos y consejos"
+  },
+  {
+   "en": "She asked me to send the drawings.",
+   "pron": "shi ASKT mi tə SEND dhə DRÓ-ingz",
+   "es": "Me pidió que enviara los planos.",
+   "group": "C. Contar órdenes, pedidos y consejos"
+  },
+  {
+   "en": "They told us not to weld in the rain.",
+   "pron": "dhei TOULD əs NOT tə WELD in dhə REIN",
+   "es": "Nos dijeron que no soldáramos bajo la lluvia.",
+   "group": "C. Contar órdenes, pedidos y consejos"
+  },
+  {
+   "en": "He reminded me to sign the permit.",
+   "pron": "ji ri-MÁIN-did mi tə SAIN dhə PÉR-mit",
+   "es": "Me recordó que firmara el permiso.",
+   "group": "C. Contar órdenes, pedidos y consejos"
+  },
+  {
+   "en": "She warned us not to enter the tank.",
+   "pron": "shi WORND əs NOT tu ÉN-ter dhə TANK",
+   "es": "Nos advirtió que no entráramos al tanque.",
+   "group": "C. Contar órdenes, pedidos y consejos"
+  },
+  {
+   "en": "The doctor advised me to rest.",
+   "pron": "dhə DÓK-ter əd-VÁIZD mi tə REST",
+   "es": "El médico me aconsejó descansar.",
+   "group": "C. Contar órdenes, pedidos y consejos"
+  },
+  {
+   "en": "He suggested that we wait.",
+   "pron": "ji səg-YÉS-tid dhət wi WEIT",
+   "es": "Sugirió que esperáramos. (estructura del Módulo 28)",
+   "group": "C. Contar órdenes, pedidos y consejos"
+  },
+  {
+   "en": "He promised to send it by Friday.",
+   "pron": "ji PRÓ-mist tə SEND it bai FRÁI-dei",
+   "es": "Prometió enviarlo para el viernes.",
+   "group": "D. Contar compromisos y respuestas"
+  },
+  {
+   "en": "She agreed to extend the deadline.",
+   "pron": "shi ə-GRÍD tu ik-STÉND dhə DED-lain",
+   "es": "Aceptó extender el plazo.",
+   "group": "D. Contar compromisos y respuestas"
+  },
+  {
+   "en": "They offered to help.",
+   "pron": "dhei Ó-ferd tə JELP",
+   "es": "Se ofrecieron a ayudar.",
+   "group": "D. Contar compromisos y respuestas"
+  },
+  {
+   "en": "The supplier refused to pay.",
+   "pron": "dhə sə-PLÁI-er ri-FYÚZD tə PEI",
+   "es": "El proveedor se negó a pagar.",
+   "group": "D. Contar compromisos y respuestas"
+  },
+  {
+   "en": "He said he would.",
+   "pron": "ji SED ji WUD",
+   "es": "Dijo que sí (que lo haría).",
+   "group": "D. Contar compromisos y respuestas"
+  },
+  {
+   "en": "She said she couldn't.",
+   "pron": "shi SED shi KÚ-dənt",
+   "es": "Dijo que no podía.",
+   "group": "D. Contar compromisos y respuestas"
+  },
+  {
+   "en": "It was agreed that…",
+   "pron": "it wəz ə-GRÍD dhət",
+   "es": "Se acordó que… (Módulo 20)",
+   "group": "E. Resumir reuniones y actas"
+  },
+  {
+   "en": "The client raised a concern about…",
+   "pron": "dhə KLÁI-ənt REIZD ə kən-SÉRN ə-BÁUT",
+   "es": "El cliente planteó una preocupación sobre…",
+   "group": "E. Resumir reuniones y actas"
+  },
+  {
+   "en": "Mark pointed out that…",
+   "pron": "MARK PÓIN-tid ÁUT dhət",
+   "es": "Mark señaló que…",
+   "group": "E. Resumir reuniones y actas"
+  },
+  {
+   "en": "Ana reported that…",
+   "pron": "Á-nə ri-PÓR-tid dhət",
+   "es": "Ana informó que…",
+   "group": "E. Resumir reuniones y actas"
+  },
+  {
+   "en": "Mr. Lee asked for an update on…",
+   "pron": "MIS-ter LI ASKT for ən ÁP-deit on",
+   "es": "Mr. Lee pidió un avance sobre…",
+   "group": "E. Resumir reuniones y actas"
+  },
+  {
+   "en": "Action item: …",
+   "pron": "ÁK-shən ÁI-təm",
+   "es": "Tarea asignada: …",
+   "group": "E. Resumir reuniones y actas"
+  },
+  {
+   "en": "the next day",
+   "pron": "dhə NEKST dei",
+   "es": "al día siguiente (reemplaza a: tomorrow)",
+   "group": "F. Expresiones de tiempo y lugar desplazadas"
+  },
+  {
+   "en": "the day before",
+   "pron": "dhə DEI bi-FÓR",
+   "es": "el día anterior (reemplaza a: yesterday)",
+   "group": "F. Expresiones de tiempo y lugar desplazadas"
+  },
+  {
+   "en": "the following week",
+   "pron": "dhə FÓ-lou-ing WIK",
+   "es": "la semana siguiente (reemplaza a: next week)",
+   "group": "F. Expresiones de tiempo y lugar desplazadas"
+  },
+  {
+   "en": "that day",
+   "pron": "DHAT dei",
+   "es": "ese día (reemplaza a: today)",
+   "group": "F. Expresiones de tiempo y lugar desplazadas"
+  },
+  {
+   "en": "at that moment",
+   "pron": "ət dhat MÓU-mənt",
+   "es": "en ese momento (reemplaza a: now)",
+   "group": "F. Expresiones de tiempo y lugar desplazadas"
+  },
+  {
+   "en": "two days earlier",
+   "pron": "tu deiz ÉR-li-er",
+   "es": "dos días antes (reemplaza a: two days ago)",
+   "group": "F. Expresiones de tiempo y lugar desplazadas"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Tipo",
+    "Directo",
+    "Indirecto",
+    "Cambio clave"
+   ],
+   "rows": [
+    [
+     "Afirmativo",
+     "\"The tank is empty.\"",
+     "He said the tank was empty.",
+     "is → was"
+    ],
+    [
+     "Negativo",
+     "\"I don't have the permit.\"",
+     "She said she didn't have the permit.",
+     "don't → didn't"
+    ],
+    [
+     "Negativo",
+     "\"We won't finish today.\"",
+     "They said they wouldn't finish that day.",
+     "won't → wouldn't · today → that day"
+    ],
+    [
+     "Pregunta sí/no",
+     "\"Are you ready?\"",
+     "He asked if I was ready.",
+     "if + orden normal"
+    ],
+    [
+     "Pregunta sí/no",
+     "\"Did the test pass?\"",
+     "She asked whether the test had passed.",
+     "did → had + participio"
+    ],
+    [
+     "Pregunta WH-",
+     "\"Where do you live?\"",
+     "He asked me where I lived.",
+     "sin do; sujeto antes del verbo"
+    ],
+    [
+     "Pregunta WH-",
+     "\"How long will it take?\"",
+     "She asked how long it would take.",
+     "will → would; it antes del verbo"
+    ],
+    [
+     "Respuesta corta",
+     "\"Yes, I have.\"",
+     "He said he had.",
+     "have → had"
+    ],
+    [
+     "Orden",
+     "\"Close the valve.\"",
+     "He told me to close the valve.",
+     "told + persona + to"
+    ],
+    [
+     "Orden negativa",
+     "\"Don't start yet.\"",
+     "She told us not to start yet.",
+     "not to + verbo"
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Mr. Lee",
+   "text": "Edwin, I couldn't join the client meeting this morning. How did it go?"
+  },
+  {
+   "who": "Edwin",
+   "text": "It went well overall. Sarah said they were happy with the bottom repair."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Good. Did she ask about the delay?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes. She asked why the hydrotest had been postponed. I explained that the water quality report hadn't arrived yet."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "What did she say?"
+  },
+  {
+   "who": "Edwin",
+   "text": "She told me she would call the lab herself. She also asked us not to fill the tank before she approved the report."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Fair enough. Anything else?"
+  },
+  {
+   "who": "Edwin",
+   "text": "She wanted to know if we could send the inspection photos by Friday. I promised to send them tomorrow."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Perfect. Did anyone mention the extra cost for the nozzle?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Mark brought it up. Sarah said she needed to discuss it with her manager and would reply next week."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "OK. Please put all that in the minutes and copy me."
+  }
+ ],
+ "examples": [
+  {
+   "en": "The inspector said that two welds had failed the X-ray test.",
+   "es": "El inspector dijo que dos soldaduras habían fallado la radiografía.",
+   "situation": "Inspección de soldadura"
+  },
+  {
+   "en": "The safety officer told us not to enter the tank without a gas test.",
+   "es": "El oficial de seguridad nos dijo que no entráramos al tanque sin prueba de gases.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "The client asked if we could finish the hydrotest by Friday.",
+   "es": "El cliente preguntó si podíamos terminar la prueba hidrostática para el viernes.",
+   "situation": "Cliente"
+  },
+  {
+   "en": "The supplier promised that the flanges would arrive the following week.",
+   "es": "El proveedor prometió que las bridas llegarían la semana siguiente.",
+   "situation": "Proveedor"
+  },
+  {
+   "en": "Mr. Lee wanted to know why the crane hadn't arrived.",
+   "es": "Mr. Lee quería saber por qué no había llegado la grúa.",
+   "situation": "Reunión"
+  },
+  {
+   "en": "Ana told me she was working on the new isometrics.",
+   "es": "Ana me dijo que estaba trabajando en los nuevos isométricos.",
+   "situation": "Oficina"
+  },
+  {
+   "en": "The engineer explained that the supports had been moved 50 mm.",
+   "es": "El ingeniero explicó que los soportes se habían movido 50 mm.",
+   "situation": "Planos"
+  },
+  {
+   "en": "The doctor told me to drink more water and rest for two days.",
+   "es": "El médico me dijo que tomara más agua y descansara dos días.",
+   "situation": "Médico"
+  },
+  {
+   "en": "The bank officer asked me where I worked and how much I earned.",
+   "es": "El empleado del banco me preguntó dónde trabajaba y cuánto ganaba.",
+   "situation": "Banco"
+  },
+  {
+   "en": "The airline said our flight had been canceled because of the storm.",
+   "es": "La aerolínea dijo que nuestro vuelo había sido cancelado por la tormenta.",
+   "situation": "Viaje"
+  },
+  {
+   "en": "The waiter asked us whether we wanted a table inside or outside.",
+   "es": "El mesero nos preguntó si queríamos una mesa adentro o afuera.",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "Carlos said he couldn't come to the party because he was on the night shift.",
+   "es": "Carlos dijo que no podía venir a la fiesta porque estaba en turno de noche.",
+   "situation": "Social"
+  },
+  {
+   "en": "They agreed to reduce the price if we signed before the end of the month.",
+   "es": "Aceptaron bajar el precio si firmábamos antes de fin de mes.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "Sarah reminded me to send the daily report before 5 p.m.",
+   "es": "Sarah me recordó que enviara el reporte diario antes de las 5 p. m.",
+   "situation": "Recordatorio"
+  },
+  {
+   "en": "The contractor confirmed that all bolts had been torqued to the specified value.",
+   "es": "El contratista confirmó que todos los pernos habían sido ajustados al torque especificado.",
+   "situation": "Acta formal"
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "He said me that he was tired.",
+   "right": "He told me (that) he was tired.",
+   "why": "Con persona se usa tell; say no lleva persona directa."
+  },
+  {
+   "wrong": "She told that the test was OK.",
+   "right": "She said that the test was OK.",
+   "why": "Tell necesita persona. Sin persona → say."
+  },
+  {
+   "wrong": "He asked where was the inspector.",
+   "right": "He asked where the inspector was.",
+   "why": "Pregunta indirecta = orden de afirmación (sujeto + verbo)."
+  },
+  {
+   "wrong": "She asked me where did I work.",
+   "right": "She asked me where I worked.",
+   "why": "Did desaparece; el verbo lleva el pasado."
+  },
+  {
+   "wrong": "He asked me do I have a car.",
+   "right": "He asked me if I had a car.",
+   "why": "Pregunta sí/no → if / whether + orden normal."
+  },
+  {
+   "wrong": "He told me that I wait.",
+   "right": "He told me to wait.",
+   "why": "Órdenes y pedidos = told / asked + persona + to."
+  },
+  {
+   "wrong": "She told us don't touch it.",
+   "right": "She told us not to touch it.",
+   "why": "Orden negativa = not to + verbo."
+  },
+  {
+   "wrong": "He said he will called me.",
+   "right": "He said he would call me.",
+   "why": "Will → would + verbo base; nunca base + -ed."
+  },
+  {
+   "wrong": "She said she has finished yesterday.",
+   "right": "She said she had finished the day before.",
+   "why": "Pasado → had + participio; yesterday se desplaza si lo cuentas otro día."
+  },
+  {
+   "wrong": "He asked: \"if the crane had arrived?\"",
+   "right": "He asked if the crane had arrived.",
+   "why": "El estilo indirecto no usa comillas ni signo de pregunta."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "He pretended that…",
+   "looks": "pretendió",
+   "means": "fingió que…",
+   "fix": "He intended to… / He tried to…"
+  },
+  {
+   "en": "She advised me…",
+   "looks": "me avisó",
+   "means": "me aconsejó",
+   "fix": "She let me know / informed me…"
+  },
+  {
+   "en": "He discussed with me.",
+   "looks": "discutió conmigo",
+   "means": "(incorrecto; discuss lleva tema)",
+   "fix": "He argued with me. / We discussed the cost."
+  },
+  {
+   "en": "She remembered me to…",
+   "looks": "me recordó",
+   "means": "(incorrecto)",
+   "fix": "She reminded me to…"
+  },
+  {
+   "en": "He demanded payment.",
+   "looks": "demandó (juicio)",
+   "means": "exigió el pago",
+   "fix": "He sued the company."
+  },
+  {
+   "en": "They assisted the meeting.",
+   "looks": "asistieron",
+   "means": "(incorrecto; assist = ayudar)",
+   "fix": "They attended the meeting."
+  },
+  {
+   "en": "The minutes of the meeting",
+   "looks": "los minutos",
+   "means": "el acta de la reunión",
+   "fix": "The meeting took 40 minutes."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Mark dijo que la grúa estaba malograda.",
+    "answers": [
+     "Mark said that the crane was broken.",
+     "Mark said the crane was broken."
+    ],
+    "explain": "Sin persona → said. Is → was. \"Malograda\" = broken."
+   },
+   {
+    "prompt": "El inspector me dijo que la soldadura estaba bien.",
+    "answers": [
+     "The inspector told me that the weld was OK.",
+     "The inspector told me the weld was OK.",
+     "The inspector told me that the weld was fine.",
+     "The inspector told me the weld was fine.",
+     "The inspector told me that the weld was okay.",
+     "The inspector told me the weld was okay."
+    ],
+    "explain": "Con persona (me) → told. Nunca said me."
+   },
+   {
+    "prompt": "Ana dijo que enviaría los planos al día siguiente.",
+    "answers": [
+     "Ana said that she would send the drawings the next day.",
+     "Ana said she would send the drawings the next day.",
+     "Ana said that she would send the drawings the following day.",
+     "Ana said she would send the drawings the following day."
+    ],
+    "explain": "Will → would; \"al día siguiente\" = the next / following day."
+   },
+   {
+    "prompt": "El cliente preguntó si podíamos empezar el lunes.",
+    "answers": [
+     "The client asked if we could start on Monday.",
+     "The client asked whether we could start on Monday."
+    ],
+    "explain": "Pregunta sí/no → if; can → could; orden we could."
+   },
+   {
+    "prompt": "Me preguntó dónde trabajaba.",
+    "answers": [
+     "He asked me where I worked.",
+     "She asked me where I worked.",
+     "He asked me where I was working.",
+     "She asked me where I was working."
+    ],
+    "explain": "Pregunta WH-: where + I + worked, sin did."
+   },
+   {
+    "prompt": "El supervisor nos dijo que usáramos arnés.",
+    "answers": [
+     "The supervisor told us to wear a harness."
+    ],
+    "explain": "Orden → told + us + to + verbo. El subjuntivo \"usáramos\" = to wear."
+   },
+   {
+    "prompt": "Nos pidió que no fumáramos cerca del tanque.",
+    "answers": [
+     "He asked us not to smoke near the tank.",
+     "She asked us not to smoke near the tank."
+    ],
+    "explain": "Pedido negativo → asked + us + not to."
+   },
+   {
+    "prompt": "Dijeron que ya habían terminado la prueba.",
+    "answers": [
+     "They said that they had already finished the test.",
+     "They said they had already finished the test."
+    ],
+    "explain": "\"Habían terminado\" = had finished; already entre had y el participio."
+   },
+   {
+    "prompt": "Ella quería saber cuánto costaba la reparación.",
+    "answers": [
+     "She wanted to know how much the repair cost."
+    ],
+    "explain": "WH- + sujeto (the repair) + verbo (cost, pasado igual que presente). Nunca how much did the repair cost."
+   },
+   {
+    "prompt": "El proveedor prometió entregar las bridas la semana siguiente.",
+    "answers": [
+     "The supplier promised to deliver the flanges the following week.",
+     "The supplier promised to deliver the flanges the next week."
+    ],
+    "explain": "Promise + to + verbo; \"la semana siguiente\" = the following / next week."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "He told me he had been working there for five years.",
+    "answers": [
+     "Me dijo que llevaba cinco años trabajando allí.",
+     "Me dijo que había estado trabajando allí cinco años.",
+     "Me dijo que había estado trabajando allí durante cinco años."
+    ],
+    "explain": "Had been working = presente perfecto continuo desplazado (Módulo 14)."
+   },
+   {
+    "prompt": "She asked whether the report had been approved.",
+    "answers": [
+     "Ella preguntó si el informe había sido aprobado.",
+     "Ella preguntó si se había aprobado el informe.",
+     "Preguntó si el informe había sido aprobado."
+    ],
+    "explain": "Whether = si; pasiva en pasado perfecto (Módulo 20)."
+   },
+   {
+    "prompt": "The doctor advised me to rest for a week.",
+    "answers": [
+     "El médico me aconsejó descansar una semana.",
+     "El médico me aconsejó que descansara una semana.",
+     "El doctor me aconsejó descansar durante una semana."
+    ],
+    "explain": "Advise = aconsejar (no \"avisar\")."
+   },
+   {
+    "prompt": "They said they couldn't come because of the storm.",
+    "answers": [
+     "Dijeron que no podían venir por la tormenta.",
+     "Dijeron que no podían venir debido a la tormenta.",
+     "Dijeron que no podían venir a causa de la tormenta."
+    ],
+    "explain": "Couldn't = can't desplazado."
+   },
+   {
+    "prompt": "Mr. Lee reminded us to sign the permit before starting.",
+    "answers": [
+     "Mr. Lee nos recordó firmar el permiso antes de empezar.",
+     "Mr. Lee nos recordó que firmáramos el permiso antes de empezar.",
+     "El señor Lee nos recordó firmar el permiso antes de comenzar."
+    ],
+    "explain": "Remind + persona + to = recordarle a alguien que haga algo."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "He said me that the pump was broken.",
+    "answers": [
+     "He told me that the pump was broken."
+    ],
+    "explain": "Con persona → told, no said me."
+   },
+   {
+    "prompt": "She told that the drawings were ready.",
+    "answers": [
+     "She said that the drawings were ready.",
+     "She told us that the drawings were ready."
+    ],
+    "explain": "Sin persona → said. (También: She told us that…)"
+   },
+   {
+    "prompt": "The client asked when would we finish the job.",
+    "answers": [
+     "The client asked when we would finish the job."
+    ],
+    "explain": "Orden de afirmación: we would."
+   },
+   {
+    "prompt": "He asked me where did I buy the gaskets.",
+    "answers": [
+     "He asked me where I had bought the gaskets.",
+     "He asked me where I bought the gaskets."
+    ],
+    "explain": "Sin did; pasado desplazado → had bought. (where I bought también se acepta.)"
+   },
+   {
+    "prompt": "She asked me do I need help.",
+    "answers": [
+     "She asked me if I needed help."
+    ],
+    "explain": "Pregunta sí/no → if + I needed."
+   },
+   {
+    "prompt": "The supervisor told us to starting at 7.",
+    "answers": [
+     "The supervisor told us to start at 7."
+    ],
+    "explain": "Orden → told us to + verbo base; después de to no va -ing."
+   },
+   {
+    "prompt": "He told us don't weld in the rain.",
+    "answers": [
+     "He told us not to weld in the rain."
+    ],
+    "explain": "Orden negativa → not to."
+   },
+   {
+    "prompt": "Ana said she will sent the report the next day.",
+    "answers": [
+     "Ana said she would send the report the next day."
+    ],
+    "explain": "Will → would + verbo base (send)."
+   },
+   {
+    "prompt": "He asked if the test has passed the day before.",
+    "answers": [
+     "He asked if the test had passed the day before."
+    ],
+    "explain": "Con the day before y asked: had passed."
+   },
+   {
+    "prompt": "She reminded me sign the permit.",
+    "answers": [
+     "She reminded me to sign the permit."
+    ],
+    "explain": "Remind + persona + to: faltaba to."
+   }
+  ],
+  "bonus": {
+   "prompt": "Reporta en estilo indirecto: Sarah: \"Will the tank be ready tomorrow?\" (lo cuentas una semana después).",
+   "answer": "Sarah asked if / whether the tank would be ready the next day. (Will → would; tomorrow → the next day porque lo cuentas una semana después.)"
+  },
+  "C1": {
+   "instructions": "Completa el resumen con estas palabras; usa cada una una sola vez: said, told, asked, if, to, not, would, had.",
+   "lines": [
+    {
+     "who": "Mr. Lee",
+     "text": "So, what happened at the site meeting?"
+    },
+    {
+     "who": "You",
+     "text": "The client [1] that she was worried about the schedule."
+    },
+    {
+     "who": "Mr. Lee",
+     "text": "What did she ask?"
+    },
+    {
+     "who": "You",
+     "text": "She [2] why the hydrotest [3] been postponed. She also wanted to know [4] we could work on Saturday."
+    },
+    {
+     "who": "Mr. Lee",
+     "text": "And what did you say?"
+    },
+    {
+     "who": "You",
+     "text": "I [5] her that we could. I promised that the test [6] be done by Monday."
+    },
+    {
+     "who": "Mr. Lee",
+     "text": "Did she give any instructions?"
+    },
+    {
+     "who": "You",
+     "text": "Yes. She asked us [7] send her the water report, and she told us [8] to fill the tank without her approval."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "said"
+     ],
+     "explain": "Sin persona después: The client said that…"
+    },
+    {
+     "n": 2,
+     "answers": [
+      "asked"
+     ],
+     "explain": "Introduce una pregunta WH-: She asked why…"
+    },
+    {
+     "n": 3,
+     "answers": [
+      "had"
+     ],
+     "explain": "Pasado perfecto pasivo: the hydrotest had been postponed."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "if"
+     ],
+     "explain": "Pregunta sí/no reportada: wanted to know if we could…"
+    },
+    {
+     "n": 5,
+     "answers": [
+      "told"
+     ],
+     "explain": "Con persona (her): I told her that…"
+    },
+    {
+     "n": 6,
+     "answers": [
+      "would"
+     ],
+     "explain": "Promesa desplazada: will → would."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "to"
+     ],
+     "explain": "Pedido: asked us to send."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "not"
+     ],
+     "explain": "Orden negativa: told us not to fill."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta el resumen de una reunión (7 puntos). Escribe un correo de 6 a 8 oraciones a un colega que no pudo asistir a una reunión (real o inventada). Debe incluir: (a) una afirmación reportada con said o told y paso atrás del tiempo; (b) una pregunta sí/no reportada con if / whether; (c) una pregunta WH- reportada con orden correcto; (d) una orden o pedido con told / asked + persona + (not) to; (e) un compromiso con promised / agreed / offered to; (f) al menos una expresión de tiempo desplazada o bien justificada; (g) saludo, asunto y cierre profesionales.",
+   "rubric": [
+    "(a) una afirmación reportada con said o told y paso atrás del tiempo",
+    "(b) una pregunta sí/no reportada con if / whether",
+    "(c) una pregunta WH- reportada con orden correcto",
+    "(d) una orden o pedido con told / asked + persona + (not) to",
+    "(e) un compromiso con promised / agreed / offered to",
+    "(f) al menos una expresión de tiempo desplazada o bien justificada",
+    "(g) saludo, asunto y cierre profesionales"
+   ],
+   "model": "Subject: Summary – Tank 12 client meeting (Oct 14)\nHi Carlos,\nHere is a quick summary of yesterday's meeting with Sarah. She said the bottom repair looked very good, but she was worried about the schedule. She asked if we could work on Saturday. She also wanted to know why the hydrotest had been postponed, and I explained that the water report hadn't arrived. She asked us not to fill the tank before she approved the report. Mark offered to bring a second crew, and Sarah agreed to discuss the extra cost with her manager the following week. Let me know if you have any questions.\nBest regards,\nEdwin"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Elegir entre say y tell sin dudar.",
+   "test": "Completa 10 frases con said / told en 1 minuto; 10 de 10 correctas."
+  },
+  {
+   "skill": "Aplicar el paso atrás de los tiempos.",
+   "test": "Pasa a indirecto 8 frases (is, are working, did, has done, will, can, must, may) en 3 minutos, cero errores."
+  },
+  {
+   "skill": "Reportar preguntas con el orden correcto.",
+   "test": "Reporta 6 preguntas (3 sí/no, 3 WH-) sin usar do/did ni invertir el sujeto."
+  },
+  {
+   "skill": "Reportar órdenes, pedidos y advertencias.",
+   "test": "Escribe 5 frases con told / asked / warned / reminded + persona + (not) to; 5 de 5 correctas."
+  },
+  {
+   "skill": "Ajustar expresiones de tiempo y lugar.",
+   "test": "Di en 30 segundos el equivalente indirecto de: today, yesterday, tomorrow, next week, ago, now, here."
+  },
+  {
+   "skill": "Contar una reunión de forma oral.",
+   "test": "Grábate 60 segundos resumiendo una reunión real con al menos 5 verbos introductores distintos."
+  },
+  {
+   "skill": "Redactar el resumen de una reunión.",
+   "test": "Escribe un correo de 6–8 oraciones que cumpla los 7 criterios de la C2."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What did your boss tell you at your last meeting?",
+  "What did the last client or customer ask you?",
+  "What did your parents always tell you to do?",
+  "What did your friends say when you got your first job?",
+  "Has anyone promised to help you recently? What did they promise to do?",
+  "What did the doctor advise you to do the last time you were sick?"
+ ]
+}

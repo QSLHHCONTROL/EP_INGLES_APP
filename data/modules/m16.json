@@ -1,0 +1,950 @@
+{
+ "id": 16,
+ "level": "B1",
+ "title": "Modales de obligación y consejo (must, have to, should)",
+ "goal": "Al terminar podrás explicar reglas de seguridad y requisitos, separar lo prohibido de lo opcional (mustn't vs don't have to), dar consejos y advertencias con la fuerza justa y hablar de obligaciones pasadas y futuras (had to, will have to) sin errores de forma.",
+ "lesson": [
+  {
+   "title": "¿Qué es un verbo modal?",
+   "html": "<p>En español casi todo se resuelve con <i>deber</i>, <i>tener que</i> y <i>hay que</i>. El inglés es más preciso: antes de hablar, el nativo decide <b>cuánta fuerza</b> tiene lo que dice (¿es un consejo, una advertencia o una obligación?) y <b>de dónde viene</b> (¿de su opinión, de una norma escrita, de la situación?). Elegir mal no suele ser un error gramatical, sino un error de mensaje: un <span class=\"en\">you must</span> a un colega puede sonar a orden, y un <span class=\"en\">you should</span> en una regla de seguridad suena a que es opcional.</p><p><span class=\"en\">Must</span> y <span class=\"en\">should</span> son <b>verbos modales</b>: no expresan una acción, sino la actitud del hablante ante la acción. Tienen cuatro rasgos fijos que debes respetar siempre:</p><ul><li><b>Una sola forma para todos:</b> <span class=\"en\">I must, he must</span>. Nunca <span class=\"wrong\">he musts</span>.</li><li><b>Verbo base sin <i>to</i> después:</b> <span class=\"en\">You should call him.</span> Nunca <span class=\"wrong\">should to call</span>.</li><li><b>Sin do/does/did:</b> se niegan y se preguntan solos: <span class=\"en\">shouldn't</span>, <span class=\"en\">Should I…?</span></li><li><b>Sin pasado ni futuro propios:</b> no existe <span class=\"wrong\">musted</span> ni <span class=\"wrong\">will must</span>.</li></ul><p><span class=\"en\">Have to</span> y <span class=\"en\">need to</span> <b>no son modales</b>: son verbos normales que significan obligación. Por eso se conjugan (<span class=\"en\">has to, had to, will have to</span>) y usan <i>do/does/did</i> en negativo y pregunta, igual que en el Módulo 3. Esa diferencia es la clave de todo el módulo.</p>",
+   "svg": "<svg viewBox=\"0 0 640 300\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs><marker id=\"m16a1\" markerWidth=\"10\" markerHeight=\"10\" refX=\"8\" refY=\"5\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#1570EF\"/></marker></defs>\n  <text x=\"20\" y=\"16\" font-size=\"11\" font-weight=\"700\" fill=\"#667085\">MÁS SUAVE</text>\n  <text x=\"620\" y=\"16\" text-anchor=\"end\" font-size=\"11\" font-weight=\"700\" fill=\"#667085\">MÁS FUERTE</text>\n  <line x1=\"24\" y1=\"28\" x2=\"612\" y2=\"28\" stroke=\"#1570EF\" stroke-width=\"3\" marker-end=\"url(#m16a1)\"/>\n  <rect x=\"20\" y=\"44\" width=\"112\" height=\"64\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"76\" y=\"72\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#1570EF\">should</text>\n  <text x=\"76\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1570EF\">consejo</text>\n  <rect x=\"142\" y=\"44\" width=\"112\" height=\"64\" rx=\"10\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"2\"/>\n  <text x=\"198\" y=\"72\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#7A5B00\">had better</text>\n  <text x=\"198\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#7A5B00\">advertencia</text>\n  <rect x=\"264\" y=\"44\" width=\"112\" height=\"64\" rx=\"10\" fill=\"#C6DBFC\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"72\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#1D2939\">need to</text>\n  <text x=\"320\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">necesidad</text>\n  <rect x=\"386\" y=\"44\" width=\"112\" height=\"64\" rx=\"10\" fill=\"#1570EF\"/>\n  <text x=\"442\" y=\"72\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#FFFFFF\">have to</text>\n  <text x=\"442\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#EAF2FF\">obligación</text>\n  <rect x=\"508\" y=\"44\" width=\"112\" height=\"64\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"564\" y=\"72\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#FFFFFF\">must</text>\n  <text x=\"564\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#F2F4F7\">obligación fuerte</text>\n  <line x1=\"20\" y1=\"116\" x2=\"620\" y2=\"116\" stroke=\"#D0D5DD\"/>\n  <text x=\"20\" y=\"132\" font-size=\"11\" font-weight=\"700\" fill=\"#667085\">EJEMPLO</text>\n  <text x=\"76\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">You should</text>\n  <text x=\"76\" y=\"166\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">rest.</text>\n  <text x=\"198\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">You'd better</text>\n  <text x=\"198\" y=\"166\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">hurry.</text>\n  <text x=\"320\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">I need to</text>\n  <text x=\"320\" y=\"166\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">call him.</text>\n  <text x=\"442\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">I have to</text>\n  <text x=\"442\" y=\"166\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">work today.</text>\n  <text x=\"564\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">You must</text>\n  <text x=\"564\" y=\"166\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">wear PPE.</text>\n  <line x1=\"20\" y1=\"176\" x2=\"620\" y2=\"176\" stroke=\"#D0D5DD\"/>\n  <text x=\"20\" y=\"192\" font-size=\"11\" font-weight=\"700\" fill=\"#667085\">DE DÓNDE VIENE</text>\n  <text x=\"76\" y=\"210\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">tu opinión</text>\n  <text x=\"198\" y=\"210\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">un riesgo real</text>\n  <text x=\"320\" y=\"210\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">la situación</text>\n  <text x=\"442\" y=\"210\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">una regla externa</text>\n  <text x=\"564\" y=\"210\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">norma escrita</text>\n  <text x=\"564\" y=\"225\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">o urgencia</text>\n  <line x1=\"20\" y1=\"236\" x2=\"620\" y2=\"236\" stroke=\"#D0D5DD\"/>\n  <text x=\"20\" y=\"252\" font-size=\"11\" font-weight=\"700\" fill=\"#667085\">EN NEGATIVO</text>\n  <text x=\"76\" y=\"272\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#1570EF\">shouldn't</text>\n  <text x=\"76\" y=\"288\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">mala idea</text>\n  <text x=\"198\" y=\"272\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#7A5B00\">'d better not</text>\n  <text x=\"198\" y=\"288\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">evita el riesgo</text>\n  <text x=\"320\" y=\"272\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#079455\">don't need to</text>\n  <text x=\"320\" y=\"288\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">no hace falta</text>\n  <text x=\"442\" y=\"272\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#079455\">don't have to</text>\n  <text x=\"442\" y=\"288\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">no hace falta</text>\n  <text x=\"564\" y=\"272\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#D92D20\">mustn't</text>\n  <text x=\"564\" y=\"288\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#D92D20\">¡PROHIBIDO!</text>\n</svg>",
+   "caption": "Figura 16.1 — Escala de fuerza. Fíjate en la última fila: el negativo de have to y el de must significan cosas opuestas."
+  },
+  {
+   "title": "Las formas: must, have to y should",
+   "html": "<table><thead><tr><th></th><th>MUST (modal)</th><th>HAVE TO (verbo normal)</th><th>SHOULD (modal)</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td><span class=\"en\">I / He must go.</span></td><td><span class=\"en\">I have to go. / He has to go.</span></td><td><span class=\"en\">I / He should go.</span></td></tr><tr><td><b>Negativo</b></td><td><span class=\"en\">You mustn't go.</span><br>= prohibido</td><td><span class=\"en\">You don't have to go. / He doesn't have to go.</span><br>= no es necesario</td><td><span class=\"en\">You shouldn't go.</span><br>= no es buena idea</td></tr><tr><td><b>Pregunta</b></td><td><span class=\"en\">Must I go?</span><br>(formal y poco usada)</td><td><span class=\"en\">Do I have to go? / Does he have to go?</span></td><td><span class=\"en\">Should I go?</span></td></tr><tr><td><b>Respuesta corta</b></td><td><span class=\"en\">Yes, you must. / No, you don't have to.</span></td><td><span class=\"en\">Yes, you do. / No, you don't.</span></td><td><span class=\"en\">Yes, you should. / No, you shouldn't.</span></td></tr><tr><td><b>Pasado</b></td><td><span class=\"en\">had to</span></td><td><span class=\"en\">had to</span></td><td>should have + participio (Módulo 19)</td></tr><tr><td><b>Futuro</b></td><td><span class=\"en\">will have to</span></td><td><span class=\"en\">will have to</span></td><td><span class=\"en\">should (sirve para futuro: You should go tomorrow.)</span></td></tr></tbody></table><p><b>Regla de oro 1 — Modal + verbo base, sin TO y sin -S</b></p><p>Después de <i>must, should</i> va el verbo puro: <span class=\"ok\">She must sign.</span> <span class=\"ok\">He should check.</span> Nunca <span class=\"wrong\">She must to sign</span> ni <span class=\"wrong\">He shoulds check</span>.</p><p>Las expresiones <span class=\"en\">have to, need to, ought to</span> sí llevan <i>to</i>, porque el <i>to</i> es parte de la expresión, no un añadido.</p><p><b>Regla de oro 2 — MUSTN'T ≠ DON'T HAVE TO</b></p><p>En afirmativo, <span class=\"en\">must</span> y <span class=\"en\">have to</span> casi son sinónimos. En negativo se separan por completo: <span class=\"en\">mustn't</span> = está prohibido; <span class=\"en\">don't have to</span> = no es necesario, tú decides. Confundirlos es el error n.º 1 de los hispanohablantes, porque \"no tienes que\" y \"no debes\" se sienten parecidos en español.</p>",
+   "svg": "<svg viewBox=\"0 0 640 240\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs><marker id=\"m16a2\" markerWidth=\"10\" markerHeight=\"10\" refX=\"6\" refY=\"5\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#079455\"/></marker></defs>\n  <rect x=\"20\" y=\"20\" width=\"280\" height=\"200\" rx=\"14\" fill=\"#FEF0EF\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <rect x=\"62\" y=\"76\" width=\"36\" height=\"9\" rx=\"2\" fill=\"#667085\"/>\n  <circle cx=\"80\" cy=\"80\" r=\"34\" fill=\"none\" stroke=\"#D92D20\" stroke-width=\"7\"/>\n  <line x1=\"56\" y1=\"56\" x2=\"104\" y2=\"104\" stroke=\"#D92D20\" stroke-width=\"7\"/>\n  <text x=\"130\" y=\"72\" font-size=\"24\" font-weight=\"800\" fill=\"#D92D20\">mustn't</text>\n  <text x=\"130\" y=\"96\" font-size=\"14\" font-weight=\"800\" fill=\"#D92D20\">= PROHIBIDO</text>\n  <text x=\"160\" y=\"150\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">You mustn't smoke here.</text>\n  <text x=\"160\" y=\"178\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">No hay opción: no lo hagas.</text>\n  <text x=\"160\" y=\"202\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">Español: no debes / no puedes</text>\n  <text x=\"320\" y=\"134\" text-anchor=\"middle\" font-size=\"40\" font-weight=\"800\" fill=\"#1D2939\">≠</text>\n  <rect x=\"340\" y=\"20\" width=\"280\" height=\"200\" rx=\"14\" fill=\"#E8F7EF\" stroke=\"#079455\" stroke-width=\"2\"/>\n  <path d=\"M398 118 L398 92\" stroke=\"#079455\" stroke-width=\"5\" fill=\"none\"/>\n  <path d=\"M398 92 L378 66\" stroke=\"#079455\" stroke-width=\"5\" fill=\"none\" marker-end=\"url(#m16a2)\"/>\n  <path d=\"M398 92 L418 66\" stroke=\"#079455\" stroke-width=\"5\" fill=\"none\" marker-end=\"url(#m16a2)\"/>\n  <text x=\"440\" y=\"72\" font-size=\"20\" font-weight=\"800\" fill=\"#079455\">don't have to</text>\n  <text x=\"440\" y=\"96\" font-size=\"13\" font-weight=\"800\" fill=\"#079455\">= NO ES NECESARIO</text>\n  <text x=\"480\" y=\"150\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">You don't have to wear a tie.</text>\n  <text x=\"480\" y=\"178\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">Tú decides: puedes hacerlo o no.</text>\n  <text x=\"480\" y=\"202\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">Español: no tienes que / no hace falta</text>\n</svg>",
+   "caption": "Figura 16.2 — Prohibido vs opcional. Si la persona puede elegir, nunca uses mustn't."
+  },
+  {
+   "title": "MUST solo vive en el presente",
+   "html": "<p><b>Regla de oro 3 — MUST solo vive en el presente</b></p><p>Para pasado y futuro, cambia a <span class=\"en\">have to</span>: <span class=\"ok\">I had to wait.</span> <span class=\"ok\">We'll have to wait.</span> Nunca <span class=\"wrong\">I musted</span> ni <span class=\"wrong\">we will must</span>: dos modales no pueden ir juntos.</p><p><b>Así piensa un nativo — must suena a reglamento</b></p><p>En el inglés hablado de EE. UU., la obligación diaria se dice casi siempre con <span class=\"en\">have to</span> o, de forma informal, <span class=\"en\">I've got to go</span> <span class=\"pron\">aiv GÓ-tə GOU</span>. <span class=\"en\">Must</span> aparece sobre todo en <b>textos escritos</b> (carteles, manuales, contratos, procedimientos: <span class=\"en\">All personnel must wear PPE.</span>), en órdenes muy firmes y en recomendaciones entusiastas: <span class=\"en\">You must try the ceviche!</span></p><p><span class=\"en\">Should</span> es la herramienta de la cortesía: suaviza instrucciones entre colegas (<span class=\"en\">You should check the gasket first.</span>) y sirve para pedir opinión (<span class=\"en\">Should I call the client?</span>). Con un jefe o cliente, <span class=\"en\">I think you should…</span> suena profesional; <span class=\"en\">You must…</span> puede sonar a que le das órdenes.</p>",
+   "svg": "<svg viewBox=\"0 0 640 190\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs><marker id=\"m16a3\" markerWidth=\"10\" markerHeight=\"10\" refX=\"8\" refY=\"5\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#667085\"/></marker></defs>\n  <rect x=\"40\" y=\"24\" width=\"160\" height=\"58\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"120\" y=\"52\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#1570EF\">had to</text>\n  <text x=\"120\" y=\"72\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1D2939\">I had to wait.</text>\n  <rect x=\"240\" y=\"24\" width=\"160\" height=\"58\" rx=\"10\" fill=\"#1570EF\"/>\n  <text x=\"320\" y=\"52\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#FFFFFF\">must / have to</text>\n  <text x=\"320\" y=\"72\" text-anchor=\"middle\" font-size=\"12\" fill=\"#EAF2FF\">I have to go.</text>\n  <rect x=\"440\" y=\"24\" width=\"160\" height=\"58\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"520\" y=\"52\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#1570EF\">will have to</text>\n  <text x=\"520\" y=\"72\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1D2939\">We'll have to wait.</text>\n  <line x1=\"120\" y1=\"82\" x2=\"120\" y2=\"104\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <line x1=\"320\" y1=\"82\" x2=\"320\" y2=\"104\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <line x1=\"520\" y1=\"82\" x2=\"520\" y2=\"104\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <line x1=\"30\" y1=\"110\" x2=\"612\" y2=\"110\" stroke=\"#667085\" stroke-width=\"3\" marker-end=\"url(#m16a3)\"/>\n  <circle cx=\"120\" cy=\"110\" r=\"7\" fill=\"#1570EF\"/>\n  <circle cx=\"320\" cy=\"110\" r=\"9\" fill=\"#E8590C\"/>\n  <circle cx=\"520\" cy=\"110\" r=\"7\" fill=\"#1570EF\"/>\n  <text x=\"120\" y=\"136\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">PASADO</text>\n  <text x=\"320\" y=\"136\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#E8590C\">AHORA</text>\n  <text x=\"520\" y=\"136\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">FUTURO</text>\n  <text x=\"120\" y=\"172\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#D92D20\">musted</text>\n  <line x1=\"94\" y1=\"167\" x2=\"146\" y2=\"167\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"172\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">must no tiene pasado ni futuro propio</text>\n  <text x=\"520\" y=\"172\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#D92D20\">will must</text>\n  <line x1=\"481\" y1=\"167\" x2=\"559\" y2=\"167\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n</svg>",
+   "caption": "Figura 16.3 — Línea de tiempo de la obligación: have to cubre el pasado y el futuro que must no puede expresar."
+  },
+  {
+   "title": "Traducción directa vs interpretación real",
+   "html": "<p>El verbo <i>deber</i> del español cubre tres ideas que en inglés son palabras distintas: obligación (<span class=\"en\">must / have to</span>), consejo (<span class=\"en\">should</span>) y deuda (<span class=\"en\">owe</span>). Además, <i>hay que</i> no tiene equivalente literal: el inglés necesita un sujeto (<span class=\"en\">you, we</span>).</p><table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>Hay que firmar aquí.</td><td><span class=\"en\">You have to sign here.</span> <span class=\"wrong\">There is to sign</span></td></tr><tr><td>No tienes que venir.</td><td><span class=\"en\">You don't have to come.</span> <span class=\"wrong\">You mustn't come</span></td></tr><tr><td>No debes tocar eso.</td><td><span class=\"en\">You mustn't touch that.</span></td></tr><tr><td>Deberías descansar.</td><td><span class=\"en\">You should rest.</span> <span class=\"wrong\">You would should</span></td></tr><tr><td>Tuve que esperar.</td><td><span class=\"en\">I had to wait.</span> <span class=\"wrong\">I musted wait</span></td></tr><tr><td>Le debo 20 dólares.</td><td><span class=\"en\">I owe him 20 dollars.</span> <span class=\"wrong\">I must him</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>Debes usar casco.</td><td><span class=\"wrong\">You must to use helmet.</span></td><td><span class=\"ok\">You have to wear a hard hat.</span></td></tr><tr><td>¿Debo llamarlo?</td><td><span class=\"wrong\">Do I must call him?</span></td><td><span class=\"ok\">Should I call him?</span></td></tr><tr><td>Mejor te apuras.</td><td><span class=\"wrong\">Better you hurry.</span></td><td><span class=\"ok\">You'd better hurry.</span></td></tr><tr><td>Tendré que trabajar el sábado.</td><td><span class=\"wrong\">I will must work on Saturday.</span></td><td><span class=\"ok\">I'll have to work on Saturday.</span></td></tr><tr><td>Es obligatorio llevar arnés.</td><td><span class=\"wrong\">Is obligatory to carry harness.</span></td><td><span class=\"ok\">You must wear a harness. / A harness is mandatory.</span></td></tr><tr><td>No es necesario que traigas nada.</td><td><span class=\"wrong\">Is not necessary that you bring nothing.</span></td><td><span class=\"ok\">You don't need to bring anything.</span></td></tr></tbody></table><p>Detalle léxico: la ropa y el equipo de protección se \"llevan puestos\" → <b>wear</b>, no <i>use</i> ni <i>carry</i>.</p>"
+  },
+  {
+   "title": "Detalles finos y mapa de decisión",
+   "html": "<p><b>Detalles finos: had better, ought to, need to, be supposed to</b></p><ul><li><span class=\"en\">had better</span> (casi siempre <span class=\"en\">'d better</span>): advertencia con consecuencia implícita, más urgente que <i>should</i>. Aunque tiene <i>had</i>, habla del presente o futuro: <span class=\"en\">You'd better leave now (or you'll miss the bus).</span> Negativo: <span class=\"en\">You'd better not…</span>, nunca <span class=\"wrong\">You hadn't better</span>.</li><li><span class=\"en\">ought to</span> <span class=\"pron\">Ó-tə</span> = <i>should</i>, un poco más formal. Se usa poco en preguntas y negativos; ahí prefiere <i>should</i>.</li><li><span class=\"en\">need to</span> funciona como <i>have to</i>: <span class=\"en\">Do I need to…? / You don't need to…</span>. Es la forma más neutra para hablar de requisitos.</li><li><span class=\"en\">be supposed to</span> = \"se supone que debo\": regla o expectativa que a veces no se cumple. <span class=\"en\">I'm supposed to start at 7, but the gate is closed.</span></li><li>Con <span class=\"en\">must</span> también se hacen deducciones (<span class=\"en\">He must be tired</span> = debe de estar cansado). Eso se ve en el Módulo 17.</li></ul>",
+   "svg": "<svg viewBox=\"0 0 640 310\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs><marker id=\"m16a4\" markerWidth=\"10\" markerHeight=\"10\" refX=\"8\" refY=\"5\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#1570EF\"/></marker></defs>\n  <rect x=\"220\" y=\"14\" width=\"200\" height=\"40\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"39\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#FFFFFF\">¿Qué quieres decir?</text>\n  <line x1=\"320\" y1=\"54\" x2=\"86\" y2=\"98\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m16a4)\"/>\n  <line x1=\"320\" y1=\"54\" x2=\"242\" y2=\"98\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m16a4)\"/>\n  <line x1=\"320\" y1=\"54\" x2=\"398\" y2=\"98\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m16a4)\"/>\n  <line x1=\"320\" y1=\"54\" x2=\"554\" y2=\"98\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m16a4)\"/>\n  <rect x=\"16\" y=\"100\" width=\"140\" height=\"52\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"86\" y=\"122\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Un consejo,</text>\n  <text x=\"86\" y=\"140\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">una opinión</text>\n  <rect x=\"172\" y=\"100\" width=\"140\" height=\"52\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"242\" y=\"122\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Una advertencia</text>\n  <text x=\"242\" y=\"140\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">(si no, problema)</text>\n  <rect x=\"328\" y=\"100\" width=\"140\" height=\"52\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"398\" y=\"122\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Una obligación</text>\n  <text x=\"398\" y=\"140\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">o regla</text>\n  <rect x=\"484\" y=\"100\" width=\"140\" height=\"52\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"554\" y=\"122\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Algo que NO</text>\n  <text x=\"554\" y=\"140\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">es necesario</text>\n  <line x1=\"86\" y1=\"152\" x2=\"86\" y2=\"186\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m16a4)\"/>\n  <line x1=\"242\" y1=\"152\" x2=\"242\" y2=\"186\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m16a4)\"/>\n  <line x1=\"398\" y1=\"152\" x2=\"398\" y2=\"186\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m16a4)\"/>\n  <line x1=\"554\" y1=\"152\" x2=\"554\" y2=\"186\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m16a4)\"/>\n  <rect x=\"16\" y=\"190\" width=\"140\" height=\"56\" rx=\"10\" fill=\"#1570EF\"/>\n  <text x=\"86\" y=\"216\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#FFFFFF\">should</text>\n  <text x=\"86\" y=\"235\" text-anchor=\"middle\" font-size=\"11\" fill=\"#EAF2FF\">formal: ought to</text>\n  <rect x=\"172\" y=\"190\" width=\"140\" height=\"56\" rx=\"10\" fill=\"#1570EF\"/>\n  <text x=\"242\" y=\"216\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#FFFFFF\">'d better</text>\n  <text x=\"242\" y=\"235\" text-anchor=\"middle\" font-size=\"11\" fill=\"#EAF2FF\">= had better</text>\n  <rect x=\"328\" y=\"190\" width=\"140\" height=\"56\" rx=\"10\" fill=\"#1570EF\"/>\n  <text x=\"398\" y=\"216\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#FFFFFF\">have to / must</text>\n  <text x=\"398\" y=\"235\" text-anchor=\"middle\" font-size=\"11\" fill=\"#EAF2FF\">must: más formal</text>\n  <rect x=\"484\" y=\"190\" width=\"140\" height=\"56\" rx=\"10\" fill=\"#1570EF\"/>\n  <text x=\"554\" y=\"216\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#FFFFFF\">don't have to</text>\n  <text x=\"554\" y=\"235\" text-anchor=\"middle\" font-size=\"11\" fill=\"#EAF2FF\">= don't need to</text>\n  <rect x=\"172\" y=\"264\" width=\"296\" height=\"34\" rx=\"10\" fill=\"#FEF0EF\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"286\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#D92D20\">¿Está prohibido? Usa mustn't</text>\n</svg>",
+   "caption": "Figura 16.4 — Mapa de decisión. Primero decide la intención; la forma viene después."
+  }
+ ],
+ "blocks": [
+  {
+   "en": "All personnel must wear PPE.",
+   "pron": "ol per-sə-NÉL məst wer pi-pi-Í",
+   "es": "Todo el personal debe usar EPP.",
+   "group": "A. Reglas y seguridad (must / mustn't)"
+  },
+  {
+   "en": "You must sign in at the gate.",
+   "pron": "yu məst sain ÍN ət dhə GUEIT",
+   "es": "Debes registrarte en la puerta.",
+   "group": "A. Reglas y seguridad (must / mustn't)"
+  },
+  {
+   "en": "You must report every incident.",
+   "pron": "yu məst ri-PÓRT É-vri ÍN-si-dənt",
+   "es": "Debes reportar todo incidente.",
+   "group": "A. Reglas y seguridad (must / mustn't)"
+  },
+  {
+   "en": "Visitors must wear a badge.",
+   "pron": "VÍ-zi-tərz məst wer ə BACH",
+   "es": "Los visitantes deben llevar credencial.",
+   "group": "A. Reglas y seguridad (must / mustn't)"
+  },
+  {
+   "en": "You must keep the area clean.",
+   "pron": "yu məst kip dhi É-ri-ə KLIN",
+   "es": "Debes mantener el área limpia.",
+   "group": "A. Reglas y seguridad (must / mustn't)"
+  },
+  {
+   "en": "You mustn't smoke here.",
+   "pron": "yu MÁ-sənt smouk JIR",
+   "es": "Aquí está prohibido fumar.",
+   "group": "A. Reglas y seguridad (must / mustn't)"
+  },
+  {
+   "en": "You mustn't enter without a permit.",
+   "pron": "yu MÁ-sənt ÉN-tər wi-DHÁUT ə PÉR-mit",
+   "es": "Prohibido entrar sin permiso.",
+   "group": "A. Reglas y seguridad (must / mustn't)"
+  },
+  {
+   "en": "I have to go.",
+   "pron": "ai JÁF-tə GOU",
+   "es": "Tengo que irme.",
+   "group": "B. Obligaciones del día a día (have to)"
+  },
+  {
+   "en": "I've got to go. (informal)",
+   "pron": "aiv GÓ-tə GOU",
+   "es": "Me tengo que ir.",
+   "group": "B. Obligaciones del día a día (have to)"
+  },
+  {
+   "en": "She has to finish the report today.",
+   "pron": "shi JÁS-tə FÍ-nish dhə ri-PÓRT tə-DÉI",
+   "es": "Ella tiene que terminar el informe hoy.",
+   "group": "B. Obligaciones del día a día (have to)"
+  },
+  {
+   "en": "We have to wait for the inspector.",
+   "pron": "wi JÁF-tə WEIT for dhi in-SPÉK-tər",
+   "es": "Tenemos que esperar al inspector.",
+   "group": "B. Obligaciones del día a día (have to)"
+  },
+  {
+   "en": "Do I have to fill out this form?",
+   "pron": "du ai JÁF-tə fil ÁUT dhis FORM",
+   "es": "¿Tengo que llenar este formulario?",
+   "group": "B. Obligaciones del día a día (have to)"
+  },
+  {
+   "en": "I had to work late yesterday.",
+   "pron": "ai JÁD-tə werk LEIT YÉS-tər-dei",
+   "es": "Ayer tuve que trabajar hasta tarde.",
+   "group": "B. Obligaciones del día a día (have to)"
+  },
+  {
+   "en": "We'll have to change the gasket.",
+   "pron": "wil JÁF-tə CHEINCH dhə GÁS-kit",
+   "es": "Tendremos que cambiar la empaquetadura.",
+   "group": "B. Obligaciones del día a día (have to)"
+  },
+  {
+   "en": "You don't have to come.",
+   "pron": "yu DOUNT JÁF-tə KAM",
+   "es": "No tienes que venir.",
+   "group": "C. No es necesario (don't have to / don't need to)"
+  },
+  {
+   "en": "You don't need to bring anything.",
+   "pron": "yu dount NÍD-tə bring É-ni-thing",
+   "es": "No necesitas traer nada.",
+   "group": "C. No es necesario (don't have to / don't need to)"
+  },
+  {
+   "en": "We don't have to decide today.",
+   "pron": "wi dount JÁF-tə di-SÁID tə-DÉI",
+   "es": "No tenemos que decidir hoy.",
+   "group": "C. No es necesario (don't have to / don't need to)"
+  },
+  {
+   "en": "She doesn't have to work on Saturday.",
+   "pron": "shi DÁ-zənt JÁF-tə werk on SÁ-tər-dei",
+   "es": "Ella no tiene que trabajar el sábado.",
+   "group": "C. No es necesario (don't have to / don't need to)"
+  },
+  {
+   "en": "There's no need to worry.",
+   "pron": "dherz NOU nid tə WÉ-ri",
+   "es": "No hay por qué preocuparse.",
+   "group": "C. No es necesario (don't have to / don't need to)"
+  },
+  {
+   "en": "You should see a doctor.",
+   "pron": "yu shud SI ə DÓK-tər",
+   "es": "Deberías ir al médico.",
+   "group": "D. Consejo (should / ought to)"
+  },
+  {
+   "en": "You shouldn't work so late.",
+   "pron": "yu SHÚ-dənt werk sou LEIT",
+   "es": "No deberías trabajar hasta tan tarde.",
+   "group": "D. Consejo (should / ought to)"
+  },
+  {
+   "en": "What should I do?",
+   "pron": "wot shud ai DU",
+   "es": "¿Qué debería hacer?",
+   "group": "D. Consejo (should / ought to)"
+  },
+  {
+   "en": "Should I call him?",
+   "pron": "shud ai KOL im",
+   "es": "¿Debería llamarlo?",
+   "group": "D. Consejo (should / ought to)"
+  },
+  {
+   "en": "I think you should ask the supervisor.",
+   "pron": "ai THINK yu shud ask dhə SÚ-pər-vai-zər",
+   "es": "Creo que deberías preguntarle al supervisor.",
+   "group": "D. Consejo (should / ought to)"
+  },
+  {
+   "en": "I don't think you should sign it yet.",
+   "pron": "ai DOUNT think yu shud SAIN it yet",
+   "es": "No creo que debas firmarlo todavía.",
+   "group": "D. Consejo (should / ought to)"
+  },
+  {
+   "en": "You ought to check the drawings again.",
+   "pron": "yu Ó-tə chek dhə DRÓ-ingz ə-GUÉN",
+   "es": "Deberías revisar los planos otra vez.",
+   "group": "D. Consejo (should / ought to)"
+  },
+  {
+   "en": "You'd better hurry.",
+   "pron": "yud BÉ-tər JÉ-ri",
+   "es": "Más vale que te apures.",
+   "group": "E. Advertencias y expectativas (had better, be supposed to)"
+  },
+  {
+   "en": "We'd better not be late.",
+   "pron": "wid BÉ-tər NOT bi LEIT",
+   "es": "Mejor no lleguemos tarde.",
+   "group": "E. Advertencias y expectativas (had better, be supposed to)"
+  },
+  {
+   "en": "You'd better double-check that.",
+   "pron": "yud BÉ-tər DA-bəl CHEK dhat",
+   "es": "Mejor verifica eso dos veces.",
+   "group": "E. Advertencias y expectativas (had better, be supposed to)"
+  },
+  {
+   "en": "I'm supposed to be at the site at 7.",
+   "pron": "aim sə-PÓUS-tə bi ət dhə SAIT ət SÉ-vən",
+   "es": "Se supone que debo estar en obra a las 7.",
+   "group": "E. Advertencias y expectativas (had better, be supposed to)"
+  },
+  {
+   "en": "You're not supposed to park here.",
+   "pron": "yur NOT sə-PÓUS-tə park JIR",
+   "es": "No se debe estacionar aquí.",
+   "group": "E. Advertencias y expectativas (had better, be supposed to)"
+  },
+  {
+   "en": "It's a good idea to take photos.",
+   "pron": "its ə gud ai-DÍ-ə tə teik FÓU-touz",
+   "es": "Es buena idea tomar fotos.",
+   "group": "E. Advertencias y expectativas (had better, be supposed to)"
+  },
+  {
+   "en": "comply with the code",
+   "pron": "kəm-PLÁI widh dhə KOUD",
+   "es": "cumplir con el código / la norma",
+   "group": "F. Requisitos y normas (collocations)"
+  },
+  {
+   "en": "meet the requirements",
+   "pron": "MIT dhə ri-KWÁIR-mənts",
+   "es": "cumplir los requisitos",
+   "group": "F. Requisitos y normas (collocations)"
+  },
+  {
+   "en": "follow the procedure",
+   "pron": "FÓ-lou dhə prə-SÍ-yər",
+   "es": "seguir el procedimiento",
+   "group": "F. Requisitos y normas (collocations)"
+  },
+  {
+   "en": "wear a harness",
+   "pron": "wer ə JÁR-nəs",
+   "es": "usar arnés",
+   "group": "F. Requisitos y normas (collocations)"
+  },
+  {
+   "en": "get a work permit",
+   "pron": "guet ə WERK PÉR-mit",
+   "es": "obtener un permiso de trabajo",
+   "group": "F. Requisitos y normas (collocations)"
+  },
+  {
+   "en": "It's mandatory.",
+   "pron": "its MÁN-də-to-ri",
+   "es": "Es obligatorio.",
+   "group": "F. Requisitos y normas (collocations)"
+  },
+  {
+   "en": "It's optional.",
+   "pron": "its ÓP-shə-nəl",
+   "es": "Es opcional.",
+   "group": "F. Requisitos y normas (collocations)"
+  },
+  {
+   "en": "It's not allowed.",
+   "pron": "its NOT ə-LÁUD",
+   "es": "No está permitido.",
+   "group": "F. Requisitos y normas (collocations)"
+  }
+ ],
+ "examples": [
+  {
+   "en": "All visitors must wear a hard hat and safety boots.",
+   "es": "Todos los visitantes deben usar casco y botas de seguridad.",
+   "situation": "Inducción de seguridad"
+  },
+  {
+   "en": "You mustn't start hot work without a signed permit.",
+   "es": "No debes empezar trabajos en caliente sin un permiso firmado.",
+   "situation": "Permiso de trabajo"
+  },
+  {
+   "en": "The welders have to finish the root pass before lunch.",
+   "es": "Los soldadores tienen que terminar el pase de raíz antes del almuerzo.",
+   "situation": "Soldadura"
+  },
+  {
+   "en": "The inspector has to check every weld on line 4.",
+   "es": "El inspector tiene que revisar cada soldadura de la línea 4.",
+   "situation": "Inspección"
+  },
+  {
+   "en": "You don't have to print the drawings. The PDF is fine.",
+   "es": "No tienes que imprimir los planos. El PDF está bien.",
+   "situation": "Oficina"
+  },
+  {
+   "en": "We need to send the quote by Friday.",
+   "es": "Tenemos que enviar la cotización a más tardar el viernes.",
+   "situation": "Presupuesto"
+  },
+  {
+   "en": "You should ask Mark. He's worked on this type of tank before.",
+   "es": "Deberías preguntarle a Mark. Él ya ha trabajado en este tipo de tanque.",
+   "situation": "Consejo a un colega"
+  },
+  {
+   "en": "You should drink more water and rest for three days.",
+   "es": "Debería tomar más agua y descansar tres días.",
+   "situation": "Médico"
+  },
+  {
+   "en": "Do I have to bring my passport to open an account?",
+   "es": "¿Tengo que traer mi pasaporte para abrir una cuenta?",
+   "situation": "Banco"
+  },
+  {
+   "en": "We had to wait four hours at the airport because of the storm.",
+   "es": "Tuvimos que esperar cuatro horas en el aeropuerto por la tormenta.",
+   "situation": "Viaje"
+  },
+  {
+   "en": "We'd better confirm the price before we sign the contract.",
+   "es": "Más vale que confirmemos el precio antes de firmar el contrato.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "You must try the ceviche here. It's amazing!",
+   "es": "Tienes que probar el ceviche de aquí. ¡Es buenísimo!",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "You don't have to bring anything. Just come!",
+   "es": "No tienes que traer nada. ¡Solo ven!",
+   "situation": "Vida social"
+  },
+  {
+   "en": "Next month we'll have to work on Saturdays to finish on time.",
+   "es": "El próximo mes tendremos que trabajar los sábados para terminar a tiempo.",
+   "situation": "Planificación"
+  },
+  {
+   "en": "Contractors must submit their safety plan before mobilization.",
+   "es": "Los contratistas deben presentar su plan de seguridad antes de la movilización.",
+   "situation": "Correo formal"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "You have to sign here.",
+     "You don't have to sign here.",
+     "Do you have to sign here?",
+     "Yes, I do. / No, I don't."
+    ],
+    [
+     "She has to work tonight.",
+     "She doesn't have to work tonight.",
+     "Does she have to work tonight?",
+     "Yes, she does. / No, she doesn't."
+    ],
+    [
+     "They had to stop the job.",
+     "They didn't have to stop the job.",
+     "Did they have to stop the job?",
+     "Yes, they did. / No, they didn't."
+    ],
+    [
+     "We'll have to replace the valve.",
+     "We won't have to replace the valve.",
+     "Will we have to replace the valve?",
+     "Yes, we will. / No, we won't."
+    ],
+    [
+     "He should call the client.",
+     "He shouldn't call the client.",
+     "Should he call the client?",
+     "Yes, he should. / No, he shouldn't."
+    ],
+    [
+     "I should buy the tickets now.",
+     "I shouldn't buy the tickets now.",
+     "Should I buy the tickets now?",
+     "Yes, you should. / No, you shouldn't."
+    ],
+    [
+     "You need to bring your ID.",
+     "You don't need to bring your ID.",
+     "Do you need to bring your ID?",
+     "Yes, I do. / No, I don't."
+    ],
+    [
+     "We must leave now.",
+     "We mustn't leave now. (¡cambia el sentido!)",
+     "Must we leave now? (formal) → Do we have to leave now?",
+     "Yes, we must. / No, we don't have to."
+    ],
+    [
+     "You'd better tell him.",
+     "You'd better not tell him.",
+     "Should I tell him? (had better casi no se usa en preguntas)",
+     "Yes, you'd better. / No, you'd better not."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Sarah",
+   "text": "Before you go in, there are a few rules. You must sign in at the gate every morning."
+  },
+  {
+   "who": "Edwin",
+   "text": "OK. Do I have to bring my own boots, or does the company provide them?"
+  },
+  {
+   "who": "Sarah",
+   "text": "The company provides boots and a hard hat, so you don't have to buy anything."
+  },
+  {
+   "who": "Edwin",
+   "text": "Great. What about the tank? Can I go inside today?"
+  },
+  {
+   "who": "Sarah",
+   "text": "Not yet. You mustn't enter the tank without a confined space permit. Mr. Lee has to sign it first."
+  },
+  {
+   "who": "Edwin",
+   "text": "Understood. How long does it take to get the permit?"
+  },
+  {
+   "who": "Sarah",
+   "text": "Usually about an hour. You should ask for it early, around 6:30."
+  },
+  {
+   "who": "Edwin",
+   "text": "Got it. Is there anything else I need to know?"
+  },
+  {
+   "who": "Sarah",
+   "text": "Yes. It gets really hot after 11, so you'd better drink a lot of water."
+  },
+  {
+   "who": "Edwin",
+   "text": "Good advice. Yesterday I had to stop early because of the heat."
+  },
+  {
+   "who": "Sarah",
+   "text": "And one more thing: you don't have to call me \"ma'am.\" Sarah is fine!"
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "You must to wear a helmet.",
+   "right": "You must wear a hard hat.",
+   "why": "Modal + verbo base, sin to. En obra se dice hard hat."
+  },
+  {
+   "wrong": "He shoulds rest.",
+   "right": "He should rest.",
+   "why": "Los modales no llevan -s en tercera persona."
+  },
+  {
+   "wrong": "She have to work today.",
+   "right": "She has to work today.",
+   "why": "Have to es verbo normal: he/she/it → has to."
+  },
+  {
+   "wrong": "You mustn't come tomorrow. (= no es necesario)",
+   "right": "You don't have to come tomorrow.",
+   "why": "Mustn't prohíbe; lo opcional es don't have to."
+  },
+  {
+   "wrong": "I musted work late.",
+   "right": "I had to work late.",
+   "why": "Must no tiene pasado: se usa had to."
+  },
+  {
+   "wrong": "Do I must sign?",
+   "right": "Do I have to sign?",
+   "why": "Must no usa do; con do va have to."
+  },
+  {
+   "wrong": "You should to call him.",
+   "right": "You should call him.",
+   "why": "Igual que must: sin to."
+  },
+  {
+   "wrong": "Does she has to come?",
+   "right": "Does she have to come?",
+   "why": "Con does el verbo vuelve a la forma base: have."
+  },
+  {
+   "wrong": "I will must work on Sunday.",
+   "right": "I'll have to work on Sunday.",
+   "why": "Dos modales no se combinan: will have to."
+  },
+  {
+   "wrong": "You don't should worry.",
+   "right": "You shouldn't worry.",
+   "why": "Should se niega solo: should not / shouldn't."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "I must you $20.",
+   "looks": "deber (dinero)",
+   "means": "Deuda = owe; must es solo obligación.",
+   "fix": "I owe you $20."
+  },
+  {
+   "en": "an advice",
+   "looks": "un consejo",
+   "means": "Advice (sustantivo) es incontable. El verbo es advise əd-VÁIZ.",
+   "fix": "some advice / a piece of advice"
+  },
+  {
+   "en": "I recommend you to check it.",
+   "looks": "te recomiendo que…",
+   "means": "Recommend no va con persona + to (Módulo 22).",
+   "fix": "I recommend checking it. / You should check it."
+  },
+  {
+   "en": "I have a compromise.",
+   "looks": "compromiso (obligación)",
+   "means": "Compromise = acuerdo con concesiones.",
+   "fix": "I have a commitment."
+  },
+  {
+   "en": "It's obligatory. (suena rígido)",
+   "looks": "obligatorio",
+   "means": "En documentos técnicos se usa mandatory o required.",
+   "fix": "It's mandatory. / It's required."
+  },
+  {
+   "en": "use a helmet",
+   "looks": "usar (casco, guantes)",
+   "means": "Lo que llevas puesto: wear.",
+   "fix": "wear a hard hat"
+  },
+  {
+   "en": "They obligated us to stay.",
+   "looks": "obligar a alguien",
+   "means": "Obligate es legal y formal; en el habla: make + persona + verbo.",
+   "fix": "They made us stay. / We had to stay."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Tienes que firmar el permiso antes de empezar.",
+    "answers": [
+     "You have to sign the permit before you start.",
+     "You must sign the permit before you start.",
+     "You have to sign the permit before starting.",
+     "You must sign the permit before starting."
+    ],
+    "explain": "Requisito → have to. También vale You must sign… y before starting."
+   },
+   {
+    "prompt": "Está prohibido fumar cerca de los tanques. (usa you)",
+    "answers": [
+     "You mustn't smoke near the tanks.",
+     "You must not smoke near the tanks."
+    ],
+    "explain": "Prohibición → mustn't. Don't have to sería \"no es necesario\", un error grave."
+   },
+   {
+    "prompt": "No tienes que imprimir el informe.",
+    "answers": [
+     "You don't have to print the report.",
+     "You do not have to print the report.",
+     "You don't need to print the report.",
+     "You do not need to print the report."
+    ],
+    "explain": "No es necesario → don't have to (o don't need to)."
+   },
+   {
+    "prompt": "Deberías hablar con el supervisor.",
+    "answers": [
+     "You should talk to the supervisor.",
+     "You should speak to the supervisor.",
+     "You should talk with the supervisor."
+    ],
+    "explain": "Consejo → should + verbo base. También speak to / talk with."
+   },
+   {
+    "prompt": "¿Tengo que traer mi pasaporte?",
+    "answers": [
+     "Do I have to bring my passport?",
+     "Do I need to bring my passport?"
+    ],
+    "explain": "Pregunta con have to → Do + sujeto + have to. Do I need to…? también es correcto."
+   },
+   {
+    "prompt": "Ayer tuvimos que trabajar hasta las 9.",
+    "answers": [
+     "Yesterday we had to work until 9.",
+     "We had to work until 9 yesterday.",
+     "Yesterday we had to work until nine."
+    ],
+    "explain": "Pasado de la obligación → had to. Until 9 = hasta las 9."
+   },
+   {
+    "prompt": "Ella tiene que terminar los planos hoy.",
+    "answers": [
+     "She has to finish the drawings today."
+    ],
+    "explain": "Tercera persona → has to. Planos = drawings."
+   },
+   {
+    "prompt": "Más vale que nos vayamos ya; está lloviendo mucho.",
+    "answers": [
+     "We'd better leave now; it's raining hard.",
+     "We'd better leave now; it is raining hard.",
+     "We had better leave now; it's raining hard.",
+     "We had better leave now; it is raining hard.",
+     "We'd better leave now; it's raining a lot.",
+     "We'd better leave now; it is raining a lot.",
+     "We'd better leave now. It's raining hard.",
+     "We'd better leave now. It is raining hard."
+    ],
+    "explain": "Advertencia con consecuencia → 'd better + verbo base. También it's raining a lot."
+   },
+   {
+    "prompt": "¿Qué debería hacer?",
+    "answers": [
+     "What should I do?"
+    ],
+    "explain": "Pedir consejo → WH- + should + sujeto + verbo."
+   },
+   {
+    "prompt": "El próximo mes tendremos que cambiar las válvulas.",
+    "answers": [
+     "Next month we'll have to change the valves.",
+     "Next month we will have to change the valves.",
+     "Next month we'll have to replace the valves.",
+     "Next month we will have to replace the valves.",
+     "We'll have to change the valves next month.",
+     "We will have to change the valves next month."
+    ],
+    "explain": "Futuro de la obligación → will have to. También replace."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "You don't need to come early tomorrow.",
+    "answers": [
+     "No hace falta que vengas temprano mañana.",
+     "No necesitas venir temprano mañana."
+    ],
+    "explain": "Don't need to = no es necesario, no una prohibición."
+   },
+   {
+    "prompt": "All contractors must follow the site rules.",
+    "answers": [
+     "Todos los contratistas deben seguir las reglas de la obra.",
+     "Todos los contratistas tienen que seguir las normas de la obra."
+    ],
+    "explain": "Must de norma escrita = deben."
+   },
+   {
+    "prompt": "I don't think you should accept that price.",
+    "answers": [
+     "No creo que debas aceptar ese precio.",
+     "No creo que deberías aceptar ese precio."
+    ],
+    "explain": "En inglés la negación va en think; en español, igual: \"no creo que…\"."
+   },
+   {
+    "prompt": "We had to cancel the meeting because the client was sick.",
+    "answers": [
+     "Tuvimos que cancelar la reunión porque el cliente estaba enfermo.",
+     "Tuvimos que cancelar la reunión porque el cliente se enfermó."
+    ],
+    "explain": "Had to = tuvimos que (pasado de obligación)."
+   },
+   {
+    "prompt": "You're not supposed to use your phone in the control room.",
+    "answers": [
+     "No se debe usar el teléfono en la sala de control.",
+     "Se supone que no debes usar el teléfono en la sala de control.",
+     "No deberías usar el teléfono en la sala de control."
+    ],
+    "explain": "Be not supposed to = regla o norma esperada."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "You must to wear safety glasses in this area.",
+    "answers": [
+     "You must wear safety glasses in this area."
+    ],
+    "explain": "Modal + verbo base: sobra to."
+   },
+   {
+    "prompt": "He have to finish the inspection report today.",
+    "answers": [
+     "He has to finish the inspection report today."
+    ],
+    "explain": "He → has to."
+   },
+   {
+    "prompt": "She shoulds see a doctor about her back.",
+    "answers": [
+     "She should see a doctor about her back."
+    ],
+    "explain": "Los modales no llevan -s."
+   },
+   {
+    "prompt": "I musted stay late yesterday to finish the drawings.",
+    "answers": [
+     "I had to stay late yesterday to finish the drawings."
+    ],
+    "explain": "Must no tiene pasado → had to."
+   },
+   {
+    "prompt": "Do we must pay now or at the end of the month?",
+    "answers": [
+     "Do we have to pay now or at the end of the month?",
+     "Must we pay now or at the end of the month?"
+    ],
+    "explain": "Do no va con must. También vale Must we pay…? (formal)."
+   },
+   {
+    "prompt": "You don't should drive when you're tired.",
+    "answers": [
+     "You shouldn't drive when you're tired.",
+     "You should not drive when you are tired."
+    ],
+    "explain": "Should se niega solo, sin don't."
+   },
+   {
+    "prompt": "Does he has to work on Saturday?",
+    "answers": [
+     "Does he have to work on Saturday?"
+    ],
+    "explain": "Tras does, verbo base: have."
+   },
+   {
+    "prompt": "Tomorrow we will must start at 6 a.m.",
+    "answers": [
+     "Tomorrow we'll have to start at 6 a.m.",
+     "Tomorrow we will have to start at 6 a.m."
+    ],
+    "explain": "No se juntan dos modales → will have to."
+   },
+   {
+    "prompt": "The meeting is optional, so you mustn't come if you're busy.",
+    "answers": [
+     "The meeting is optional, so you don't have to come if you're busy.",
+     "The meeting is optional, so you do not have to come if you are busy."
+    ],
+    "explain": "Si es opcional, no hay prohibición → don't have to."
+   },
+   {
+    "prompt": "You had better to call the client now.",
+    "answers": [
+     "You'd better call the client now.",
+     "You had better call the client now."
+    ],
+    "explain": "Had better + verbo base, sin to. You had better call también es correcto."
+   }
+  ],
+  "bonus": {
+   "prompt": "convierte a negativo y a pregunta: She has to work tonight.",
+   "answer": "She doesn't have to work tonight. / Does she have to work tonight?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo. Usa cada opción una sola vez: must · mustn't · have to · doesn't have to · will have to · had to · should · 'd better.",
+   "lines": [
+    {
+     "who": "Carlos",
+     "text": "Hi Priya. It's my first week. What are the main rules?"
+    },
+    {
+     "who": "Priya",
+     "text": "Look at that sign: \"All personnel [1] wear PPE.\" No exceptions."
+    },
+    {
+     "who": "Carlos",
+     "text": "OK. Can I take photos of the tanks for my report?"
+    },
+    {
+     "who": "Priya",
+     "text": "No. You [2] take photos without permission. It's a client rule."
+    },
+    {
+     "who": "Carlos",
+     "text": "Understood. Do I [3] attend the safety meeting every morning?"
+    },
+    {
+     "who": "Priya",
+     "text": "Yes. But Mr. Lee is the manager, so he [4] attend. He comes when he can."
+    },
+    {
+     "who": "Carlos",
+     "text": "And what about weekends?"
+    },
+    {
+     "who": "Priya",
+     "text": "Next month there's a shutdown, so we [5] work on Saturdays."
+    },
+    {
+     "who": "Carlos",
+     "text": "No problem. At my last job I [6] work every Sunday!"
+    },
+    {
+     "who": "Priya",
+     "text": "Great attitude. It's very hot at noon. My advice: you [7] drink water every hour."
+    },
+    {
+     "who": "Carlos",
+     "text": "Thanks. Anything else?"
+    },
+    {
+     "who": "Priya",
+     "text": "Yes. It's 6:40 and the meeting starts at 6:45. You [8] hurry, or you'll be late!"
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "must"
+     ],
+     "explain": "Norma escrita en un cartel → must."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "mustn't",
+      "must not"
+     ],
+     "explain": "Regla del cliente que prohíbe → mustn't."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "have to"
+     ],
+     "explain": "Después de Do I solo cabe have to (los modales no usan do)."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "doesn't have to",
+      "does not have to"
+     ],
+     "explain": "\"Viene cuando puede\" = no está obligado → doesn't have to."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "will have to"
+     ],
+     "explain": "Next month → futuro de la obligación."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "had to"
+     ],
+     "explain": "At my last job → pasado de la obligación."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "should"
+     ],
+     "explain": "My advice → consejo."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "'d better",
+      "had better"
+     ],
+     "explain": "Advertencia urgente con consecuencia (or you'll be late)."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo. Escribe un correo de 6 a 8 oraciones a una persona nueva en tu equipo sobre las reglas de la obra. Incluye: (a) saludo y propósito, (b) dos obligaciones con must o have to, (c) una prohibición con mustn't, (d) algo no necesario con don't have to, (e) un consejo con should, (f) una advertencia con 'd better o una obligación pasada con had to, (g) despedida profesional.",
+   "rubric": [
+    "(a) Saludo y propósito",
+    "(b) Dos obligaciones",
+    "(c) Prohibición",
+    "(d) No necesario",
+    "(e) Consejo",
+    "(f) Advertencia / pasado",
+    "(g) Despedida"
+   ],
+   "model": "Subject: Welcome to the T-205 project\nHi Ana,\nWelcome to the team! Here are a few site rules before you start on Monday. You have to sign in at the gate every morning, and you must wear your hard hat and safety boots at all times. You mustn't enter the tank without a confined space permit. You don't have to bring any tools, because the company provides everything. You should arrive a little early on your first day, since the safety induction takes about an hour. Last week a new welder had to wait two hours because he forgot his ID, so you'd better bring yours.\nBest regards,\nEdwin"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Explicar las reglas de seguridad de mi trabajo con must / have to.",
+   "test": "Grábate 45 segundos diciendo 5 reglas reales. Cero \"must to\" y cero \"-s\" tras modal."
+  },
+  {
+   "skill": "Distinguir mustn't y don't have to.",
+   "test": "Clasifica 10 situaciones (prohibido / no necesario) en 2 minutos; 10 de 10 correctas."
+  },
+  {
+   "skill": "Dar consejos con should y advertencias con 'd better.",
+   "test": "Da 3 consejos y 2 advertencias a un compañero en 1 minuto, sin pausas largas."
+  },
+  {
+   "skill": "Hablar de obligaciones pasadas y futuras.",
+   "test": "Escribe 3 oraciones con had to y 3 con will have to en 3 minutos; cero \"musted\" o \"will must\"."
+  },
+  {
+   "skill": "Preguntar por requisitos y pedir consejo.",
+   "test": "Formula 5 preguntas para un trámite (banco, visa, permiso de obra) con Do I have to…? / Should I…? en 1 minuto, todas bien formadas."
+  },
+  {
+   "skill": "Escribir un correo con reglas para un compañero nuevo.",
+   "test": "Redacta 6–8 oraciones que cumplan los 7 criterios de C2; compáralo con el modelo."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What do you have to do every morning at work?",
+  "What safety rules must people follow in your workplace?",
+  "What's something you don't have to do on weekends?",
+  "What should a new employee do on their first day?",
+  "What did you have to do last week that you didn't enjoy?",
+  "What advice would you give someone who wants to learn English? Use should."
+ ]
+}

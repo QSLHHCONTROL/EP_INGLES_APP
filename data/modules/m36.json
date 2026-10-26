@@ -1,0 +1,975 @@
+{
+ "id": 36,
+ "level": "C1",
+ "title": "Entrevistas de trabajo y networking en inglés",
+ "goal": "Al terminar podrás pasar una entrevista de 30–45 minutos para un puesto de ingeniería en el extranjero: presentarte en 60 segundos, responder preguntas de comportamiento con el método STAR, hablar de salario con seguridad y escribir mensajes de networking en LinkedIn que obtienen respuesta.",
+ "lesson": [
+  {
+   "title": "La entrevista anglosajona: pruebas, no adjetivos",
+   "html": "<p>En Perú y en buena parte de Latinoamérica, una entrevista suele girar alrededor del CV, los títulos y la recomendación de alguien de confianza. En Australia, Canadá, Estados Unidos o el Reino Unido, la mayoría de empresas usa la <span class=\"en\">behavioral interview</span> <span class=\"pron\">bi-JÉI-vyə-rol ÍN-ter-vyu</span>: el entrevistador no pregunta qué sabes, sino <b>qué hiciste</b> en una situación real. La idea es simple: tu comportamiento pasado es el mejor indicador de tu comportamiento futuro.</p><p>Por eso las preguntas empiezan con <span class=\"en\">Tell me about a time when…</span> o <span class=\"en\">Give me an example of…</span>, y la respuesta ideal es una historia corta, concreta y con resultado medible. La herramienta estándar para contarla es el <b>método STAR</b>.</p>",
+   "svg": "<svg viewBox=\"0 0 640 270\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"24\" font-size=\"13\" font-weight=\"800\" fill=\"#6941C6\">MÉTODO STAR — UNA RESPUESTA DE 90 A 120 SEGUNDOS</text>\n  <!-- S -->\n  <rect x=\"20\" y=\"40\" width=\"140\" height=\"120\" rx=\"12\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"90\" y=\"88\" text-anchor=\"middle\" font-size=\"40\" font-weight=\"800\" fill=\"#6941C6\">S</text>\n  <text x=\"90\" y=\"114\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Situation</text>\n  <text x=\"90\" y=\"134\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">contexto</text>\n  <text x=\"90\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">≈ 15 %</text>\n  <!-- T -->\n  <rect x=\"173\" y=\"40\" width=\"140\" height=\"120\" rx=\"12\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"243\" y=\"88\" text-anchor=\"middle\" font-size=\"40\" font-weight=\"800\" fill=\"#6941C6\">T</text>\n  <text x=\"243\" y=\"114\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Task</text>\n  <text x=\"243\" y=\"134\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">tu responsabilidad</text>\n  <text x=\"243\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">≈ 10 %</text>\n  <!-- A -->\n  <rect x=\"326\" y=\"40\" width=\"160\" height=\"120\" rx=\"12\" fill=\"#6941C6\"/>\n  <text x=\"406\" y=\"88\" text-anchor=\"middle\" font-size=\"40\" font-weight=\"800\" fill=\"#fff\">A</text>\n  <text x=\"406\" y=\"114\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#fff\">Action</text>\n  <text x=\"406\" y=\"134\" text-anchor=\"middle\" font-size=\"12\" fill=\"#F2EEFC\">lo que TÚ hiciste</text>\n  <text x=\"406\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" fill=\"#F2EEFC\">≈ 55 %</text>\n  <!-- R -->\n  <rect x=\"499\" y=\"40\" width=\"121\" height=\"120\" rx=\"12\" fill=\"#E8F7EF\" stroke=\"#079455\" stroke-width=\"2\"/>\n  <text x=\"559\" y=\"88\" text-anchor=\"middle\" font-size=\"40\" font-weight=\"800\" fill=\"#079455\">R</text>\n  <text x=\"559\" y=\"114\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Result</text>\n  <text x=\"559\" y=\"134\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">con número</text>\n  <text x=\"559\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">≈ 20 %</text>\n  <!-- proportion bar -->\n  <rect x=\"20\" y=\"178\" width=\"90\" height=\"16\" fill=\"#D9CCF5\"/>\n  <rect x=\"110\" y=\"178\" width=\"60\" height=\"16\" fill=\"#B9A3EC\"/>\n  <rect x=\"170\" y=\"178\" width=\"330\" height=\"16\" fill=\"#6941C6\"/>\n  <rect x=\"500\" y=\"178\" width=\"120\" height=\"16\" fill=\"#079455\"/>\n  <text x=\"65\" y=\"214\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">S</text>\n  <text x=\"140\" y=\"214\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">T</text>\n  <text x=\"335\" y=\"214\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">A — aquí se gana la entrevista</text>\n  <text x=\"560\" y=\"214\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">R</text>\n  <!-- verb forms -->\n  <text x=\"20\" y=\"244\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">Tiempos verbales (Módulos 9 y 15):</text>\n  <text x=\"250\" y=\"244\" font-size=\"12\" fill=\"#344054\">S/T → pasado continuo y pasado perfecto</text>\n  <text x=\"250\" y=\"262\" font-size=\"12\" fill=\"#344054\">A → pasado simple con \"I\" · R → pasado + cifra</text>\n</svg>",
+   "caption": "Figura 36.1 — El método STAR. La mitad del tiempo se dedica a la acción; el resultado siempre lleva una cifra."
+  },
+  {
+   "title": "Dos culturas de entrevista",
+   "html": "<table><thead><tr><th>Respuesta típica (traducida del español)</th><th>Respuesta de un candidato preparado</th></tr></thead><tbody><tr><td>\"Bueno, nosotros siempre trabajamos en equipo y tratamos de cumplir los plazos. En mi empresa somos muy responsables y siempre damos lo mejor para el cliente…\"</td><td><span class=\"en\">Last year, a client moved our tank handover forward by a week. I re-sequenced the welding plan into two shifts and coordinated daily with the inspector. We handed over the tank two days early, with zero NCRs.</span></td></tr></tbody></table><table><thead><tr><th>Aspecto</th><th>Estilo frecuente en Latinoamérica</th><th>Estilo anglosajón (Australia, EE. UU., Canadá)</th></tr></thead><tbody><tr><td><b>Pronombre</b></td><td><i>Nosotros</i> (modestia, equipo)</td><td><b>I</b> para tus acciones; <i>we</i> solo para el contexto</td></tr><tr><td><b>Pruebas</b></td><td>Cargos, títulos, años de experiencia</td><td>Historias concretas con resultados medibles</td></tr><tr><td><b>Autopromoción</b></td><td>Se ve como arrogancia</td><td>Se espera, con datos y sin exagerar</td></tr><tr><td><b>Salario</b></td><td>Tema que se evita o se deja a la empresa</td><td>Se habla con naturalidad, con un rango investigado</td></tr><tr><td><b>Final</b></td><td>\"Gracias por su tiempo.\"</td><td>Preguntas inteligentes al entrevistador + correo de agradecimiento en 24 h</td></tr><tr><td><b>Datos personales</b></td><td>Pueden preguntar edad, estado civil, hijos</td><td>Preguntas personales prohibidas por ley en muchos casos</td></tr></tbody></table>"
+  },
+  {
+   "title": "Traducción literal (mal) vs inglés real",
+   "html": "<table><thead><tr><th>Lo que piensas</th><th>Traducción literal</th><th>Inglés real</th></tr></thead><tbody><tr><td>Tengo cinco años de experiencia.</td><td><span class=\"wrong\">I have five years of experience in the area of tanks.</span></td><td><span class=\"ok\">I have five years of experience in tank repair.</span></td></tr><tr><td>Me gustaría postular al puesto.</td><td><span class=\"wrong\">I would like to postulate to the position.</span></td><td><span class=\"ok\">I would like to apply for the position.</span></td></tr><tr><td>Soy una persona muy responsable.</td><td><span class=\"wrong\">I am a very responsible person.</span></td><td><span class=\"ok\">I take ownership of my work. For example…</span></td></tr><tr><td>Estudié la carrera de ingeniería.</td><td><span class=\"wrong\">I studied the career of engineering.</span></td><td><span class=\"ok\">I have a degree in industrial engineering.</span></td></tr><tr><td>¿Cuánto es el sueldo?</td><td><span class=\"wrong\">How much is the salary?</span></td><td><span class=\"ok\">Could you share the salary range for this role?</span></td></tr><tr><td>Estoy a su disposición.</td><td><span class=\"wrong\">I am at your disposition.</span></td><td><span class=\"ok\">I am happy to provide any further information.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Tres reglas de oro: pruebas, «I» y salario",
+   "html": "<p><b>Regla de oro 1 — Cada afirmación necesita una prueba</b></p><p>Nunca digas solo un adjetivo sobre ti (<i>responsible, hard-working, a team player</i>). Respáldalo con una historia STAR o una cifra: <span class=\"en\">I'm detail-oriented: in my last project, 97% of my welds passed RT on the first attempt.</span></p><p><b>Regla de oro 2 — \"I\" para la acción, \"we\" para el contexto</b></p><p><span class=\"en\">We had a tight deadline</span> describe la situación. <span class=\"en\">I re-sequenced the welding plan</span> describe tu mérito. Si todo es <i>we</i>, el entrevistador no sabe qué hiciste tú, y no puede contratar a tu equipo.</p><p><b>Regla de oro 3 — En salario, da un rango investigado y deja la puerta abierta</b></p><p>Investiga el mercado (SEEK, Glassdoor, informes de agencias) y da un rango cuyo mínimo ya te parezca bien: <span class=\"en\">Based on my research, I'm looking for a base salary between 120 and 135 thousand dollars, plus super. That said, I'm open to discussing the whole package.</span></p>"
+  },
+  {
+   "title": "Las cinco etapas de un proceso de selección",
+   "html": "<p>Proceso típico de selección en Australia o Canadá. La etapa 3 (en morado) es donde más pesa tu inglés.</p>",
+   "svg": "<svg viewBox=\"0 0 640 230\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <line x1=\"66\" y1=\"70\" x2=\"574\" y2=\"70\" stroke=\"#98A2B3\" stroke-width=\"3\"/>\n  <circle cx=\"66\" cy=\"70\" r=\"30\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"66\" y=\"76\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#6941C6\">1</text>\n  <circle cx=\"193\" cy=\"70\" r=\"30\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"193\" y=\"76\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#6941C6\">2</text>\n  <circle cx=\"320\" cy=\"70\" r=\"30\" fill=\"#6941C6\"/>\n  <text x=\"320\" y=\"76\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#fff\">3</text>\n  <circle cx=\"447\" cy=\"70\" r=\"30\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"447\" y=\"76\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#6941C6\">4</text>\n  <circle cx=\"574\" cy=\"70\" r=\"30\" fill=\"#E8F7EF\" stroke=\"#079455\" stroke-width=\"2\"/>\n  <text x=\"574\" y=\"76\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#079455\">5</text>\n  <text x=\"66\" y=\"22\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">semana 0</text>\n  <text x=\"574\" y=\"22\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">semana 4–6</text>\n  <text x=\"66\" y=\"122\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Application</text>\n  <text x=\"66\" y=\"140\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">CV + carta</text>\n  <text x=\"66\" y=\"155\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">filtro ATS</text>\n  <text x=\"193\" y=\"122\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Phone screen</text>\n  <text x=\"193\" y=\"140\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">15–20 min</text>\n  <text x=\"193\" y=\"155\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">reclutador: visa,</text>\n  <text x=\"193\" y=\"170\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">salario, fechas</text>\n  <text x=\"320\" y=\"122\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#4A2B91\">Panel interview</text>\n  <text x=\"320\" y=\"140\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">45–60 min</text>\n  <text x=\"320\" y=\"155\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">preguntas STAR</text>\n  <text x=\"320\" y=\"170\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">y técnicas</text>\n  <text x=\"447\" y=\"122\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Technical test</text>\n  <text x=\"447\" y=\"140\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">revisar un plano,</text>\n  <text x=\"447\" y=\"155\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">caso práctico</text>\n  <text x=\"574\" y=\"122\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Offer</text>\n  <text x=\"574\" y=\"140\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">referencias,</text>\n  <text x=\"574\" y=\"155\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">negociación</text>\n  <rect x=\"20\" y=\"190\" width=\"600\" height=\"30\" rx=\"15\" fill=\"#F2EEFC\"/>\n  <text x=\"320\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#4A2B91\">Tras cada etapa: correo de agradecimiento en menos de 24 horas</text>\n</svg>",
+   "caption": "Figura 36.2 — Proceso típico de selección en Australia o Canadá. La etapa 3 (en morado) es donde más pesa tu inglés."
+  },
+  {
+   "title": "Las preguntas y respuestas en una entrevista",
+   "html": "<p>Las preguntas de entrevista tienen formas fijas. Reconocer la forma te dice qué tipo de respuesta se espera.</p><table><thead><tr><th>Forma</th><th>Ejemplo</th><th>Qué esperan</th></tr></thead><tbody><tr><td><b>Afirmativo</b> (invitación)</td><td><span class=\"en\">Tell me about a time when you disagreed with a supervisor.</span></td><td>Una historia STAR completa, no una opinión.</td></tr><tr><td><b>Negativo</b> (pregunta trampa)</td><td><span class=\"en\">Have you ever not met a deadline?</span></td><td>Honestidad + qué aprendiste. Nunca <i>No, never.</i></td></tr><tr><td><b>Pregunta</b> directa</td><td><span class=\"en\">Do you have experience with CAESAR II?</span></td><td>Respuesta corta + evidencia en una oración.</td></tr><tr><td><b>Respuesta corta</b> ampliada</td><td><span class=\"en\">Yes, I do. I've used it for three years, mainly for slurry lines.</span></td><td>Nunca te quedes en <i>Yes, I do.</i> Añade el dato.</td></tr></tbody></table><p><b>Así piensa un nativo — la entrevista es una conversación entre colegas</b></p><p>El panel no busca al candidato perfecto: busca a alguien con quien quiera trabajar todos los días. Por eso valora que hables con naturalidad, que admitas lo que no sabes (<span class=\"en\">I haven't used that software yet, but I learned Navisworks in two weeks on my last project.</span>) y que hagas preguntas. Un candidato que solo responde, sin preguntar nada, parece desinteresado.</p>"
+  },
+  {
+   "title": "Networking: el mercado laboral oculto",
+   "html": "<p>Muchos puestos se cubren por recomendación antes de publicarse. En inglés esto se llama <span class=\"en\">the hidden job market</span>. El networking no es pedir trabajo: es construir relaciones profesionales en las que <b>das primero</b> (un artículo útil, una felicitación, una pregunta interesante) y pides después algo pequeño y concreto.</p>",
+   "svg": "<svg viewBox=\"0 0 640 250\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"22\" font-size=\"13\" font-weight=\"800\" fill=\"#6941C6\">ESCALERA DE NETWORKING — SUBE UN PELDAÑO A LA VEZ</text>\n  <rect x=\"20\" y=\"190\" width=\"150\" height=\"44\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <text x=\"95\" y=\"210\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">1 · Connect</text>\n  <text x=\"95\" y=\"226\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">nota personal</text>\n  <rect x=\"170\" y=\"146\" width=\"150\" height=\"88\" rx=\"8\" fill=\"#E5DBFA\" stroke=\"#6941C6\"/>\n  <text x=\"245\" y=\"166\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">2 · Engage</text>\n  <text x=\"245\" y=\"182\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">comenta, felicita,</text>\n  <text x=\"245\" y=\"197\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">comparte</text>\n  <rect x=\"320\" y=\"102\" width=\"150\" height=\"132\" rx=\"8\" fill=\"#B9A3EC\" stroke=\"#6941C6\"/>\n  <text x=\"395\" y=\"122\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">3 · Ask small</text>\n  <text x=\"395\" y=\"138\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">15 minutos de</text>\n  <text x=\"395\" y=\"153\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">consejo</text>\n  <rect x=\"470\" y=\"58\" width=\"150\" height=\"176\" rx=\"8\" fill=\"#6941C6\"/>\n  <text x=\"545\" y=\"78\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#fff\">4 · Referral</text>\n  <text x=\"545\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#F2EEFC\">recomendación</text>\n  <text x=\"545\" y=\"109\" text-anchor=\"middle\" font-size=\"11\" fill=\"#F2EEFC\">para un puesto</text>\n  <line x1=\"60\" y1=\"175\" x2=\"440\" y2=\"53\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/>\n  <polygon points=\"456,48 438,46 444,62\" fill=\"#E8590C\"/>\n  <text x=\"240\" y=\"106\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#E8590C\" transform=\"rotate(-17.8 240 106)\">confianza creciente</text>\n  <text x=\"20\" y=\"62\" font-size=\"11\" fill=\"#D92D20\">Error común:</text>\n  <text x=\"20\" y=\"77\" font-size=\"11\" fill=\"#D92D20\">saltar del 1 al 4</text>\n  <text x=\"20\" y=\"92\" font-size=\"11\" fill=\"#D92D20\">(\"Hi, do you have</text>\n  <text x=\"20\" y=\"107\" font-size=\"11\" fill=\"#D92D20\">a job for me?\")</text>\n</svg>",
+   "caption": "Figura 36.3 — La escalera de networking. Cada mensaje pide solo el siguiente peldaño, nunca el último."
+  },
+  {
+   "title": "Hablar de salario: del enunciado débil al profesional",
+   "html": "<p><b>Detalles que marcan la diferencia</b></p><ul><li><span class=\"en\">Salary</span> es el sueldo anual; <span class=\"en\">package</span> incluye sueldo, bonos, vehículo, vuelos, etc. En Australia, <span class=\"en\">super</span> (<i>superannuation</i>) es el aporte de jubilación que paga el empleador además del sueldo base; pregunta siempre si la cifra es <span class=\"en\">plus super</span> o <span class=\"en\">including super</span>.</li><li><span class=\"en\">FIFO</span> <span class=\"pron\">FÁI-fou</span> (<i>fly-in fly-out</i>): rotación habitual en minería y energía (por ejemplo, <span class=\"en\">2 weeks on, 1 week off</span>).</li><li>Para la visa, di los hechos con calma: <span class=\"en\">I would require employer sponsorship.</span> No lo escondas; el reclutador lo preguntará en la primera llamada.</li><li>Si el entrevistador hace una pregunta personal ilegal (edad, hijos, religión), puedes redirigir con cortesía: <span class=\"en\">I can assure you that it won't affect my ability to do the job.</span></li></ul>",
+   "svg": "<svg viewBox=\"0 0 640 200\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs><linearGradient id=\"g36\" x1=\"0\" x2=\"1\" y1=\"0\" y2=\"0\"><stop offset=\"0\" stop-color=\"#FEF0EF\"/><stop offset=\"0.5\" stop-color=\"#FFF8E1\"/><stop offset=\"1\" stop-color=\"#E8F7EF\"/></linearGradient></defs>\n  <rect x=\"20\" y=\"20\" width=\"600\" height=\"28\" rx=\"14\" fill=\"url(#g36)\" stroke=\"#98A2B3\"/>\n  <text x=\"30\" y=\"39\" font-size=\"12\" font-weight=\"700\" fill=\"#D92D20\">débil / riesgoso</text>\n  <text x=\"610\" y=\"39\" text-anchor=\"end\" font-size=\"12\" font-weight=\"700\" fill=\"#079455\">profesional</text>\n  <line x1=\"120\" y1=\"48\" x2=\"120\" y2=\"70\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <line x1=\"320\" y1=\"48\" x2=\"320\" y2=\"70\" stroke=\"#E9B949\" stroke-width=\"2\"/>\n  <line x1=\"520\" y1=\"48\" x2=\"520\" y2=\"70\" stroke=\"#079455\" stroke-width=\"2\"/>\n  <rect x=\"20\" y=\"70\" width=\"190\" height=\"112\" rx=\"10\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/>\n  <text x=\"115\" y=\"94\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">\"Whatever you think</text>\n  <text x=\"115\" y=\"110\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">is fair.\"</text>\n  <text x=\"115\" y=\"140\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">Parece inseguro;</text>\n  <text x=\"115\" y=\"155\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">te ofrecerán el</text>\n  <text x=\"115\" y=\"170\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">mínimo del rango.</text>\n  <rect x=\"225\" y=\"70\" width=\"190\" height=\"112\" rx=\"10\" fill=\"#FFF8E1\" stroke=\"#E9B949\"/>\n  <text x=\"320\" y=\"94\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">\"I want exactly</text>\n  <text x=\"320\" y=\"110\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">130,000.\"</text>\n  <text x=\"320\" y=\"140\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">Número único y</text>\n  <text x=\"320\" y=\"155\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">rígido: no deja</text>\n  <text x=\"320\" y=\"170\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">espacio para negociar.</text>\n  <rect x=\"430\" y=\"70\" width=\"190\" height=\"112\" rx=\"10\" fill=\"#E8F7EF\" stroke=\"#079455\"/>\n  <text x=\"525\" y=\"94\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">\"Based on my research,</text>\n  <text x=\"525\" y=\"110\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">120 to 135, plus super.\"</text>\n  <text x=\"525\" y=\"140\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">Rango investigado +</text>\n  <text x=\"525\" y=\"155\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">apertura a hablar del</text>\n  <text x=\"525\" y=\"170\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">paquete completo.</text>\n</svg>",
+   "caption": "Figura 36.4 — Escala de respuestas sobre salario. \"Super\" es la jubilación obligatoria en Australia, que se suma al sueldo base."
+  }
+ ],
+ "blocks": [
+  {
+   "en": "I'm a mechanical and piping engineer with five years of experience in…",
+   "pron": "aim ə mə-KÁ-ni-kol ənd PÁI-ping en-yi-NÍR",
+   "es": "Soy ingeniero mecánico y de piping con cinco años de experiencia en…",
+   "group": "A. Presentarte (la respuesta a \"Tell me about yourself\")"
+  },
+  {
+   "en": "Currently, I'm working as… at…",
+   "pron": "KÉ-rənt-li aim WÉR-king az",
+   "es": "Actualmente trabajo como… en…",
+   "group": "A. Presentarte (la respuesta a \"Tell me about yourself\")"
+  },
+  {
+   "en": "My background is in…",
+   "pron": "mai BÁK-graund iz in",
+   "es": "Mi formación / trayectoria es en…",
+   "group": "A. Presentarte (la respuesta a \"Tell me about yourself\")"
+  },
+  {
+   "en": "What I enjoy most is…",
+   "pron": "wot ai en-YÓI MOUST iz",
+   "es": "Lo que más disfruto es…",
+   "group": "A. Presentarte (la respuesta a \"Tell me about yourself\")"
+  },
+  {
+   "en": "That's what brings me to this role.",
+   "pron": "dhats wot BRINGZ mi tə dhis ROUL",
+   "es": "Eso es lo que me trae a este puesto.",
+   "group": "A. Presentarte (la respuesta a \"Tell me about yourself\")"
+  },
+  {
+   "en": "I'm particularly drawn to…",
+   "pron": "aim per-TÍ-kiə-ler-li DRON tu",
+   "es": "Me atrae especialmente…",
+   "group": "A. Presentarte (la respuesta a \"Tell me about yourself\")"
+  },
+  {
+   "en": "I'm looking to take the next step in my career.",
+   "pron": "aim LÚ-king tə teik dhə NEKST step in mai kə-RÍR",
+   "es": "Busco dar el siguiente paso en mi carrera.",
+   "group": "A. Presentarte (la respuesta a \"Tell me about yourself\")"
+  },
+  {
+   "en": "A good example would be…",
+   "pron": "ə gud ig-ZÁM-pol wud bi",
+   "es": "Un buen ejemplo sería…",
+   "group": "B. Contar una historia STAR"
+  },
+  {
+   "en": "At the time, I was working on…",
+   "pron": "ət dhə TAIM ai wəz WÉR-king on",
+   "es": "En ese momento trabajaba en…",
+   "group": "B. Contar una historia STAR"
+  },
+  {
+   "en": "My role was to…",
+   "pron": "mai ROUL wəz tu",
+   "es": "Mi función era…",
+   "group": "B. Contar una historia STAR"
+  },
+  {
+   "en": "The challenge was that…",
+   "pron": "dhə CHÁ-ləny wəz dhat",
+   "es": "El reto era que…",
+   "group": "B. Contar una historia STAR"
+  },
+  {
+   "en": "The first thing I did was…",
+   "pron": "dhə FERST thing ai DID wəz",
+   "es": "Lo primero que hice fue…",
+   "group": "B. Contar una historia STAR"
+  },
+  {
+   "en": "I decided to…",
+   "pron": "ai di-SÁI-did tu",
+   "es": "Decidí…",
+   "group": "B. Contar una historia STAR"
+  },
+  {
+   "en": "As a result, …",
+   "pron": "az ə ri-ZÁLT",
+   "es": "Como resultado, …",
+   "group": "B. Contar una historia STAR"
+  },
+  {
+   "en": "What I learned from that was…",
+   "pron": "wot ai LERND from DHAT wəz",
+   "es": "Lo que aprendí de eso fue…",
+   "group": "B. Contar una historia STAR"
+  },
+  {
+   "en": "That's a great question.",
+   "pron": "dhats ə GREIT KWÉS-chən",
+   "es": "Muy buena pregunta.",
+   "group": "C. Ganar tiempo y aclarar"
+  },
+  {
+   "en": "Let me think about that for a second.",
+   "pron": "let mi THINK ə-baut dhat for ə SÉ-kənd",
+   "es": "Déjeme pensarlo un segundo.",
+   "group": "C. Ganar tiempo y aclarar"
+  },
+  {
+   "en": "Could you rephrase that, please?",
+   "pron": "kud yu ri-FRÉIZ dhat pliz",
+   "es": "¿Podría reformular la pregunta?",
+   "group": "C. Ganar tiempo y aclarar"
+  },
+  {
+   "en": "Just to make sure I understand, you mean…?",
+   "pron": "yast tə meik SHUR ai an-der-STÁND yu MIN",
+   "es": "Para asegurarme de que entiendo, ¿se refiere a…?",
+   "group": "C. Ganar tiempo y aclarar"
+  },
+  {
+   "en": "Does that answer your question?",
+   "pron": "daz dhat ÁN-ser yor KWÉS-chən",
+   "es": "¿Eso responde a su pregunta?",
+   "group": "C. Ganar tiempo y aclarar"
+  },
+  {
+   "en": "I haven't done that yet, but…",
+   "pron": "ai JÁ-vənt dan dhat YET bat",
+   "es": "Aún no lo he hecho, pero…",
+   "group": "C. Ganar tiempo y aclarar"
+  },
+  {
+   "en": "One of my key strengths is…",
+   "pron": "wan əv mai KI strengths iz",
+   "es": "Una de mis principales fortalezas es…",
+   "group": "D. Fortalezas, debilidades y motivación"
+  },
+  {
+   "en": "Something I've been working on is…",
+   "pron": "SÁM-thing aiv bin WÉR-king on iz",
+   "es": "Algo en lo que he estado trabajando es…",
+   "group": "D. Fortalezas, debilidades y motivación"
+  },
+  {
+   "en": "I tend to…, so I've started…",
+   "pron": "ai TEND tu … sou aiv STÁR-tid",
+   "es": "Tiendo a…, así que empecé a…",
+   "group": "D. Fortalezas, debilidades y motivación"
+  },
+  {
+   "en": "I'm keen to…",
+   "pron": "aim KIN tu",
+   "es": "Tengo muchas ganas de… (muy usado en Australia y el Reino Unido)",
+   "group": "D. Fortalezas, debilidades y motivación"
+  },
+  {
+   "en": "I'd bring hands-on site experience.",
+   "pron": "aid BRING JANDZ-on SAIT ek-SPÍ-ri-əns",
+   "es": "Aportaría experiencia práctica en obra.",
+   "group": "D. Fortalezas, debilidades y motivación"
+  },
+  {
+   "en": "I see myself growing into a lead role.",
+   "pron": "ai SI mai-SELF GRÓU-ing in-tu ə LID roul",
+   "es": "Me veo creciendo hacia un puesto de líder.",
+   "group": "D. Fortalezas, debilidades y motivación"
+  },
+  {
+   "en": "What is the salary range for this role?",
+   "pron": "wot iz dhə SÁ-lə-ri REINY for dhis ROUL",
+   "es": "¿Cuál es el rango salarial de este puesto?",
+   "group": "E. Salario, disponibilidad y visa"
+  },
+  {
+   "en": "Based on my research, I'm looking for…",
+   "pron": "BEIST on mai ri-SÉRCH aim LÚ-king for",
+   "es": "Según lo que he investigado, busco…",
+   "group": "E. Salario, disponibilidad y visa"
+  },
+  {
+   "en": "I'm open to discussing the full package.",
+   "pron": "aim ÓU-pən tə dis-KÁ-sing dhə ful PÁ-kiy",
+   "es": "Estoy abierto a conversar el paquete completo.",
+   "group": "E. Salario, disponibilidad y visa"
+  },
+  {
+   "en": "I'm available to start within four weeks.",
+   "pron": "aim ə-VÉI-lə-bol tə START wi-DHÍN for wiks",
+   "es": "Puedo empezar en un plazo de cuatro semanas.",
+   "group": "E. Salario, disponibilidad y visa"
+  },
+  {
+   "en": "I would require visa sponsorship.",
+   "pron": "ai wud ri-KWÁIR VÍ-zə SPÓN-ser-ship",
+   "es": "Necesitaría patrocinio de visa.",
+   "group": "E. Salario, disponibilidad y visa"
+  },
+  {
+   "en": "I'm willing to relocate.",
+   "pron": "aim WÍ-ling tə ri-LÓU-keit",
+   "es": "Estoy dispuesto a mudarme.",
+   "group": "E. Salario, disponibilidad y visa"
+  },
+  {
+   "en": "I'm comfortable with a FIFO roster.",
+   "pron": "aim KÁMF-ter-bol widh ə FÁI-fou RÓS-ter",
+   "es": "No tengo problema con una rotación FIFO.",
+   "group": "E. Salario, disponibilidad y visa"
+  },
+  {
+   "en": "What would success look like in the first six months?",
+   "pron": "wot wud sək-SÉS LUK laik in dhə FERST siks MANTHS",
+   "es": "¿Cómo se vería el éxito en los primeros seis meses?",
+   "group": "F. Cerrar la entrevista y hacer preguntas"
+  },
+  {
+   "en": "What are the next steps in the process?",
+   "pron": "wot ar dhə NEKST steps in dhə PRÓ-ses",
+   "es": "¿Cuáles son los siguientes pasos del proceso?",
+   "group": "F. Cerrar la entrevista y hacer preguntas"
+  },
+  {
+   "en": "How is the team structured?",
+   "pron": "jau iz dhə TIM STRÁK-cherd",
+   "es": "¿Cómo está organizado el equipo?",
+   "group": "F. Cerrar la entrevista y hacer preguntas"
+  },
+  {
+   "en": "Thank you for your time today.",
+   "pron": "THANK yu for yor TAIM tə-DÉI",
+   "es": "Gracias por su tiempo hoy.",
+   "group": "F. Cerrar la entrevista y hacer preguntas"
+  },
+  {
+   "en": "I look forward to hearing from you.",
+   "pron": "ai luk FÓR-werd tə JÍ-ring from yu",
+   "es": "Quedo atento a su respuesta.",
+   "group": "F. Cerrar la entrevista y hacer preguntas"
+  },
+  {
+   "en": "I came across your post on…",
+   "pron": "ai keim ə-KRÓS yor POUST on",
+   "es": "Vi tu publicación sobre…",
+   "group": "G. Networking y LinkedIn"
+  },
+  {
+   "en": "We're both members of…",
+   "pron": "wir BOUTH MÉM-berz əv",
+   "es": "Ambos somos miembros de…",
+   "group": "G. Networking y LinkedIn"
+  },
+  {
+   "en": "Would you be open to a 15-minute call?",
+   "pron": "wud yu bi ÓU-pən tu ə fif-TÍN MÍ-nit KOL",
+   "es": "¿Estarías dispuesto a una llamada de 15 minutos?",
+   "group": "G. Networking y LinkedIn"
+  },
+  {
+   "en": "I'd really value your perspective on…",
+   "pron": "aid RÍ-li VÁ-liu yor per-SPÉK-tiv on",
+   "es": "Valoraría mucho tu opinión sobre…",
+   "group": "G. Networking y LinkedIn"
+  },
+  {
+   "en": "No worries if you're too busy.",
+   "pron": "nou WÉ-riz if yur tu BÍ-zi",
+   "es": "No hay problema si estás muy ocupado.",
+   "group": "G. Networking y LinkedIn"
+  },
+  {
+   "en": "Thanks again for your time and advice.",
+   "pron": "thanks ə-GUÉN for yor TAIM ənd əd-VÁIS",
+   "es": "Gracias de nuevo por tu tiempo y consejo.",
+   "group": "G. Networking y LinkedIn"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Yes, this is a good time to talk. Thanks for calling.",
+   "es": "Sí, es un buen momento para hablar. Gracias por llamar.",
+   "situation": "Llamada del reclutador"
+  },
+  {
+   "en": "I'm a piping design engineer with five years of experience in tank and piping projects across three countries.",
+   "es": "Soy ingeniero de diseño de piping con cinco años de experiencia en proyectos de tanques y tuberías en tres países.",
+   "situation": "Presentación en 60 segundos"
+  },
+  {
+   "en": "Yes, I do. I've used CAESAR II for three years, mainly for slurry and hot-oil lines.",
+   "es": "Sí. He usado CAESAR II durante tres años, sobre todo para líneas de relaves y de aceite caliente.",
+   "situation": "Pregunta técnica"
+  },
+  {
+   "en": "At the time, we were three days behind schedule on a tank shutdown.",
+   "es": "En ese momento llevábamos tres días de retraso en una parada de tanque.",
+   "situation": "STAR: situación"
+  },
+  {
+   "en": "I split the crew into two shifts and agreed on a daily inspection window with the client.",
+   "es": "Dividí la cuadrilla en dos turnos y acordé con el cliente una ventana diaria de inspección.",
+   "situation": "STAR: acción"
+  },
+  {
+   "en": "As a result, we handed over the tank a day early, with zero safety incidents.",
+   "es": "Como resultado, entregamos el tanque un día antes, sin incidentes de seguridad.",
+   "situation": "STAR: resultado"
+  },
+  {
+   "en": "I tend to take on too much myself, so I've started delegating drafting tasks earlier.",
+   "es": "Tiendo a asumir demasiado yo mismo, así que empecé a delegar antes las tareas de dibujo.",
+   "situation": "Debilidad"
+  },
+  {
+   "en": "I'm keen to work on large LNG and mining projects, and Western Australia is where many of them are.",
+   "es": "Tengo muchas ganas de trabajar en grandes proyectos de GNL y minería, y muchos están en Australia Occidental.",
+   "situation": "Por qué Australia"
+  },
+  {
+   "en": "Based on my research, I'm looking for a base salary of 120 to 135 thousand dollars, plus super.",
+   "es": "Según lo que investigué, busco un sueldo base de 120 a 135 mil dólares, más jubilación.",
+   "situation": "Salario"
+  },
+  {
+   "en": "I would require employer sponsorship, but I'm happy to handle the paperwork on my side quickly.",
+   "es": "Necesitaría patrocinio del empleador, pero con gusto haré mi parte del trámite rápidamente.",
+   "situation": "Visa"
+  },
+  {
+   "en": "What would success look like for this role in the first six months?",
+   "es": "¿Cómo se vería el éxito en este puesto durante los primeros seis meses?",
+   "situation": "Pregunta al panel"
+  },
+  {
+   "en": "Hi, I'm Daniel. I noticed your talk on tank inspections. What got you into that field?",
+   "es": "Hola, soy Daniel. Vi tu charla sobre inspección de tanques. ¿Cómo llegaste a ese campo?",
+   "situation": "Evento de networking"
+  },
+  {
+   "en": "I came across your post on API 653 inspections and found it really useful.",
+   "es": "Vi tu publicación sobre inspecciones API 653 y me pareció muy útil.",
+   "situation": "Mensaje de LinkedIn"
+  },
+  {
+   "en": "I've just moved here from Peru for work. Any tips on the best way to get around?",
+   "es": "Acabo de mudarme aquí desde Perú por trabajo. ¿Algún consejo sobre la mejor forma de moverse?",
+   "situation": "Vida diaria: vecino nuevo"
+  },
+  {
+   "en": "I'm delighted to accept the offer. Could you send me the contract to review?",
+   "es": "Me complace aceptar la oferta. ¿Podría enviarme el contrato para revisarlo?",
+   "situation": "Aceptar una oferta"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta ampliada"
+   ],
+   "rows": [
+    [
+     "I have experience with CAESAR II.",
+     "I don't have experience with CAESAR II.",
+     "Do you have experience with CAESAR II?",
+     "Yes, I do. Three years, mainly on slurry lines."
+    ],
+    [
+     "I've worked on FIFO rosters.",
+     "I haven't worked on FIFO rosters.",
+     "Have you worked on FIFO rosters?",
+     "Yes, I have. I did 14/7 in Chile for a year."
+    ],
+    [
+     "I can start in four weeks.",
+     "I can't start in four weeks.",
+     "Can you start in four weeks?",
+     "Yes, I can. My notice period is four weeks."
+    ],
+    [
+     "I'd need visa sponsorship.",
+     "I wouldn't need visa sponsorship.",
+     "Would you need visa sponsorship?",
+     "Yes, I would. A 482 visa would be the usual route."
+    ],
+    [
+     "I'm willing to relocate.",
+     "I'm not willing to relocate.",
+     "Are you willing to relocate?",
+     "Yes, I am. I'm ready to move within a month."
+    ],
+    [
+     "I led the shutdown team.",
+     "I didn't lead the shutdown team.",
+     "Did you lead the shutdown team?",
+     "No, I didn't, but I planned the welding sequence."
+    ],
+    [
+     "The role includes site visits.",
+     "The role doesn't include site visits.",
+     "Does the role include site visits?",
+     "Yes, it does. About one week a month."
+    ],
+    [
+     "You were managing a team.",
+     "You weren't managing a team.",
+     "Were you managing a team?",
+     "Yes, I was. A team of four drafters."
+    ],
+    [
+     "They will contact my references.",
+     "They won't contact my references.",
+     "Will they contact my references?",
+     "Yes, they will. Probably this week."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Daniel",
+   "text": "Hi, I'm Daniel. I really enjoyed your talk on tank floor inspections."
+  },
+  {
+   "who": "Priya",
+   "text": "Thanks, Daniel! I'm Priya. Are you working in the tank space too?"
+  },
+  {
+   "who": "Daniel",
+   "text": "Yes, I'm a piping and mechanical design engineer. I've been doing API 653 repairs in The Bahamas for the past year."
+  },
+  {
+   "who": "Priya",
+   "text": "Oh, nice. What brings you to Perth?"
+  },
+  {
+   "who": "Daniel",
+   "text": "I'm exploring opportunities in Western Australia. I'm keen to work on larger LNG projects."
+  },
+  {
+   "who": "Priya",
+   "text": "There's definitely a lot going on in that space at the moment."
+  },
+  {
+   "who": "Daniel",
+   "text": "That's what I've heard. Out of curiosity, how did you get into inspection work?"
+  },
+  {
+   "who": "Priya",
+   "text": "I started as a welder, actually. Then I did my CWI and moved into inspection."
+  },
+  {
+   "who": "Daniel",
+   "text": "That's a great path. Would you be open to connecting on LinkedIn? I'd love to stay in touch."
+  },
+  {
+   "who": "Priya",
+   "text": "Of course. Send me a request and mention tonight's event so I remember."
+  },
+  {
+   "who": "Daniel",
+   "text": "Will do. Thanks, Priya, and great talk."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "I want to postulate for the job.",
+   "right": "I'd like to apply for the job.",
+   "why": "Postulate = plantear una teoría. Postular a un puesto = apply for."
+  },
+  {
+   "wrong": "I have 5 years working in tanks.",
+   "right": "I've been working on tank projects for five years.",
+   "why": "Duración hasta hoy = presente perfecto continuo (Módulo 14)."
+  },
+  {
+   "wrong": "I'm agree with that.",
+   "right": "I agree with that.",
+   "why": "Agree es verbo, no adjetivo: no lleva be."
+  },
+  {
+   "wrong": "We finished the project early. (respuesta a \"What did you do?\")",
+   "right": "I re-sequenced the plan, and we finished early.",
+   "why": "El panel evalúa tu acción: usa I para lo que tú hiciste."
+  },
+  {
+   "wrong": "My weakness is that I'm a perfectionist.",
+   "right": "I tend to take on too much myself, so I've started delegating earlier.",
+   "why": "Respuesta cliché. Da una debilidad real + qué haces para mejorar."
+  },
+  {
+   "wrong": "How much will you pay me?",
+   "right": "Could you share the salary range for this role?",
+   "why": "Demasiado directo; pregunta por el rango del puesto."
+  },
+  {
+   "wrong": "I'm looking forward to hear from you.",
+   "right": "I'm looking forward to hearing from you.",
+   "why": "En look forward to, to es preposición → gerundio."
+  },
+  {
+   "wrong": "Explain me the role, please.",
+   "right": "Could you explain the role to me, please?",
+   "why": "Explain no lleva objeto de persona directo: explain something to someone."
+  },
+  {
+   "wrong": "Do you have a job for me? (primer mensaje)",
+   "right": "Would you be open to a 15-minute call?",
+   "why": "Salta al último peldaño; pide algo pequeño primero."
+  },
+  {
+   "wrong": "No, I don't have questions.",
+   "right": "Yes, what would success look like in the first six months?",
+   "why": "No preguntar nada transmite falta de interés."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "postulate",
+   "looks": "postular (a un puesto)",
+   "means": "plantear una teoría",
+   "fix": "apply for"
+  },
+  {
+   "en": "carrier",
+   "looks": "carrera",
+   "means": "transportista, portador",
+   "fix": "career"
+  },
+  {
+   "en": "disposition",
+   "looks": "disposición (disponibilidad)",
+   "means": "carácter, temperamento",
+   "fix": "availability"
+  },
+  {
+   "en": "pretend",
+   "looks": "pretender (aspirar)",
+   "means": "fingir",
+   "fix": "aim to / intend to"
+  },
+  {
+   "en": "sympathetic",
+   "looks": "simpático",
+   "means": "comprensivo, compasivo",
+   "fix": "friendly / likeable"
+  },
+  {
+   "en": "contest",
+   "looks": "contestar",
+   "means": "concurso; impugnar",
+   "fix": "answer / reply"
+  },
+  {
+   "en": "to be qualified",
+   "looks": "estar calificado (evaluado)",
+   "means": "tener la formación requerida",
+   "fix": "to be assessed / rated"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Me gustaría postular al puesto de ingeniero de piping.",
+    "answers": [
+     "I'd like to apply for the piping engineer position.",
+     "I would like to apply for the piping engineer position.",
+     "I'd like to apply for the position of piping engineer.",
+     "I would like to apply for the position of piping engineer."
+    ],
+    "explain": "Postular = apply for. I'd like es la forma cortés."
+   },
+   {
+    "prompt": "Llevo cinco años trabajando en proyectos de tanques.",
+    "answers": [
+     "I've been working on tank projects for five years.",
+     "I have been working on tank projects for five years."
+    ],
+    "explain": "Acción que continúa hasta hoy = presente perfecto continuo + for (Módulo 14). Proyectos: on."
+   },
+   {
+    "prompt": "En ese momento, yo estaba trabajando en una parada de planta en Chile.",
+    "answers": [
+     "At the time, I was working on a plant shutdown in Chile.",
+     "At that time, I was working on a plant shutdown in Chile."
+    ],
+    "explain": "Situación STAR = pasado continuo (Módulo 15)."
+   },
+   {
+    "prompt": "Lo primero que hice fue dividir la cuadrilla en dos turnos.",
+    "answers": [
+     "The first thing I did was to split the crew into two shifts.",
+     "The first thing I did was split the crew into two shifts."
+    ],
+    "explain": "Bloque fijo de STAR. Split es irregular: split – split – split. El to es opcional."
+   },
+   {
+    "prompt": "Como resultado, entregamos el tanque dos días antes.",
+    "answers": [
+     "As a result, we handed over the tank two days early.",
+     "As a result, we handed the tank over two days early.",
+     "As a result, we handed over the tank two days ahead of schedule."
+    ],
+    "explain": "Entregar una obra = hand over. \"Antes\" = early o ahead of schedule."
+   },
+   {
+    "prompt": "¿Podría reformular la pregunta, por favor?",
+    "answers": [
+     "Could you rephrase the question, please?",
+     "Could you please rephrase the question?"
+    ],
+    "explain": "Rephrase = reformular. Could you = petición cortés."
+   },
+   {
+    "prompt": "Necesitaría patrocinio de visa.",
+    "answers": [
+     "I'd need visa sponsorship.",
+     "I would need visa sponsorship.",
+     "I would require visa sponsorship."
+    ],
+    "explain": "También vale I would require visa sponsorship (más formal)."
+   },
+   {
+    "prompt": "Estoy abierto a conversar el paquete completo.",
+    "answers": [
+     "I'm open to discussing the full package.",
+     "I am open to discussing the full package."
+    ],
+    "explain": "Open to: to es preposición → gerundio."
+   },
+   {
+    "prompt": "¿Cuáles son los siguientes pasos del proceso?",
+    "answers": [
+     "What are the next steps in the process?"
+    ],
+    "explain": "Pregunta estándar de cierre."
+   },
+   {
+    "prompt": "Quedo atento a su respuesta.",
+    "answers": [
+     "I look forward to hearing from you.",
+     "I'm looking forward to hearing from you.",
+     "I am looking forward to hearing from you."
+    ],
+    "explain": "Fórmula de cierre; to + gerundio. También vale I'm looking forward to…"
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "I'm keen to work on large LNG projects.",
+    "answers": [
+     "Tengo muchas ganas de trabajar en grandes proyectos de GNL.",
+     "Estoy muy interesado en trabajar en grandes proyectos de GNL.",
+     "Me entusiasma la idea de trabajar en grandes proyectos de GNL."
+    ],
+    "explain": "Keen to = con ganas de, entusiasmado por. LNG = GNL (gas natural licuado)."
+   },
+   {
+    "prompt": "I'm comfortable with a FIFO roster.",
+    "answers": [
+     "No tengo problema con una rotación FIFO.",
+     "Me siento cómodo con un régimen FIFO.",
+     "Estoy cómodo con un sistema de turnos FIFO."
+    ],
+    "explain": "Comfortable with = me siento cómodo con, no me molesta."
+   },
+   {
+    "prompt": "I took ownership and corrected the drawing.",
+    "answers": [
+     "Asumí la responsabilidad y corregí el plano.",
+     "Me hice cargo y corregí el plano.",
+     "Tomé la responsabilidad y corregí el plano."
+    ],
+    "explain": "Take ownership = hacerse cargo, asumir la responsabilidad."
+   },
+   {
+    "prompt": "Would you be open to a 15-minute call?",
+    "answers": [
+     "¿Estarías dispuesto a una llamada de 15 minutos?",
+     "¿Estaría abierto a una llamada de 15 minutos?",
+     "¿Te parecería bien una llamada de 15 minutos?"
+    ],
+    "explain": "Be open to + sustantivo = estar abierto a algo."
+   },
+   {
+    "prompt": "No worries if you're too busy.",
+    "answers": [
+     "No hay problema si estás muy ocupado.",
+     "No te preocupes si estás muy ocupado.",
+     "No pasa nada si estás demasiado ocupado."
+    ],
+    "explain": "No worries = no hay problema (muy australiano, también común en EE. UU.)."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "I would like to postulate for this position.",
+    "answers": [
+     "I would like to apply for this position.",
+     "I'd like to apply for this position."
+    ],
+    "explain": "Falso amigo: postular = apply for."
+   },
+   {
+    "prompt": "I'm agree with your approach.",
+    "answers": [
+     "I agree with your approach."
+    ],
+    "explain": "Agree es verbo; sobra am."
+   },
+   {
+    "prompt": "I'm looking forward to meet the team.",
+    "answers": [
+     "I'm looking forward to meeting the team.",
+     "I am looking forward to meeting the team."
+    ],
+    "explain": "Look forward to + gerundio."
+   },
+   {
+    "prompt": "Can you explain me the reporting structure?",
+    "answers": [
+     "Can you explain the reporting structure to me?"
+    ],
+    "explain": "Explain something to someone."
+   },
+   {
+    "prompt": "I have been working here since three years.",
+    "answers": [
+     "I have been working here for three years.",
+     "I've been working here for three years."
+    ],
+    "explain": "Período de tiempo = for; since va con un punto de inicio (since 2023)."
+   },
+   {
+    "prompt": "One of my key strength is planning.",
+    "answers": [
+     "One of my key strengths is planning."
+    ],
+    "explain": "One of + plural: strengths."
+   },
+   {
+    "prompt": "At the time, I work on a pipe rack extension in Chile.",
+    "answers": [
+     "At the time, I was working on a pipe rack extension in Chile."
+    ],
+    "explain": "Situación pasada en curso = pasado continuo."
+   },
+   {
+    "prompt": "I am willing to relocation to Perth.",
+    "answers": [
+     "I am willing to relocate to Perth.",
+     "I'm willing to relocate to Perth."
+    ],
+    "explain": "Willing to + verbo base: relocate, no el sustantivo."
+   },
+   {
+    "prompt": "I want to make a carrier in the energy sector.",
+    "answers": [
+     "I want to build a career in the energy sector.",
+     "I want to make a career in the energy sector."
+    ],
+    "explain": "Carrier = transportista; trayectoria = career. (También se acepta make a career, aunque build es más natural.)"
+   },
+   {
+    "prompt": "What would success look like in the first six month?",
+    "answers": [
+     "What would success look like in the first six months?"
+    ],
+    "explain": "Six exige plural: months."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte esta respuesta débil en una respuesta corta ampliada: — Have you used Navisworks? — Yes.",
+   "answer": "Yes, I have. I used it on my last project to review clashes in a 3D model with over 400 lines."
+  },
+  "C1": {
+   "instructions": "Completa la entrevista con estas palabras, una vez cada una (8 puntos): As a result · background · next steps · open · range · rephrase · role · sponsorship.",
+   "lines": [
+    {
+     "who": "Recruiter",
+     "text": "So, tell me about your [1]."
+    },
+    {
+     "who": "You",
+     "text": "I studied industrial engineering, and I've worked in piping and tanks for five years."
+    },
+    {
+     "who": "Recruiter",
+     "text": "Tell me about a time you saved a project money."
+    },
+    {
+     "who": "You",
+     "text": "Sorry, could you [2] that, please?"
+    },
+    {
+     "who": "Recruiter",
+     "text": "Sure. Give me an example of a cost saving you achieved."
+    },
+    {
+     "who": "You",
+     "text": "Of course. My [3] was to check the stress analysis. I removed two expansion loops. [4], we saved 22,000 dollars in materials."
+    },
+    {
+     "who": "Recruiter",
+     "text": "Great. Would you need visa [5]?"
+    },
+    {
+     "who": "You",
+     "text": "Yes, I would. And may I ask what the salary [6] is for this position?"
+    },
+    {
+     "who": "Recruiter",
+     "text": "It's between 115 and 130 thousand, plus super."
+    },
+    {
+     "who": "You",
+     "text": "That works for me, and I'm [7] to discussing the full package. What are the [8]?"
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "background"
+     ],
+     "explain": "Tell me about your background = háblame de tu formación y trayectoria."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "rephrase"
+     ],
+     "explain": "Pedir que reformulen la pregunta."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "role"
+     ],
+     "explain": "My role was to… = la T de STAR."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "As a result"
+     ],
+     "explain": "Introduce la R de STAR con el número."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "sponsorship"
+     ],
+     "explain": "Visa sponsorship = patrocinio de visa."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "range"
+     ],
+     "explain": "Salary range = rango salarial."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "open"
+     ],
+     "explain": "Open to discussing = abierto a conversar."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "next steps"
+     ],
+     "explain": "Pregunta de cierre: What are the next steps?"
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Escribe un correo de agradecimiento (7 puntos) a Sarah Kelly (HR) y Mark Davies (Engineering Manager) tras una entrevista para el puesto de Senior Piping Designer. Escribe 80–110 palabras.",
+   "rubric": [
+    "(1) asunto claro",
+    "(2) saludo formal con ambos nombres",
+    "(3) agradecimiento que menciona el puesto",
+    "(4) un detalle concreto de la conversación",
+    "(5) una frase que conecta tu experiencia con el puesto",
+    "(6) cierre con I look forward to hearing from you o equivalente bien formado",
+    "(7) despedida formal, 80–110 palabras y cero errores de gramática"
+   ],
+   "model": "Subject: Thank you — Senior Piping Designer interview\n\nDear Ms. Kelly and Mr. Davies,\nThank you for taking the time to meet with me today to discuss the Senior Piping Designer position. I especially enjoyed learning about the upcoming tank-farm expansion in Kwinana and how the design team supports construction on site.\nOur conversation confirmed my interest in the role. My experience designing API 653 repair packages and coordinating with site inspectors would help me contribute from the start.\nPlease let me know if you need any further information. I look forward to hearing from you.\nKind regards,\nDaniel Rojas"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Responder \"Tell me about yourself\".",
+   "test": "Grábate: 60–90 segundos, sin leer, con pasado, presente y motivación; máximo 2 pausas largas."
+  },
+  {
+   "skill": "Contar historias STAR.",
+   "test": "Graba 6 historias (Parte 3) de 90–120 s cada una; todas con \"I\" en la acción y una cifra en el resultado."
+  },
+  {
+   "skill": "Dar respuestas cortas ampliadas.",
+   "test": "Responde 8 preguntas Yes/No de la Parte 2 con respuesta corta + un dato, en menos de 3 minutos."
+  },
+  {
+   "skill": "Hablar de salario y visa con seguridad.",
+   "test": "Di en voz alta tu rango investigado y tu situación de visa en menos de 30 segundos, sin titubear."
+  },
+  {
+   "skill": "Hacer preguntas al panel.",
+   "test": "Prepara 3 preguntas propias sobre el puesto; ninguna sobre vacaciones ni salario en la primera entrevista."
+  },
+  {
+   "skill": "Escribir mensajes de networking.",
+   "test": "Redacta una solicitud de LinkedIn (≤ 300 caracteres) y un pedido de 15 minutos; envíalos a 3 personas reales esta semana."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "So, tell me about yourself.",
+  "What's one of your key strengths? Can you give me an example?",
+  "Tell me about a time you solved a difficult problem at work.",
+  "Why are you interested in this kind of role?",
+  "Where do you see yourself in five years?",
+  "Do you have any questions for us?"
+ ]
+}

@@ -1,0 +1,946 @@
+{
+ "id": 6,
+ "level": "A1",
+ "title": "Posesivos, demostrativos y objeto (my, this, me)",
+ "goal": "Al terminar podrás decir de quién es algo (my, his, her, mine, Carlos's), señalar cosas cerca y lejos (this, that, these, those) y usar me, him, her, them después del verbo, sin confundir nunca his con her.",
+ "lesson": [
+  {
+   "title": "Cuatro familias: sujeto, objeto y posesivos",
+   "html": "<p>En obra todo tiene dueño y todo se señala: <i>¿de quién es este casco?</i>, <i>pásame esa llave</i>, <i>dale el plano a él</i>. Para eso el inglés usa cuatro familias de palabras pequeñas. Ya conoces la primera (los pronombres sujeto del Módulo 1). Este módulo completa las otras tres.</p>",
+   "svg": "<svg viewBox=\"0 0 640 300\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"10\" width=\"140\" height=\"58\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"90\" y=\"34\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1570EF\">SUJETO</text>\n  <text x=\"90\" y=\"54\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">antes del verbo</text>\n  <rect x=\"173\" y=\"10\" width=\"140\" height=\"58\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"243\" y=\"34\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#0E9384\">OBJETO</text>\n  <text x=\"243\" y=\"54\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">después del verbo</text>\n  <rect x=\"326\" y=\"10\" width=\"140\" height=\"58\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"396\" y=\"34\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">POSESIVO + cosa</text>\n  <text x=\"396\" y=\"54\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">antes del sustantivo</text>\n  <rect x=\"479\" y=\"10\" width=\"140\" height=\"58\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"549\" y=\"34\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#6941C6\">POSESIVO solo</text>\n  <text x=\"549\" y=\"54\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">reemplaza la cosa</text>\n  <g font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\" text-anchor=\"middle\">\n  <text x=\"90\" y=\"98\">I</text><text x=\"243\" y=\"98\">me</text><text x=\"396\" y=\"98\">my</text><text x=\"549\" y=\"98\">mine</text>\n  <text x=\"90\" y=\"124\">you</text><text x=\"243\" y=\"124\">you</text><text x=\"396\" y=\"124\">your</text><text x=\"549\" y=\"124\">yours</text>\n  <text x=\"90\" y=\"150\">he</text><text x=\"243\" y=\"150\">him</text><text x=\"396\" y=\"150\">his</text><text x=\"549\" y=\"150\">his</text>\n  <text x=\"90\" y=\"176\">she</text><text x=\"243\" y=\"176\">her</text><text x=\"396\" y=\"176\">her</text><text x=\"549\" y=\"176\">hers</text>\n  <text x=\"90\" y=\"202\">it</text><text x=\"243\" y=\"202\">it</text><text x=\"396\" y=\"202\">its</text><text x=\"549\" y=\"202\">—</text>\n  <text x=\"90\" y=\"228\">we</text><text x=\"243\" y=\"228\">us</text><text x=\"396\" y=\"228\">our</text><text x=\"549\" y=\"228\">ours</text>\n  <text x=\"90\" y=\"254\">they</text><text x=\"243\" y=\"254\">them</text><text x=\"396\" y=\"254\">their</text><text x=\"549\" y=\"254\">theirs</text>\n  </g>\n  <line x1=\"20\" y1=\"80\" x2=\"620\" y2=\"80\" stroke=\"#98A2B3\"/>\n  <text x=\"20\" y=\"286\" font-size=\"12\" fill=\"#667085\">Ejemplo de una fila: She calls me. · I call her. · It's her helmet. · The helmet is hers.</text>\n</svg>",
+   "caption": "Figura 6.1 — Las cuatro familias. Lee cada fila de izquierda a derecha: es la misma persona en cuatro posiciones."
+  },
+  {
+   "title": "A. Adjetivos posesivos: my, your, his, her…",
+   "html": "<p>Van <b>siempre antes de un sustantivo</b>. No cambian con el plural de la cosa: <span class=\"en\">my tool</span>, <span class=\"en\">my tools</span>. Nunca <span class=\"wrong\">mys tools</span>.</p><table><thead><tr><th>Sujeto</th><th>Posesivo</th><th>Pronunciación</th><th>Ejemplo</th><th>Español</th></tr></thead><tbody><tr><td>I</td><td><span class=\"en\">my</span></td><td><span class=\"pron\">mai</span></td><td><span class=\"en\">my helmet</span></td><td>mi casco</td></tr><tr><td>you</td><td><span class=\"en\">your</span></td><td><span class=\"pron\">yor</span></td><td><span class=\"en\">your report</span></td><td>tu / su (de usted) informe</td></tr><tr><td>he</td><td><span class=\"en\">his</span></td><td><span class=\"pron\">jiz</span></td><td><span class=\"en\">his truck</span></td><td>su camioneta (de él)</td></tr><tr><td>she</td><td><span class=\"en\">her</span></td><td><span class=\"pron\">jer</span></td><td><span class=\"en\">her office</span></td><td>su oficina (de ella)</td></tr><tr><td>it</td><td><span class=\"en\">its</span></td><td><span class=\"pron\">its</span></td><td><span class=\"en\">its capacity</span></td><td>su capacidad (del tanque)</td></tr><tr><td>we</td><td><span class=\"en\">our</span></td><td><span class=\"pron\">aur</span></td><td><span class=\"en\">our team</span></td><td>nuestro equipo</td></tr><tr><td>they</td><td><span class=\"en\">their</span></td><td><span class=\"pron\">dher</span></td><td><span class=\"en\">their tools</span></td><td>sus herramientas (de ellos)</td></tr></tbody></table>"
+  },
+  {
+   "title": "Regla de oro 1 — HIS o HER depende del dueño, no de la cosa",
+   "html": "<p>En español <i>su</i> sirve para todo y concuerda con la cosa (<i>su casa, sus casas</i>). En inglés miras al <b>dueño</b>: hombre → <b>his</b>, mujer → <b>her</b>, cosa → <b>its</b>, varios → <b>their</b>.</p><p><span class=\"es\">Ana y su esposo</span> → <span class=\"ok\">Ana and her husband</span>. Nunca <span class=\"wrong\">Ana and his husband</span> (aunque el esposo sea hombre).</p>",
+   "svg": "<svg viewBox=\"0 0 640 214\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"16\" width=\"180\" height=\"182\" rx=\"14\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"2\"/>\n  <text x=\"110\" y=\"44\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#7A5B00\">ESPAÑOL: \"su / sus\"</text>\n  <text x=\"110\" y=\"78\" text-anchor=\"middle\" font-size=\"13\" fill=\"#7A5B00\">su casco (de él)</text>\n  <text x=\"110\" y=\"102\" text-anchor=\"middle\" font-size=\"13\" fill=\"#7A5B00\">su casco (de ella)</text>\n  <text x=\"110\" y=\"126\" text-anchor=\"middle\" font-size=\"13\" fill=\"#7A5B00\">su casco (de usted)</text>\n  <text x=\"110\" y=\"150\" text-anchor=\"middle\" font-size=\"13\" fill=\"#7A5B00\">sus cascos (de ellos)</text>\n  <text x=\"110\" y=\"182\" text-anchor=\"middle\" font-size=\"11\" fill=\"#7A5B00\">una palabra, 4 dueños</text>\n  <path d=\"M206 107 L 262 107\" stroke=\"#0E9384\" stroke-width=\"3\"/>\n  <polygon points=\"262,100 276,107 262,114\" fill=\"#0E9384\"/>\n  <text x=\"241\" y=\"96\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#0E9384\">¿quién</text>\n  <text x=\"241\" y=\"128\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#0E9384\">es el dueño?</text>\n  <rect x=\"290\" y=\"16\" width=\"155\" height=\"40\" rx=\"9\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"367\" y=\"41\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">un hombre (Mark)</text>\n  <rect x=\"290\" y=\"64\" width=\"155\" height=\"40\" rx=\"9\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/>\n  <text x=\"367\" y=\"89\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">una mujer (Ana)</text>\n  <rect x=\"290\" y=\"112\" width=\"155\" height=\"40\" rx=\"9\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <text x=\"367\" y=\"137\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">usted / tú</text>\n  <rect x=\"290\" y=\"160\" width=\"155\" height=\"40\" rx=\"9\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/>\n  <text x=\"367\" y=\"185\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">varias personas</text>\n  <g font-size=\"16\" font-weight=\"800\">\n  <text x=\"462\" y=\"42\" fill=\"#1570EF\">→ his helmet</text>\n  <text x=\"462\" y=\"90\" fill=\"#D92D20\">→ her helmet</text>\n  <text x=\"462\" y=\"138\" fill=\"#6941C6\">→ your helmet</text>\n  <text x=\"462\" y=\"186\" fill=\"#0E9384\">→ their helmets</text>\n  </g>\n</svg>",
+   "caption": "Figura 6.2 — El \"su\" del español se divide en cuatro palabras en inglés. Pregunta siempre: ¿de quién es?"
+  },
+  {
+   "title": "B. Pronombres posesivos: mine, yours, hers…",
+   "html": "<p>Reemplazan <b>posesivo + cosa</b> para no repetir. Van <b>solos</b>, sin sustantivo después.</p><table><thead><tr><th>Con sustantivo</th><th>Solo</th><th>Pronunciación</th><th>Ejemplo</th></tr></thead><tbody><tr><td>my helmet</td><td><span class=\"en\">mine</span></td><td><span class=\"pron\">main</span></td><td><span class=\"en\">This helmet is mine.</span></td></tr><tr><td>your helmet</td><td><span class=\"en\">yours</span></td><td><span class=\"pron\">yorz</span></td><td><span class=\"en\">Is this yours?</span></td></tr><tr><td>his helmet</td><td><span class=\"en\">his</span></td><td><span class=\"pron\">jiz</span></td><td><span class=\"en\">The blue one is his.</span></td></tr><tr><td>her helmet</td><td><span class=\"en\">hers</span></td><td><span class=\"pron\">jerz</span></td><td><span class=\"en\">The white one is hers.</span></td></tr><tr><td>our helmets</td><td><span class=\"en\">ours</span></td><td><span class=\"pron\">aurz</span></td><td><span class=\"en\">These helmets are ours.</span></td></tr><tr><td>their helmets</td><td><span class=\"en\">theirs</span></td><td><span class=\"pron\">dherz</span></td><td><span class=\"en\">Those helmets are theirs.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "C. El posesivo con nombres: 's",
+   "html": "<p>Con un nombre o un sustantivo, el inglés no dice \"el casco de Carlos\". Pone al <b>dueño primero</b> y agrega <b>'s</b>: <span class=\"en\">Carlos's helmet</span>. El orden es el contrario al español.</p><table><thead><tr><th>Caso</th><th>Forma</th><th>Ejemplo</th><th>Español</th></tr></thead><tbody><tr><td>Una persona</td><td>nombre + 's</td><td><span class=\"en\">Mark's truck</span></td><td>la camioneta de Mark</td></tr><tr><td>Nombre que termina en -s</td><td>+ 's (o solo ')</td><td><span class=\"en\">Carlos's helmet / Carlos' helmet</span></td><td>el casco de Carlos</td></tr><tr><td>Plural regular (-s)</td><td>solo '</td><td><span class=\"en\">the welders' tools</span></td><td>las herramientas de los soldadores</td></tr><tr><td>Plural irregular</td><td>+ 's</td><td><span class=\"en\">the children's room</span></td><td>el cuarto de los niños</td></tr><tr><td>Cosas (no personas)</td><td>\"of\" o sustantivo + sustantivo</td><td><span class=\"en\">the top of the tank / the tank roof</span></td><td>la parte de arriba del tanque / el techo del tanque</td></tr></tbody></table><p>Para preguntar por el dueño se usa <span class=\"en\">Whose…?</span> <span class=\"pron\">juz</span>: <span class=\"en\">Whose helmet is this?</span> = ¿De quién es este casco? Respuesta: <span class=\"en\">It's Ana's.</span></p>"
+  },
+  {
+   "title": "D. Demostrativos: this, that, these, those",
+   "html": "<p>Señalan <b>distancia</b> (cerca / lejos) y <b>número</b> (uno / varios). El español tiene tres grados (este, ese, aquel); el inglés solo dos: <i>ese</i> y <i>aquel</i> son ambos <span class=\"en\">that</span>.</p><table><thead><tr><th></th><th>Uno (singular)</th><th>Varios (plural)</th></tr></thead><tbody><tr><td><b>Cerca</b></td><td><span class=\"en\">this <span class=\"pron\">dhis</span> — este, esta, esto</span></td><td><span class=\"en\">these <span class=\"pron\">dhiiz</span> — estos, estas</span></td></tr><tr><td><b>Lejos</b></td><td><span class=\"en\">that <span class=\"pron\">dhat</span> — ese, esa, eso, aquel</span></td><td><span class=\"en\">those <span class=\"pron\">dhouz</span> — esos, esas, aquellos</span></td></tr></tbody></table><p><b>Regla de oro 2 — El demostrativo concuerda en número, no en género</b></p><p><span class=\"en\">this</span> sirve para <i>este, esta, esto</i>. Pero <b>sí</b> cambia con el plural: <span class=\"ok\">these pipes</span>, nunca <span class=\"wrong\">this pipes</span>. Y el verbo también: <span class=\"en\">This is…</span> / <span class=\"en\">These are…</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 262\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"20\" width=\"600\" height=\"190\" rx=\"14\" fill=\"#F2F4F7\"/>\n  <line x1=\"300\" y1=\"30\" x2=\"300\" y2=\"200\" stroke=\"#98A2B3\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/>\n  <text x=\"160\" y=\"44\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#0E9384\">CERCA (aquí · here)</text>\n  <text x=\"460\" y=\"44\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#6941C6\">LEJOS (ahí / allá · there)</text>\n  <circle cx=\"52\" cy=\"112\" r=\"14\" fill=\"#1D2939\"/>\n  <rect x=\"40\" y=\"128\" width=\"24\" height=\"44\" rx=\"8\" fill=\"#1D2939\"/>\n  <line x1=\"62\" y1=\"140\" x2=\"96\" y2=\"124\" stroke=\"#1D2939\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n  <text x=\"52\" y=\"194\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">yo</text>\n  <rect x=\"112\" y=\"98\" width=\"42\" height=\"34\" rx=\"6\" fill=\"#0E9384\"/>\n  <text x=\"133\" y=\"150\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#0E9384\">this</text>\n  <text x=\"133\" y=\"168\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">un objeto</text>\n  <rect x=\"190\" y=\"98\" width=\"28\" height=\"34\" rx=\"5\" fill=\"#0E9384\"/>\n  <rect x=\"222\" y=\"98\" width=\"28\" height=\"34\" rx=\"5\" fill=\"#0E9384\"/>\n  <rect x=\"254\" y=\"98\" width=\"28\" height=\"34\" rx=\"5\" fill=\"#0E9384\"/>\n  <text x=\"236\" y=\"150\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#0E9384\">these</text>\n  <text x=\"236\" y=\"168\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">varios objetos</text>\n  <rect x=\"352\" y=\"104\" width=\"30\" height=\"24\" rx=\"5\" fill=\"#6941C6\"/>\n  <text x=\"367\" y=\"150\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#6941C6\">that</text>\n  <text x=\"367\" y=\"168\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">un objeto</text>\n  <rect x=\"470\" y=\"104\" width=\"22\" height=\"24\" rx=\"4\" fill=\"#6941C6\"/>\n  <rect x=\"496\" y=\"104\" width=\"22\" height=\"24\" rx=\"4\" fill=\"#6941C6\"/>\n  <rect x=\"522\" y=\"104\" width=\"22\" height=\"24\" rx=\"4\" fill=\"#6941C6\"/>\n  <text x=\"507\" y=\"150\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#6941C6\">those</text>\n  <text x=\"507\" y=\"168\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">varios objetos</text>\n  <text x=\"20\" y=\"232\" font-size=\"12\" fill=\"#344054\">Singular: <tspan font-weight=\"700\">this valve / that valve</tspan> → is</text>\n  <text x=\"340\" y=\"232\" font-size=\"12\" fill=\"#344054\">Plural: <tspan font-weight=\"700\">these valves / those valves</tspan> → are</text>\n  <text x=\"20\" y=\"252\" font-size=\"12\" fill=\"#667085\">Pronunciación: this <tspan fill=\"#E8590C\">dhis</tspan> (i corta) · these <tspan fill=\"#E8590C\">dhiiz</tspan> (i larga) · that <tspan fill=\"#E8590C\">dhat</tspan> · those <tspan fill=\"#E8590C\">dhouz</tspan></text>\n</svg>",
+   "caption": "Figura 6.3 — Cerca y lejos, uno y varios. \"Ese\" y \"aquel\" se dicen igual: that / those."
+  },
+  {
+   "title": "E. Pronombres objeto: me, him, her, us, them",
+   "html": "<p>Van <b>después del verbo</b> o <b>después de una preposición</b> (with, for, to, about). El español los pone antes del verbo (<i>me llama</i>); el inglés, después (<span class=\"en\">he calls me</span>).</p><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th><th>Por qué</th></tr></thead><tbody><tr><td>Él me llama.</td><td><span class=\"wrong\">He me calls.</span></td><td><span class=\"ok\">He calls me.</span></td><td>El objeto va después del verbo.</td></tr><tr><td>Lo veo. (el problema)</td><td><span class=\"wrong\">I it see.</span></td><td><span class=\"ok\">I see it.</span></td><td>El objeto <i>it</i> va después del verbo. (<i>I see</i> solo = entiendo.)</td></tr><tr><td>Ven conmigo.</td><td><span class=\"wrong\">Come with I.</span></td><td><span class=\"ok\">Come with me.</span></td><td>Después de preposición → objeto.</td></tr><tr><td>Es para ti.</td><td><span class=\"wrong\">It's for your.</span></td><td><span class=\"ok\">It's for you.</span></td><td><i>Your</i> necesita un sustantivo; aquí va objeto.</td></tr><tr><td>Les envío el plano.</td><td><span class=\"wrong\">I them send the drawing.</span></td><td><span class=\"ok\">I send them the drawing.</span></td><td>Verbo + persona + cosa.</td></tr><tr><td>Este casco es el mío.</td><td><span class=\"wrong\">This helmet is the mine.</span></td><td><span class=\"ok\">This helmet is mine.</span></td><td><i>Mine</i> nunca lleva <i>the</i>.</td></tr><tr><td>El casco de Ana.</td><td><span class=\"wrong\">The helmet of Ana.</span></td><td><span class=\"ok\">Ana's helmet.</span></td><td>Con personas: dueño + 's.</td></tr></tbody></table><table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>¿De quién es esto?</td><td><span class=\"en\">Whose is this?</span></td></tr><tr><td>Es mío.</td><td><span class=\"en\">It's mine.</span></td></tr><tr><td>Llámame.</td><td><span class=\"en\">Call me.</span></td></tr><tr><td>Ese es el camión de Carlos.</td><td><span class=\"en\">That's Carlos's truck.</span></td></tr><tr><td>Estos planos son nuestros.</td><td><span class=\"en\">These drawings are ours.</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 186\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"38\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">ESPAÑOL</text>\n  <rect x=\"120\" y=\"16\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#FFF8E1\" stroke=\"#E9B949\"/><text x=\"165\" y=\"40\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#7A5B00\">Mark</text>\n  <rect x=\"222\" y=\"16\" width=\"70\" height=\"36\" rx=\"8\" fill=\"#E9B949\"/><text x=\"257\" y=\"40\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">me</text>\n  <rect x=\"304\" y=\"16\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#FFF8E1\" stroke=\"#E9B949\"/><text x=\"354\" y=\"40\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#7A5B00\">llama.</text>\n  <text x=\"20\" y=\"118\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">INGLÉS</text>\n  <rect x=\"120\" y=\"96\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"165\" y=\"120\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">Mark</text>\n  <rect x=\"222\" y=\"96\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"272\" y=\"120\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">calls</text>\n  <rect x=\"334\" y=\"96\" width=\"70\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"369\" y=\"120\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">me.</text>\n  <path d=\"M257 54 C 257 80, 369 70, 369 94\" fill=\"none\" stroke=\"#0E9384\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/>\n  <polygon points=\"363,88 369,98 375,88\" fill=\"#0E9384\"/>\n  <text x=\"430\" y=\"62\" font-size=\"12\" font-weight=\"700\" fill=\"#0E9384\">el objeto salta</text>\n  <text x=\"430\" y=\"78\" font-size=\"12\" font-weight=\"700\" fill=\"#0E9384\">detrás del verbo</text>\n  <text x=\"120\" y=\"164\" font-size=\"13\" fill=\"#344054\">Sujeto (quién hace) + verbo + <tspan font-weight=\"800\" fill=\"#0E9384\">objeto</tspan> (a quién / qué): I help <tspan font-weight=\"800\" fill=\"#0E9384\">him</tspan>. He helps <tspan font-weight=\"800\" fill=\"#0E9384\">us</tspan>.</text>\n</svg>",
+   "caption": "Figura 6.4 — En español el pronombre objeto va antes del verbo; en inglés, después."
+  },
+  {
+   "title": "Afirmativo, negativo, pregunta y respuesta corta",
+   "html": "<p>Estas palabras no cambian la gramática del verbo: sigues las reglas de TO BE (Módulo 1) y del presente simple (Módulos 3 y 4).</p><table><thead><tr><th></th><th>Con TO BE</th><th>Con presente simple</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td><span class=\"en\">This is my desk.</span></td><td><span class=\"en\">Mark helps me.</span></td></tr><tr><td><b>Negativo</b></td><td><span class=\"en\">This isn't my desk.</span></td><td><span class=\"en\">Mark doesn't help me.</span></td></tr><tr><td><b>Pregunta</b></td><td><span class=\"en\">Is this your desk?</span></td><td><span class=\"en\">Does Mark help you?</span></td></tr><tr><td><b>Respuesta corta</b></td><td><span class=\"en\">Yes, it is. / No, it isn't.</span></td><td><span class=\"en\">Yes, he does. / No, he doesn't.</span></td></tr><tr><td><b>Pregunta de dueño</b></td><td><span class=\"en\">Whose desk is this? — It's mine.</span></td><td><span class=\"en\">Who helps you? — Mark does.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Así piensa un nativo — \"this\" y \"that\" también son tiempo e ideas",
+   "html": "<p><span class=\"en\">This</span> se usa para presentar personas y para el presente: <span class=\"en\">This is Ana.</span> (te presento a Ana), <span class=\"en\">this week</span> (esta semana). <span class=\"en\">That</span> se usa para algo que la otra persona acaba de decir: <span class=\"en\">That's right.</span> (Así es.), <span class=\"en\">That's a good idea.</span>, <span class=\"en\">That's OK.</span> Al teléfono: <span class=\"en\">Hi, this is Edwin.</span> (Hola, habla Edwin); en una llamada suena más natural que <i>I am Edwin</i>.</p><p><b>Regla de oro 3 — its ≠ it's · your ≠ you're · their ≠ they're</b></p><p>Suenan igual, pero se escriben distinto. Con apóstrofo = contracción del verbo: <span class=\"en\">it's</span> = it is, <span class=\"en\">you're</span> = you are, <span class=\"en\">they're</span> = they are. Sin apóstrofo = posesivo: <span class=\"en\">its, your, their</span>.</p><p><span class=\"ok\">The tank is old, but its roof is new.</span> — <span class=\"wrong\">it's roof</span></p><p><b>Detalles que marcan la diferencia</b></p><ul><li>Partes del cuerpo y ropa llevan posesivo: <span class=\"en\">I wash my hands.</span> <span class=\"en\">Put on your gloves.</span> (no <span class=\"wrong\">the hands</span> como en español).</li><li><span class=\"en\">One</span> evita repetir: <span class=\"en\">this one / that one</span> = este / ese. <span class=\"en\">Which helmet is yours? — The red one.</span></li><li>En respuestas cortas informales se usa el objeto: <span class=\"en\">Who's there? — Me!</span> <span class=\"en\">I'm tired. — Me too.</span></li><li><span class=\"en\">'s</span> también es contracción de <i>is</i>: <span class=\"en\">Mark's here</span> = Mark is here. El contexto lo aclara.</li></ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "What's this?",
+   "pron": "wots DHIS",
+   "es": "¿Qué es esto?",
+   "group": "A. Señalar cosas"
+  },
+  {
+   "en": "What's that?",
+   "pron": "wots DHAT",
+   "es": "¿Qué es eso?",
+   "group": "A. Señalar cosas"
+  },
+  {
+   "en": "This one or that one?",
+   "pron": "dhis wan or DHAT wan",
+   "es": "¿Este o ese?",
+   "group": "A. Señalar cosas"
+  },
+  {
+   "en": "These are the new valves.",
+   "pron": "dhiiz ar dhə nu VALVZ",
+   "es": "Estas son las válvulas nuevas.",
+   "group": "A. Señalar cosas"
+  },
+  {
+   "en": "Those pipes are old.",
+   "pron": "dhouz PAIPS ar OULD",
+   "es": "Esos tubos son viejos.",
+   "group": "A. Señalar cosas"
+  },
+  {
+   "en": "I need that wrench.",
+   "pron": "ai nid dhat RENCH",
+   "es": "Necesito esa llave.",
+   "group": "A. Señalar cosas"
+  },
+  {
+   "en": "Is this the right size?",
+   "pron": "iz dhis dhə rait SAIZ",
+   "es": "¿Es esta la medida correcta?",
+   "group": "A. Señalar cosas"
+  },
+  {
+   "en": "How much are these?",
+   "pron": "jau MACH ar dhiiz",
+   "es": "¿Cuánto cuestan estos?",
+   "group": "A. Señalar cosas"
+  },
+  {
+   "en": "Whose is this?",
+   "pron": "juz iz DHIS",
+   "es": "¿De quién es esto?",
+   "group": "B. Decir de quién es algo"
+  },
+  {
+   "en": "It's mine.",
+   "pron": "its MAIN",
+   "es": "Es mío.",
+   "group": "B. Decir de quién es algo"
+  },
+  {
+   "en": "Is this yours?",
+   "pron": "iz dhis YORZ",
+   "es": "¿Esto es tuyo / suyo?",
+   "group": "B. Decir de quién es algo"
+  },
+  {
+   "en": "It's not mine. It's Carlos's.",
+   "pron": "its NOT main, its KÁR-lo-səz",
+   "es": "No es mío. Es de Carlos.",
+   "group": "B. Decir de quién es algo"
+  },
+  {
+   "en": "That's my seat.",
+   "pron": "dhats mai SIT",
+   "es": "Ese es mi asiento.",
+   "group": "B. Decir de quién es algo"
+  },
+  {
+   "en": "Those are hers.",
+   "pron": "dhouz ar JERZ",
+   "es": "Esos son de ella.",
+   "group": "B. Decir de quién es algo"
+  },
+  {
+   "en": "The red one is his.",
+   "pron": "dhə RED wan iz JIZ",
+   "es": "El rojo es de él.",
+   "group": "B. Decir de quién es algo"
+  },
+  {
+   "en": "The company's truck",
+   "pron": "dhə KÁM-pə-niz TRAK",
+   "es": "La camioneta de la empresa",
+   "group": "B. Decir de quién es algo"
+  },
+  {
+   "en": "my wife / my husband",
+   "pron": "mai WAIF / mai JÁZ-bənd",
+   "es": "mi esposa / mi esposo",
+   "group": "C. Familia, equipo y trabajo"
+  },
+  {
+   "en": "our kids",
+   "pron": "aur KIDZ",
+   "es": "nuestros hijos",
+   "group": "C. Familia, equipo y trabajo"
+  },
+  {
+   "en": "her manager",
+   "pron": "jer MÁ-ni-yer",
+   "es": "su gerente (de ella)",
+   "group": "C. Familia, equipo y trabajo"
+  },
+  {
+   "en": "his team",
+   "pron": "jiz TIM",
+   "es": "su equipo (de él)",
+   "group": "C. Familia, equipo y trabajo"
+  },
+  {
+   "en": "their company",
+   "pron": "dher KÁM-pə-ni",
+   "es": "su empresa (de ellos)",
+   "group": "C. Familia, equipo y trabajo"
+  },
+  {
+   "en": "your boss",
+   "pron": "yor BOS",
+   "es": "tu / su jefe",
+   "group": "C. Familia, equipo y trabajo"
+  },
+  {
+   "en": "This is my colleague, Priya.",
+   "pron": "dhis iz mai KÓ-lig PRÍ-ya",
+   "es": "Te presento a mi colega, Priya.",
+   "group": "C. Familia, equipo y trabajo"
+  },
+  {
+   "en": "Call me.",
+   "pron": "KOL mi",
+   "es": "Llámame.",
+   "group": "D. Pronombres objeto con verbos frecuentes"
+  },
+  {
+   "en": "Send me the drawing.",
+   "pron": "SEND mi dhə DRÓ-ing",
+   "es": "Envíame el plano.",
+   "group": "D. Pronombres objeto con verbos frecuentes"
+  },
+  {
+   "en": "Tell him, please.",
+   "pron": "TEL im, pliz",
+   "es": "Díselo a él, por favor.",
+   "group": "D. Pronombres objeto con verbos frecuentes"
+  },
+  {
+   "en": "Ask her.",
+   "pron": "ÁSK er",
+   "es": "Pregúntale a ella.",
+   "group": "D. Pronombres objeto con verbos frecuentes"
+  },
+  {
+   "en": "Help us, please.",
+   "pron": "JELP əs, pliz",
+   "es": "Ayúdanos, por favor.",
+   "group": "D. Pronombres objeto con verbos frecuentes"
+  },
+  {
+   "en": "I don't know them.",
+   "pron": "ai dount NÓU dhəm",
+   "es": "No los conozco.",
+   "group": "D. Pronombres objeto con verbos frecuentes"
+  },
+  {
+   "en": "I like it.",
+   "pron": "ai LÁIK it",
+   "es": "Me gusta.",
+   "group": "D. Pronombres objeto con verbos frecuentes"
+  },
+  {
+   "en": "Give it to me.",
+   "pron": "GUÍV it tə mi",
+   "es": "Dámelo.",
+   "group": "D. Pronombres objeto con verbos frecuentes"
+  },
+  {
+   "en": "Come with me.",
+   "pron": "KAM widh mi",
+   "es": "Ven conmigo.",
+   "group": "E. Con preposiciones"
+  },
+  {
+   "en": "This is for you.",
+   "pron": "dhis iz FOR yu",
+   "es": "Esto es para ti.",
+   "group": "E. Con preposiciones"
+  },
+  {
+   "en": "I'm waiting for them.",
+   "pron": "aim WÉI-ting for dhəm",
+   "es": "Los estoy esperando.",
+   "group": "E. Con preposiciones"
+  },
+  {
+   "en": "Talk to her.",
+   "pron": "TOK tu er",
+   "es": "Habla con ella.",
+   "group": "E. Con preposiciones"
+  },
+  {
+   "en": "What about us?",
+   "pron": "wot ə-BÁUT əs",
+   "es": "¿Y nosotros?",
+   "group": "E. Con preposiciones"
+  },
+  {
+   "en": "Between you and me",
+   "pron": "bi-TWÍN yu ən MI",
+   "es": "Entre tú y yo",
+   "group": "E. Con preposiciones"
+  },
+  {
+   "en": "That's right.",
+   "pron": "dhats RAIT",
+   "es": "Así es. / Correcto.",
+   "group": "F. Frases fijas con this / that"
+  },
+  {
+   "en": "That's OK.",
+   "pron": "dhats ou-KÉI",
+   "es": "No pasa nada. / Está bien.",
+   "group": "F. Frases fijas con this / that"
+  },
+  {
+   "en": "That's a good idea.",
+   "pron": "dhats ə gud ai-DÍ-ə",
+   "es": "Buena idea.",
+   "group": "F. Frases fijas con this / that"
+  },
+  {
+   "en": "Hi, this is Edwin.",
+   "pron": "jai, dhis iz ÉD-win",
+   "es": "Hola, habla Edwin (al teléfono).",
+   "group": "F. Frases fijas con this / that"
+  },
+  {
+   "en": "this morning / this week",
+   "pron": "dhis MÓR-ning / dhis WIK",
+   "es": "esta mañana / esta semana",
+   "group": "F. Frases fijas con this / that"
+  },
+  {
+   "en": "That's it.",
+   "pron": "dhats IT",
+   "es": "Eso es todo. / ¡Eso es!",
+   "group": "F. Frases fijas con this / that"
+  },
+  {
+   "en": "These days",
+   "pron": "dhiiz DEIZ",
+   "es": "Estos días / hoy en día",
+   "group": "F. Frases fijas con this / that"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Whose helmet is this? — It's Carlos's.",
+   "es": "¿De quién es este casco? — Es de Carlos.",
+   "situation": "Almacén de obra"
+  },
+  {
+   "en": "These valves are for Tank 5. Those are for Tank 6.",
+   "es": "Estas válvulas son para el Tanque 5. Esas son para el Tanque 6.",
+   "situation": "Recepción de material"
+  },
+  {
+   "en": "The tank is 20 years old, but its roof is new.",
+   "es": "El tanque tiene 20 años, pero su techo es nuevo.",
+   "situation": "Inspección"
+  },
+  {
+   "en": "Ana is checking her drawings with Mr. Lee.",
+   "es": "Ana está revisando sus planos con el Sr. Lee.",
+   "situation": "Oficina técnica"
+  },
+  {
+   "en": "I need that wrench. Can you pass it to me?",
+   "es": "Necesito esa llave. ¿Me la pasas?",
+   "situation": "Pedir ayuda"
+  },
+  {
+   "en": "Hi, this is Edwin from QSL. Is Sarah there?",
+   "es": "Hola, habla Edwin de QSL. ¿Está Sarah?",
+   "situation": "Teléfono"
+  },
+  {
+   "en": "This is Priya. She's our new safety officer.",
+   "es": "Te presento a Priya. Es nuestra nueva oficial de seguridad.",
+   "situation": "Presentaciones"
+  },
+  {
+   "en": "I'm sending you the report. Please check it.",
+   "es": "Te estoy enviando el informe. Por favor, revísalo.",
+   "situation": "Correo"
+  },
+  {
+   "en": "The welders aren't here. Their truck is broken.",
+   "es": "Los soldadores no están. Su camioneta está malograda.",
+   "situation": "Equipo"
+  },
+  {
+   "en": "My wife and our kids live in Talara. I call them every night.",
+   "es": "Mi esposa y nuestros hijos viven en Talara. Los llamo cada noche.",
+   "situation": "Familia"
+  },
+  {
+   "en": "Excuse me, this isn't my order. Mine is the chicken.",
+   "es": "Disculpe, este no es mi pedido. El mío es el pollo.",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "How much are those boots? — They're 90 dollars.",
+   "es": "¿Cuánto cuestan esas botas? — Cuestan 90 dólares.",
+   "situation": "Tienda"
+  },
+  {
+   "en": "That's a good idea. Let's tell the client about it.",
+   "es": "Buena idea. Contémoselo al cliente.",
+   "situation": "Reunión"
+  },
+  {
+   "en": "Mark's wife is from Chile. I know her from work.",
+   "es": "La esposa de Mark es de Chile. La conozco del trabajo.",
+   "situation": "Vida social"
+  },
+  {
+   "en": "Your office is next to ours, on the second floor.",
+   "es": "Tu oficina está junto a la nuestra, en el segundo piso.",
+   "situation": "Dirección"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "This is my seat.",
+     "This isn't my seat.",
+     "Is this your seat?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "These are her tools.",
+     "These aren't her tools.",
+     "Are these her tools?",
+     "Yes, they are. / No, they aren't."
+    ],
+    [
+     "That truck is theirs.",
+     "That truck isn't theirs.",
+     "Is that truck theirs?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "Those boots are mine.",
+     "Those boots aren't mine.",
+     "Are those boots yours?",
+     "Yes, they are. / No, they aren't."
+    ],
+    [
+     "Mark knows her.",
+     "Mark doesn't know her.",
+     "Does Mark know her?",
+     "Yes, he does. / No, he doesn't."
+    ],
+    [
+     "They call us every day.",
+     "They don't call us every day.",
+     "Do they call you every day?",
+     "Yes, they do. / No, they don't."
+    ],
+    [
+     "You need them.",
+     "You don't need them.",
+     "Do you need them?",
+     "Yes, I do. / No, I don't."
+    ],
+    [
+     "She's helping him.",
+     "She isn't helping him.",
+     "Is she helping him?",
+     "Yes, she is. / No, she isn't."
+    ],
+    [
+     "It's Ana's laptop.",
+     "It isn't Ana's laptop.",
+     "Is it Ana's laptop?",
+     "Yes, it is. / No, it isn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Mark",
+   "text": "Edwin, whose tools are these?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Those are Carlos's. His toolbox is next to the door."
+  },
+  {
+   "who": "Mark",
+   "text": "And this grinder? Is it yours?"
+  },
+  {
+   "who": "Edwin",
+   "text": "No, it isn't mine. It's the company's. Mine is in my truck."
+  },
+  {
+   "who": "Mark",
+   "text": "OK. What about those boxes over there?"
+  },
+  {
+   "who": "Edwin",
+   "text": "They're the new gaskets. Ana needs them for her hydrotest."
+  },
+  {
+   "who": "Mark",
+   "text": "Great. Please take them to her this morning."
+  },
+  {
+   "who": "Edwin",
+   "text": "Sure. And these helmets? Are they ours?"
+  },
+  {
+   "who": "Mark",
+   "text": "No, they're the client's. Their safety team is coming today."
+  },
+  {
+   "who": "Edwin",
+   "text": "That's fine. I'm putting them in this cabinet for now."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "Ana and his husband",
+   "right": "Ana and her husband",
+   "why": "El dueño es Ana (mujer) → her."
+  },
+  {
+   "wrong": "Mark and her daughter",
+   "right": "Mark and his daughter",
+   "why": "El dueño es Mark (hombre) → his."
+  },
+  {
+   "wrong": "this pipes",
+   "right": "these pipes",
+   "why": "Plural cercano → these."
+  },
+  {
+   "wrong": "He me calls.",
+   "right": "He calls me.",
+   "why": "El objeto va después del verbo."
+  },
+  {
+   "wrong": "The truck of Carlos",
+   "right": "Carlos's truck",
+   "why": "Con personas: dueño + 's."
+  },
+  {
+   "wrong": "It's the mine.",
+   "right": "It's mine.",
+   "why": "Mine, yours, hers… nunca llevan the."
+  },
+  {
+   "wrong": "Come with I.",
+   "right": "Come with me.",
+   "why": "Después de preposición → pronombre objeto."
+  },
+  {
+   "wrong": "The tank and it's roof",
+   "right": "The tank and its roof",
+   "why": "It's = it is. Posesivo = its, sin apóstrofo."
+  },
+  {
+   "wrong": "Who's helmet is this?",
+   "right": "Whose helmet is this?",
+   "why": "Who's = who is. \"De quién\" = whose."
+  },
+  {
+   "wrong": "I wash the hands.",
+   "right": "I wash my hands.",
+   "why": "Partes del cuerpo llevan posesivo en inglés."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "its / it's",
+   "looks": "se confunden",
+   "means": "posesivo / it is",
+   "fix": "It's new. Its color is red."
+  },
+  {
+   "en": "your / you're",
+   "looks": "se confunden",
+   "means": "posesivo / you are",
+   "fix": "You're late. Your truck is here."
+  },
+  {
+   "en": "their / they're / there",
+   "looks": "se confunden",
+   "means": "posesivo / they are / allí",
+   "fix": "They're there with their boss."
+  },
+  {
+   "en": "whose / who's",
+   "looks": "se confunden",
+   "means": "de quién / who is",
+   "fix": "Who's that? Whose bag is this?"
+  },
+  {
+   "en": "his / he's",
+   "looks": "se confunden",
+   "means": "su (de él) / he is",
+   "fix": "He's here with his son."
+  },
+  {
+   "en": "mine / my",
+   "looks": "se confunden",
+   "means": "solo / + sustantivo",
+   "fix": "It's my car. It's mine."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "¿De quién es este casco?",
+    "answers": [
+     "Whose helmet is this?",
+     "Whose is this helmet?"
+    ],
+    "explain": "Whose + cosa + be + this. No Who's."
+   },
+   {
+    "prompt": "Es mío. El tuyo está en la camioneta.",
+    "answers": [
+     "It's mine. Yours is in the truck.",
+     "It is mine. Yours is in the truck."
+    ],
+    "explain": "Mine y yours reemplazan \"mi casco\" y \"tu casco\"; sin the."
+   },
+   {
+    "prompt": "Estas válvulas son nuevas, pero esas son viejas.",
+    "answers": [
+     "These valves are new, but those are old."
+    ],
+    "explain": "Plural cerca → these; plural lejos → those; verbo are."
+   },
+   {
+    "prompt": "Ana y su esposo viven en Lima.",
+    "answers": [
+     "Ana and her husband live in Lima."
+    ],
+    "explain": "El dueño es Ana → her. Sujeto plural → live, sin -s."
+   },
+   {
+    "prompt": "Él me llama todos los días.",
+    "answers": [
+     "He calls me every day."
+    ],
+    "explain": "Objeto me después del verbo; he → calls con -s."
+   },
+   {
+    "prompt": "La camioneta de Mark está malograda.",
+    "answers": [
+     "Mark's truck is broken."
+    ],
+    "explain": "Dueño + 's. \"Malogrado\" = broken."
+   },
+   {
+    "prompt": "Los soldadores necesitan sus herramientas.",
+    "answers": [
+     "The welders need their tools."
+    ],
+    "explain": "Dueños varios → their."
+   },
+   {
+    "prompt": "Hola, habla Edwin. ¿Está Sarah?",
+    "answers": [
+     "Hi, this is Edwin. Is Sarah there?",
+     "Hello, this is Edwin. Is Sarah there?"
+    ],
+    "explain": "Al teléfono: this is. \"¿Está…?\" = Is … there?"
+   },
+   {
+    "prompt": "No la conozco.",
+    "answers": [
+     "I don't know her.",
+     "I do not know her."
+    ],
+    "explain": "\"La\" (a ella) = objeto her, después del verbo."
+   },
+   {
+    "prompt": "Esta oficina no es nuestra. Es de ellos.",
+    "answers": [
+     "This office isn't ours. It's theirs.",
+     "This office is not ours. It is theirs."
+    ],
+    "explain": "Pronombres posesivos solos: ours, theirs."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "That's right. The drawings are on her desk.",
+    "answers": [
+     "Así es. Los planos están en su escritorio (de ella).",
+     "Así es. Los planos están en su escritorio.",
+     "Correcto. Los planos están en su escritorio.",
+     "Así es. Los planos están en el escritorio de ella."
+    ],
+    "explain": "That's right = así es / correcto. Her = de ella."
+   },
+   {
+    "prompt": "The tank is old, but its bottom is new.",
+    "answers": [
+     "El tanque es viejo, pero su fondo es nuevo.",
+     "El tanque es antiguo, pero su fondo es nuevo.",
+     "El tanque está viejo, pero su fondo es nuevo."
+    ],
+    "explain": "Its = su (de una cosa)."
+   },
+   {
+    "prompt": "Is this seat yours? — No, it's his.",
+    "answers": [
+     "¿Este asiento es tuyo? — No, es de él.",
+     "¿Este asiento es suyo? — No, es de él.",
+     "¿Es tuyo este asiento? — No, es de él.",
+     "¿Este asiento es tuyo? No, es de él."
+    ],
+    "explain": "Yours = tuyo / suyo; his solo = de él."
+   },
+   {
+    "prompt": "Please send us the report.",
+    "answers": [
+     "Por favor, envíanos el informe.",
+     "Por favor, envíenos el informe.",
+     "Por favor, mándanos el reporte.",
+     "Envíanos el informe, por favor."
+    ],
+    "explain": "Us = nos, después del verbo."
+   },
+   {
+    "prompt": "Those boots are the company's, not mine.",
+    "answers": [
+     "Esas botas son de la empresa, no mías.",
+     "Esas botas son de la compañía, no mías.",
+     "Esas botas son de la empresa, no son mías."
+    ],
+    "explain": "The company's = de la empresa; mine = mías."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "Priya is here with his husband.",
+    "answers": [
+     "Priya is here with her husband."
+    ],
+    "explain": "La dueña es Priya → her."
+   },
+   {
+    "prompt": "This drawings are ready.",
+    "answers": [
+     "These drawings are ready."
+    ],
+    "explain": "Plural → these."
+   },
+   {
+    "prompt": "Carlos me helps every day.",
+    "answers": [
+     "Carlos helps me every day."
+    ],
+    "explain": "El objeto me va después del verbo."
+   },
+   {
+    "prompt": "The truck of Mr. Lee is in the parking lot.",
+    "answers": [
+     "Mr. Lee's truck is in the parking lot."
+    ],
+    "explain": "Con personas: dueño + 's."
+   },
+   {
+    "prompt": "Is this helmet the yours?",
+    "answers": [
+     "Is this helmet yours?"
+    ],
+    "explain": "Yours no lleva the."
+   },
+   {
+    "prompt": "The company and it's clients are happy.",
+    "answers": [
+     "The company and its clients are happy."
+    ],
+    "explain": "Posesivo de cosa = its, sin apóstrofo."
+   },
+   {
+    "prompt": "Who's laptop is this?",
+    "answers": [
+     "Whose laptop is this?"
+    ],
+    "explain": "\"De quién\" = whose; who's = who is."
+   },
+   {
+    "prompt": "I'm waiting for they.",
+    "answers": [
+     "I'm waiting for them.",
+     "I am waiting for them."
+    ],
+    "explain": "Después de preposición → objeto them."
+   },
+   {
+    "prompt": "Those pipe is too short.",
+    "answers": [
+     "That pipe is too short.",
+     "Those pipes are too short."
+    ],
+    "explain": "Pipe … is es singular → that. (También vale Those pipes are too short.)"
+   },
+   {
+    "prompt": "I wash the hands before lunch.",
+    "answers": [
+     "I wash my hands before lunch."
+    ],
+    "explain": "Partes del cuerpo llevan posesivo → my hands."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte a negativo y a pregunta: These tools are theirs.",
+   "answer": "These tools aren't theirs. / Are these tools theirs?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con: this · those · mine · his · her · them · whose · our. Usa cada palabra una vez.",
+   "lines": [
+    {
+     "who": "Mark",
+     "text": "Edwin, [1] bag is this?"
+    },
+    {
+     "who": "Edwin",
+     "text": "It's [2]. Thanks!"
+    },
+    {
+     "who": "Mark",
+     "text": "And [3] boxes over there, next to the gate?"
+    },
+    {
+     "who": "Edwin",
+     "text": "They're for Carlos and [4] brother. They need them for the supports."
+    },
+    {
+     "who": "Mark",
+     "text": "OK. Please take [5] to the site."
+    },
+    {
+     "who": "Edwin",
+     "text": "Sure. Is [6] team meeting at 3 today? All of us?"
+    },
+    {
+     "who": "Mark",
+     "text": "Yes, but Ana isn't coming. She's at the hospital with [7] husband."
+    },
+    {
+     "who": "Edwin",
+     "text": "OK. And is [8] the new schedule, here in my hand?"
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "whose"
+     ],
+     "explain": "Pregunta por el dueño: Whose bag is this?"
+    },
+    {
+     "n": 2,
+     "answers": [
+      "mine"
+     ],
+     "explain": "\"Es mío\", solo, sin sustantivo."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "those"
+     ],
+     "explain": "Plural y lejos (over there)."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "his"
+     ],
+     "explain": "El hermano de Carlos (hombre) → his."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "them"
+     ],
+     "explain": "Objeto plural (las cajas), después de take."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "our"
+     ],
+     "explain": "La reunión de todos nosotros (All of us), antes del sustantivo."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "her"
+     ],
+     "explain": "El esposo de Ana (mujer) → her, aunque el esposo sea hombre."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "this"
+     ],
+     "explain": "Un objeto cercano (in my hand)."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un mensaje. Escribe un correo corto (5–7 oraciones) a un nuevo compañero de trabajo que llega mañana. Incluye: (a) un saludo y quién eres, (b) dónde está su oficina o escritorio con un posesivo, (c) una cosa cercana con this o these, (d) una cosa lejana con that o those, (e) algo de otra persona con 's, (f) un pronombre objeto (me, him, her, us, them), (g) una pregunta.",
+   "rubric": [
+    "(a) Un saludo y quién eres",
+    "(b) Dónde está su oficina o escritorio, con un posesivo",
+    "(c) Una cosa cercana con this o these",
+    "(d) Una cosa lejana con that o those",
+    "(e) Algo de otra persona con 's",
+    "(f) Un pronombre objeto (me, him, her, us, them)",
+    "(g) Una pregunta"
+   ],
+   "model": "Hi Priya, this is Edwin, the piping engineer. Welcome to the team! Your desk is next to mine, on the second floor. These keys are for your office and the tool room. That building next to the gate is the warehouse. Mark's office is at the end of the hall. Please call him about the safety training. Do you need a helmet and boots?"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Recitar las cuatro familias de pronombres.",
+   "test": "Di las 7 filas de la Figura 6.1 (I – me – my – mine…) en menos de 40 segundos, sin errores."
+  },
+  {
+   "skill": "Elegir his / her según el dueño.",
+   "test": "Traduce 8 frases con \"su\" (su esposa, su casco…) sobre hombres y mujeres. 8 de 8."
+  },
+  {
+   "skill": "Señalar cosas cerca y lejos.",
+   "test": "Mira tu escritorio y di 6 oraciones con this, that, these y those (al menos una de cada una)."
+  },
+  {
+   "skill": "Decir de quién es algo con 's y whose.",
+   "test": "Haz 5 preguntas con Whose…? y respóndelas con 's o mine/yours."
+  },
+  {
+   "skill": "Poner el pronombre objeto después del verbo.",
+   "test": "Traduce en voz alta: me llama, la conozco, los espero, ayúdanos, dámelo. 5 de 5."
+  },
+  {
+   "skill": "Escribir its / it's, your / you're y whose / who's sin error.",
+   "test": "Escribe 6 oraciones (una por palabra) y revísalas con la tabla de confusiones."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What's your best friend's name?",
+  "Where do your parents live?",
+  "What color is your phone?",
+  "Who helps you at work?",
+  "Is your house big or small?",
+  "Whose car do you use?"
+ ]
+}

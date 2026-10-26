@@ -1,0 +1,98 @@
+{
+ "id": 25,
+ "topic": "Conectores y redacción",
+ "title": "My Proposal Email to {company}",
+ "practice": "Léelo en voz alta 3 veces. Luego escríbelo de memoria y revisa cada conector.",
+ "rows": [
+  {
+   "en": "Subject: Proposal: A Progress Control System in {tool}",
+   "es": "Asunto: Propuesta: un sistema de control de avance en {tool}"
+  },
+  {
+   "en": "Dear ___,",
+   "es": "Estimado(a) ___:"
+  },
+  {
+   "en": "I am writing to propose a progress control system for our work on {project}.",
+   "es": "Le escribo para proponer un sistema de control de avance para nuestro trabajo en {project_es}."
+  },
+  {
+   "en": "**First of all**, the system shows the status of every task, **as well as** any delays, in one file.",
+   "es": "En primer lugar, el sistema muestra el estado de cada tarea, así como cualquier retraso, en un solo archivo."
+  },
+  {
+   "en": "**In addition**, it records daily progress and hours worked.",
+   "es": "Además, registra el avance diario y las horas trabajadas."
+  },
+  {
+   "en": "**As a result**, we can spot problems before they become delays.",
+   "es": "Como resultado, podemos detectar problemas antes de que se conviertan en retrasos."
+  },
+  {
+   "en": "**Moreover**, it works in {tool}, **so** we do not need new software.",
+   "es": "Es más, funciona en {tool}, así que no necesitamos software nuevo."
+  },
+  {
+   "en": "**Although** the team will need a short training session, the system is easy to use.",
+   "es": "Aunque el equipo necesitará una breve capacitación, el sistema es fácil de usar."
+  },
+  {
+   "en": "**Therefore**, I would appreciate it if we could review it in a brief meeting.",
+   "es": "Por lo tanto, le agradecería que pudiéramos revisarlo en una reunión corta."
+  },
+  {
+   "en": "Please find attached a sample file. I look forward to hearing from you.",
+   "es": "Adjunto un archivo de muestra. Quedo atento a su respuesta."
+  },
+  {
+   "en": "Best regards, {name}",
+   "es": "Saludos cordiales, {name}"
+  }
+ ],
+ "dialogTitle": "Diálogo después del correo",
+ "dialog": [
+  {
+   "who": "Carlos",
+   "text": "{name}, I read your proposal. It looks interesting."
+  },
+  {
+   "who": "{name}",
+   "text": "Thank you. The main benefit is that we'll know our progress every day."
+  },
+  {
+   "who": "Carlos",
+   "text": "However, the team is very busy right now."
+  },
+  {
+   "who": "{name}",
+   "text": "I understand. That's why the system is simple. Besides, it only takes a few minutes a day."
+  },
+  {
+   "who": "Carlos",
+   "text": "OK. Send me the file, and we'll discuss it on Monday."
+  },
+  {
+   "who": "{name}",
+   "text": "Great. I'll send it as soon as I get back to the office."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I am writing to propose…",
+   "pron": "ai am RÁI-ting tu prə-PÓUZ"
+  },
+  {
+   "en": "However, the team is very busy right now.",
+   "pron": "jau-É-ver, dhə tim iz VÉ-ri BÍ-zi rait NAU"
+  },
+  {
+   "en": "Therefore, I would appreciate it…",
+   "pron": "DHÉR-for, ai wud ə-PRÍ-shi-eit it"
+  },
+  {
+   "en": "I look forward to hearing from you.",
+   "pron": "ai luk FÓR-werd tu JÍ-ring frəm yu"
+  }
+ ],
+ "check": "Escribo el correo de memoria en 15 minutos, con punto antes y coma después de Therefore y However, y sin usar dos conectores para una sola idea."
+}

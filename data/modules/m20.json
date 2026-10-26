@@ -1,0 +1,981 @@
+{
+ "id": 20,
+ "level": "B2",
+ "title": "Voz pasiva (is made, was installed, will be tested)",
+ "goal": "Al terminar podrás escribir reportes técnicos, procedimientos e informes de inspección en voz pasiva en cualquier tiempo (the joints were welded, the line has been tested, the tank will be filled), decidir cuándo usar pasiva y cuándo activa, y manejar las pasivas de la vida diaria (I was born, my flight was canceled, I was told…).",
+ "lesson": [
+  {
+   "title": "Introducción",
+   "html": "<p>En la voz activa, el sujeto <b>hace</b> la acción: <span class=\"en\">The welder repaired the joint.</span> En la voz pasiva, el sujeto <b>recibe</b> la acción: <span class=\"en\">The joint was repaired.</span> El hecho es el mismo; cambia el foco. La pasiva pone adelante la cosa: la junta, el tanque, la válvula, el plano.</p><p>¿Por qué es tan importante en tu trabajo? Porque en un reporte técnico lo que importa es el <b>equipo y el proceso</b>, no la persona. Al cliente no le interesa si soldó Juan o Pedro; le interesa saber que <i>la junta fue soldada, inspeccionada y aprobada</i>. Por eso los procedimientos, los informes de inspección, las especificaciones y las normas (API, ASME, AWS) están llenos de pasivas. El español resuelve lo mismo con el <b>se</b>: <i>se soldó, se inspeccionó, se aprobó</i>.</p>",
+   "svg": "<svg viewBox=\"0 0 640 250\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"36\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">ACTIVA</text>\n  <rect x=\"100\" y=\"14\" width=\"130\" height=\"36\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/><text x=\"165\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">The welder</text>\n  <rect x=\"238\" y=\"14\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#1570EF\"/><text x=\"293\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">repaired</text>\n  <rect x=\"356\" y=\"14\" width=\"120\" height=\"36\" rx=\"8\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/><text x=\"416\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">the joint.</text>\n  <text x=\"165\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#6941C6\">quién lo hace (agente)</text>\n  <text x=\"416\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#E8590C\">qué recibe la acción</text>\n  <path d=\"M416 74 C 416 110, 170 100, 160 136\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"2.5\" stroke-dasharray=\"6 4\"/>\n  <polygon points=\"152,132 160,146 168,132\" fill=\"#E8590C\"/>\n  <path d=\"M165 74 C 200 110, 520 100, 540 136\" fill=\"none\" stroke=\"#6941C6\" stroke-width=\"2\" stroke-dasharray=\"3 4\"/>\n  <polygon points=\"532,133 541,146 548,131\" fill=\"#6941C6\"/>\n  <text x=\"20\" y=\"172\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">PASIVA</text>\n  <rect x=\"100\" y=\"150\" width=\"120\" height=\"36\" rx=\"8\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/><text x=\"160\" y=\"174\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">The joint</text>\n  <rect x=\"228\" y=\"150\" width=\"62\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"259\" y=\"174\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">was</text>\n  <rect x=\"298\" y=\"150\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#1570EF\"/><text x=\"353\" y=\"174\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">repaired</text>\n  <rect x=\"416\" y=\"150\" width=\"200\" height=\"36\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-dasharray=\"5 3\"/><text x=\"516\" y=\"174\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#6941C6\">(by the welder).</text>\n  <text x=\"259\" y=\"206\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#E8590C\">BE lleva el tiempo</text>\n  <text x=\"353\" y=\"206\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#1570EF\">participio fijo</text>\n  <text x=\"516\" y=\"206\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#6941C6\">opcional: casi siempre se omite</text>\n  <rect x=\"100\" y=\"218\" width=\"516\" height=\"26\" rx=\"6\" fill=\"#EAF2FF\"/>\n  <text x=\"358\" y=\"236\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">Objeto → sujeto · verbo → be + participio · agente → by + agente (si importa)</text>\n</svg>",
+   "caption": "Figura 20.1 — Transformación activa → pasiva. El objeto pasa adelante, el verbo se convierte en BE + participio y el agente se vuelve opcional."
+  },
+  {
+   "title": "La fórmula: BE + participio, en todos los tiempos",
+   "html": "<p>Solo cambia el verbo <b>be</b>, que toma el tiempo que necesitas. El participio (3.ª columna) nunca cambia. Si sabes conjugar <i>be</i>, ya sabes conjugar toda la pasiva.</p><table><thead><tr><th>Tiempo</th><th>Forma pasiva</th><th>Ejemplo</th><th>En español</th></tr></thead><tbody><tr><td>Presente simple</td><td>am / is / are + part.</td><td><span class=\"en\">The tanks are fabricated in Houston.</span></td><td>Los tanques se fabrican en Houston.</td></tr><tr><td>Presente continuo</td><td>am / is / are + being + part.</td><td><span class=\"en\">The weld is being inspected.</span></td><td>Se está inspeccionando la soldadura.</td></tr><tr><td>Pasado simple</td><td>was / were + part.</td><td><span class=\"en\">The valve was installed yesterday.</span></td><td>La válvula se instaló ayer.</td></tr><tr><td>Pasado continuo</td><td>was / were + being + part.</td><td><span class=\"en\">The roof was being painted when it rained.</span></td><td>Se estaba pintando el techo cuando llovió.</td></tr><tr><td>Presente perfecto</td><td>has / have + been + part.</td><td><span class=\"en\">The drawings have been approved.</span></td><td>Los planos han sido aprobados.</td></tr><tr><td>Pasado perfecto</td><td>had + been + part.</td><td><span class=\"en\">The line had been drained before the cut.</span></td><td>La línea había sido drenada antes del corte.</td></tr><tr><td>Futuro (will)</td><td>will + be + part.</td><td><span class=\"en\">The line will be tested on Friday.</span></td><td>La línea será probada el viernes.</td></tr><tr><td>Futuro (going to)</td><td>am / is / are + going to be + part.</td><td><span class=\"en\">The pump is going to be replaced.</span></td><td>Van a reemplazar la bomba.</td></tr><tr><td>Modal</td><td>modal + be + part.</td><td><span class=\"en\">The area must be cleaned first.</span></td><td>El área debe limpiarse primero.</td></tr><tr><td>Modal perfecto (Módulo 19)</td><td>modal + have been + part.</td><td><span class=\"en\">The test should have been done earlier.</span></td><td>La prueba debió hacerse antes.</td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 220\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <line x1=\"30\" y1=\"120\" x2=\"600\" y2=\"120\" stroke=\"#1570EF\" stroke-width=\"4\"/>\n  <polygon points=\"600,112 616,120 600,128\" fill=\"#1570EF\"/>\n  <text x=\"34\" y=\"150\" font-size=\"11\" font-weight=\"700\" fill=\"#667085\">PASADO</text>\n  <text x=\"560\" y=\"150\" font-size=\"11\" font-weight=\"700\" fill=\"#667085\">FUTURO</text>\n  <circle cx=\"110\" cy=\"120\" r=\"8\" fill=\"#1D2939\"/>\n  <rect x=\"40\" y=\"40\" width=\"140\" height=\"48\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/>\n  <text x=\"110\" y=\"60\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1D2939\">was installed</text>\n  <text x=\"110\" y=\"78\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">last Monday</text>\n  <line x1=\"110\" y1=\"88\" x2=\"110\" y2=\"110\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <path d=\"M215 120 C 240 160, 330 160, 350 128\" fill=\"none\" stroke=\"#0E9384\" stroke-width=\"3\"/>\n  <circle cx=\"215\" cy=\"120\" r=\"6\" fill=\"#0E9384\"/>\n  <rect x=\"190\" y=\"164\" width=\"170\" height=\"48\" rx=\"8\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/>\n  <text x=\"275\" y=\"184\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#0E9384\">has been inspected</text>\n  <text x=\"275\" y=\"202\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">ya está; importa ahora</text>\n  <line x1=\"380\" y1=\"98\" x2=\"380\" y2=\"142\" stroke=\"#1D2939\" stroke-width=\"2\"/>\n  <text x=\"380\" y=\"92\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#1D2939\">AHORA</text>\n  <rect x=\"352\" y=\"113\" width=\"56\" height=\"14\" rx=\"4\" fill=\"#E8590C\" opacity=\"0.85\"/>\n  <rect x=\"380\" y=\"164\" width=\"140\" height=\"48\" rx=\"8\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/>\n  <text x=\"450\" y=\"184\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">is being tested</text>\n  <text x=\"450\" y=\"202\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">en proceso</text>\n  <line x1=\"400\" y1=\"164\" x2=\"390\" y2=\"130\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <circle cx=\"530\" cy=\"120\" r=\"8\" fill=\"#1570EF\"/>\n  <rect x=\"450\" y=\"40\" width=\"160\" height=\"48\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"530\" y=\"60\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1570EF\">will be painted</text>\n  <text x=\"530\" y=\"78\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">next week</text>\n  <line x1=\"530\" y1=\"88\" x2=\"530\" y2=\"110\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n</svg>",
+   "caption": "Figura 20.2 — La pasiva en la línea de tiempo de un trabajo: instalado (pasado), inspeccionado (resultado presente), en prueba (ahora), por pintar (futuro)."
+  },
+  {
+   "title": "Reglas de oro",
+   "html": "<p><b>Regla de oro 1 — BE lleva el tiempo; el participio no se toca</b></p><p>Toda la información de tiempo, persona y número está en <i>be</i>: <i>is, are, was, were, has been, will be…</i> El participio siempre es la 3.ª columna.</p><p><span class=\"ok\">The pipes were delivered.</span> Nunca <span class=\"wrong\">The pipes were deliver.</span> ni <span class=\"wrong\">The pipes was delivered.</span></p><p><b>Regla de oro 2 — BY + agente solo si aporta información</b></p><p>En el 80 % de las pasivas no se dice quién lo hizo, porque es obvio, desconocido o no importa. Usa <b>by</b> cuando el agente es la noticia o es un dato que el lector necesita.</p><p><span class=\"en\">The tank was built in 1998.</span> (no importa quién) · <span class=\"en\">The welds were inspected by a certified third-party inspector.</span> (el dato importa)</p><p><b>Regla de oro 3 — Sin objeto no hay pasiva</b></p><p>Solo los verbos con objeto (transitivos) tienen pasiva. <i>Happen, occur, arrive, die, appear</i> no tienen objeto, así que no existen en pasiva; <i>fail</i> y <i>leak</i> tampoco, cuando significan \"fallar\" y \"fugar\".</p><p><span class=\"ok\">The accident happened at 3 p.m.</span> Nunca <span class=\"wrong\">The accident was happened.</span> <span class=\"ok\">The flange leaked.</span> Nunca <span class=\"wrong\">The flange was leaked.</span></p>"
+  },
+  {
+   "title": "¿Pasiva o activa? Cómo decide un nativo",
+   "html": "<p><b>Así piensa un nativo — pasiva para el reporte, activa para el compromiso</b></p><p>En un <b>informe técnico</b> el nativo escribe <span class=\"en\">The bottom plates were replaced and all welds were vacuum-box tested.</span> Es objetivo e impersonal. Pero en un <b>correo</b> al cliente prefiere la activa, porque suena directa y responsable: <span class=\"en\">We will replace the gasket tomorrow.</span></p><p>Ojo con la pasiva \"para esconderse\": <span class=\"en\">Mistakes were made.</span> (se cometieron errores) evita decir quién falló. Un buen jefe lo nota. Cuando el error es tuyo, usa la activa: <span class=\"en\">I made a mistake in the drawing.</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 235\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"170\" y=\"10\" width=\"300\" height=\"40\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"35\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">¿Qué es lo importante?</text>\n  <path d=\"M320 50 L320 64 M160 64 L480 64 M160 64 L160 80 M480 64 L480 80\" stroke=\"#98A2B3\" stroke-width=\"2\" fill=\"none\"/>\n  <rect x=\"40\" y=\"82\" width=\"240\" height=\"48\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"1.5\"/>\n  <text x=\"160\" y=\"102\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#6941C6\">La persona: quién lo hizo,</text>\n  <text x=\"160\" y=\"120\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#6941C6\">quién es responsable</text>\n  <rect x=\"360\" y=\"82\" width=\"240\" height=\"48\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"1.5\"/>\n  <text x=\"480\" y=\"102\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#E8590C\">La cosa, el proceso o</text>\n  <text x=\"480\" y=\"120\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#E8590C\">el resultado</text>\n  <path d=\"M160 130 L160 148 M480 130 L480 148\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <polygon points=\"153,146 160,158 167,146\" fill=\"#98A2B3\"/>\n  <polygon points=\"473,146 480,158 487,146\" fill=\"#98A2B3\"/>\n  <rect x=\"40\" y=\"160\" width=\"240\" height=\"66\" rx=\"10\" fill=\"#ffffff\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"160\" y=\"182\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#1D2939\">ACTIVA</text>\n  <text x=\"160\" y=\"200\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1D2939\">We will send the report today.</text>\n  <text x=\"160\" y=\"217\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">correos, compromisos, conversación</text>\n  <rect x=\"360\" y=\"160\" width=\"240\" height=\"66\" rx=\"10\" fill=\"#ffffff\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"480\" y=\"182\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#1D2939\">PASIVA</text>\n  <text x=\"480\" y=\"200\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1D2939\">The report was sent today.</text>\n  <text x=\"480\" y=\"217\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">reportes, procedimientos, normas</text>\n</svg>",
+   "caption": "Figura 20.3 — Mapa de decisión. La pasiva no es \"más culta\": es la herramienta para poner el foco en la cosa."
+  },
+  {
+   "title": "SHALL en normas y especificaciones",
+   "html": "<p>En API 650, ASME B31.3 o AWS D1.1 verás <span class=\"en\">The tank shall be hydrostatically tested.</span> En normas, <b>shall</b> = obligatorio (requisito); <b>should</b> = recomendado; <b>may</b> = permitido. En conversación casi no se usa <i>shall</i>. Lo verás a fondo en el Módulo 33.</p>"
+  },
+  {
+   "title": "Traducción directa vs interpretación real",
+   "html": "<p>El español casi nunca usa <i>ser + participio</i> (<i>fue instalado</i>) al hablar; prefiere el <b>se</b> o la tercera persona plural (<i>me robaron</i>). El inglés no tiene <i>se</i> impersonal: usa la pasiva.</p><table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td><span class=\"es\">Se habla inglés.</span></td><td><span class=\"en\">English is spoken here.</span></td></tr><tr><td><span class=\"es\">Me robaron la billetera.</span></td><td><span class=\"en\">My wallet was stolen.</span></td></tr><tr><td><span class=\"es\">Le dieron un bono.</span></td><td><span class=\"en\">He was given a bonus.</span></td></tr><tr><td><span class=\"es\">Me dijeron que esperara.</span></td><td><span class=\"en\">I was told to wait.</span></td></tr><tr><td><span class=\"es\">Nací en Talara.</span></td><td><span class=\"en\">I was born in Talara.</span></td></tr><tr><td><span class=\"es\">Se dice que va a llover.</span></td><td><span class=\"en\">It's supposed to rain.</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>Se fabrican tanques.</td><td><span class=\"wrong\">Are fabricated tanks.</span></td><td><span class=\"en\">Tanks are fabricated here.</span></td></tr><tr><td>Se necesitan dos soldadores.</td><td><span class=\"wrong\">Need two welders.</span></td><td><span class=\"en\">Two welders are needed.</span></td></tr><tr><td>Me robaron el celular.</td><td><span class=\"wrong\">They robbed my phone.</span></td><td><span class=\"en\">My phone was stolen.</span></td></tr><tr><td>Me dijeron que esperara.</td><td><span class=\"wrong\">I was said to wait.</span></td><td><span class=\"en\">I was told to wait.</span></td></tr><tr><td>Nací en 1995.</td><td><span class=\"wrong\">I born in 1995.</span></td><td><span class=\"en\">I was born in 1995.</span></td></tr><tr><td>No se encontraron defectos.</td><td><span class=\"wrong\">Not found defects.</span></td><td><span class=\"en\">No defects were found.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Afirmativo, negativo, pregunta y respuesta corta",
+   "html": "<p>La pasiva funciona como el verbo <i>be</i> o como el primer auxiliar: se niega con <b>not</b> y se pregunta invirtiendo el primer auxiliar. Nunca necesita <i>do/does/did</i>.</p><table><thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td>Sujeto + be + participio</td><td><span class=\"en\">The joint was repaired.</span></td></tr><tr><td><b>Negativo</b></td><td>Sujeto + be + not + participio</td><td><span class=\"en\">The joint wasn't repaired.</span></td></tr><tr><td><b>Pregunta</b></td><td>(WH-) + be + sujeto + participio?</td><td><span class=\"en\">Was the joint repaired? · When was it repaired?</span></td></tr><tr><td><b>Respuesta corta</b></td><td>Yes, sujeto + be. / No, sujeto + be + not.</td><td><span class=\"en\">Yes, it was. / No, it wasn't.</span></td></tr><tr><td><b>Con auxiliar</b></td><td>Primer auxiliar adelante</td><td><span class=\"en\">Has the line been tested? — Yes, it has. · Will it be painted? — No, it won't.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<ul><li><b>Dos objetos</b>: <span class=\"en\">They gave Ana a bonus.</span> → lo natural es empezar por la persona: <span class=\"en\">Ana was given a bonus.</span> Igual con <i>told, sent, shown, offered, asked</i>.</li><li><b>Pasiva con GET</b> (informal, cosas que \"le pasan\" a alguien): <span class=\"en\">He got fired.</span> · <span class=\"en\">I got paid yesterday.</span> · <span class=\"en\">The truck got stuck.</span> No la uses en reportes.</li><li><b>Pasiva impersonal</b> (formal): <span class=\"en\">It was agreed that…</span> · <span class=\"en\">It was found that…</span> · <span class=\"en\">It is expected that…</span> Muy útil en actas y conclusiones.</li><li><b>Have something done</b> = mandar a hacer: <span class=\"en\">I had my car repaired.</span> (no lo reparé yo; lo mandé a reparar).</li></ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "The plates are cut and beveled.",
+   "pron": "dhə PLEITS ar KAT ənd BÉ-vəld",
+   "es": "Las planchas se cortan y se biselan.",
+   "group": "A. Fabricación y montaje"
+  },
+  {
+   "en": "The spools are fabricated in the shop.",
+   "pron": "dhə SPULZ ar FÁ-bri-kei-tid in dhə SHOP",
+   "es": "Los spools se fabrican en el taller.",
+   "group": "A. Fabricación y montaje"
+  },
+  {
+   "en": "The shell was erected in six courses.",
+   "pron": "dhə SHEL wəz i-RÉK-tid in siks KÓR-siz",
+   "es": "El casco se montó en seis anillos.",
+   "group": "A. Fabricación y montaje"
+  },
+  {
+   "en": "The roof was lifted with a crane.",
+   "pron": "dhə RUF wəz LÍF-tid widh ə KREIN",
+   "es": "El techo se izó con una grúa.",
+   "group": "A. Fabricación y montaje"
+  },
+  {
+   "en": "The pipe was aligned and tack-welded.",
+   "pron": "dhə PAIP wəz ə-LÁIND ənd TAK-wel-did",
+   "es": "El tubo se alineó y se punteó.",
+   "group": "A. Fabricación y montaje"
+  },
+  {
+   "en": "The joints were welded with E7018.",
+   "pron": "dhə YOINTS wer WÉL-did widh i SÉ-vən-ti ei-TÍN",
+   "es": "Las juntas se soldaron con E7018.",
+   "group": "A. Fabricación y montaje"
+  },
+  {
+   "en": "The flanges are bolted to the nozzle.",
+   "pron": "dhə FLÁN-yiz ar BÓUL-tid tə dhə NÓ-zəl",
+   "es": "Las bridas se empernan a la boquilla.",
+   "group": "A. Fabricación y montaje"
+  },
+  {
+   "en": "The supports were installed every 6 meters.",
+   "pron": "dhə sə-PÓRTS wer in-STÓLD É-vri siks MÍ-terz",
+   "es": "Los soportes se instalaron cada 6 metros.",
+   "group": "A. Fabricación y montaje"
+  },
+  {
+   "en": "All welds were visually inspected.",
+   "pron": "ol WELDZ wer VÍ-zhu-ə-li in-SPÉK-tid",
+   "es": "Todas las soldaduras se inspeccionaron visualmente.",
+   "group": "B. Inspección y pruebas"
+  },
+  {
+   "en": "Ten joints were radiographed.",
+   "pron": "ten YOINTS wer RÉI-di-o-graft",
+   "es": "Se radiografiaron diez juntas.",
+   "group": "B. Inspección y pruebas"
+  },
+  {
+   "en": "Two welds were rejected.",
+   "pron": "tu WELDZ wer ri-YÉK-tid",
+   "es": "Se rechazaron dos soldaduras.",
+   "group": "B. Inspección y pruebas"
+  },
+  {
+   "en": "The defect was repaired and retested.",
+   "pron": "dhə DÍ-fekt wəz ri-PÉRD ənd ri-TÉS-tid",
+   "es": "El defecto se reparó y se volvió a probar.",
+   "group": "B. Inspección y pruebas"
+  },
+  {
+   "en": "The line has been hydrotested.",
+   "pron": "dhə LAIN jəz bin JÁI-dro-tes-tid",
+   "es": "La línea ha sido probada hidrostáticamente.",
+   "group": "B. Inspección y pruebas"
+  },
+  {
+   "en": "The bottom is being vacuum-box tested.",
+   "pron": "dhə BÓ-təm iz BÍ-ing VÁ-kyum-boks TÉS-tid",
+   "es": "Se está probando el fondo con caja de vacío.",
+   "group": "B. Inspección y pruebas"
+  },
+  {
+   "en": "No leaks were found.",
+   "pron": "nou LIKS wer FÁUND",
+   "es": "No se encontraron fugas.",
+   "group": "B. Inspección y pruebas"
+  },
+  {
+   "en": "The test was witnessed by the client.",
+   "pron": "dhə TEST wəz WÍT-nəst bai dhə KLÁI-ənt",
+   "es": "La prueba fue presenciada por el cliente.",
+   "group": "B. Inspección y pruebas"
+  },
+  {
+   "en": "The surface must be cleaned.",
+   "pron": "dhə SÉR-fis məst bi KLIND",
+   "es": "La superficie debe limpiarse.",
+   "group": "C. Procedimientos e instrucciones (modal + be + participio)"
+  },
+  {
+   "en": "The valve should be checked daily.",
+   "pron": "dhə VALV shud bi CHEKT DÉI-li",
+   "es": "La válvula debería revisarse a diario.",
+   "group": "C. Procedimientos e instrucciones (modal + be + participio)"
+  },
+  {
+   "en": "The area must be isolated.",
+   "pron": "dhi É-ri-ə məst bi ÁI-sə-lei-tid",
+   "es": "El área debe aislarse.",
+   "group": "C. Procedimientos e instrucciones (modal + be + participio)"
+  },
+  {
+   "en": "The bolts must be tightened in a star pattern.",
+   "pron": "dhə BOULTS məst bi TÁI-tənd in ə STAR PÁ-tern",
+   "es": "Los pernos deben ajustarse en patrón de estrella.",
+   "group": "C. Procedimientos e instrucciones (modal + be + participio)"
+  },
+  {
+   "en": "Hot work is not permitted.",
+   "pron": "jot WERK iz not per-MÍ-tid",
+   "es": "No se permite trabajo en caliente.",
+   "group": "C. Procedimientos e instrucciones (modal + be + participio)"
+  },
+  {
+   "en": "A permit is required.",
+   "pron": "ə PÉR-mit iz ri-KWÁI-erd",
+   "es": "Se requiere un permiso.",
+   "group": "C. Procedimientos e instrucciones (modal + be + participio)"
+  },
+  {
+   "en": "The tank can be emptied in four hours.",
+   "pron": "dhə TANK kən bi ÉMP-tid in for ÁU-erz",
+   "es": "El tanque puede vaciarse en cuatro horas.",
+   "group": "C. Procedimientos e instrucciones (modal + be + participio)"
+  },
+  {
+   "en": "It was found that…",
+   "pron": "it wəz FÁUND dhat",
+   "es": "Se encontró que…",
+   "group": "D. Lenguaje de reportes y actas"
+  },
+  {
+   "en": "It was observed that…",
+   "pron": "it wəz əb-ZÉRVD dhat",
+   "es": "Se observó que…",
+   "group": "D. Lenguaje de reportes y actas"
+  },
+  {
+   "en": "It was agreed that…",
+   "pron": "it wəz ə-GRÍD dhat",
+   "es": "Se acordó que…",
+   "group": "D. Lenguaje de reportes y actas"
+  },
+  {
+   "en": "The work was completed on schedule.",
+   "pron": "dhə WERK wəz kəm-PLÍ-tid on SKÉ-yul",
+   "es": "El trabajo se terminó según el cronograma.",
+   "group": "D. Lenguaje de reportes y actas"
+  },
+  {
+   "en": "The report will be sent by Friday.",
+   "pron": "dhə ri-PÓRT wil bi SENT bai FRÁI-dei",
+   "es": "El informe se enviará a más tardar el viernes.",
+   "group": "D. Lenguaje de reportes y actas"
+  },
+  {
+   "en": "The meeting has been postponed.",
+   "pron": "dhə MÍ-ting jəz bin poust-PÓUND",
+   "es": "La reunión ha sido postergada.",
+   "group": "D. Lenguaje de reportes y actas"
+  },
+  {
+   "en": "Photos are attached.",
+   "pron": "FÓU-touz ar ə-TÁCHT",
+   "es": "Se adjuntan fotos.",
+   "group": "D. Lenguaje de reportes y actas"
+  },
+  {
+   "en": "I was born in Talara.",
+   "pron": "ai wəz BORN in ta-LÁ-ra",
+   "es": "Nací en Talara.",
+   "group": "E. Pasivas de la vida diaria"
+  },
+  {
+   "en": "My flight was canceled.",
+   "pron": "mai FLAIT wəz KÁN-səld",
+   "es": "Cancelaron mi vuelo.",
+   "group": "E. Pasivas de la vida diaria"
+  },
+  {
+   "en": "My wallet was stolen.",
+   "pron": "mai WÓ-lit wəz STÓU-lən",
+   "es": "Me robaron la billetera.",
+   "group": "E. Pasivas de la vida diaria"
+  },
+  {
+   "en": "I was told to wait.",
+   "pron": "ai wəz TOULD tə WEIT",
+   "es": "Me dijeron que esperara.",
+   "group": "E. Pasivas de la vida diaria"
+  },
+  {
+   "en": "I was offered a job in Australia.",
+   "pron": "ai wəz Ó-ferd ə YOB in os-TRÉIL-yə",
+   "es": "Me ofrecieron un trabajo en Australia.",
+   "group": "E. Pasivas de la vida diaria"
+  },
+  {
+   "en": "Breakfast is included.",
+   "pron": "BRÉK-fəst iz in-KLÚ-did",
+   "es": "El desayuno está incluido.",
+   "group": "E. Pasivas de la vida diaria"
+  },
+  {
+   "en": "The store is closed on Sundays.",
+   "pron": "dhə STOR iz KLOUZD on SÁN-deiz",
+   "es": "La tienda cierra los domingos.",
+   "group": "E. Pasivas de la vida diaria"
+  },
+  {
+   "en": "build → built",
+   "pron": "bilt",
+   "es": "construir → construido",
+   "example": "The tank was built in 1998.",
+   "group": "F. Participios irregulares de uso técnico"
+  },
+  {
+   "en": "cut → cut",
+   "pron": "kat",
+   "es": "cortar → cortado",
+   "example": "The pipe was cut to length.",
+   "group": "F. Participios irregulares de uso técnico"
+  },
+  {
+   "en": "make → made",
+   "pron": "meid",
+   "es": "hacer, fabricar → hecho, fabricado",
+   "example": "The gaskets are made of graphite.",
+   "group": "F. Participios irregulares de uso técnico"
+  },
+  {
+   "en": "find → found",
+   "pron": "faund",
+   "es": "encontrar → encontrado",
+   "example": "A crack was found in the toe.",
+   "group": "F. Participios irregulares de uso técnico"
+  },
+  {
+   "en": "write → written",
+   "pron": "RÍ-tən",
+   "es": "escribir → escrito",
+   "example": "The procedure was written by QA.",
+   "group": "F. Participios irregulares de uso técnico"
+  },
+  {
+   "en": "lay → laid",
+   "pron": "leid",
+   "es": "colocar, tender → colocado, tendido",
+   "example": "The new bottom plates were laid on sand.",
+   "group": "F. Participios irregulares de uso técnico"
+  },
+  {
+   "en": "hold → held",
+   "pron": "jeld",
+   "es": "mantener, sostener → mantenido",
+   "example": "The pressure was held for two hours.",
+   "group": "F. Participios irregulares de uso técnico"
+  },
+  {
+   "en": "send → sent",
+   "pron": "sent",
+   "es": "enviar → enviado",
+   "example": "The samples were sent to the lab.",
+   "group": "F. Participios irregulares de uso técnico"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "The valve is replaced every year.",
+     "The valve isn't replaced every year.",
+     "Is the valve replaced every year?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "The welds are being inspected.",
+     "The welds aren't being inspected.",
+     "Are the welds being inspected?",
+     "Yes, they are. / No, they aren't."
+    ],
+    [
+     "The pipe was delivered.",
+     "The pipe wasn't delivered.",
+     "Was the pipe delivered?",
+     "Yes, it was. / No, it wasn't."
+    ],
+    [
+     "The bolts were tightened.",
+     "The bolts weren't tightened.",
+     "Were the bolts tightened?",
+     "Yes, they were. / No, they weren't."
+    ],
+    [
+     "The drawings have been approved.",
+     "The drawings haven't been approved.",
+     "Have the drawings been approved?",
+     "Yes, they have. / No, they haven't."
+    ],
+    [
+     "The report has been sent.",
+     "The report hasn't been sent.",
+     "Has the report been sent?",
+     "Yes, it has. / No, it hasn't."
+    ],
+    [
+     "The tank will be painted.",
+     "The tank won't be painted.",
+     "Will the tank be painted?",
+     "Yes, it will. / No, it won't."
+    ],
+    [
+     "The line can be isolated.",
+     "The line can't be isolated.",
+     "Can the line be isolated?",
+     "Yes, it can. / No, it can't."
+    ],
+    [
+     "You were told about the change.",
+     "You weren't told about the change.",
+     "Were you told about the change?",
+     "Yes, I was. / No, I wasn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Sarah",
+   "text": "Hi Edwin, it's Sarah from the terminal. How's the Tank 12 repair going?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Good morning, Sarah. It's going well. All the corroded plates have been removed, and twelve new plates were installed yesterday."
+  },
+  {
+   "who": "Sarah",
+   "text": "Great. Have the welds been inspected yet?"
+  },
+  {
+   "who": "Edwin",
+   "text": "The first ten joints have. The rest are being vacuum-box tested right now."
+  },
+  {
+   "who": "Sarah",
+   "text": "Were any defects found?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, a small pore was found on joint B-7. It was ground out and rewelded this morning."
+  },
+  {
+   "who": "Sarah",
+   "text": "OK. When will the hydrotest be done?"
+  },
+  {
+   "who": "Edwin",
+   "text": "If everything goes well, the tank will be filled on Friday. The water must be approved by your lab first."
+  },
+  {
+   "who": "Sarah",
+   "text": "I'll take care of that. Will the test be witnessed by a third-party inspector?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, an inspector has been booked for Friday at 8. The full report will be sent to you on Monday."
+  },
+  {
+   "who": "Sarah",
+   "text": "Perfect. Thanks, Edwin."
+  }
+ ],
+ "examples": [
+  {
+   "en": "The corroded bottom plates were removed and replaced with new 6 mm plates.",
+   "es": "Las planchas de fondo corroídas se retiraron y se reemplazaron con planchas nuevas de 6 mm.",
+   "situation": "Reporte de reparación"
+  },
+  {
+   "en": "All fillet welds were visually inspected, and no defects were found.",
+   "es": "Todas las soldaduras de filete se inspeccionaron visualmente y no se encontraron defectos.",
+   "situation": "Inspección de soldadura"
+  },
+  {
+   "en": "The line will be tested at 1.5 times the design pressure.",
+   "es": "La línea será probada a 1,5 veces la presión de diseño.",
+   "situation": "Prueba hidrostática"
+  },
+  {
+   "en": "The new nozzle is being welded right now.",
+   "es": "En este momento se está soldando la nueva boquilla.",
+   "situation": "Estado en obra"
+  },
+  {
+   "en": "Before welding, the bevel must be cleaned and checked for cracks.",
+   "es": "Antes de soldar, el bisel debe limpiarse y revisarse en busca de grietas.",
+   "situation": "Procedimiento"
+  },
+  {
+   "en": "The isometric drawings have been revised and sent to the client.",
+   "es": "Los isométricos han sido revisados y enviados al cliente.",
+   "situation": "Planos"
+  },
+  {
+   "en": "The area was isolated because a gas leak had been reported.",
+   "es": "El área se aisló porque se había reportado una fuga de gas.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "The meeting has been moved to Thursday at 10.",
+   "es": "La reunión se ha pasado al jueves a las 10.",
+   "situation": "Oficina"
+  },
+  {
+   "en": "Our flight was delayed, and my suitcase was sent to the wrong city.",
+   "es": "Nuestro vuelo se retrasó y mandaron mi maleta a la ciudad equivocada.",
+   "situation": "Viaje"
+  },
+  {
+   "en": "Is the tip included in the bill?",
+   "es": "¿La propina está incluida en la cuenta?",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "Your card has been blocked for security reasons.",
+   "es": "Su tarjeta ha sido bloqueada por razones de seguridad.",
+   "situation": "Banco"
+  },
+  {
+   "en": "You will be given the results tomorrow.",
+   "es": "Le darán los resultados mañana.",
+   "situation": "Médico"
+  },
+  {
+   "en": "The contract was signed last week, and the first payment is expected in May.",
+   "es": "El contrato se firmó la semana pasada y se espera el primer pago en mayo.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "This tank was built in 1998 and had never been repaired before.",
+   "es": "Este tanque se construyó en 1998 y nunca había sido reparado antes.",
+   "situation": "Historia del equipo"
+  },
+  {
+   "en": "The gaskets should have been checked against the data sheet.",
+   "es": "Los empaques debieron verificarse contra la hoja de datos.",
+   "situation": "Lecciones aprendidas"
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "The tank was inspect yesterday.",
+   "right": "The tank was inspected yesterday.",
+   "why": "La pasiva necesita el participio, no la forma base."
+  },
+  {
+   "wrong": "The accident was happened at night.",
+   "right": "The accident happened at night.",
+   "why": "Happen no tiene objeto; no existe en pasiva."
+  },
+  {
+   "wrong": "The valves was replaced.",
+   "right": "The valves were replaced.",
+   "why": "Be concuerda con el sujeto: valves es plural → were."
+  },
+  {
+   "wrong": "Is fabricated in Houston.",
+   "right": "It is fabricated in Houston.",
+   "why": "El inglés exige sujeto; el se español no existe."
+  },
+  {
+   "wrong": "The line will tested on Friday.",
+   "right": "The line will be tested on Friday.",
+   "why": "Futuro pasivo = will be + participio. Sin be no hay pasiva."
+  },
+  {
+   "wrong": "The weld is being repair.",
+   "right": "The weld is being repaired.",
+   "why": "Después de being también va participio."
+  },
+  {
+   "wrong": "The report was written for Ana. (= por Ana)",
+   "right": "The report was written by Ana.",
+   "why": "El agente se introduce con by. For = para."
+  },
+  {
+   "wrong": "Is spoken English here.",
+   "right": "English is spoken here.",
+   "why": "Orden fijo: sujeto + be + participio."
+  },
+  {
+   "wrong": "I borned in 1995. / I was borned.",
+   "right": "I was born in 1995.",
+   "why": "\"Nacer\" es siempre pasiva: was born. Borned no existe."
+  },
+  {
+   "wrong": "I was said to wait.",
+   "right": "I was told to wait.",
+   "why": "Say no lleva persona como objeto; con persona se usa tell → I was told."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "The test was realized.",
+   "looks": "se realizó",
+   "means": "se hizo realidad / se dio cuenta (no se usa así)",
+   "fix": "The test was carried out / performed."
+  },
+  {
+   "en": "The pipe was proved.",
+   "looks": "se probó",
+   "means": "se demostró (que era cierto)",
+   "fix": "The pipe was tested."
+  },
+  {
+   "en": "The structure was armed.",
+   "looks": "se armó",
+   "means": "se armó (con armas)",
+   "fix": "The structure was assembled."
+  },
+  {
+   "en": "The tank was reformed.",
+   "looks": "se reformó",
+   "means": "se reformó (conducta, política)",
+   "fix": "The tank was refurbished / modified."
+  },
+  {
+   "en": "The plates were collocated.",
+   "looks": "se colocaron",
+   "means": "se agruparon (palabra rara, casi no se usa)",
+   "fix": "The plates were placed / positioned."
+  },
+  {
+   "en": "The pressure was controlled.",
+   "looks": "se controló (revisó)",
+   "means": "se reguló",
+   "fix": "The pressure was checked / monitored."
+  },
+  {
+   "en": "The piece was replaced.",
+   "looks": "la pieza",
+   "means": "el trozo / fragmento",
+   "fix": "The part was replaced."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Los tanques se fabrican en Houston.",
+    "answers": [
+     "Tanks are fabricated in Houston.",
+     "The tanks are fabricated in Houston.",
+     "Tanks are manufactured in Houston.",
+     "The tanks are manufactured in Houston.",
+     "Tanks are made in Houston.",
+     "The tanks are made in Houston."
+    ],
+    "explain": "Presente simple pasivo: are (plural) + participio. También: The tanks are manufactured…"
+   },
+   {
+    "prompt": "La válvula se instaló ayer.",
+    "answers": [
+     "The valve was installed yesterday."
+    ],
+    "explain": "Pasado simple pasivo: was (singular) + installed."
+   },
+   {
+    "prompt": "La línea será probada mañana a las 8.",
+    "answers": [
+     "The line will be tested tomorrow at 8.",
+     "The line will be tested at 8 tomorrow.",
+     "The line will be tested tomorrow at 8 a.m.",
+     "The line will be tested tomorrow at eight."
+    ],
+    "explain": "Futuro pasivo: will be + participio."
+   },
+   {
+    "prompt": "En este momento se están inspeccionando las soldaduras.",
+    "answers": [
+     "The welds are being inspected right now.",
+     "The welds are being inspected at the moment.",
+     "Right now, the welds are being inspected.",
+     "At the moment, the welds are being inspected."
+    ],
+    "explain": "Presente continuo pasivo: are being + participio. \"En este momento\" = right now / at the moment."
+   },
+   {
+    "prompt": "Los planos ya han sido aprobados.",
+    "answers": [
+     "The drawings have already been approved."
+    ],
+    "explain": "Presente perfecto pasivo: have been; already va entre have y been."
+   },
+   {
+    "prompt": "El área debe limpiarse antes de pintar.",
+    "answers": [
+     "The area must be cleaned before painting.",
+     "The area has to be cleaned before painting."
+    ],
+    "explain": "Modal pasivo: must be + participio. Tras before, gerundio (painting)."
+   },
+   {
+    "prompt": "Me robaron la billetera en el aeropuerto.",
+    "answers": [
+     "My wallet was stolen at the airport."
+    ],
+    "explain": "\"Me robaron\" = pasiva con la cosa como sujeto. Steal → stole → stolen; no robbed (rob es a la persona o al lugar)."
+   },
+   {
+    "prompt": "¿Cuándo se construyó este tanque?",
+    "answers": [
+     "When was this tank built?"
+    ],
+    "explain": "WH- + was + sujeto + participio. Build → built."
+   },
+   {
+    "prompt": "No se encontraron defectos.",
+    "answers": [
+     "No defects were found."
+    ],
+    "explain": "No + sustantivo plural + were + found. No se usa not."
+   },
+   {
+    "prompt": "La prueba debió hacerse antes.",
+    "answers": [
+     "The test should have been done earlier.",
+     "The test should have been carried out earlier.",
+     "The test should have been done before."
+    ],
+    "explain": "Modal perfecto pasivo (Módulo 19 + 20): should have been + participio. También: carried out earlier."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "Three joints were rejected and will be repaired on Monday.",
+    "answers": [
+     "Se rechazaron tres juntas y se repararán el lunes.",
+     "Tres juntas fueron rechazadas y serán reparadas el lunes.",
+     "Tres juntas fueron rechazadas y se repararán el lunes."
+    ],
+    "explain": "Pasado pasivo (were rejected) + futuro pasivo (will be repaired)."
+   },
+   {
+    "prompt": "Breakfast is included in the price.",
+    "answers": [
+     "El desayuno está incluido en el precio.",
+     "El precio incluye el desayuno.",
+     "El desayuno viene incluido en el precio."
+    ],
+    "explain": "Is included = está incluido; el español usa estar porque describe un estado."
+   },
+   {
+    "prompt": "The pump is being replaced, so the line is out of service.",
+    "answers": [
+     "Se está reemplazando la bomba, así que la línea está fuera de servicio.",
+     "La bomba está siendo reemplazada, así que la línea está fuera de servicio.",
+     "Se está cambiando la bomba, por eso la línea está fuera de servicio."
+    ],
+    "explain": "Presente continuo pasivo = se está + gerundio."
+   },
+   {
+    "prompt": "I was told to wait outside.",
+    "answers": [
+     "Me dijeron que esperara afuera.",
+     "Me dijeron que esperase fuera.",
+     "Me pidieron que esperara afuera."
+    ],
+    "explain": "I was told to… = me dijeron que… El español usa \"ellos\" implícito."
+   },
+   {
+    "prompt": "The flanges had been tightened before the test started.",
+    "answers": [
+     "Las bridas habían sido ajustadas antes de que empezara la prueba.",
+     "Las bridas se habían ajustado antes de que empezara la prueba.",
+     "Las bridas habían sido apretadas antes de que comenzara la prueba."
+    ],
+    "explain": "Pasado perfecto pasivo: had been tightened. También: se habían ajustado."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "The report was write by Ana.",
+    "answers": [
+     "The report was written by Ana."
+    ],
+    "explain": "Participio de write = written."
+   },
+   {
+    "prompt": "The leak was happened during the night shift.",
+    "answers": [
+     "The leak happened during the night shift."
+    ],
+    "explain": "Happen no tiene pasiva; se quita was."
+   },
+   {
+    "prompt": "The new pipes was delivered this morning.",
+    "answers": [
+     "The new pipes were delivered this morning."
+    ],
+    "explain": "Pipes es plural → were."
+   },
+   {
+    "prompt": "The tank will inspected next week.",
+    "answers": [
+     "The tank will be inspected next week."
+    ],
+    "explain": "Faltaba be: will be + participio."
+   },
+   {
+    "prompt": "The weld is being repair right now.",
+    "answers": [
+     "The weld is being repaired right now."
+    ],
+    "explain": "Después de being, participio: repaired."
+   },
+   {
+    "prompt": "The drawings were approved from the client yesterday.",
+    "answers": [
+     "The drawings were approved by the client yesterday."
+    ],
+    "explain": "El agente va con by, no con from."
+   },
+   {
+    "prompt": "Is spoken English in this hotel.",
+    "answers": [
+     "English is spoken in this hotel."
+    ],
+    "explain": "Faltaba el sujeto adelante: English + is + spoken."
+   },
+   {
+    "prompt": "I was borned in Talara.",
+    "answers": [
+     "I was born in Talara."
+    ],
+    "explain": "El participio es born; borned no existe."
+   },
+   {
+    "prompt": "The meeting has been cancel.",
+    "answers": [
+     "The meeting has been canceled.",
+     "The meeting has been cancelled."
+    ],
+    "explain": "Después de been, participio: canceled (EE. UU.; cancelled en Reino Unido)."
+   },
+   {
+    "prompt": "I was said to wear a helmet.",
+    "answers": [
+     "I was told to wear a helmet."
+    ],
+    "explain": "Con la persona como sujeto se usa tell: I was told."
+   }
+  ],
+  "bonus": {
+   "prompt": "Pasa a pasiva sin agente: The inspector rejected two welds. Luego conviértela en pregunta.",
+   "answer": "Two welds were rejected. → Were two welds rejected? (Con WH-: How many welds were rejected?)"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con estas palabras; usa cada una una sola vez: was, were, been, being, be, by, is, will.",
+   "lines": [
+    {
+     "who": "Client",
+     "text": "Hi Edwin. What's the status of Tank 5?"
+    },
+    {
+     "who": "You",
+     "text": "The new bottom plates [1] installed last week, and all the welds have [2] inspected."
+    },
+    {
+     "who": "Client",
+     "text": "Were any defects found?"
+    },
+    {
+     "who": "You",
+     "text": "Yes, one small crack [3] found [4] the NDT technician."
+    },
+    {
+     "who": "Client",
+     "text": "Has it been repaired?"
+    },
+    {
+     "who": "You",
+     "text": "Not yet. It's [5] repaired right now."
+    },
+    {
+     "who": "Client",
+     "text": "And the hydrotest?"
+    },
+    {
+     "who": "You",
+     "text": "The tank [6] be filled on Friday. The water must [7] approved by your lab first."
+    },
+    {
+     "who": "Client",
+     "text": "When can I see the final report?"
+    },
+    {
+     "who": "You",
+     "text": "The final report [8] always written after the test, so you'll have it on Monday."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "were"
+     ],
+     "explain": "Pasado simple pasivo con sujeto plural (plates) + last week."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "been"
+     ],
+     "explain": "Presente perfecto pasivo: have been inspected."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "was"
+     ],
+     "explain": "Pasado simple pasivo con sujeto singular (one small crack)."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "by"
+     ],
+     "explain": "Agente con by; aquí el dato (quién lo encontró) importa."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "being"
+     ],
+     "explain": "Presente continuo pasivo: it's being repaired."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "will"
+     ],
+     "explain": "Futuro pasivo: will be filled."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "be"
+     ],
+     "explain": "Modal pasivo: must be approved."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "is"
+     ],
+     "explain": "Presente simple pasivo para un procedimiento habitual (always)."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un reporte diario de obra (7 puntos). Escribe 6 a 8 oraciones sobre un trabajo real o inventado (reparación de tanque, montaje de tubería, soportes). Debe incluir: (a) dos acciones terminadas en pasado simple pasivo; (b) una en presente perfecto pasivo; (c) una en presente continuo pasivo; (d) una en futuro pasivo; (e) una con modal pasivo (must / should / can be); (f) un agente con by que aporte información; (g) encabezado con fecha y una línea de cierre profesional.",
+   "rubric": [
+    "(a) dos acciones terminadas en pasado simple pasivo",
+    "(b) una en presente perfecto pasivo",
+    "(c) una en presente continuo pasivo",
+    "(d) una en futuro pasivo",
+    "(e) una con modal pasivo (must / should / can be)",
+    "(f) un agente con by que aporte información",
+    "(g) encabezado con fecha y una línea de cierre profesional"
+   ],
+   "model": "Daily Report – Tank T-12 Bottom Repair – October 14\nToday, the last four bottom plates were installed, and all lap joints were welded. Twenty joints have been vacuum-box tested so far, and no leaks have been found. The remaining joints are being tested this afternoon. The tank will be filled with water on Friday for the hydrotest. Before filling, the manhole gaskets must be replaced. The test will be witnessed by a third-party API 653 inspector. Please contact me if you have any questions.\nEdwin Prieto – Piping and Mechanical Design Engineer"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Formar la pasiva en los 10 tiempos de la tabla.",
+   "test": "Escribe the pipe / test en los 10 tiempos en 3 minutos; 10 de 10 correctas."
+  },
+  {
+   "skill": "Pasar un párrafo de activa a pasiva.",
+   "test": "Transforma 6 oraciones de un reporte tuyo; quita el agente cuando no aporte. Cero errores de concordancia."
+  },
+  {
+   "skill": "Escribir un procedimiento en presente pasivo.",
+   "test": "Describe 6 pasos de un trabajo real (ej. prueba hidrostática) en 5 minutos, todos en pasiva."
+  },
+  {
+   "skill": "Dar un avance de obra por teléfono.",
+   "test": "Grábate 60 segundos con al menos 5 pasivas (was, has been, is being, will be, must be)."
+  },
+  {
+   "skill": "Usar las pasivas de la vida diaria.",
+   "test": "Traduce en voz alta: nací en…, me robaron…, me dijeron que…, cancelaron mi vuelo, está incluido. Cero errores."
+  },
+  {
+   "skill": "Pronunciar bien las terminaciones -ed.",
+   "test": "Lee los bloques A y B en voz alta, grabado; cada -ed suena como t, d o id según la regla."
+  },
+  {
+   "skill": "Redactar un reporte diario de obra.",
+   "test": "Escribe 6–8 oraciones que cumplan los 7 criterios de la C2."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "Where were you born, and where were you raised?",
+  "What is your city known for?",
+  "What has been done in your project this week?",
+  "What will be finished at your job next month?",
+  "How are new workers trained at your company?",
+  "Have you ever been asked to work on a weekend?"
+ ]
+}

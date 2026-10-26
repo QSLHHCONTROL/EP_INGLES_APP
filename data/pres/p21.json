@@ -1,0 +1,98 @@
+{
+ "id": 21,
+ "topic": "Estilo indirecto",
+ "title": "What People Ask Me",
+ "practice": "Léela en voz alta 3 veces. Luego cuenta qué te dijeron en tu última reunión, en 1 minuto y sin mirar.",
+ "rows": [
+  {
+   "en": "People often **ask me where I'm from**.",
+   "es": "La gente a menudo me pregunta de dónde soy."
+  },
+  {
+   "en": "I **tell them that** I'm from {city}, in {country}.",
+   "es": "Les digo que soy de {city}, en {country}."
+  },
+  {
+   "en": "Once, a friend **asked me if I liked** my job.",
+   "es": "Una vez, un amigo me preguntó si me gustaba mi trabajo."
+  },
+  {
+   "en": "I **told him that I did**, and that I **worked** with {work}.",
+   "es": "Le dije que sí, y que trabajaba con {work_es}."
+  },
+  {
+   "en": "In meetings, I take notes like this:",
+   "es": "En las reuniones, tomo notas así:"
+  },
+  {
+   "en": "\"The client **said that** the work **had to** be ready by Friday.\"",
+   "es": "\"El cliente dijo que el trabajo tenía que estar listo para el viernes.\""
+  },
+  {
+   "en": "\"The manager **told us not to** send anything without approval.\"",
+   "es": "\"El gerente nos dijo que no enviáramos nada sin aprobación.\""
+  },
+  {
+   "en": "\"The supervisor **asked when** we **would finish**.\"",
+   "es": "\"El supervisor preguntó cuándo terminaríamos.\""
+  },
+  {
+   "en": "\"I **promised to send** the report **the next day**.\"",
+   "es": "\"Prometí enviar el informe al día siguiente.\""
+  },
+  {
+   "en": "One day, a recruiter might **ask me why** I want to move to {dreamCountry}.",
+   "es": "Algún día, un reclutador podría preguntarme por qué quiero mudarme a {dreamCountry}."
+  },
+  {
+   "en": "I'll **explain that** I want to grow as {a_profession}.",
+   "es": "Le explicaré que quiero crecer como {profession_es}."
+  }
+ ],
+ "dialogTitle": "Diálogo después de una reunión",
+ "dialog": [
+  {
+   "who": "Carlos",
+   "text": "What did the client say in the meeting?"
+  },
+  {
+   "who": "{name}",
+   "text": "He said that the first results looked good."
+  },
+  {
+   "who": "Carlos",
+   "text": "Did he ask about the schedule?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes. He asked if we could finish by Friday."
+  },
+  {
+   "who": "Carlos",
+   "text": "And what did you tell him?"
+  },
+  {
+   "who": "{name}",
+   "text": "I told him that we would do our best, and he asked me to send him a daily update."
+  }
+ ],
+ "pron": [
+  {
+   "en": "People often ask me where I'm from.",
+   "pron": "PÍ-pəl Ó-fən ASK mi wer aim FROM"
+  },
+  {
+   "en": "I told him that I did.",
+   "pron": "ai TOULD-im dhət ai DID"
+  },
+  {
+   "en": "He asked if we could finish by Friday.",
+   "pron": "ji ASKT if wi kəd FÍ-nish bai FRÁI-dei"
+  },
+  {
+   "en": "The supervisor asked when we would finish.",
+   "pron": "dhə SÚ-pər-vai-zər ASKT wen wi wud FÍ-nish"
+  }
+ ],
+ "check": "Cuento una conversación real en menos de 90 segundos, sin leer, con said that / told me / asked if / told us to y el tiempo verbal un paso atrás."
+}

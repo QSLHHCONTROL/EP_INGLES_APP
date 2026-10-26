@@ -1,0 +1,1004 @@
+{
+ "id": 25,
+ "level": "B2",
+ "title": "Conectores y redacción profesional (however, therefore)",
+ "goal": "Al terminar podrás unir ideas con el conector correcto para añadir, contrastar, dar causas, resultados y secuencias; puntuar however y therefore sin errores, y escribir en 15 minutos un correo profesional completo, claro y cortés, como lo haría un ingeniero nativo.",
+ "lesson": [
+  {
+   "title": "Los conectores: señales de tránsito",
+   "html": "<p>Los conectores son las <b>señales de tránsito</b> de un texto: le dicen al lector hacia dónde va la próxima idea. <span class=\"en\">However</span> avisa \"viene un giro\", <span class=\"en\">therefore</span> avisa \"viene la consecuencia\". Sin ellos, un correo es una lista de datos sueltos; con el conector equivocado, el lector entiende lo contrario de lo que querías decir.</p><p>El español escrito tolera oraciones largas unidas con comas y con \"y\". El inglés profesional prefiere <b>oraciones cortas</b>, <b>una idea por oración</b>, y un conector preciso al inicio de cada oración. Por eso un correo traducido palabra por palabra del español se siente pesado y confuso para un lector nativo, aunque cada palabra esté bien.</p>",
+   "svg": "<svg viewBox=\"0 0 640 326\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"10\" y=\"16\" width=\"116\" height=\"62\" rx=\"10\" fill=\"#0E9384\"/>\n  <text x=\"68\" y=\"42\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">ADD</text>\n  <text x=\"68\" y=\"63\" text-anchor=\"middle\" font-size=\"12\" fill=\"#E6F7F5\">Añadir</text>\n  <rect x=\"10\" y=\"86\" width=\"116\" height=\"196\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"1.5\"/>\n  <text x=\"68\" y=\"112\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">and</text>\n  <text x=\"68\" y=\"136\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">also</text>\n  <text x=\"68\" y=\"160\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">as well as</text>\n  <text x=\"68\" y=\"184\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">besides</text>\n  <text x=\"68\" y=\"208\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"800\" fill=\"#1D2939\">in addition</text>\n  <text x=\"68\" y=\"232\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"800\" fill=\"#1D2939\">moreover</text>\n  <text x=\"68\" y=\"256\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"800\" fill=\"#1D2939\">furthermore</text>\n\n  <rect x=\"136\" y=\"16\" width=\"116\" height=\"62\" rx=\"10\" fill=\"#E8590C\"/>\n  <text x=\"194\" y=\"42\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">CONTRAST</text>\n  <text x=\"194\" y=\"63\" text-anchor=\"middle\" font-size=\"12\" fill=\"#FFF2E8\">Contrastar</text>\n  <rect x=\"136\" y=\"86\" width=\"116\" height=\"196\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"1.5\"/>\n  <text x=\"194\" y=\"112\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">but</text>\n  <text x=\"194\" y=\"136\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">although</text>\n  <text x=\"194\" y=\"160\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">even though</text>\n  <text x=\"194\" y=\"184\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">despite</text>\n  <text x=\"194\" y=\"208\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"800\" fill=\"#1D2939\">however</text>\n  <text x=\"194\" y=\"232\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"800\" fill=\"#1D2939\">whereas</text>\n  <text x=\"194\" y=\"256\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"800\" fill=\"#1D2939\">nevertheless</text>\n\n  <rect x=\"262\" y=\"16\" width=\"116\" height=\"62\" rx=\"10\" fill=\"#6941C6\"/>\n  <text x=\"320\" y=\"42\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">CAUSE</text>\n  <text x=\"320\" y=\"63\" text-anchor=\"middle\" font-size=\"12\" fill=\"#F2EEFC\">Causa</text>\n  <rect x=\"262\" y=\"86\" width=\"116\" height=\"196\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"1.5\"/>\n  <text x=\"320\" y=\"112\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">because</text>\n  <text x=\"320\" y=\"136\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">since</text>\n  <text x=\"320\" y=\"160\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">as</text>\n  <text x=\"320\" y=\"184\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">because of</text>\n  <text x=\"320\" y=\"208\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"800\" fill=\"#1D2939\">due to</text>\n  <text x=\"320\" y=\"232\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"800\" fill=\"#1D2939\">owing to</text>\n\n  <rect x=\"388\" y=\"16\" width=\"116\" height=\"62\" rx=\"10\" fill=\"#1570EF\"/>\n  <text x=\"446\" y=\"42\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">RESULT</text>\n  <text x=\"446\" y=\"63\" text-anchor=\"middle\" font-size=\"12\" fill=\"#EAF2FF\">Resultado</text>\n  <rect x=\"388\" y=\"86\" width=\"116\" height=\"196\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"1.5\"/>\n  <text x=\"446\" y=\"112\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">so</text>\n  <text x=\"446\" y=\"136\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">which means</text>\n  <text x=\"446\" y=\"160\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"800\" fill=\"#1D2939\">therefore</text>\n  <text x=\"446\" y=\"184\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"800\" fill=\"#1D2939\">as a result</text>\n  <text x=\"446\" y=\"208\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"800\" fill=\"#1D2939\">consequently</text>\n  <text x=\"446\" y=\"232\" text-anchor=\"middle\" font-size=\"12.5\" font-weight=\"800\" fill=\"#1D2939\">thus</text>\n\n  <rect x=\"514\" y=\"16\" width=\"116\" height=\"62\" rx=\"10\" fill=\"#079455\"/>\n  <text x=\"572\" y=\"42\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">SEQUENCE</text>\n  <text x=\"572\" y=\"63\" text-anchor=\"middle\" font-size=\"12\" fill=\"#E8F7EF\">Secuencia</text>\n  <rect x=\"514\" y=\"86\" width=\"116\" height=\"196\" rx=\"10\" fill=\"#E8F7EF\" stroke=\"#079455\" stroke-width=\"1.5\"/>\n  <text x=\"572\" y=\"112\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">first</text>\n  <text x=\"572\" y=\"136\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">then</text>\n  <text x=\"572\" y=\"160\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">after that</text>\n  <text x=\"572\" y=\"184\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">once</text>\n  <text x=\"572\" y=\"208\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">as soon as</text>\n  <text x=\"572\" y=\"232\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">meanwhile</text>\n  <text x=\"572\" y=\"256\" text-anchor=\"middle\" font-size=\"12.5\" fill=\"#1D2939\">finally</text>\n\n  <text x=\"320\" y=\"310\" text-anchor=\"middle\" font-size=\"12\" fill=\"#667085\"><tspan font-weight=\"800\" fill=\"#1D2939\">Negrita</tspan> = tono formal (correos, reportes) · Normal = neutro, sirve también al hablar</text>\n</svg>",
+   "caption": "Figura 25.1 — Mapa de conectores por función. Antes de escribir, decide la relación (columna); luego elige el registro (negrita = formal)."
+  },
+  {
+   "title": "Cuatro tipos de conector",
+   "html": "<p>El error más caro no es elegir mal el significado, sino la <b>gramática</b> del conector. Hay cuatro familias y cada una exige algo distinto después:</p><table>\n<thead><tr><th>Tipo</th><th>Ejemplos</th><th>Qué va después</th><th>Puntuación</th><th>Ejemplo</th></tr></thead>\n<tbody>\n<tr><td><b>Conjunción</b></td><td><span class=\"en\">and, but, so, or, yet</span></td><td>Oración completa</td><td>Coma antes (en oraciones largas)</td><td><span class=\"en\">The test passed, but the report is late.</span></td></tr>\n<tr><td><b>Subordinante</b></td><td><span class=\"en\">although, because, since, while, whereas, as soon as</span></td><td>Oración (sujeto + verbo)</td><td>Coma si va al inicio (<i>whereas</i>: coma siempre)</td><td><span class=\"en\">Although it rained, we finished.</span></td></tr>\n<tr><td><b>Adverbio conector</b></td><td><span class=\"en\">however, therefore, moreover, as a result, in addition</span></td><td>Oración nueva</td><td>Punto o punto y coma antes; coma después</td><td><span class=\"en\">The test passed. However, the report is late.</span></td></tr>\n<tr><td><b>Preposición</b></td><td><span class=\"en\">despite, in spite of, because of, due to, owing to</span></td><td>Sustantivo o verbo en -ing</td><td>Coma si va al inicio</td><td><span class=\"en\">Despite the rain, we finished.</span></td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 372\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"28\" font-size=\"12\" font-weight=\"800\" fill=\"#1570EF\">1 · CONJUNCIÓN (and, but, so)</text>\n  <text x=\"620\" y=\"28\" text-anchor=\"end\" font-size=\"11.5\" fill=\"#667085\">coma + conjunción + oración</text>\n  <rect x=\"20\" y=\"38\" width=\"150\" height=\"34\" rx=\"7\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"95\" y=\"60\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">The test passed</text>\n  <rect x=\"178\" y=\"38\" width=\"64\" height=\"34\" rx=\"7\" fill=\"#E8590C\"/><text x=\"210\" y=\"60\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">, but</text>\n  <rect x=\"250\" y=\"38\" width=\"176\" height=\"34\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"338\" y=\"60\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">the report is late.</text>\n\n  <text x=\"20\" y=\"100\" font-size=\"12\" font-weight=\"800\" fill=\"#1570EF\">2 · SUBORDINANTE (although, because, since)</text>\n  <text x=\"620\" y=\"100\" text-anchor=\"end\" font-size=\"11.5\" fill=\"#667085\">coma solo si va al inicio</text>\n  <rect x=\"20\" y=\"110\" width=\"96\" height=\"34\" rx=\"7\" fill=\"#E8590C\"/><text x=\"68\" y=\"132\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">Although</text>\n  <rect x=\"124\" y=\"110\" width=\"110\" height=\"34\" rx=\"7\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"179\" y=\"132\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">it rained,</text>\n  <rect x=\"242\" y=\"110\" width=\"200\" height=\"34\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"342\" y=\"132\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">we finished the welds.</text>\n\n  <text x=\"20\" y=\"172\" font-size=\"12\" font-weight=\"800\" fill=\"#1570EF\">3 · ADVERBIO CONECTOR (however, therefore)</text>\n  <text x=\"620\" y=\"172\" text-anchor=\"end\" font-size=\"11.5\" fill=\"#667085\">punto (o ;) antes · coma después</text>\n  <rect x=\"20\" y=\"182\" width=\"150\" height=\"34\" rx=\"7\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"95\" y=\"204\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">The test passed</text>\n  <rect x=\"178\" y=\"182\" width=\"104\" height=\"34\" rx=\"7\" fill=\"#E8590C\"/><text x=\"230\" y=\"204\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">. However,</text>\n  <rect x=\"290\" y=\"182\" width=\"176\" height=\"34\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"378\" y=\"204\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">the report is late.</text>\n\n  <text x=\"20\" y=\"244\" font-size=\"12\" font-weight=\"800\" fill=\"#1570EF\">4 · PREPOSICIÓN (despite, due to, because of)</text>\n  <text x=\"620\" y=\"244\" text-anchor=\"end\" font-size=\"11.5\" fill=\"#667085\">+ sustantivo o -ing, nunca oración</text>\n  <rect x=\"20\" y=\"254\" width=\"90\" height=\"34\" rx=\"7\" fill=\"#E8590C\"/><text x=\"65\" y=\"276\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">Despite</text>\n  <rect x=\"118\" y=\"254\" width=\"100\" height=\"34\" rx=\"7\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"168\" y=\"276\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">the rain,</text>\n  <rect x=\"226\" y=\"254\" width=\"200\" height=\"34\" rx=\"7\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"326\" y=\"276\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">we finished the welds.</text>\n\n  <text x=\"20\" y=\"318\" font-size=\"12\" font-weight=\"800\" fill=\"#D92D20\">ERROR TÍPICO: unir dos oraciones con coma + however</text>\n  <rect x=\"20\" y=\"328\" width=\"400\" height=\"34\" rx=\"7\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/>\n  <text x=\"220\" y=\"350\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#D92D20\">The test passed, however the report is late.</text>\n  <line x1=\"36\" y1=\"345\" x2=\"404\" y2=\"345\" stroke=\"#D92D20\" stroke-width=\"1.5\"/>\n  <text x=\"436\" y=\"341\" font-size=\"11.5\" fill=\"#667085\">Corrige con punto</text>\n  <text x=\"436\" y=\"357\" font-size=\"11.5\" fill=\"#667085\">o punto y coma (;)</text>\n</svg>",
+   "caption": "Figura 25.2 — Cuatro patrones de puntuación. El bloque naranja es el conector; observa dónde van el punto y la coma."
+  },
+  {
+   "title": "Las tres reglas de oro",
+   "html": "<p><b>Regla de oro 1 — However y therefore no unen oraciones con coma</b></p><p>Son adverbios, no conjunciones. Necesitan punto o punto y coma <b>antes</b>, y coma <b>después</b>.</p><p><span class=\"ok\">The weld was rejected. However, we repaired it the same day.</span><br/><span class=\"ok\">The weld was rejected; however, we repaired it the same day.</span><br/>Nunca <span class=\"wrong\">The weld was rejected, however we repaired it.</span></p><p><b>Regla de oro 2 — Oración o sustantivo: mira qué viene después</b></p><ul>\n<li>Oración (sujeto + verbo) → <span class=\"en\">because, although, even though</span>: <span class=\"en\">because the truck broke down</span>.</li>\n<li>Sustantivo o -ing → <span class=\"en\">because of, due to, despite, in spite of</span>: <span class=\"en\">because of the breakdown</span>, <span class=\"en\">despite working late</span>.</li>\n</ul><p><b>Regla de oro 3 — Una relación, un conector</b></p><p>En español se dice \"aunque…, pero…\" o \"como…, entonces…\". En inglés cada relación lleva <b>un solo</b> conector.</p><p><span class=\"ok\">Although the tank is old, it is safe.</span>   Nunca <span class=\"wrong\">Although the tank is old, but it is safe.</span><br/><span class=\"ok\">Because it rained, we stopped.</span>   Nunca <span class=\"wrong\">Because it rained, so we stopped.</span></p>"
+  },
+  {
+   "title": "Así piensa un nativo",
+   "html": "<p><b>Así piensa un nativo — primero la idea, luego el conector como señal</b></p><p>Un lector profesional en inglés lee rápido y espera la <b>idea principal al inicio</b> (los estadounidenses lo llaman <i>bottom line up front</i>). Cada oración siguiente empieza con un conector que anuncia su función: <span class=\"en\">As a result, …</span> <span class=\"en\">However, …</span> <span class=\"en\">In addition, …</span>. Al hablar, el nativo usa los conectores cortos (<span class=\"en\">so, but, also</span>) y pone <span class=\"en\">though</span> al final: <span class=\"en\">It's expensive. It works well, though.</span> <span class=\"pron\">its ek-SPÉN-siv. it werks WEL, dhou</span></p>"
+  },
+  {
+   "title": "Traducción directa vs inglés real",
+   "html": "<p><b>Cómo lo escribiríamos en español</b><br>La bomba se detuvo y la revisamos y el sello estaba dañado y no teníamos repuesto, así que pedimos uno que llega mañana, por lo que la línea sigue parada.</p><p><b>Cómo lo escribe un nativo</b><br><span class=\"en\">The pump stopped at 10:30 a.m. During the inspection, we found a damaged mechanical seal. Since we did not have a spare on site, we ordered one from Houston. As a result, the line will remain down until the part arrives tomorrow.</span></p><table>\n<thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead>\n<tbody>\n<tr><td>Sin embargo, …</td><td><span class=\"wrong\">Without embargo, …</span></td><td><span class=\"ok\">However, …</span></td></tr>\n<tr><td>A pesar de que llovió, …</td><td><span class=\"wrong\">Despite that it rained, …</span></td><td><span class=\"ok\">Although it rained, … / Despite the rain, …</span></td></tr>\n<tr><td>Debido a que se malogró el camión, …</td><td><span class=\"wrong\">Due to the truck broke down, …</span></td><td><span class=\"ok\">Because the truck broke down, …</span></td></tr>\n<tr><td>Por otro lado, …</td><td><span class=\"wrong\">By the other side, …</span></td><td><span class=\"ok\">On the other hand, …</span></td></tr>\n<tr><td>En cambio, el modelo nuevo…</td><td><span class=\"wrong\">In change, the new model…</span></td><td><span class=\"ok\">By contrast, the new model… / …, whereas the new model…</span></td></tr>\n<tr><td>Al final elegimos la opción B.</td><td><span class=\"wrong\">At the end we chose option B.</span></td><td><span class=\"ok\">In the end, we chose option B.</span></td></tr>\n<tr><td>Actualmente trabajo en Chile.</td><td><span class=\"wrong\">Actually I work in Chile.</span></td><td><span class=\"ok\">Currently, I work in Chile.</span></td></tr>\n<tr><td>Adjunto el informe.</td><td><span class=\"wrong\">I attach you the report.</span></td><td><span class=\"ok\">Please find the report attached. / I have attached the report.</span></td></tr>\n<tr><td>Quedo atento a sus comentarios.</td><td><span class=\"wrong\">I stay attentive to your comments.</span></td><td><span class=\"ok\">I look forward to your comments.</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Afirmativo, negativo y pregunta",
+   "html": "<p>El conector <b>no cambia</b> la gramática del verbo: cada oración se niega y se pregunta con su auxiliar normal (Módulos 3–13). Lo que cambia es el sentido, así que revisa que la lógica siga teniendo sentido.</p><table>\n<thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead>\n<tbody>\n<tr><td><b>Afirmativo</b></td><td>Oración + conector + oración</td><td><span class=\"en\">We replaced the valve because it was leaking.</span></td></tr>\n<tr><td><b>Negativo</b></td><td>Se niega el verbo de la oración que corresponde</td><td><span class=\"en\">We didn't replace the valve because it wasn't leaking.</span></td></tr>\n<tr><td><b>Pregunta</b></td><td>Auxiliar + sujeto + verbo + conector + oración</td><td><span class=\"en\">Did you replace the valve because it was leaking?</span></td></tr>\n<tr><td><b>Respuesta corta</b></td><td>Yes / No + sujeto + auxiliar</td><td><span class=\"en\">Yes, we did. / No, we didn't.</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<p><b>Detalles que marcan la diferencia</b></p><ul>\n<li><span class=\"en\">However</span> puede ir al inicio (lo más claro), en medio entre comas (<span class=\"en\">The price, however, is high.</span>) o al final (<span class=\"en\">The price is high, however.</span>).</li>\n<li><span class=\"en\">Since</span> y <span class=\"en\">while</span> tienen dos sentidos: <span class=\"en\">since</span> = desde / ya que; <span class=\"en\">while</span> = mientras / mientras que. El contexto decide.</li>\n<li><span class=\"en\">So</span> = por eso (resultado). <span class=\"en\">So that</span> = para que (propósito): <span class=\"en\">We added screens so that the wind doesn't affect the welds.</span></li>\n<li><span class=\"en\">Due to</span> es más formal que <span class=\"en\">because of</span> y queda muy natural después de <i>be</i>: <span class=\"en\">The delay was due to the rain.</span></li>\n<li>Al responder una pregunta con <i>Why?</i> se puede decir <span class=\"en\">Because it rained.</span>, pero en un correo escribe la oración completa: <span class=\"en\">We stopped because it rained.</span></li>\n</ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "In addition, …",
+   "pron": "in ə-DÍ-shən",
+   "es": "Además, … (formal; inicio de oración)",
+   "group": "A. Añadir información"
+  },
+  {
+   "en": "Moreover, …",
+   "pron": "mor-ÓU-ver",
+   "es": "Además, es más… (formal; añade un argumento más fuerte)",
+   "group": "A. Añadir información"
+  },
+  {
+   "en": "Furthermore, …",
+   "pron": "FÉR-dher-mor",
+   "es": "Asimismo, además (muy formal; reportes)",
+   "group": "A. Añadir información"
+  },
+  {
+   "en": "… also …",
+   "pron": "ÓL-sou",
+   "es": "también (antes del verbo principal: We also need…)",
+   "group": "A. Añadir información"
+  },
+  {
+   "en": "… as well as …",
+   "pron": "əz WEL əz",
+   "es": "así como, además de (+ sustantivo)",
+   "group": "A. Añadir información"
+  },
+  {
+   "en": "Besides, …",
+   "pron": "bi-SÁIDZ",
+   "es": "Además, aparte de eso (neutro, conversación)",
+   "group": "A. Añadir información"
+  },
+  {
+   "en": "not only … but also …",
+   "pron": "not ÓUN-li … bət ÓL-sou",
+   "es": "no solo … sino también …",
+   "group": "A. Añadir información"
+  },
+  {
+   "en": "However, …",
+   "pron": "jau-É-ver",
+   "es": "Sin embargo, … (adverbio: punto antes, coma después)",
+   "group": "B. Contrastar ideas"
+  },
+  {
+   "en": "Although + oración",
+   "pron": "ol-DHÓU",
+   "es": "Aunque … (subordinante)",
+   "group": "B. Contrastar ideas"
+  },
+  {
+   "en": "Even though + oración",
+   "pron": "Í-ven dhou",
+   "es": "Aun cuando, a pesar de que (más enfático que although)",
+   "group": "B. Contrastar ideas"
+  },
+  {
+   "en": "Despite / In spite of + sustantivo",
+   "pron": "dis-PÁIT / in SPÁIT əv",
+   "es": "A pesar de … (nunca despite of)",
+   "group": "B. Contrastar ideas"
+  },
+  {
+   "en": "…, whereas …",
+   "pron": "wer-ÁZ",
+   "es": "…, mientras que … (compara dos datos)",
+   "group": "B. Contrastar ideas"
+  },
+  {
+   "en": "While + oración",
+   "pron": "wail",
+   "es": "Mientras que / si bien (contraste o tiempo)",
+   "group": "B. Contrastar ideas"
+  },
+  {
+   "en": "On the other hand, …",
+   "pron": "on dhi Á-dher JAND",
+   "es": "Por otro lado, … (presenta la otra cara)",
+   "group": "B. Contrastar ideas"
+  },
+  {
+   "en": "Nevertheless, …",
+   "pron": "ne-ver-dhə-LÉS",
+   "es": "No obstante, aun así (muy formal)",
+   "group": "B. Contrastar ideas"
+  },
+  {
+   "en": "…, though.",
+   "pron": "dhou",
+   "es": "…, eso sí / aunque (al final; hablado)",
+   "group": "B. Contrastar ideas"
+  },
+  {
+   "en": "because + oración",
+   "pron": "bi-KÓZ",
+   "es": "porque",
+   "group": "C. Dar la causa"
+  },
+  {
+   "en": "because of + sustantivo",
+   "pron": "bi-KÓZ əv",
+   "es": "por, a causa de (neutro)",
+   "group": "C. Dar la causa"
+  },
+  {
+   "en": "due to + sustantivo",
+   "pron": "DU tu",
+   "es": "debido a (formal)",
+   "group": "C. Dar la causa"
+  },
+  {
+   "en": "Since + oración, …",
+   "pron": "sins",
+   "es": "Ya que, como (causa conocida por el lector)",
+   "group": "C. Dar la causa"
+  },
+  {
+   "en": "As + oración, …",
+   "pron": "az",
+   "es": "Como, dado que (neutro, escrito)",
+   "group": "C. Dar la causa"
+  },
+  {
+   "en": "owing to + sustantivo",
+   "pron": "ÓU-ing tu",
+   "es": "debido a, a raíz de (muy formal)",
+   "group": "C. Dar la causa"
+  },
+  {
+   "en": "Therefore, …",
+   "pron": "DHÉR-for",
+   "es": "Por lo tanto, … (formal)",
+   "group": "D. Expresar el resultado"
+  },
+  {
+   "en": "As a result, …",
+   "pron": "az ə ri-ZÁLT",
+   "es": "Como resultado, … (neutro-formal; muy útil en reportes)",
+   "group": "D. Expresar el resultado"
+  },
+  {
+   "en": "Consequently, …",
+   "pron": "KÓN-sə-kwent-li",
+   "es": "En consecuencia, … (formal)",
+   "group": "D. Expresar el resultado"
+  },
+  {
+   "en": "…, so …",
+   "pron": "sou",
+   "es": "…, así que / por eso (neutro, hablado y escrito)",
+   "group": "D. Expresar el resultado"
+  },
+  {
+   "en": "Thus, …",
+   "pron": "dhas",
+   "es": "Así, de este modo (muy formal; técnico)",
+   "group": "D. Expresar el resultado"
+  },
+  {
+   "en": "…, which means (that) …",
+   "pron": "wich MINZ dhat",
+   "es": "…, lo que significa que … (explica la consecuencia)",
+   "group": "D. Expresar el resultado"
+  },
+  {
+   "en": "First of all, …",
+   "pron": "FERST əv OL",
+   "es": "En primer lugar, …",
+   "group": "E. Ordenar en secuencia y tiempo"
+  },
+  {
+   "en": "Then, …",
+   "pron": "dhen",
+   "es": "Luego, …",
+   "group": "E. Ordenar en secuencia y tiempo"
+  },
+  {
+   "en": "After that, …",
+   "pron": "ÁF-ter dhat",
+   "es": "Después de eso, …",
+   "group": "E. Ordenar en secuencia y tiempo"
+  },
+  {
+   "en": "Meanwhile, …",
+   "pron": "MÍN-wail",
+   "es": "Mientras tanto, …",
+   "group": "E. Ordenar en secuencia y tiempo"
+  },
+  {
+   "en": "Once + oración, …",
+   "pron": "wans",
+   "es": "Una vez que … (verbo en presente)",
+   "group": "E. Ordenar en secuencia y tiempo"
+  },
+  {
+   "en": "As soon as + oración, …",
+   "pron": "az SUN az",
+   "es": "En cuanto, apenas … (verbo en presente)",
+   "group": "E. Ordenar en secuencia y tiempo"
+  },
+  {
+   "en": "Finally, …",
+   "pron": "FÁI-nə-li",
+   "es": "Por último, finalmente, …",
+   "group": "E. Ordenar en secuencia y tiempo"
+  },
+  {
+   "en": "For example, …",
+   "pron": "for ig-ZÁM-pəl",
+   "es": "Por ejemplo, … (inicio de oración)",
+   "group": "F. Ejemplificar, aclarar y resumir"
+  },
+  {
+   "en": "…, such as …",
+   "pron": "SACH az",
+   "es": "…, como … (+ lista de sustantivos)",
+   "group": "F. Ejemplificar, aclarar y resumir"
+  },
+  {
+   "en": "In other words, …",
+   "pron": "in Á-dher WERDZ",
+   "es": "En otras palabras, …",
+   "group": "F. Ejemplificar, aclarar y resumir"
+  },
+  {
+   "en": "In particular, …",
+   "pron": "in per-TÍ-kiu-ler",
+   "es": "En particular, …",
+   "group": "F. Ejemplificar, aclarar y resumir"
+  },
+  {
+   "en": "Overall, …",
+   "pron": "ou-ver-ÓL",
+   "es": "En general, en conjunto, …",
+   "group": "F. Ejemplificar, aclarar y resumir"
+  },
+  {
+   "en": "To sum up, …",
+   "pron": "tə sam ÁP",
+   "es": "En resumen, …",
+   "group": "F. Ejemplificar, aclarar y resumir"
+  },
+  {
+   "en": "I am writing to inform you that…",
+   "pron": "ai am RÁI-ting tu in-FÓRM yu dhat",
+   "es": "Le escribo para informarle que… (abre el correo)",
+   "group": "G. Fórmulas de correo profesional"
+  },
+  {
+   "en": "Following up on my last email, …",
+   "pron": "FÓ-lou-ing ÁP on",
+   "es": "En seguimiento a mi último correo, …",
+   "group": "G. Fórmulas de correo profesional"
+  },
+  {
+   "en": "Please find attached…",
+   "pron": "pliz faind ə-TÁCHT",
+   "es": "Adjunto encontrará…",
+   "group": "G. Fórmulas de correo profesional"
+  },
+  {
+   "en": "Could you please…?",
+   "pron": "kud yu PLIZ",
+   "es": "¿Podría por favor…? (pedido cortés)",
+   "group": "G. Fórmulas de correo profesional"
+  },
+  {
+   "en": "I would appreciate it if you could…",
+   "pron": "ai wud ə-PRÍ-shi-eit it if yu kud",
+   "es": "Le agradecería si pudiera… (más formal)",
+   "group": "G. Fórmulas de correo profesional"
+  },
+  {
+   "en": "Please let me know if you have any questions.",
+   "pron": "pliz let mi NOU if yu jav eni KWÉS-chənz",
+   "es": "Quedo a su disposición para cualquier consulta.",
+   "group": "G. Fórmulas de correo profesional"
+  },
+  {
+   "en": "Thank you for your prompt reply.",
+   "pron": "THÁNK yu for yor prompt ri-PLÁI",
+   "es": "Gracias por su pronta respuesta.",
+   "group": "G. Fórmulas de correo profesional"
+  },
+  {
+   "en": "I apologize for the delay in replying.",
+   "pron": "ai ə-PÓ-lə-yaiz for dhə di-LÉI in ri-PLÁI-ing",
+   "es": "Disculpe la demora en responder.",
+   "group": "G. Fórmulas de correo profesional"
+  },
+  {
+   "en": "I look forward to hearing from you.",
+   "pron": "ai luk FÓR-werd tu JÍ-ring frəm yu",
+   "es": "Quedo atento a su respuesta. (to + -ing)",
+   "group": "G. Fórmulas de correo profesional"
+  },
+  {
+   "en": "Best regards,",
+   "pron": "best ri-GÁRDZ",
+   "es": "Saludos cordiales, (cierre estándar)",
+   "group": "G. Fórmulas de correo profesional"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The hydrotest passed. However, we found a small leak at one flange.",
+   "es": "La prueba hidrostática pasó. Sin embargo, encontramos una pequeña fuga en una brida.",
+   "situation": "Reporte de obra"
+  },
+  {
+   "en": "We need the valves by Friday; therefore, please confirm the shipping date today.",
+   "es": "Necesitamos las válvulas para el viernes; por lo tanto, confirme hoy la fecha de envío, por favor.",
+   "situation": "Correo a proveedor"
+  },
+  {
+   "en": "Although the new design costs more, it reduces maintenance.",
+   "es": "Aunque el nuevo diseño cuesta más, reduce el mantenimiento.",
+   "situation": "Reunión de diseño"
+  },
+  {
+   "en": "Work was suspended due to high winds.",
+   "es": "El trabajo se suspendió debido a los fuertes vientos.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "In addition to the steel, the quote includes painting and transport.",
+   "es": "Además del acero, la cotización incluye pintura y transporte.",
+   "situation": "Presupuesto"
+  },
+  {
+   "en": "Since it was raining, we stayed home and watched a movie.",
+   "es": "Como estaba lloviendo, nos quedamos en casa y vimos una película.",
+   "situation": "Vida diaria"
+  },
+  {
+   "en": "I can't use my card abroad because of a security block.",
+   "es": "No puedo usar mi tarjeta en el extranjero por un bloqueo de seguridad.",
+   "situation": "Banco"
+  },
+  {
+   "en": "Sales increased by 12%; as a result, we hired three new technicians.",
+   "es": "Las ventas subieron un 12 %; como resultado, contratamos a tres técnicos nuevos.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "Despite the traffic, Ana arrived at the party on time.",
+   "es": "A pesar del tráfico, Ana llegó a la fiesta a tiempo.",
+   "situation": "Social"
+  },
+  {
+   "en": "Carbon steel is cheaper, whereas stainless steel resists corrosion better.",
+   "es": "El acero al carbono es más barato, mientras que el inoxidable resiste mejor la corrosión.",
+   "situation": "Comparación técnica"
+  },
+  {
+   "en": "First, clean the bevel. Then, check the fit-up. Finally, start the root pass.",
+   "es": "Primero, limpia el bisel. Luego, revisa el armado. Por último, empieza el pase de raíz.",
+   "situation": "Procedimiento"
+  },
+  {
+   "en": "Even though I feel better, the doctor says I should finish the antibiotics.",
+   "es": "Aunque me siento mejor, el médico dice que debo terminar los antibióticos.",
+   "situation": "Médico"
+  },
+  {
+   "en": "Our flight was canceled; consequently, we missed the meeting in Houston.",
+   "es": "Cancelaron nuestro vuelo; en consecuencia, perdimos la reunión en Houston.",
+   "situation": "Viaje"
+  },
+  {
+   "en": "Following up on my email from Monday, could you send the updated drawings?",
+   "es": "En seguimiento a mi correo del lunes, ¿podría enviar los planos actualizados?",
+   "situation": "Correo de seguimiento"
+  },
+  {
+   "en": "The food was great. The service was a bit slow, though.",
+   "es": "La comida estuvo excelente. Eso sí, el servicio fue un poco lento.",
+   "situation": "Restaurante"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "The pump failed because of the heat.",
+     "The pump didn't fail because of the heat.",
+     "Did the pump fail because of the heat?",
+     "Yes, it did. / No, it didn't."
+    ],
+    [
+     "She was late due to the traffic.",
+     "She wasn't late due to the traffic.",
+     "Was she late due to the traffic?",
+     "Yes, she was. / No, she wasn't."
+    ],
+    [
+     "They'll start as soon as the permit arrives.",
+     "They won't start until the permit arrives.",
+     "Will they start as soon as the permit arrives?",
+     "Yes, they will. / No, they won't."
+    ],
+    [
+     "We replaced the valve because it was leaking.",
+     "We didn't replace the valve because it wasn't leaking.",
+     "Did you replace the valve because it was leaking?",
+     "Yes, we did. / No, we didn't."
+    ],
+    [
+     "Mark has approved the drawings; therefore, we can order the steel.",
+     "Mark hasn't approved the drawings; therefore, we can't order the steel.",
+     "Has Mark approved the drawings?",
+     "Yes, he has. / No, he hasn't."
+    ],
+    [
+     "The crane is available, so we're lifting the roof today.",
+     "The crane isn't available, so we aren't lifting the roof today.",
+     "Are we lifting the roof today?",
+     "Yes, we are. / No, we aren't."
+    ],
+    [
+     "Ana sent the report after the meeting.",
+     "Ana didn't send the report after the meeting.",
+     "Did Ana send the report after the meeting?",
+     "Yes, she did. / No, she didn't."
+    ],
+    [
+     "We finished on time despite the rain.",
+     "We didn't finish on time despite the extra welders.",
+     "Did you finish on time despite the rain?",
+     "Yes, we did. / No, we didn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Edwin",
+   "text": "Sarah, do you have a minute? Could you check this email before I send it to the client?"
+  },
+  {
+   "who": "Sarah",
+   "text": "Sure. Let me see… It's clear, but this first sentence is too long. You use \"and\" five times."
+  },
+  {
+   "who": "Edwin",
+   "text": "You're right. I wrote it the way I would write it in Spanish."
+  },
+  {
+   "who": "Sarah",
+   "text": "Split it in two. End the first sentence after \"postponed,\" and then start the second one with \"As a result.\""
+  },
+  {
+   "who": "Edwin",
+   "text": "OK. And here, is \"however\" correct after a comma?"
+  },
+  {
+   "who": "Sarah",
+   "text": "Not really. Put a period or a semicolon before \"however\" and a comma after it."
+  },
+  {
+   "who": "Edwin",
+   "text": "Got it. What about \"despite of the rain\"?"
+  },
+  {
+   "who": "Sarah",
+   "text": "Just \"despite the rain,\" with no \"of.\" Or you can say \"in spite of the rain.\""
+  },
+  {
+   "who": "Edwin",
+   "text": "Thanks. Should I end with \"I stay attentive to your comments\"?"
+  },
+  {
+   "who": "Sarah",
+   "text": "No, that's a direct translation. Write \"I look forward to hearing from you\" or \"Please let me know if you have any questions.\""
+  },
+  {
+   "who": "Edwin",
+   "text": "Perfect. I'll fix it and send it before lunch."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "The test failed, however we repeated it.",
+   "right": "The test failed; however, we repeated it.",
+   "why": "However es adverbio: punto o punto y coma antes, coma después."
+  },
+  {
+   "wrong": "Despite of the rain, …",
+   "right": "Despite the rain, … / In spite of the rain, …",
+   "why": "Despite nunca lleva of; in spite siempre lo lleva."
+  },
+  {
+   "wrong": "Although it's old, but it works.",
+   "right": "Although it's old, it works.",
+   "why": "Un solo conector por relación."
+  },
+  {
+   "wrong": "We stopped because of it was late.",
+   "right": "We stopped because it was late.",
+   "why": "Because of va con sustantivo; con oración, solo because."
+  },
+  {
+   "wrong": "Due to the truck broke down, …",
+   "right": "Because the truck broke down, … / Due to a breakdown, …",
+   "why": "Due to es preposición: necesita sustantivo."
+  },
+  {
+   "wrong": "In the other hand, …",
+   "right": "On the other hand, …",
+   "why": "La expresión fija es on the other hand."
+  },
+  {
+   "wrong": "At the end, we chose option B.",
+   "right": "In the end, we chose option B.",
+   "why": "In the end = finalmente; at the end of = al final de algo (at the end of the month)."
+  },
+  {
+   "wrong": "Actually, I work in Chile. (= actualmente)",
+   "right": "Currently, I work in Chile.",
+   "why": "Actually = en realidad; actualmente = currently."
+  },
+  {
+   "wrong": "The valve was damaged, so that we replaced it.",
+   "right": "The valve was damaged, so we replaced it.",
+   "why": "So = resultado; so that = propósito (para que)."
+  },
+  {
+   "wrong": "I look forward to hear from you.",
+   "right": "I look forward to hearing from you.",
+   "why": "En look forward to, to es preposición: va -ing (Módulo 22)."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "Actually, …",
+   "looks": "actualmente",
+   "means": "en realidad, de hecho",
+   "fix": "Currently / At present, …"
+  },
+  {
+   "en": "Eventually, …",
+   "looks": "eventualmente (quizás)",
+   "means": "finalmente, con el tiempo",
+   "fix": "Possibly / Occasionally"
+  },
+  {
+   "en": "In effect, …",
+   "looks": "en efecto (sí, así es)",
+   "means": "en la práctica; vigente",
+   "fix": "Indeed / In fact, …"
+  },
+  {
+   "en": "attend a meeting",
+   "looks": "atender",
+   "means": "asistir a una reunión",
+   "fix": "deal with / handle (a request)"
+  },
+  {
+   "en": "resume",
+   "looks": "resumen",
+   "means": "reanudar (o currículum: résumé)",
+   "fix": "summary"
+  },
+  {
+   "en": "compromise",
+   "looks": "compromiso",
+   "means": "acuerdo con concesiones mutuas",
+   "fix": "commitment"
+  },
+  {
+   "en": "pretend",
+   "looks": "pretender",
+   "means": "fingir",
+   "fix": "intend / aim to"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Sin embargo, el cliente no aprobó el presupuesto.",
+    "answers": [
+     "However, the client did not approve the budget.",
+     "However, the client didn't approve the budget."
+    ],
+    "explain": "Sin embargo al inicio = However + coma. Registro formal: did not."
+   },
+   {
+    "prompt": "La prueba hidrostática se retrasó debido a la lluvia.",
+    "answers": [
+     "The hydrostatic test was delayed due to the rain.",
+     "The hydrostatic test was delayed because of the rain.",
+     "The hydrostatic test was delayed due to rain."
+    ],
+    "explain": "Pasiva (Módulo 20) + due to + sustantivo. También vale because of the rain."
+   },
+   {
+    "prompt": "Aunque el tanque es antiguo, el fondo está en buen estado.",
+    "answers": [
+     "Although the tank is old, the bottom is in good condition.",
+     "Even though the tank is old, the bottom is in good condition.",
+     "Although the tank is old, the floor is in good condition."
+    ],
+    "explain": "Although + oración, coma, oración principal. Sin but. También vale Even though."
+   },
+   {
+    "prompt": "La válvula tenía una fuga; por lo tanto, cerramos la línea.",
+    "answers": [
+     "The valve had a leak; therefore, we closed the line.",
+     "The valve was leaking; therefore, we closed the line.",
+     "The valve had a leak. Therefore, we closed the line.",
+     "The valve was leaking. Therefore, we closed the line."
+    ],
+    "explain": "Punto y coma antes de therefore, coma después. También vale The valve was leaking."
+   },
+   {
+    "prompt": "A pesar del calor, el equipo terminó la soldadura a tiempo.",
+    "answers": [
+     "Despite the heat, the team finished the welding on time.",
+     "In spite of the heat, the team finished the welding on time.",
+     "Despite the heat, the team finished welding on time."
+    ],
+    "explain": "Despite + sustantivo, sin of. También vale In spite of the heat."
+   },
+   {
+    "prompt": "Además, necesitamos dos soldadores más.",
+    "answers": [
+     "In addition, we need two more welders.",
+     "Moreover, we need two more welders.",
+     "Furthermore, we need two more welders."
+    ],
+    "explain": "Conector formal al inicio + coma. También vale Moreover o Furthermore. Orden: two more welders, no two welders more."
+   },
+   {
+    "prompt": "Adjunto encontrará el informe de inspección.",
+    "answers": [
+     "Please find attached the inspection report.",
+     "Please find the inspection report attached.",
+     "I have attached the inspection report."
+    ],
+    "explain": "Fórmula fija de correo. También vale Please find the inspection report attached o I have attached the inspection report."
+   },
+   {
+    "prompt": "Quedo atento a su respuesta.",
+    "answers": [
+     "I look forward to hearing from you."
+    ],
+    "explain": "Equivalente natural de \"quedo atento\"; to + -ing."
+   },
+   {
+    "prompt": "Primero revisamos los planos y luego visitamos la obra.",
+    "answers": [
+     "First, we reviewed the drawings, and then we visited the site.",
+     "First, we reviewed the drawings and then we visited the site.",
+     "First, we reviewed the drawings. Then, we visited the site.",
+     "First, we reviewed the drawings, and then visited the site.",
+     "First we reviewed the drawings and then we visited the site."
+    ],
+    "explain": "Secuencia con First y then. \"Obra\" (lugar) = the site."
+   },
+   {
+    "prompt": "Como el material no llegó, no pudimos empezar.",
+    "answers": [
+     "Since the material did not arrive, we could not start.",
+     "As the material did not arrive, we could not start.",
+     "Because the material did not arrive, we could not start.",
+     "Since the material didn't arrive, we couldn't start.",
+     "As the material didn't arrive, we couldn't start.",
+     "Because the material didn't arrive, we couldn't start."
+    ],
+    "explain": "\"Como\" causal = Since o As, nunca Like. También vale Because the material…"
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "The crane was not available; as a result, the lift was postponed until Monday.",
+    "answers": [
+     "La grúa no estaba disponible; como resultado, el izaje se postergó hasta el lunes.",
+     "La grúa no estaba disponible; en consecuencia, el izaje se postergó hasta el lunes.",
+     "La grúa no estaba disponible; como resultado, el izaje se pospuso hasta el lunes.",
+     "La grúa no estaba disponible, por lo que el izaje se postergó hasta el lunes."
+    ],
+    "explain": "As a result = como resultado / en consecuencia. Lift = izaje."
+   },
+   {
+    "prompt": "Whereas the old pump used 15 kW, the new one uses only 9 kW.",
+    "answers": [
+     "Mientras que la bomba antigua consumía 15 kW, la nueva consume solo 9 kW.",
+     "Mientras que la bomba vieja consumía 15 kW, la nueva consume solo 9 kW.",
+     "Mientras la bomba antigua usaba 15 kW, la nueva usa solo 9 kW."
+    ],
+    "explain": "Whereas compara dos datos = mientras que. Use con energía = consumir."
+   },
+   {
+    "prompt": "Could you please confirm the delivery date by Friday?",
+    "answers": [
+     "¿Podría confirmar la fecha de entrega a más tardar el viernes, por favor?",
+     "¿Podría confirmar, por favor, la fecha de entrega a más tardar el viernes?",
+     "¿Podría por favor confirmar la fecha de entrega antes del viernes?"
+    ],
+    "explain": "Could you please = pedido cortés. By Friday = a más tardar el viernes, no \"por el viernes\"."
+   },
+   {
+    "prompt": "Even though we followed the procedure, the weld failed the X-ray test.",
+    "answers": [
+     "Aunque seguimos el procedimiento, la soldadura no pasó la radiografía.",
+     "Aun cuando seguimos el procedimiento, la soldadura no pasó la radiografía.",
+     "A pesar de que seguimos el procedimiento, la soldadura no pasó la prueba de rayos X."
+    ],
+    "explain": "Even though = aunque (enfático). Fail a test = no pasar / reprobar una prueba."
+   },
+   {
+    "prompt": "Actually, the meeting is tomorrow, not today.",
+    "answers": [
+     "En realidad, la reunión es mañana, no hoy.",
+     "De hecho, la reunión es mañana, no hoy."
+    ],
+    "explain": "Actually = en realidad (corrige un dato). No significa \"actualmente\"."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "Despite of the delay, we finished the project on budget.",
+    "answers": [
+     "Despite the delay, we finished the project on budget.",
+     "In spite of the delay, we finished the project on budget."
+    ],
+    "explain": "Despite no lleva of (o bien In spite of the delay)."
+   },
+   {
+    "prompt": "The weld was rejected, however we repaired it the same day.",
+    "answers": [
+     "The weld was rejected; however, we repaired it the same day.",
+     "The weld was rejected. However, we repaired it the same day."
+    ],
+    "explain": "Comma splice: however necesita punto o punto y coma antes y coma después."
+   },
+   {
+    "prompt": "Although the client was happy, but he asked for a discount.",
+    "answers": [
+     "Although the client was happy, he asked for a discount."
+    ],
+    "explain": "Sobra but: un solo conector de contraste."
+   },
+   {
+    "prompt": "We stopped the work because of it was raining.",
+    "answers": [
+     "We stopped the work because it was raining."
+    ],
+    "explain": "Con oración se usa because, no because of."
+   },
+   {
+    "prompt": "In the other hand, the new design is cheaper.",
+    "answers": [
+     "On the other hand, the new design is cheaper."
+    ],
+    "explain": "La expresión fija es on the other hand."
+   },
+   {
+    "prompt": "Due to the pump failed, the whole line stopped.",
+    "answers": [
+     "Because the pump failed, the whole line stopped.",
+     "Due to the pump failure, the whole line stopped."
+    ],
+    "explain": "Due to no va con oración. También vale Due to the pump failure, …"
+   },
+   {
+    "prompt": "I look forward to hear from you soon.",
+    "answers": [
+     "I look forward to hearing from you soon."
+    ],
+    "explain": "Look forward to + -ing."
+   },
+   {
+    "prompt": "Moreover the tank is old, it is still in service.",
+    "answers": [
+     "Although the tank is old, it is still in service.",
+     "Even though the tank is old, it is still in service.",
+     "Although the tank is old, it's still in service.",
+     "Even though the tank is old, it's still in service."
+    ],
+    "explain": "Moreover añade; aquí hay contraste → Although (o Even though)."
+   },
+   {
+    "prompt": "The valve was damaged, so that we replaced it.",
+    "answers": [
+     "The valve was damaged, so we replaced it."
+    ],
+    "explain": "So that expresa propósito; para resultado, solo so."
+   },
+   {
+    "prompt": "We will start the test as soon as the inspector will arrive.",
+    "answers": [
+     "We will start the test as soon as the inspector arrives.",
+     "We'll start the test as soon as the inspector arrives."
+    ],
+    "explain": "Después de as soon as (tiempo futuro) va presente simple, no will."
+   }
+  ],
+  "bonus": {
+   "prompt": "une estas dos oraciones de tres formas (con because, con therefore y con due to): The gauge was broken. We postponed the test.",
+   "answer": "We postponed the test because the gauge was broken. / The gauge was broken; therefore, we postponed the test. / We postponed the test due to the broken gauge."
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con estos conectores; usa cada uno una vez (8 puntos): however · because of · therefore · although · in addition · as soon as · first · finally.",
+   "lines": [
+    {
+     "who": "Priya",
+     "text": "How is the T-210 floor repair going?"
+    },
+    {
+     "who": "Edwin",
+     "text": "[1], the good news: all the new plates are welded. [2], the vacuum box test showed two small leaks."
+    },
+    {
+     "who": "Priya",
+     "text": "Why? What happened?"
+    },
+    {
+     "who": "Edwin",
+     "text": "Mostly [3] the wind yesterday. The shielding gas wasn't stable."
+    },
+    {
+     "who": "Priya",
+     "text": "I see. [4] it's a small problem, we need to report it."
+    },
+    {
+     "who": "Edwin",
+     "text": "I agree. [5], I'm writing a nonconformance report today. [6], we'll put up wind screens around the welders."
+    },
+    {
+     "who": "Priya",
+     "text": "When can you retest?"
+    },
+    {
+     "who": "Edwin",
+     "text": "[7] the repairs are done, probably tomorrow morning."
+    },
+    {
+     "who": "Priya",
+     "text": "Good. And [8], please send me the photos before you leave."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "First"
+     ],
+     "explain": "Ordena lo que va a decir: First, the good news."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "However"
+     ],
+     "explain": "Giro negativo tras la buena noticia; adverbio al inicio + coma."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "because of"
+     ],
+     "explain": "Va seguido de un sustantivo (the wind), no de una oración."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "Although"
+     ],
+     "explain": "Seguido de oración (it's a small problem) y contraste con la principal."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "Therefore"
+     ],
+     "explain": "Consecuencia de \"hay que reportarlo\": por eso escribe el reporte."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "In addition"
+     ],
+     "explain": "Añade una segunda medida (las pantallas contra el viento)."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "As soon as"
+     ],
+     "explain": "Tiempo: \"en cuanto terminen las reparaciones\"; va con oración en presente (are done), aunque se refiere al futuro."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "finally"
+     ],
+     "explain": "Último punto de la conversación: And finally, …"
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo (7 puntos). Escribe a tu cliente, Mr. Lee, un correo de 90 a 130 palabras para avisarle que la prueba hidrostática del tanque T-210 se posterga hasta el lunes porque el camión cisterna se malogró. Debe incluir: (a) un asunto claro; (b) saludo y propósito con I am writing to…; (c) la causa con because, due to o since; (d) la consecuencia con therefore, as a result o consequently; (e) un contraste positivo con however o although; (f) un pedido cortés con Could you please…?; (g) cierre con fórmula y firma.",
+   "rubric": [
+    "(a) un asunto claro",
+    "(b) saludo y propósito con I am writing to…",
+    "(c) la causa con because, due to o since",
+    "(d) la consecuencia con therefore, as a result o consequently",
+    "(e) un contraste positivo con however o although",
+    "(f) un pedido cortés con Could you please…?",
+    "(g) cierre con fórmula y firma"
+   ],
+   "model": "Subject: T-210 hydrostatic test – postponed until Monday\nDear Mr. Lee,\nI am writing to inform you that the hydrostatic test of Tank T-210 has been postponed until Monday.\nThe test was delayed because the water truck broke down on the way to the site. As a result, we could not fill the tank this week. However, all the floor welds have already passed the vacuum box test, so the tank is ready.\nCould you please confirm that your inspector is available on Monday at 8:00 a.m.?\nPlease let me know if you have any questions.\nBest regards,\nEdwin Prieto\nPiping Engineer, Coastal Tank Services"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Elegir el conector según la función: añadir, contrastar, causa, resultado, secuencia.",
+   "test": "Tapa los encabezados de la Figura 25.1 y clasifica sus 33 conectores en 3 minutos; 31 o más correctos."
+  },
+  {
+   "skill": "Puntuar however y therefore sin comma splice.",
+   "test": "Escribe 8 oraciones con however, therefore o as a result; cero comas sueltas antes del conector."
+  },
+  {
+   "skill": "Distinguir oración vs sustantivo: because / because of, although / despite.",
+   "test": "Escribe 10 pares de oraciones (una con cada forma) en 5 minutos; 10 de 10 correctas."
+  },
+  {
+   "skill": "Decir la misma idea con tres tipos de conector.",
+   "test": "Toma 3 hechos de tu trabajo y únelos con because, so y as a result; 9 oraciones sin errores."
+  },
+  {
+   "skill": "Reescribir un párrafo \"a la española\" en inglés profesional.",
+   "test": "Divide una oración de 50 palabras o más en 4–5 oraciones con conectores; ningún and más de 2 veces."
+  },
+  {
+   "skill": "Escribir un correo profesional completo.",
+   "test": "Redacta en 15 minutos un correo de 120–150 palabras con las 7 partes de la Figura 25.4 y al menos 5 conectores distintos."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What problem did you have at work recently, and what happened as a result?",
+  "What is one good thing and one bad thing about your job? Use \"however\".",
+  "Why is email important in your job? Give two reasons with \"because\" and \"in addition\".",
+  "Despite the difficulties, what do you enjoy about learning English?",
+  "How do you organize a big task? Use \"first\", \"then\" and \"finally\".",
+  "How would you tell a client that a job is delayed?"
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "id": 16,
+ "topic": "MUST / HAVE TO / SHOULD",
+ "title": "My Rules and Duties at Work",
+ "practice": "Léela en voz alta 3 veces. Luego explica tus reglas de trabajo durante 1 minuto sin mirar.",
+ "rows": [
+  {
+   "en": "At {company}, I **have to** follow strict rules.",
+   "es": "En {company}, tengo que seguir normas estrictas."
+  },
+  {
+   "en": "Everyone **must** arrive on time.",
+   "es": "Todos deben llegar a tiempo."
+  },
+  {
+   "en": "We **mustn't** share confidential information.",
+   "es": "Está prohibido compartir información confidencial."
+  },
+  {
+   "en": "Before a new job, we **have to** check every detail.",
+   "es": "Antes de un trabajo nuevo, tenemos que revisar cada detalle."
+  },
+  {
+   "en": "For {project}, I **have to** update the daily progress report.",
+   "es": "Para {project_es}, tengo que actualizar el reporte de avance diario."
+  },
+  {
+   "en": "I **don't have to** know every answer, but I **have to** ask questions.",
+   "es": "No tengo que saber todas las respuestas, pero tengo que hacer preguntas."
+  },
+  {
+   "en": "When I started at {company}, I **had to** learn a lot.",
+   "es": "Cuando empecé en {company}, tuve que aprender mucho."
+  },
+  {
+   "en": "To work in {dreamCountry}, **I'll have to** speak English very well.",
+   "es": "Para trabajar en {dreamCountry}, tendré que hablar inglés muy bien."
+  },
+  {
+   "en": "I **should** practice English every day.",
+   "es": "Debería practicar inglés todos los días."
+  },
+  {
+   "en": "I **shouldn't** translate everything in my head.",
+   "es": "No debería traducir todo en mi cabeza."
+  },
+  {
+   "en": "My advice for new coworkers: you **should** always check your work twice.",
+   "es": "Mi consejo para compañeros nuevos: siempre deberían revisar su trabajo dos veces."
+  }
+ ],
+ "dialogTitle": "Diálogo en el trabajo",
+ "dialog": [
+  {
+   "who": "Carlos",
+   "text": "Do I have to sign in every morning?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, you do. Everyone must sign in when they arrive."
+  },
+  {
+   "who": "Carlos",
+   "text": "Can I start on {project} now?"
+  },
+  {
+   "who": "{name}",
+   "text": "No, you mustn't start without approval. The manager has to sign the plan first."
+  },
+  {
+   "who": "Carlos",
+   "text": "Do I have to stay late today?"
+  },
+  {
+   "who": "{name}",
+   "text": "No, you don't have to. But you should finish the checklist before you leave."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I have to follow strict rules.",
+   "pron": "ai JÁF-tə FÓ-lou strikt RULZ"
+  },
+  {
+   "en": "We mustn't share confidential information.",
+   "pron": "wi MÁ-sənt SHER kon-fi-DÉN-shəl in-fər-MÉI-shən"
+  },
+  {
+   "en": "I don't have to know every answer.",
+   "pron": "ai DOUNT JÁF-tə NOU É-vri ÁN-sər"
+  },
+  {
+   "en": "I should practice English every day.",
+   "pron": "ai shud PRÁK-tis ÍN-glish É-vri DEI"
+  }
+ ],
+ "check": "Digo el monólogo en menos de 90 segundos, sin leer, y nunca confundo mustn't (prohibido) con don't have to (no es necesario)."
+}

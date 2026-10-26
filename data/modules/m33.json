@@ -1,0 +1,1211 @@
+{
+ "id": 33,
+ "level": "C1",
+ "title": "Inglés técnico: especificaciones, normas y reportes (API, ASME, AWS)",
+ "goal": "Al terminar podrás leer una cláusula de norma y decir si es obligatoria, recomendada u opcional; nombrar en inglés las partes de un tanque, de una junta bridada y de una soldadura con sus defectos; y redactar un NCR y un reporte diario de avance claros, precisos y sin errores.",
+ "lesson": [
+  {
+   "title": "Por qué un documento técnico exige precisión",
+   "html": "<p>En obra puedes comunicarte con un inglés \"suficiente\". En un documento técnico no: una palabra mal elegida cambia una obligación contractual. <span class=\"en\">Should</span> en lugar de <span class=\"en\">shall</span> convierte un requisito en una sugerencia; <span class=\"en\">approved</span> en lugar de <span class=\"en\">accepted</span> cambia quién firma y qué se firma. Este módulo te da el inglés de las normas (API 650/653, ASME B31.3, ASME Sección IX, AWS D1.1) y de los documentos de obra (WPS, ITP, NCR, RFI, reporte diario).</p><p><b>Aviso sobre las normas citadas</b></p><p>Las cláusulas de este módulo son <b>ejemplos inventados</b> para practicar el idioma y están marcadas como \"ejemplo ilustrativo\". No reproducen texto de API, ASME ni AWS. Para requisitos reales consulta siempre la edición vigente de la norma que exige tu contrato.</p>"
+  },
+  {
+   "title": "Las normas que vas a leer y cómo se pronuncian",
+   "html": "<table><thead><tr><th>Norma</th><th>Qué cubre</th><th>Cómo la dice un nativo</th></tr></thead><tbody><tr><td><b>API 650</b></td><td>Diseño y construcción de tanques soldados nuevos para almacenar petróleo y derivados, a presión cercana a la atmosférica.</td><td><span class=\"en\">\"A-P-I six-fifty\" <span class=\"pron\">ei pi ai siks-FÍF-ti</span></span></td></tr><tr><td><b>API 653</b></td><td>Inspección, reparación, alteración y reconstrucción de tanques existentes.</td><td><span class=\"en\">\"six-fifty-three\" <span class=\"pron\">siks FÍF-ti THRI</span></span></td></tr><tr><td><b>ASME B31.3</b></td><td>Tuberías de proceso (refinerías, plantas químicas): diseño, materiales, fabricación, examen y pruebas.</td><td><span class=\"en\">\"B thirty-one point three\" <span class=\"pron\">bi THÉR-ti wan point THRI</span></span></td></tr><tr><td><b>ASME BPVC Sección IX</b></td><td>Calificación de procedimientos de soldadura (WPS/PQR) y de soldadores.</td><td><span class=\"en\">\"Section Nine\" <span class=\"pron\">SÉK-shən NAIN</span></span></td></tr><tr><td><b>ASME B16.5</b></td><td>Bridas y accesorios bridados (NPS ½ a NPS 24), organizados por clases de presión.</td><td><span class=\"en\">\"B sixteen point five\" <span class=\"pron\">bi siks-TÍN point FAIV</span></span></td></tr><tr><td><b>AWS D1.1</b></td><td>Código de soldadura estructural en acero.</td><td><span class=\"en\">\"D one point one\" <span class=\"pron\">di wan point WAN</span></span></td></tr><tr><td><b>ASME PCC-1</b></td><td>Guía para el montaje de juntas bridadas empernadas (apriete y secuencia).</td><td><span class=\"en\">\"P-C-C one\" <span class=\"pron\">pi si si WAN</span></span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Shall, should, may, can: el corazón de una norma",
+   "html": "<p>Las normas en inglés usan un vocabulario de obligación muy preciso y casi todas lo definen en sus primeras páginas. La convención general en API, ASME y AWS es la de la Figura 33.1. Aprende a \"oír\" el verbo modal antes que cualquier otra palabra de la cláusula: él te dice si estás ante un requisito o ante un consejo.</p><table><thead><tr><th>Verbo</th><th>Fuerza</th><th>En español técnico</th><th>Ejemplo ilustrativo</th></tr></thead><tbody><tr><td><span class=\"en\">shall</span></td><td>Requisito obligatorio</td><td>\"deberá\", \"se debe\"</td><td><span class=\"en\">The contractor shall submit the WPS before welding begins.</span></td></tr><tr><td><span class=\"en\">shall not</span></td><td>Prohibición</td><td>\"no deberá\", \"no se permite\"</td><td><span class=\"en\">Welding shall not be performed on wet surfaces.</span></td></tr><tr><td><span class=\"en\">should</span></td><td>Recomendación (buena práctica); si no se sigue, se justifica</td><td>\"se recomienda\"</td><td><span class=\"en\">Stud bolts should be lubricated before tightening.</span></td></tr><tr><td><span class=\"en\">may</span></td><td>Permiso u opción</td><td>\"se permite\", \"puede\"</td><td><span class=\"en\">The inspector may request additional radiographs.</span></td></tr><tr><td><span class=\"en\">can</span></td><td>Posibilidad o capacidad; no crea requisito</td><td>\"puede (es posible)\"</td><td><span class=\"en\">Moisture in the electrodes can cause porosity.</span></td></tr><tr><td><span class=\"en\">must</span></td><td>Obligación; común en especificaciones de proyecto, contratos y avisos de seguridad</td><td>\"debe\"</td><td><span class=\"en\">All personnel must wear hearing protection in this area.</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 210\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"25\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">OBLIGATORIO</text>\n  <line x1=\"110\" y1=\"20\" x2=\"492\" y2=\"20\" stroke=\"#6941C6\" stroke-width=\"3\"/>\n  <polygon points=\"490,13 505,20 490,27\" fill=\"#6941C6\"/>\n  <text x=\"620\" y=\"25\" text-anchor=\"end\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">NO OBLIGATORIO</text>\n  <rect x=\"20\" y=\"40\" width=\"112\" height=\"130\" rx=\"12\" fill=\"#6941C6\"/>\n  <text x=\"76\" y=\"74\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#fff\">SHALL</text>\n  <text x=\"76\" y=\"102\" text-anchor=\"middle\" font-size=\"12\" fill=\"#F2EEFC\">obligatorio</text>\n  <text x=\"76\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" fill=\"#F2EEFC\">requisito</text>\n  <text x=\"76\" y=\"142\" text-anchor=\"middle\" font-size=\"12\" fill=\"#F2EEFC\">mínimo</text>\n  <rect x=\"144\" y=\"40\" width=\"112\" height=\"130\" rx=\"12\" fill=\"#D92D20\"/>\n  <text x=\"200\" y=\"74\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">SHALL NOT</text>\n  <text x=\"200\" y=\"102\" text-anchor=\"middle\" font-size=\"12\" fill=\"#FEF0EF\">prohibido</text>\n  <text x=\"200\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" fill=\"#FEF0EF\">no se</text>\n  <text x=\"200\" y=\"142\" text-anchor=\"middle\" font-size=\"12\" fill=\"#FEF0EF\">permite</text>\n  <rect x=\"268\" y=\"40\" width=\"112\" height=\"130\" rx=\"12\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"324\" y=\"74\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#4A2B91\">SHOULD</text>\n  <text x=\"324\" y=\"102\" text-anchor=\"middle\" font-size=\"12\" fill=\"#4A2B91\">recomendado</text>\n  <text x=\"324\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" fill=\"#4A2B91\">desviarse</text>\n  <text x=\"324\" y=\"142\" text-anchor=\"middle\" font-size=\"12\" fill=\"#4A2B91\">= justificar</text>\n  <rect x=\"392\" y=\"40\" width=\"112\" height=\"130\" rx=\"12\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"448\" y=\"74\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#0E9384\">MAY</text>\n  <text x=\"448\" y=\"102\" text-anchor=\"middle\" font-size=\"12\" fill=\"#0B6B60\">permitido</text>\n  <text x=\"448\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" fill=\"#0B6B60\">opcional</text>\n  <text x=\"448\" y=\"142\" text-anchor=\"middle\" font-size=\"12\" fill=\"#0B6B60\">= se permite</text>\n  <rect x=\"516\" y=\"40\" width=\"112\" height=\"130\" rx=\"12\" fill=\"#F2F4F7\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <text x=\"572\" y=\"74\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#344054\">CAN</text>\n  <text x=\"572\" y=\"102\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">posible</text>\n  <text x=\"572\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">capacidad</text>\n  <text x=\"572\" y=\"142\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">no es requisito</text>\n  <text x=\"320\" y=\"196\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">Las normas definen estos verbos al inicio. Léelos antes de interpretar una cláusula.</text>\n</svg>",
+   "caption": "Figura 33.1 — Escala de obligación en una norma: de requisito (shall) a simple posibilidad (can)."
+  },
+  {
+   "title": "Shall = obligatorio; en obra se habla distinto",
+   "html": "<p><b>Regla de oro 1 — Shall = obligatorio. Nunca lo traduzcas \"debería\"</b></p><p>\"Debería\" en español suena a consejo. En una especificación, <span class=\"en\">shall</span> es un requisito mínimo: si no se cumple, hay una no conformidad (NCR). <span class=\"en\">Should</span> sí equivale a \"se recomienda\".</p><p><span class=\"en\">The hydrostatic test shall be witnessed by the client.</span> → <span class=\"ok\">La prueba hidrostática deberá ser presenciada por el cliente.</span>   Nunca <span class=\"wrong\">debería ser presenciada</span>.</p><p><b>Así piensa un nativo — dos registros: obra y papel</b></p><p>En obra se habla en voz activa, con <i>we</i> y <i>have to</i>. En el documento se escribe impersonal, con <i>shall</i> y voz pasiva (Módulo 20). El contenido es el mismo; cambia el registro.</p><table><thead><tr><th>Hablado (en obra)</th><th>Escrito (especificación o reporte)</th></tr></thead><tbody><tr><td><span class=\"en\">We have to grind out that undercut and re-weld it.</span></td><td><span class=\"en\">The undercut shall be removed by grinding and the area re-welded.</span></td></tr><tr><td><span class=\"en\">The test went fine. No leaks.</span></td><td><span class=\"en\">The hydrostatic test was completed with no visible leaks.</span></td></tr><tr><td><span class=\"en\">Don't start until I sign off.</span></td><td><span class=\"en\">Work shall not proceed until the hold point is released by the inspector.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Traducción directa vs inglés técnico real",
+   "html": "<p>El error típico del ingeniero hispanohablante no es de gramática básica, sino de <b>colocación</b>: verbos y sustantivos que en español van juntos, pero en inglés no (Módulo 30). Un inspector entiende <i>make the test</i>, pero en un reporte suena a principiante.</p><table><thead><tr><th>Lo que piensas en español</th><th>Lo que escribe un nativo</th></tr></thead><tbody><tr><td>Se deberá realizar la prueba hidrostática.<br>La plancha tiene 10 mm.<br>Según la norma…<br>Hacer la inspección<br>Primer anillo del tanque</td><td><span class=\"en\">The hydrostatic test shall be performed.</span><br><span class=\"en\">The plate is 10 mm thick.</span> <span class=\"wrong\">has 10 mm</span><br><span class=\"en\">In accordance with API 650…</span> <span class=\"wrong\">the norm</span><br><span class=\"en\">Perform / carry out the inspection</span> <span class=\"wrong\">make</span><br><span class=\"en\">First shell course</span> <span class=\"wrong\">first ring</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>tubería de 6 pulgadas</td><td><span class=\"wrong\">a pipe of 6 inches</span></td><td><span class=\"ok\">a 6-inch pipe (NPS 6)</span></td></tr><tr><td>soldadura de filete</td><td><span class=\"wrong\">filet soldering</span></td><td><span class=\"ok\">fillet weld</span></td></tr><tr><td>empaquetadura (empaque)</td><td><span class=\"wrong\">package</span></td><td><span class=\"ok\">gasket</span></td></tr><tr><td>informe de no conformidad</td><td><span class=\"wrong\">report of no conformity</span></td><td><span class=\"ok\">nonconformance report (NCR)</span></td></tr><tr><td>dar la conformidad</td><td><span class=\"wrong\">give the conformity</span></td><td><span class=\"ok\">sign off / accept</span></td></tr><tr><td>levantar las observaciones</td><td><span class=\"wrong\">lift the observations</span></td><td><span class=\"ok\">close out the punch list items</span></td></tr><tr><td>prueba con caja de vacío</td><td><span class=\"wrong\">vacuum box prove</span></td><td><span class=\"ok\">vacuum box test</span></td></tr><tr><td>torquear los pernos a 300 N·m</td><td><span class=\"wrong\">torque the bolts at 300 N·m</span></td><td><span class=\"ok\">torque the bolts to 300 N·m</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Hechos en pasiva; números, unidades y tamaños",
+   "html": "<p><b>Regla de oro 2 — Hechos en pasiva, responsables en activa</b></p><p>Un reporte se centra en el objeto: <span class=\"en\">Weld W-15 was rejected.</span> <span class=\"en\">Three spools were installed.</span> Pero cuando asignas una acción, el responsable debe quedar claro. En listas de acciones se usa el estilo telegráfico <b>sujeto + to + verbo</b> (= \"deberá\"):</p><p><span class=\"en\">QC to re-inspect W-15 by Oct 21.</span> = Control de Calidad deberá reinspeccionar W-15 antes del 21 de octubre.</p><p><b>Regla de oro 3 — Números, unidades y tamaños</b></p><ul><li>Número + espacio + unidad: <span class=\"en\">10 mm</span>, <span class=\"en\">150 psi</span>, <span class=\"en\">31 °C</span>.</li><li>Adjetivo compuesto = singular y con guion: <span class=\"en\">a 6-inch line</span>, <span class=\"en\">a 10-millimeter plate</span>, <span class=\"en\">a 3-day delay</span>.</li><li><span class=\"en\">NPS 6</span> (Nominal Pipe Size) es un nombre, no una medida: el diámetro exterior real es 6.625 in. <span class=\"en\">Class 150</span> es una clase de presión de brida, no \"150 psi\".</li><li>Fechas sin ambigüedad: <span class=\"en\">Oct 5, 2026</span> o <span class=\"en\">2026-10-05</span>. Evita <i>05/10/2026</i>: un estadounidense lee \"10 de mayo\".</li></ul>"
+  },
+  {
+   "title": "Afirmativo, negativo y pregunta con requisitos",
+   "html": "<p>En la norma se escribe con <i>shall</i>; en la conversación, para preguntar por un requisito, se usa <i>have to</i> o <i>be required</i>. Nadie pregunta <i>Shall we submit…?</i> para saber si algo es obligatorio: <span class=\"en\">Shall we start?</span> es una propuesta (= ¿empezamos?).</p><table><thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>Afirmativo (norma)</b></td><td>Sujeto + shall + verbo</td><td><span class=\"en\">The contractor shall submit the PQR.</span></td></tr><tr><td><b>Negativo (norma)</b></td><td>Sujeto + shall not + verbo</td><td><span class=\"en\">Welding shall not start without an approved WPS.</span></td></tr><tr><td><b>Pregunta (habla real)</b></td><td>Do + sujeto + have to…? / Is + sujeto + required?</td><td><span class=\"en\">Do we have to submit the PQR? / Is a PQR required?</span></td></tr><tr><td><b>Respuesta corta</b></td><td>Yes, we do. / No, we don't. — Yes, it is. / No, it isn't.</td><td><span class=\"en\">Is a PQR required? — Yes, it is.</span></td></tr></tbody></table><p><b>Detalles finos que un inspector sí nota</b></p><ul><li><span class=\"en\">may not</span> es ambiguo (¿no está permitido o quizá no ocurra?). Por eso las normas prohíben con <span class=\"en\">shall not</span>.</li><li><span class=\"en\">need not</span> = no es obligatorio, pero se permite: <span class=\"en\">The test need not be repeated.</span> No equivale a <i>shall not</i>.</li><li><span class=\"en\">Unless otherwise specified</span> = salvo que se indique otra cosa: el contrato o la hoja de datos puede cambiar ese requisito.</li><li><span class=\"en\">Where…</span> / <span class=\"en\">When…</span> al inicio de una cláusula introduce una condición: <span class=\"en\">Where PWHT is required, …</span> = En los casos en que se requiera TTPS…</li><li>Los roles están definidos: en API 650 son <span class=\"en\">the Purchaser</span> y <span class=\"en\">the Manufacturer</span>; en ASME B31.3, <span class=\"en\">the owner</span>, <span class=\"en\">the Inspector</span> y <span class=\"en\">the examiner</span>. Respeta quién hace qué.</li></ul>"
+  },
+  {
+   "title": "Cómo leer una cláusula: anatomía",
+   "html": "<p>Una cláusula técnica es una sola oración larga con piezas fijas. Sepárala en partes antes de traducir.</p><p><b>Ejemplo ilustrativo — especificación de proyecto PS-204 (inventada)</b></p><p>6.2.4 Unless otherwise specified by the Owner, all shell butt welds shall be examined by radiography in accordance with Section 8. Where radiography is not practical, ultrasonic examination may be used if approved by the Owner. Repaired welds shall be re-examined using the original method.</p><table><thead><tr><th>Parte</th><th>Texto</th><th>Qué te dice</th></tr></thead><tbody><tr><td>Número</td><td><span class=\"en\">6.2.4</span></td><td>Cítalo siempre: <span class=\"en\">per clause 6.2.4</span>.</td></tr><tr><td>Excepción</td><td><span class=\"en\">Unless otherwise specified by the Owner</span></td><td>El contrato puede cambiarlo: revisa la hoja de datos.</td></tr><tr><td>Sujeto (alcance)</td><td><span class=\"en\">all shell butt welds</span></td><td>Solo soldaduras a tope del cuerpo; no filetes ni fondo.</td></tr><tr><td>Modal</td><td><span class=\"en\">shall</span></td><td>Obligatorio.</td></tr><tr><td>Acción (pasiva)</td><td><span class=\"en\">be examined by radiography</span></td><td>Qué hay que hacer.</td></tr><tr><td>Referencia</td><td><span class=\"en\">in accordance with Section 8</span></td><td>El \"cómo\" está en otra sección.</td></tr><tr><td>Alternativa</td><td><span class=\"en\">ultrasonic examination may be used</span></td><td>Permiso, no obligación.</td></tr><tr><td>Condición del permiso</td><td><span class=\"en\">if approved by the Owner</span></td><td>Necesitas aprobación (por escrito).</td></tr><tr><td>Requisito adicional</td><td><span class=\"en\">Repaired welds shall be re-examined…</span></td><td>También obligatorio: la reparación vuelve a RT.</td></tr></tbody></table><p><b>Paráfrasis para tu cuadrilla:</b> <span class=\"en\">\"We have to RT all the shell butt welds per Section 8. If we can't shoot RT, we can use UT, but only with the owner's approval. Any repair gets re-shot.\"</span> (<i>shoot</i> = tomar radiografías, jerga de obra.)</p>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "shell",
+   "pron": "shel",
+   "es": "envolvente, cuerpo del tanque",
+   "group": "A. El tanque de almacenamiento (API 650 / 653)"
+  },
+  {
+   "en": "shell course",
+   "pron": "SHEL kors",
+   "es": "anillo del cuerpo (virola)",
+   "group": "A. El tanque de almacenamiento (API 650 / 653)"
+  },
+  {
+   "en": "bottom plate",
+   "pron": "BÓ-təm pleit",
+   "es": "plancha de fondo",
+   "group": "A. El tanque de almacenamiento (API 650 / 653)"
+  },
+  {
+   "en": "annular plate",
+   "pron": "Á-niu-ler pleit",
+   "es": "plancha anular (anillo más grueso bajo el cuerpo)",
+   "group": "A. El tanque de almacenamiento (API 650 / 653)"
+  },
+  {
+   "en": "fixed cone roof",
+   "pron": "fikst KOUN ruf",
+   "es": "techo cónico fijo",
+   "group": "A. El tanque de almacenamiento (API 650 / 653)"
+  },
+  {
+   "en": "floating roof",
+   "pron": "FLÓU-ting ruf",
+   "es": "techo flotante",
+   "group": "A. El tanque de almacenamiento (API 650 / 653)"
+  },
+  {
+   "en": "wind girder",
+   "pron": "WIND GUÉR-der",
+   "es": "anillo rigidizador contra viento",
+   "group": "A. El tanque de almacenamiento (API 650 / 653)"
+  },
+  {
+   "en": "top angle",
+   "pron": "TOP ÁN-gəl",
+   "es": "ángulo de coronamiento",
+   "group": "A. El tanque de almacenamiento (API 650 / 653)"
+  },
+  {
+   "en": "shell nozzle",
+   "pron": "SHEL NÓ-zəl",
+   "es": "boquilla del cuerpo",
+   "group": "A. El tanque de almacenamiento (API 650 / 653)"
+  },
+  {
+   "en": "reinforcing pad (repad)",
+   "pron": "ri-in-FÓR-sing pad (RÍ-pad)",
+   "es": "plancha de refuerzo de la boquilla",
+   "group": "A. El tanque de almacenamiento (API 650 / 653)"
+  },
+  {
+   "en": "shell manway",
+   "pron": "SHEL MÁN-wei",
+   "es": "entrada de hombre del cuerpo",
+   "group": "A. El tanque de almacenamiento (API 650 / 653)"
+  },
+  {
+   "en": "ringwall foundation",
+   "pron": "RING-wol faun-DÉI-shən",
+   "es": "cimentación anular de concreto",
+   "group": "A. El tanque de almacenamiento (API 650 / 653)"
+  },
+  {
+   "en": "settlement",
+   "pron": "SÉ-təl-mənt",
+   "es": "asentamiento",
+   "group": "A. El tanque de almacenamiento (API 650 / 653)"
+  },
+  {
+   "en": "flange",
+   "pron": "flanch",
+   "es": "brida",
+   "group": "B. Tuberías y juntas bridadas (ASME B31.3 / B16.5)"
+  },
+  {
+   "en": "weld neck flange",
+   "pron": "WELD nek flanch",
+   "es": "brida de cuello soldable",
+   "group": "B. Tuberías y juntas bridadas (ASME B31.3 / B16.5)"
+  },
+  {
+   "en": "blind flange",
+   "pron": "BLAIND flanch",
+   "es": "brida ciega",
+   "group": "B. Tuberías y juntas bridadas (ASME B31.3 / B16.5)"
+  },
+  {
+   "en": "raised face (RF)",
+   "pron": "REIZD feis",
+   "es": "cara realzada",
+   "group": "B. Tuberías y juntas bridadas (ASME B31.3 / B16.5)"
+  },
+  {
+   "en": "gasket",
+   "pron": "GÁS-kit",
+   "es": "empaquetadura, junta",
+   "group": "B. Tuberías y juntas bridadas (ASME B31.3 / B16.5)"
+  },
+  {
+   "en": "spiral-wound gasket",
+   "pron": "SPÁI-rəl WÁUND GÁS-kit",
+   "es": "empaquetadura espirometálica",
+   "group": "B. Tuberías y juntas bridadas (ASME B31.3 / B16.5)"
+  },
+  {
+   "en": "stud bolt",
+   "pron": "STAD boult",
+   "es": "espárrago",
+   "group": "B. Tuberías y juntas bridadas (ASME B31.3 / B16.5)"
+  },
+  {
+   "en": "heavy hex nut",
+   "pron": "JÉ-vi jeks nat",
+   "es": "tuerca hexagonal pesada",
+   "group": "B. Tuberías y juntas bridadas (ASME B31.3 / B16.5)"
+  },
+  {
+   "en": "bolt torque",
+   "pron": "BOULT tork",
+   "es": "torque de apriete de pernos",
+   "group": "B. Tuberías y juntas bridadas (ASME B31.3 / B16.5)"
+  },
+  {
+   "en": "star pattern (cross pattern)",
+   "pron": "STAR PÁ-tern",
+   "es": "secuencia de apriete en estrella (cruzada)",
+   "group": "B. Tuberías y juntas bridadas (ASME B31.3 / B16.5)"
+  },
+  {
+   "en": "pipe spool",
+   "pron": "PAIP spul",
+   "es": "spool, tramo prefabricado de tubería",
+   "group": "B. Tuberías y juntas bridadas (ASME B31.3 / B16.5)"
+  },
+  {
+   "en": "isometric (iso)",
+   "pron": "ai-sə-MÉ-trik (ÁI-sou)",
+   "es": "isométrico de tubería",
+   "group": "B. Tuberías y juntas bridadas (ASME B31.3 / B16.5)"
+  },
+  {
+   "en": "pipe support",
+   "pron": "PAIP sə-PÓRT",
+   "es": "soporte de tubería",
+   "group": "B. Tuberías y juntas bridadas (ASME B31.3 / B16.5)"
+  },
+  {
+   "en": "fillet weld",
+   "pron": "FÍ-lit weld",
+   "es": "soldadura de filete",
+   "group": "C. Soldadura (ASME Sección IX / AWS D1.1)"
+  },
+  {
+   "en": "groove weld (butt weld)",
+   "pron": "GRUV weld (BAT weld)",
+   "es": "soldadura de ranura (a tope)",
+   "group": "C. Soldadura (ASME Sección IX / AWS D1.1)"
+  },
+  {
+   "en": "root pass",
+   "pron": "RUT pas",
+   "es": "pase de raíz",
+   "group": "C. Soldadura (ASME Sección IX / AWS D1.1)"
+  },
+  {
+   "en": "hot pass",
+   "pron": "JOT pas",
+   "es": "pase caliente",
+   "group": "C. Soldadura (ASME Sección IX / AWS D1.1)"
+  },
+  {
+   "en": "fill pass",
+   "pron": "FIL pas",
+   "es": "pase de relleno",
+   "group": "C. Soldadura (ASME Sección IX / AWS D1.1)"
+  },
+  {
+   "en": "cap pass",
+   "pron": "KAP pas",
+   "es": "pase de presentación (cara)",
+   "group": "C. Soldadura (ASME Sección IX / AWS D1.1)"
+  },
+  {
+   "en": "leg size",
+   "pron": "LEG saiz",
+   "es": "tamaño de pierna del filete",
+   "group": "C. Soldadura (ASME Sección IX / AWS D1.1)"
+  },
+  {
+   "en": "preheat",
+   "pron": "pri-JÍT",
+   "es": "precalentamiento",
+   "group": "C. Soldadura (ASME Sección IX / AWS D1.1)"
+  },
+  {
+   "en": "interpass temperature",
+   "pron": "ÍN-ter-pas TÉM-prə-cher",
+   "es": "temperatura entre pases",
+   "group": "C. Soldadura (ASME Sección IX / AWS D1.1)"
+  },
+  {
+   "en": "PWHT (post-weld heat treatment)",
+   "pron": "pi da-bəl-yu eich TÍ",
+   "es": "tratamiento térmico posterior a la soldadura (TTPS)",
+   "group": "C. Soldadura (ASME Sección IX / AWS D1.1)"
+  },
+  {
+   "en": "WPS / PQR",
+   "pron": "DÁ-bəl-yu pi ES / pi kiu ÁR",
+   "es": "especificación del procedimiento de soldadura / registro de calificación del procedimiento",
+   "group": "C. Soldadura (ASME Sección IX / AWS D1.1)"
+  },
+  {
+   "en": "welder qualification (WPQ)",
+   "pron": "WÉL-der kuo-li-fi-KÉI-shən",
+   "es": "calificación del soldador",
+   "group": "C. Soldadura (ASME Sección IX / AWS D1.1)"
+  },
+  {
+   "en": "filler metal",
+   "pron": "FÍ-ler MÉ-təl",
+   "es": "material de aporte",
+   "group": "C. Soldadura (ASME Sección IX / AWS D1.1)"
+  },
+  {
+   "en": "undercut",
+   "pron": "ÁN-der-kat",
+   "es": "socavación (mordedura)",
+   "group": "D. Defectos de soldadura"
+  },
+  {
+   "en": "porosity",
+   "pron": "pə-RÓ-si-ti",
+   "es": "porosidad (incontable)",
+   "group": "D. Defectos de soldadura"
+  },
+  {
+   "en": "slag inclusion",
+   "pron": "SLAG in-KLÚ-shən",
+   "es": "inclusión de escoria",
+   "group": "D. Defectos de soldadura"
+  },
+  {
+   "en": "lack of fusion",
+   "pron": "LAK əv FIÚ-shən",
+   "es": "falta de fusión",
+   "group": "D. Defectos de soldadura"
+  },
+  {
+   "en": "incomplete penetration",
+   "pron": "in-kəm-PLÍT pe-nə-TRÉI-shən",
+   "es": "penetración incompleta",
+   "group": "D. Defectos de soldadura"
+  },
+  {
+   "en": "crack",
+   "pron": "krak",
+   "es": "fisura, grieta",
+   "group": "D. Defectos de soldadura"
+  },
+  {
+   "en": "overlap",
+   "pron": "ÓU-ver-lap",
+   "es": "traslape (solape)",
+   "group": "D. Defectos de soldadura"
+  },
+  {
+   "en": "excessive reinforcement",
+   "pron": "ek-SÉ-siv ri-in-FÓRS-mənt",
+   "es": "sobremonta excesiva",
+   "group": "D. Defectos de soldadura"
+  },
+  {
+   "en": "arc strike",
+   "pron": "ARK straik",
+   "es": "golpe de arco",
+   "group": "D. Defectos de soldadura"
+  },
+  {
+   "en": "spatter",
+   "pron": "SPÁ-ter",
+   "es": "salpicadura",
+   "group": "D. Defectos de soldadura"
+  },
+  {
+   "en": "misalignment (hi-lo)",
+   "pron": "mis-ə-LÁIN-mənt (JÁI-lou)",
+   "es": "desalineamiento entre bordes",
+   "group": "D. Defectos de soldadura"
+  },
+  {
+   "en": "visual testing (VT)",
+   "pron": "VÍ-shu-əl TÉS-ting",
+   "es": "inspección visual",
+   "group": "E. Ensayos y pruebas (NDT y testing)"
+  },
+  {
+   "en": "liquid penetrant testing (PT)",
+   "pron": "LÍ-kuid PÉ-nə-trənt",
+   "es": "líquidos penetrantes",
+   "group": "E. Ensayos y pruebas (NDT y testing)"
+  },
+  {
+   "en": "magnetic particle testing (MT)",
+   "pron": "mag-NÉ-tik PÁR-ti-kəl",
+   "es": "partículas magnéticas",
+   "group": "E. Ensayos y pruebas (NDT y testing)"
+  },
+  {
+   "en": "radiography (RT)",
+   "pron": "rei-di-Ó-grə-fi",
+   "es": "radiografía",
+   "group": "E. Ensayos y pruebas (NDT y testing)"
+  },
+  {
+   "en": "ultrasonic testing (UT)",
+   "pron": "əl-trə-SÓ-nik TÉS-ting",
+   "es": "ultrasonido",
+   "group": "E. Ensayos y pruebas (NDT y testing)"
+  },
+  {
+   "en": "vacuum box test",
+   "pron": "VÁ-kium boks test",
+   "es": "prueba con caja de vacío (soldaduras de fondo)",
+   "group": "E. Ensayos y pruebas (NDT y testing)"
+  },
+  {
+   "en": "hydrostatic test (hydrotest)",
+   "pron": "jai-drə-STÁ-tik test (JÁI-drou-test)",
+   "es": "prueba hidrostática",
+   "group": "E. Ensayos y pruebas (NDT y testing)"
+  },
+  {
+   "en": "test pressure",
+   "pron": "TEST PRÉ-sher",
+   "es": "presión de prueba",
+   "group": "E. Ensayos y pruebas (NDT y testing)"
+  },
+  {
+   "en": "hold time",
+   "pron": "JOULD taim",
+   "es": "tiempo de sostenimiento",
+   "group": "E. Ensayos y pruebas (NDT y testing)"
+  },
+  {
+   "en": "acceptance criteria",
+   "pron": "ək-SÉP-təns krai-TÍ-ri-ə",
+   "es": "criterios de aceptación (criteria es plural; singular criterion)",
+   "group": "E. Ensayos y pruebas (NDT y testing)"
+  },
+  {
+   "en": "ITP (inspection and test plan)",
+   "pron": "ai ti PÍ",
+   "es": "plan de inspección y ensayos",
+   "group": "F. Documentos y calidad (QA/QC)"
+  },
+  {
+   "en": "hold point",
+   "pron": "JOULD point",
+   "es": "punto de parada: no se avanza sin liberación del inspector",
+   "group": "F. Documentos y calidad (QA/QC)"
+  },
+  {
+   "en": "witness point",
+   "pron": "WÍT-nəs point",
+   "es": "punto de presencia: se notifica al cliente para que asista",
+   "group": "F. Documentos y calidad (QA/QC)"
+  },
+  {
+   "en": "NCR (nonconformance report)",
+   "pron": "en si ÁR",
+   "es": "reporte de no conformidad",
+   "group": "F. Documentos y calidad (QA/QC)"
+  },
+  {
+   "en": "RFI (request for information)",
+   "pron": "ar ef ÁI",
+   "es": "solicitud de información (consulta técnica)",
+   "group": "F. Documentos y calidad (QA/QC)"
+  },
+  {
+   "en": "punch list",
+   "pron": "PANCH list",
+   "es": "lista de pendientes (observaciones)",
+   "group": "F. Documentos y calidad (QA/QC)"
+  },
+  {
+   "en": "MTR (mill test report)",
+   "pron": "em ti ÁR",
+   "es": "certificado de calidad del material",
+   "group": "F. Documentos y calidad (QA/QC)"
+  },
+  {
+   "en": "method statement",
+   "pron": "MÉ-thəd STÉIT-mənt",
+   "es": "procedimiento de trabajo",
+   "group": "F. Documentos y calidad (QA/QC)"
+  },
+  {
+   "en": "as-built drawings",
+   "pron": "az-BILT DRÓ-ingz",
+   "es": "planos conforme a obra",
+   "group": "F. Documentos y calidad (QA/QC)"
+  },
+  {
+   "en": "turnover package",
+   "pron": "TÉRN-ou-ver PÁ-kich",
+   "es": "dossier de entrega (de calidad)",
+   "group": "F. Documentos y calidad (QA/QC)"
+  },
+  {
+   "en": "disposition (use-as-is / repair / reject)",
+   "pron": "dis-pə-ZÍ-shən",
+   "es": "decisión sobre la no conformidad (usar tal cual / reparar / rechazar)",
+   "group": "F. Documentos y calidad (QA/QC)"
+  },
+  {
+   "en": "root cause",
+   "pron": "RUT koz",
+   "es": "causa raíz",
+   "group": "F. Documentos y calidad (QA/QC)"
+  },
+  {
+   "en": "in accordance with",
+   "pron": "in ə-KÓR-dəns widh",
+   "es": "de acuerdo con, según",
+   "group": "G. Frases de norma y de reporte"
+  },
+  {
+   "en": "unless otherwise specified",
+   "pron": "ən-LÉS Á-dher-waiz SPÉ-si-faid",
+   "es": "salvo indicación contraria",
+   "group": "G. Frases de norma y de reporte"
+  },
+  {
+   "en": "comply with",
+   "pron": "kəm-PLÁI widh",
+   "es": "cumplir con",
+   "group": "G. Frases de norma y de reporte"
+  },
+  {
+   "en": "within tolerance",
+   "pron": "wi-DHÍN TÓ-lə-rəns",
+   "es": "dentro de tolerancia",
+   "group": "G. Frases de norma y de reporte"
+  },
+  {
+   "en": "out of tolerance",
+   "pron": "aut əv TÓ-lə-rəns",
+   "es": "fuera de tolerancia",
+   "group": "G. Frases de norma y de reporte"
+  },
+  {
+   "en": "to be witnessed by",
+   "pron": "tə bi WÍT-nəst bai",
+   "es": "a ser presenciado por",
+   "group": "G. Frases de norma y de reporte"
+  },
+  {
+   "en": "pending client approval",
+   "pron": "PÉN-ding KLÁI-ənt ə-PRÚ-vəl",
+   "es": "pendiente de aprobación del cliente",
+   "group": "G. Frases de norma y de reporte"
+  },
+  {
+   "en": "on hold",
+   "pron": "on JOULD",
+   "es": "en espera, detenido",
+   "group": "G. Frases de norma y de reporte"
+  },
+  {
+   "en": "work completed to date",
+   "pron": "werk kəm-PLÍ-tid tə DEIT",
+   "es": "trabajo realizado a la fecha",
+   "group": "G. Frases de norma y de reporte"
+  },
+  {
+   "en": "planned for tomorrow",
+   "pron": "pland for tə-MÓ-rou",
+   "es": "programado para mañana",
+   "group": "G. Frases de norma y de reporte"
+  },
+  {
+   "en": "No safety incidents were reported.",
+   "pron": "nou SÉIF-ti ÍN-si-dənts wer ri-PÓR-tid",
+   "es": "No se reportaron incidentes de seguridad.",
+   "group": "G. Frases de norma y de reporte"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Per clause 6.2.4, all shell butt welds have to be radiographed.",
+   "es": "Según la cláusula 6.2.4, todas las soldaduras a tope del cuerpo deben radiografiarse.",
+   "situation": "Revisión de especificación"
+  },
+  {
+   "en": "The inspector found undercut on the cap pass of weld W-15.",
+   "es": "El inspector encontró socavación en el pase de presentación de la soldadura W-15.",
+   "situation": "Inspección visual"
+  },
+  {
+   "en": "The gasket was replaced, and the bolts were torqued to 450 N·m in a star pattern.",
+   "es": "Se cambió la empaquetadura y los pernos se apretaron a 450 N·m en secuencia de estrella.",
+   "situation": "Junta bridada"
+  },
+  {
+   "en": "The line held 225 psi for 30 minutes with no visible leaks.",
+   "es": "La línea sostuvo 225 psi durante 30 minutos sin fugas visibles.",
+   "situation": "Prueba hidrostática"
+  },
+  {
+   "en": "We'd like to invite you to witness the hydrotest on Thursday at 9 a.m.",
+   "es": "Nos gustaría invitarlo a presenciar la prueba hidrostática el jueves a las 9 a. m.",
+   "situation": "Llamada al cliente"
+  },
+  {
+   "en": "Could you confirm whether the 2-inch drain nozzle requires a reinforcing pad?",
+   "es": "¿Podría confirmar si la boquilla de drenaje de 2 pulgadas requiere plancha de refuerzo?",
+   "situation": "RFI"
+  },
+  {
+   "en": "The root opening exceeds the tolerance specified in WPS-07.",
+   "es": "La abertura de raíz excede la tolerancia especificada en el WPS-07.",
+   "situation": "NCR"
+  },
+  {
+   "en": "Work completed to date: 18 of 24 bottom plates welded.",
+   "es": "Trabajo realizado a la fecha: 18 de 24 planchas de fondo soldadas.",
+   "situation": "Reporte diario"
+  },
+  {
+   "en": "Hot work shall not start until the gas test has been completed.",
+   "es": "El trabajo en caliente no deberá empezar hasta que se haya completado la medición de gases.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "Our quote includes materials, labor, and NDT, but it excludes PWHT.",
+   "es": "Nuestra cotización incluye materiales, mano de obra y ensayos no destructivos, pero excluye el TTPS.",
+   "situation": "Cotización"
+  },
+  {
+   "en": "The MTRs for the 6-inch pipe don't match the heat numbers on the material.",
+   "es": "Los certificados del tubo de 6 pulgadas no coinciden con los números de colada del material.",
+   "situation": "Proveedor"
+  },
+  {
+   "en": "We're two days behind schedule because of the rain, but we can catch up by Saturday.",
+   "es": "Vamos dos días atrasados por la lluvia, pero podemos recuperarnos para el sábado.",
+   "situation": "Reunión de avance"
+  },
+  {
+   "en": "Basically, I make sure the tanks don't leak and the welds are done right.",
+   "es": "Básicamente, me aseguro de que los tanques no tengan fugas y de que las soldaduras estén bien hechas.",
+   "situation": "Cena con amigos"
+  },
+  {
+   "en": "There are three A items left on the punch list, so we can't hand over the tank yet.",
+   "es": "Quedan tres ítems A en la lista de pendientes, así que aún no podemos entregar el tanque.",
+   "situation": "Entrega del tanque"
+  },
+  {
+   "en": "Please find attached the revised ITP for your review and approval.",
+   "es": "Adjunto el ITP revisado para su revisión y aprobación.",
+   "situation": "Correo formal"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "The weld passed RT.",
+     "The weld didn't pass RT.",
+     "Did the weld pass RT?",
+     "Yes, it did. / No, it didn't."
+    ],
+    [
+     "The bolts were torqued.",
+     "The bolts weren't torqued.",
+     "Were the bolts torqued?",
+     "Yes, they were. / No, they weren't."
+    ],
+    [
+     "The test is required.",
+     "The test isn't required.",
+     "Is the test required?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "We have to submit the PQR.",
+     "We don't have to submit the PQR.",
+     "Do we have to submit the PQR?",
+     "Yes, we do. / No, we don't."
+    ],
+    [
+     "Mr. Lee has approved the WPS.",
+     "Mr. Lee hasn't approved the WPS.",
+     "Has Mr. Lee approved the WPS?",
+     "Yes, he has. / No, he hasn't."
+    ],
+    [
+     "The spools will arrive on Monday.",
+     "The spools won't arrive on Monday.",
+     "Will the spools arrive on Monday?",
+     "Yes, they will. / No, they won't."
+    ],
+    [
+     "The nozzle needs a repad.",
+     "The nozzle doesn't need a repad.",
+     "Does the nozzle need a repad?",
+     "Yes, it does. / No, it doesn't."
+    ],
+    [
+     "The welders are preheating the joint.",
+     "The welders aren't preheating the joint.",
+     "Are the welders preheating the joint?",
+     "Yes, they are. / No, they aren't."
+    ],
+    [
+     "The NCR can be closed.",
+     "The NCR can't be closed.",
+     "Can the NCR be closed?",
+     "Yes, it can. / No, it can't."
+    ],
+    [
+     "The tank should be cleaned first.",
+     "The tank shouldn't be cleaned first.",
+     "Should the tank be cleaned first?",
+     "Yes, it should. / No, it shouldn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Sarah",
+   "text": "Morning, Edwin. Is the line ready for the hydrotest?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Almost. All the flanges are made up, and the bolts were torqued to 450 newton-meters yesterday. Here's the torque record."
+  },
+  {
+   "who": "Sarah",
+   "text": "Good. Did you follow the star pattern on the 8-bolt flanges?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, we did. Three passes, plus a final check pass around the flange."
+  },
+  {
+   "who": "Sarah",
+   "text": "What's the test pressure?"
+  },
+  {
+   "who": "Edwin",
+   "text": "225 psi, which is 1.5 times the design pressure. We'll hold it for at least 10 minutes and then inspect every joint."
+  },
+  {
+   "who": "Sarah",
+   "text": "Per the ITP, this is a hold point, so don't pressurize until I sign the release."
+  },
+  {
+   "who": "Edwin",
+   "text": "Understood. One more thing: we found undercut on a support weld this morning. I've raised NCR-008, and the repair is planned for this afternoon."
+  },
+  {
+   "who": "Sarah",
+   "text": "Is it on the pressure boundary?"
+  },
+  {
+   "who": "Edwin",
+   "text": "No, it isn't. It's on the base plate of a pipe support, so it won't affect the test."
+  },
+  {
+   "who": "Sarah",
+   "text": "OK. Send me the NCR, and we'll start at ten."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "The contractor should submit the WPS. (es obligatorio)",
+   "right": "The contractor shall submit the WPS.",
+   "why": "Si es requisito, es shall; should lo convierte en recomendación."
+  },
+  {
+   "wrong": "We will make the hydrotest.",
+   "right": "We will perform / conduct the hydrotest.",
+   "why": "Ensayos e inspecciones se perform, conduct o carry out."
+  },
+  {
+   "wrong": "The plate has 12 mm.",
+   "right": "The plate is 12 mm thick.",
+   "why": "Dimensiones: be + medida + adjetivo (thick, long, wide, deep)."
+  },
+  {
+   "wrong": "a pipe of 6 inches",
+   "right": "a 6-inch pipe",
+   "why": "El tamaño va antes del sustantivo, con guion y en singular."
+  },
+  {
+   "wrong": "The weld was approved.",
+   "right": "The weld was accepted. / The weld passed.",
+   "why": "Approve es para documentos (WPS, ITP); una soldadura se acepta o pasa la inspección."
+  },
+  {
+   "wrong": "Porosities were found.",
+   "right": "Porosity was found.",
+   "why": "En inspección, porosity se usa como incontable."
+  },
+  {
+   "wrong": "torqued at 450 N·m",
+   "right": "torqued to 450 N·m",
+   "why": "Se aprieta hasta un valor: to."
+  },
+  {
+   "wrong": "According to the norm…",
+   "right": "In accordance with the code / standard…",
+   "why": "Norm = norma social. Una norma técnica es standard o code."
+  },
+  {
+   "wrong": "more informations about the nozzle",
+   "right": "more information about the nozzle",
+   "why": "Information es incontable: nunca lleva -s."
+  },
+  {
+   "wrong": "We did a reparation of the bottom.",
+   "right": "We repaired the bottom. / We carried out a bottom repair.",
+   "why": "Reparation = indemnización. Arreglo = repair."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "norm",
+   "looks": "norma",
+   "means": "norma social, lo habitual",
+   "fix": "standard, code"
+  },
+  {
+   "en": "solder",
+   "looks": "soldadura",
+   "means": "soldadura blanda con estaño (electrónica)",
+   "fix": "weld (unión), welding (proceso)"
+  },
+  {
+   "en": "reparation",
+   "looks": "reparación",
+   "means": "indemnización por un daño",
+   "fix": "repair"
+  },
+  {
+   "en": "ring",
+   "looks": "anillo (del tanque)",
+   "means": "anillo en general",
+   "fix": "shell course"
+  },
+  {
+   "en": "package",
+   "looks": "empaque",
+   "means": "paquete",
+   "fix": "gasket"
+  },
+  {
+   "en": "prove",
+   "looks": "prueba",
+   "means": "demostrar (verbo)",
+   "fix": "test"
+  },
+  {
+   "en": "realize",
+   "looks": "realizar",
+   "means": "darse cuenta",
+   "fix": "perform, carry out"
+  },
+  {
+   "en": "actual revision",
+   "looks": "revisión actual",
+   "means": "revisión real (no la de mentira)",
+   "fix": "current revision"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "El contratista deberá presentar el WPS antes de soldar.",
+    "answers": [
+     "The contractor shall submit the WPS before welding.",
+     "The contractor shall submit the WPS before welding begins."
+    ],
+    "explain": "\"Deberá\" en una especificación = requisito → shall. También vale before welding begins."
+   },
+   {
+    "prompt": "La empaquetadura no deberá reutilizarse.",
+    "answers": [
+     "The gasket shall not be reused."
+    ],
+    "explain": "Prohibición de norma = shall not + pasiva. Evita may not (ambiguo)."
+   },
+   {
+    "prompt": "Se recomienda lubricar los espárragos antes del apriete.",
+    "answers": [
+     "Stud bolts should be lubricated before tightening.",
+     "The stud bolts should be lubricated before tightening."
+    ],
+    "explain": "\"Se recomienda\" = should. Espárrago = stud bolt."
+   },
+   {
+    "prompt": "La plancha anular tiene 10 mm de espesor.",
+    "answers": [
+     "The annular plate is 10 mm thick."
+    ],
+    "explain": "Dimensión = be + medida + thick, nunca has 10 mm."
+   },
+   {
+    "prompt": "El inspector encontró porosidad en el pase de raíz.",
+    "answers": [
+     "The inspector found porosity in the root pass.",
+     "The inspector found porosity on the root pass."
+    ],
+    "explain": "Porosity incontable, sin artículo. También vale on the root pass."
+   },
+   {
+    "prompt": "La prueba hidrostática es un punto de parada; el cliente tiene que presenciarla.",
+    "answers": [
+     "The hydrostatic test is a hold point; the client has to witness it.",
+     "The hydrostatic test is a hold point; it has to be witnessed by the client.",
+     "The hydrostatic test is a hold point; the client must witness it.",
+     "The hydrostatic test is a hold point; it must be witnessed by the client.",
+     "The hydrostatic test is a hold point. The client has to witness it.",
+     "The hydrostatic test is a hold point, so the client has to witness it."
+    ],
+    "explain": "\"Presenciar\" = witness. También vale it has to be witnessed by the client o must."
+   },
+   {
+    "prompt": "Necesitamos una tubería de 8 pulgadas.",
+    "answers": [
+     "We need an 8-inch pipe."
+    ],
+    "explain": "Adjetivo compuesto en singular con guion. An porque eight empieza con sonido vocal."
+   },
+   {
+    "prompt": "Los pernos se apretaron a 300 N·m en secuencia de estrella.",
+    "answers": [
+     "The bolts were torqued to 300 N·m in a star pattern.",
+     "The bolts were torqued to 300 N·m in a cross pattern.",
+     "The bolts were torqued to 300 Nm in a star pattern.",
+     "The bolts were torqued to 300 Nm in a cross pattern."
+    ],
+    "explain": "Pasiva en pasado; apretar to un valor. También vale cross pattern."
+   },
+   {
+    "prompt": "¿Tenemos que radiografiar las soldaduras de filete?",
+    "answers": [
+     "Do we have to radiograph the fillet welds?",
+     "Do we have to RT the fillet welds?"
+    ],
+    "explain": "Pregunta hablada sobre un requisito: Do we have to…? (no Shall we…?). También vale Do we have to RT…?"
+   },
+   {
+    "prompt": "Salvo indicación contraria, todas las soldaduras se inspeccionarán visualmente. (norma)",
+    "answers": [
+     "Unless otherwise specified, all welds shall be visually inspected."
+    ],
+    "explain": "En una norma, el futuro \"se inspeccionarán\" expresa requisito → shall be. Will be no tiene fuerza normativa."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "The tank shall not be filled until the vacuum box test has been completed.",
+    "answers": [
+     "El tanque no deberá llenarse hasta que se haya completado la prueba con caja de vacío.",
+     "El tanque no se deberá llenar hasta que se complete la prueba con caja de vacío.",
+     "No se debe llenar el tanque hasta que se haya completado la prueba de caja de vacío."
+    ],
+    "explain": "Shall not = prohibición; until … has been completed = hasta que se haya completado."
+   },
+   {
+    "prompt": "Ultrasonic examination may be used if radiography is not practical.",
+    "answers": [
+     "Se permite usar ultrasonido si la radiografía no es factible.",
+     "Se puede usar el examen por ultrasonido si la radiografía no es práctica.",
+     "Está permitido usar ultrasonido si la radiografía no es factible."
+    ],
+    "explain": "May en norma = permiso (\"se permite\"), no \"quizá\"."
+   },
+   {
+    "prompt": "The root opening is out of tolerance.",
+    "answers": [
+     "La abertura de raíz está fuera de tolerancia.",
+     "La separación de raíz está fuera de tolerancia."
+    ],
+    "explain": "Root opening = abertura (separación) de raíz; out of tolerance = fuera de tolerancia."
+   },
+   {
+    "prompt": "Please find attached the MTRs for your review.",
+    "answers": [
+     "Adjunto los certificados de material (MTR) para su revisión.",
+     "Adjunto los certificados de material para su revisión.",
+     "Le adjunto los certificados de material para su revisión.",
+     "Adjunto encontrará los MTR para su revisión."
+    ],
+    "explain": "Please find attached es la fórmula formal de \"adjunto\". MTR = certificado de calidad del material."
+   },
+   {
+    "prompt": "Fit-up of spool 3 is on hold pending client approval.",
+    "answers": [
+     "El armado (fit-up) del spool 3 está en espera, pendiente de aprobación del cliente.",
+     "El armado del spool 3 está en espera, pendiente de aprobación del cliente.",
+     "El fit-up del spool 3 está en espera, pendiente de la aprobación del cliente.",
+     "El armado del spool 3 está detenido hasta que el cliente lo apruebe."
+    ],
+    "explain": "On hold = detenido / en espera; pending = pendiente de."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "The contractor should submit the PQR; it is mandatory.",
+    "answers": [
+     "The contractor shall submit the PQR; it is mandatory.",
+     "The contractor shall submit the PQR; it's mandatory.",
+     "The contractor must submit the PQR; it is mandatory.",
+     "The contractor must submit the PQR; it's mandatory."
+    ],
+    "explain": "Si es obligatorio, shall (o must), no should."
+   },
+   {
+    "prompt": "We will make the hydrostatic test tomorrow.",
+    "answers": [
+     "We will perform the hydrostatic test tomorrow.",
+     "We'll perform the hydrostatic test tomorrow.",
+     "We will conduct the hydrostatic test tomorrow.",
+     "We'll conduct the hydrostatic test tomorrow.",
+     "We will carry out the hydrostatic test tomorrow.",
+     "We'll carry out the hydrostatic test tomorrow."
+    ],
+    "explain": "Colocación: perform / conduct / carry out a test, no make."
+   },
+   {
+    "prompt": "The bottom plate has 8 mm.",
+    "answers": [
+     "The bottom plate is 8 mm thick."
+    ],
+    "explain": "Espesor = be + medida + thick."
+   },
+   {
+    "prompt": "We need a pipe of 6 inches for the drain.",
+    "answers": [
+     "We need a 6-inch pipe for the drain."
+    ],
+    "explain": "Adjetivo compuesto antes del sustantivo, singular y con guion."
+   },
+   {
+    "prompt": "The bolts were torqued at 450 N·m.",
+    "answers": [
+     "The bolts were torqued to 450 N·m."
+    ],
+    "explain": "Se aprieta to un valor."
+   },
+   {
+    "prompt": "RT revealed porosities in weld W-15.",
+    "answers": [
+     "RT revealed porosity in weld W-15."
+    ],
+    "explain": "Porosity es incontable en inspección."
+   },
+   {
+    "prompt": "Please send me more informations about the nozzle.",
+    "answers": [
+     "Please send me more information about the nozzle."
+    ],
+    "explain": "Information no tiene plural."
+   },
+   {
+    "prompt": "The welder has realized the root pass.",
+    "answers": [
+     "The welder has completed the root pass.",
+     "The welder has made the root pass.",
+     "The welder has run the root pass."
+    ],
+    "explain": "Realize = darse cuenta. También vale has made / has run."
+   },
+   {
+    "prompt": "According to the norm, the gasket shall not be reused.",
+    "answers": [
+     "According to the standard, the gasket shall not be reused.",
+     "According to the code, the gasket shall not be reused.",
+     "In accordance with the standard, the gasket shall not be reused."
+    ],
+    "explain": "Norm ≠ norma técnica. También vale code o In accordance with the standard."
+   },
+   {
+    "prompt": "The first ring of the tank is the thickest.",
+    "answers": [
+     "The first shell course of the tank is the thickest."
+    ],
+    "explain": "Anillo del tanque = shell course, no ring."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte en requisito de norma con shall y luego en pregunta hablada con have to: Welds are inspected visually.",
+   "answer": "All welds shall be visually inspected. / Do we have to inspect all the welds visually?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con: gasket · torqued · shall · hold point · witness · undercut · within · NCR (8 puntos).",
+   "lines": [
+    {
+     "who": "Client",
+     "text": "Is the flange at the pump discharge ready?"
+    },
+    {
+     "who": "You",
+     "text": "Yes. We installed a new spiral-wound [1], and the bolts were [2] to 300 N·m."
+    },
+    {
+     "who": "Client",
+     "text": "Good. Remember, the spec says the old gasket [3] not be reused."
+    },
+    {
+     "who": "You",
+     "text": "Of course. Also, the hydrotest is a [4] in the ITP, so we'll wait for you."
+    },
+    {
+     "who": "Client",
+     "text": "Fine. I'll come to [5] it at ten."
+    },
+    {
+     "who": "You",
+     "text": "One more thing: we found some [6] on the cap pass of weld W-21."
+    },
+    {
+     "who": "Client",
+     "text": "Is it [7] tolerance?"
+    },
+    {
+     "who": "You",
+     "text": "No, it's 1.5 mm deep. We'll raise an [8] and repair it today."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "gasket"
+     ],
+     "explain": "Spiral-wound gasket = empaquetadura espirometálica."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "torqued"
+     ],
+     "explain": "Pasiva were torqued + to 300 N·m."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "shall"
+     ],
+     "explain": "La especificación prohíbe: shall not be reused."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "hold point"
+     ],
+     "explain": "Por eso esperan al cliente: sin su liberación no se avanza."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "witness"
+     ],
+     "explain": "Come to witness = venir a presenciar."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "undercut"
+     ],
+     "explain": "Defecto en el pase de presentación; se mide en profundidad (1.5 mm)."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "within"
+     ],
+     "explain": "Within tolerance = dentro de tolerancia."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "NCR"
+     ],
+     "explain": "An NCR porque se pronuncia en si ÁR, con sonido vocal."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un NCR (7 puntos). Situación: durante la inspección visual del spool SP-14 (línea de 6 pulgadas), encontraste socavación de 1.5 mm de profundidad y 30 mm de largo en la soldadura brida-tubo FW-03. La especificación del proyecto PS-204 (ejemplo) permite como máximo 1 mm de profundidad. Usa los campos de la Parte 3.",
+   "rubric": [
+    "(1) número, fecha y ubicación exacta",
+    "(2) requisito citado con su referencia",
+    "(3) descripción factual con las dos medidas",
+    "(4) disposición clara con shall o pasos de reparación",
+    "(5) causa raíz probable sin culpar a personas",
+    "(6) acción correctiva con responsable (X to + verbo)",
+    "(7) vocabulario técnico correcto y cero errores de gramática"
+   ],
+   "model": "NCR No.: NCR-009 · Date: Oct 21, 2026\nItem / Location: Spool SP-14 (6-inch line), flange-to-pipe weld FW-03, cap pass.\nRequirement: Per Project Specification PS-204 (VT acceptance criteria), undercut shall not exceed 1 mm in depth.\nDescription: Visual inspection revealed undercut 1.5 mm deep and 30 mm long at the 12 o'clock position of weld FW-03.\nProposed disposition: Repair. The affected area shall be cleaned by grinding, re-welded per WPS-07, and re-inspected by VT and PT.\nRoot cause: Excessive current and travel speed on the cap pass.\nCorrective / preventive action: Welding foreman to re-brief the welder on WPS-07 parameters; QC to inspect the first cap pass of each shift.\nRaised by: Edwin (QC) · Accepted by: __________ (Client QA)"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Distinguir shall, should, may y can en una norma.",
+   "test": "Clasifica 10 cláusulas de tu especificación real en menos de 3 minutos; 10 de 10 correctas."
+  },
+  {
+   "skill": "Nombrar en inglés las partes de un tanque.",
+   "test": "Dibuja de memoria el corte de la Figura 33.2 y rotula 10 partes en 3 minutos, sin errores de ortografía."
+  },
+  {
+   "skill": "Explicar una junta bridada y su secuencia de apriete.",
+   "test": "Grábate 60 segundos sin leer: componentes, torque y secuencia en estrella."
+  },
+  {
+   "skill": "Nombrar defectos de soldadura y ensayos.",
+   "test": "Di en inglés 8 defectos y 6 ensayos (con su sigla) en 2 minutos, con la pronunciación correcta."
+  },
+  {
+   "skill": "Leer una cláusula y parafrasearla.",
+   "test": "Separa una cláusula real en sus partes (tabla de anatomía) y explícala en inglés llano en 4 frases."
+  },
+  {
+   "skill": "Redactar un NCR completo.",
+   "test": "Escribe un NCR con los 8 campos en 15 minutos; cumple los 7 criterios de la rúbrica C2."
+  },
+  {
+   "skill": "Redactar un reporte diario de avance.",
+   "test": "Escribe el DPR de tu día con los 7 bloques de la Figura 33.4 en 15 minutos, sin make the test ni has 10 mm."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What standards or rules do you have to follow in your job?",
+  "What's one thing that must never be done at your workplace, and why?",
+  "How do you report a problem or a defect at work?",
+  "Describe a document you write often. Who reads it?",
+  "What checks are carried out before your work is approved?",
+  "Which technical word in English do you find hardest to pronounce?"
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "id": 30,
+ "topic": "Collocations",
+ "title": "Making Decisions and Doing the Work",
+ "practice": "Léela 3 veces en voz alta y luego dila sin mirar. Fíjate en el verbo de cada bloque.",
+ "rows": [
+  {
+   "en": "I **do research** before I **make a decision**.",
+   "es": "Investigo antes de tomar una decisión."
+  },
+  {
+   "en": "On {project}, I track the **progress we make** daily.",
+   "es": "En {project_es}, controlo el avance que logramos a diario."
+  },
+  {
+   "en": "I **pay close attention to** every detail.",
+   "es": "Presto mucha atención a cada detalle."
+  },
+  {
+   "en": "I **take** the client's needs **into account**.",
+   "es": "Tengo en cuenta las necesidades del cliente."
+  },
+  {
+   "en": "Our work must **comply with the regulations**.",
+   "es": "Nuestro trabajo debe cumplir con las normas."
+  },
+  {
+   "en": "When I **make a mistake**, I fix it right away.",
+   "es": "Cuando cometo un error, lo corrijo de inmediato."
+  },
+  {
+   "en": "If a problem **arises**, I **raise the issue** early.",
+   "es": "Si surge un problema, planteo el tema a tiempo."
+  },
+  {
+   "en": "When prices **rise**, I update the budget.",
+   "es": "Cuando suben los precios, actualizo el presupuesto."
+  },
+  {
+   "en": "When we have **a tight deadline**, I **do my best** to **meet** it.",
+   "es": "Cuando tenemos un plazo ajustado, hago todo lo posible por cumplirlo."
+  },
+  {
+   "en": "I'm going to **submit a proposal** for a new control system.",
+   "es": "Voy a presentar una propuesta de un nuevo sistema de control."
+  },
+  {
+   "en": "English will **make a difference** in my career.",
+   "es": "El inglés marcará la diferencia en mi carrera."
+  }
+ ],
+ "dialogTitle": "Diálogo: suben los precios del proveedor",
+ "dialog": [
+  {
+   "who": "Mike",
+   "text": "{name}, our main supplier has raised its prices again."
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, I noticed. Prices have risen sharply this month."
+  },
+  {
+   "who": "Mike",
+   "text": "Does that affect our budget?"
+  },
+  {
+   "who": "{name}",
+   "text": "It does. I'll take the new prices into account and update it today."
+  },
+  {
+   "who": "Mike",
+   "text": "Great. Can you have a look at the schedule too?"
+  },
+  {
+   "who": "{name}",
+   "text": "Sure. I'll do some research and make a recommendation by Friday."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I make a decision.",
+   "pron": "ai meik ə di-SÍ-zhən"
+  },
+  {
+   "en": "I pay close attention.",
+   "pron": "ai pei KLOUS ə-TÉN-shən"
+  },
+  {
+   "en": "I take the client's needs into account.",
+   "pron": "ai TEIK dhə KLÁI-ənts NIDZ in-tu ə-KÁUNT"
+  },
+  {
+   "en": "a tight deadline",
+   "pron": "ə tait DÉD-lain"
+  }
+ ],
+ "check": "Digo el monólogo en menos de 1 minuto, sin leer, y no rompo ningún bloque: cero errores con make / do y rise / raise / arise."
+}

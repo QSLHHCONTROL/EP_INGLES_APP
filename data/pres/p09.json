@@ -1,0 +1,94 @@
+{
+ "id": 9,
+ "topic": "Pasado simple",
+ "title": "How I Got Here",
+ "practice": "Léela en voz alta 3 veces, cuidando el sonido de -ed. Luego grábate 1 minuto contándola sin mirar.",
+ "rows": [
+  {
+   "en": "I **studied** at {school} to become {a_profession}.",
+   "es": "Estudié en {school} para ser {profession_es}."
+  },
+  {
+   "en": "I **got** my degree in {gradYear}.",
+   "es": "Obtuve mi título en {gradYear}."
+  },
+  {
+   "en": "I **worked** for {prevJob} in {prevPlace}.",
+   "es": "Trabajé en {prevJob}, en {prevPlace}."
+  },
+  {
+   "en": "There, I **learned** a lot about {work}.",
+   "es": "Allí aprendí mucho sobre {work_es}."
+  },
+  {
+   "en": "In {startDate}, I **started** at {company} as {a_jobTitle}.",
+   "es": "En {startDate} empecé en {company} como {jobTitle_es}."
+  },
+  {
+   "en": "At {company}, I **worked** on {project}.",
+   "es": "En {company} trabajé en {project_es}."
+  },
+  {
+   "en": "I **used** {tool} every day.",
+   "es": "Usé {tool} todos los días."
+  },
+  {
+   "en": "I **built** new trackers in {tool} for my team.",
+   "es": "Armé nuevos controles en {tool} para mi equipo."
+  },
+  {
+   "en": "It **wasn't** easy, but I **liked** the challenge.",
+   "es": "No fue fácil, pero me gustó el reto."
+  },
+  {
+   "en": "I **started** this English book, and today I **finished** Module 9!",
+   "es": "Empecé este libro de inglés, ¡y hoy terminé el Módulo 9!"
+  }
+ ],
+ "dialogTitle": "Diálogo en una entrevista",
+ "dialog": [
+  {
+   "who": "Linda",
+   "text": "Where did you study?"
+  },
+  {
+   "who": "{name}",
+   "text": "I studied at {school}, in {country}."
+  },
+  {
+   "who": "Linda",
+   "text": "When did you finish?"
+  },
+  {
+   "who": "{name}",
+   "text": "I got my degree in {gradYear}."
+  },
+  {
+   "who": "Linda",
+   "text": "Did you work in {prevPlace}?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, I did. I worked for {prevJob} there. I learned a lot."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I studied at {school}.",
+   "pron": ""
+  },
+  {
+   "en": "I started at {company}.",
+   "pron": ""
+  },
+  {
+   "en": "It wasn't easy, but I liked the challenge.",
+   "pron": "it WÁ-zənt Í-zi, bət ai LAIKT dhə CHÁ-lənch"
+  },
+  {
+   "en": "I learned a lot.",
+   "pron": "ai LERND ə LOT"
+  }
+ ],
+ "check": "Cuento mi historia en menos de 1 minuto, sin leer, y pronuncio bien los tres sonidos de -ed (studied, worked, started), sin decir \"uor-KED\"."
+}

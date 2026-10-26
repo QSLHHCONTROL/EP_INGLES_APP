@@ -1,0 +1,94 @@
+{
+ "id": 10,
+ "topic": "GOING TO y WILL",
+ "title": "My Plans for the Future",
+ "practice": "Léela en voz alta 3 veces. Luego grábate 1 minuto diciendo tus planes sin mirar.",
+ "rows": [
+  {
+   "en": "**I'm going to** finish this English book.",
+   "es": "Voy a terminar este libro de inglés."
+  },
+  {
+   "en": "**I'm going to** finish my CV in English.",
+   "es": "Voy a terminar mi CV en inglés."
+  },
+  {
+   "en": "Then **I'm going to** apply for jobs in {dreamCountry}.",
+   "es": "Luego voy a postular a trabajos en {dreamCountry}."
+  },
+  {
+   "en": "At work, **I'm going to** propose a new {tool} system to {company}.",
+   "es": "En el trabajo, voy a proponerle a {company} un nuevo sistema en {tool}."
+  },
+  {
+   "en": "I think **it'll** save time for the team.",
+   "es": "Creo que le ahorrará tiempo al equipo."
+  },
+  {
+   "en": "This year, **I'm going to** learn more about {work}.",
+   "es": "Este año voy a aprender más sobre {work_es}."
+  },
+  {
+   "en": "I think my career **will** grow a lot in the next few years.",
+   "es": "Creo que mi carrera crecerá mucho en los próximos años."
+  },
+  {
+   "en": "It **won't** be easy, but **I'll** work hard.",
+   "es": "No será fácil, pero trabajaré duro."
+  },
+  {
+   "en": "I'm sure my English **will** get better.",
+   "es": "Estoy seguro de que mi inglés mejorará."
+  },
+  {
+   "en": "**I'll** practice every day. I promise!",
+   "es": "Practicaré todos los días. ¡Lo prometo!"
+  }
+ ],
+ "dialogTitle": "Diálogo en el trabajo",
+ "dialog": [
+  {
+   "who": "Mark",
+   "text": "{name}, the client needs the new schedule today."
+  },
+  {
+   "who": "{name}",
+   "text": "No problem. I'll send it after lunch."
+  },
+  {
+   "who": "Mark",
+   "text": "Great. Are you going to update the progress report too?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, I am. I'm going to finish it this afternoon."
+  },
+  {
+   "who": "Mark",
+   "text": "Thanks. The client will probably call you."
+  },
+  {
+   "who": "{name}",
+   "text": "OK. I'll keep you posted."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I'm going to apply for jobs in {dreamCountry}.",
+   "pron": ""
+  },
+  {
+   "en": "I'll send it after lunch.",
+   "pron": "ail SEND it ÁF-ter LANCH"
+  },
+  {
+   "en": "It won't be easy.",
+   "pron": "it WOUNT bi Í-zi"
+  },
+  {
+   "en": "I'll keep you posted.",
+   "pron": "ail kip yu PÓUS-tid"
+  }
+ ],
+ "check": "Digo mis planes en menos de 1 minuto, sin leer, nunca olvido am / is / are antes de going to y nunca pongo to después de will."
+}

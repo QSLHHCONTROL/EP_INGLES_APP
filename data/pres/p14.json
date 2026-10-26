@@ -1,0 +1,98 @@
+{
+ "id": 14,
+ "topic": "Presente perfecto continuo",
+ "title": "What I've Been Working On",
+ "practice": "Léela en voz alta 3 veces. Luego grábate 1 minuto diciéndola sin mirar.",
+ "rows": [
+  {
+   "en": "**I've been working** at {company} **since** {startDate}.",
+   "es": "Llevo trabajando en {company} desde {startDate}."
+  },
+  {
+   "en": "Lately, **I've been working** on {project}.",
+   "es": "Últimamente he estado trabajando en {project_es}."
+  },
+  {
+   "en": "The team **has been working** hard on it.",
+   "es": "El equipo ha estado trabajando duro en eso."
+  },
+  {
+   "en": "**I've been tracking** the daily progress in {tool}.",
+   "es": "He estado llevando el control del avance diario en {tool}."
+  },
+  {
+   "en": "**I've** also **been updating** our reports every week.",
+   "es": "También he estado actualizando nuestros reportes cada semana."
+  },
+  {
+   "en": "Recently, **I've been preparing** a new system for {company}.",
+   "es": "Recientemente he estado preparando un nuevo sistema para {company}."
+  },
+  {
+   "en": "**I've been learning** a lot about {work}.",
+   "es": "He estado aprendiendo mucho sobre {work_es}."
+  },
+  {
+   "en": "**I've been studying** English with this book **for** ___.",
+   "es": "Llevo ___ estudiando inglés con este libro."
+  },
+  {
+   "en": "**I've been writing** my CV in English.",
+   "es": "He estado escribiendo mi CV en inglés."
+  },
+  {
+   "en": "**I've been thinking** about working in {dreamCountry}.",
+   "es": "He estado pensando en trabajar en {dreamCountry}."
+  },
+  {
+   "en": "It**'s been** a busy year, but **I've learned** a lot.",
+   "es": "Ha sido un año ocupado, pero he aprendido mucho."
+  }
+ ],
+ "dialogTitle": "Diálogo en la oficina",
+ "dialog": [
+  {
+   "who": "{coworker}",
+   "text": "You look tired. What have you been doing?"
+  },
+  {
+   "who": "{name}",
+   "text": "I've been working on {project} all morning."
+  },
+  {
+   "who": "{coworker}",
+   "text": "How long have you been working on it?"
+  },
+  {
+   "who": "{name}",
+   "text": "Since 7 a.m. I haven't had a break yet."
+  },
+  {
+   "who": "{coworker}",
+   "text": "Have you finished it?"
+  },
+  {
+   "who": "{name}",
+   "text": "Not yet. I've done about half of it so far."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I've been working at {company} since {startDate}.",
+   "pron": ""
+  },
+  {
+   "en": "I've been tracking the daily progress.",
+   "pron": "aiv bin TRÁ-king dhə DÉI-li PRÓ-gres"
+  },
+  {
+   "en": "What have you been doing?",
+   "pron": "WOT jav yu bin DÚ-ing"
+  },
+  {
+   "en": "It's been a busy year.",
+   "pron": "its bin ə BÍ-zi YIR"
+  }
+ ],
+ "check": "Digo la página en menos de 1 minuto, sin leer, y nunca uso -ing con verbos de estado (know, be, have) ni con cantidades (I've checked 40 welds)."
+}

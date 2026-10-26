@@ -1,0 +1,963 @@
+{
+ "id": 4,
+ "level": "A1",
+ "title": "Preguntas con DO / DOES y palabras WH-",
+ "goal": "Al terminar podrás hacer preguntas de sí/no y preguntas con what, where, when, who, why, how, what time y how often sobre trabajo, rutinas y vida diaria, en el orden correcto, y responder con respuestas cortas naturales.",
+ "lesson": [
+  {
+   "title": "La pregunta en inglés necesita un auxiliar",
+   "html": "<p>En español una pregunta puede ser igual a una afirmación; solo cambia la entonación: <i>¿Trabajas aquí?</i> = <i>Trabajas aquí.</i> En inglés eso no basta. La pregunta necesita una <b>señal al inicio</b>: el auxiliar <span class=\"en\">do</span> o <span class=\"en\">does</span>. El auxiliar no se traduce; solo avisa \"esto es una pregunta\".</p><table><thead><tr><th>Español: solo la entonación</th><th>Inglés: auxiliar al inicio</th></tr></thead><tbody><tr><td>Trabajas aquí. → ¿Trabajas aquí?</td><td>You work here. → <span class=\"en\">Do you work here?</span></td></tr><tr><td>Ella habla inglés. → ¿Ella habla inglés?</td><td>She speaks English. → <span class=\"en\">Does she speak English?</span></td></tr><tr><td>Viven en Lima. → ¿Viven en Lima?</td><td>They live in Lima. → <span class=\"en\">Do they live in Lima?</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Regla de oro 1 — DO / DOES + sujeto + verbo base",
+   "html": "<p><span class=\"en\">Do</span> con I, you, we, they. <span class=\"en\">Does</span> con he, she, it. Como en el negativo (Módulo 3), la -s se muda a <i>does</i> y el verbo queda <b>sin -s</b>.</p><p><span class=\"ok\">Does she work here?</span> Nunca <span class=\"wrong\">Does she works here?</span> ni <span class=\"wrong\">She works here?</span> (por escrito).</p>",
+   "svg": "<svg viewBox=\"0 0 640 210\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"38\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">AFIRMATIVO</text>\n  <rect x=\"140\" y=\"14\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"190\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">Mark</text>\n  <rect x=\"252\" y=\"14\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"307\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">checks</text>\n  <rect x=\"374\" y=\"14\" width=\"140\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"444\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">the welds.</text>\n  <text x=\"20\" y=\"108\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">SÍ / NO</text>\n  <rect x=\"140\" y=\"84\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"180\" y=\"108\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">Does</text>\n  <rect x=\"232\" y=\"84\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"282\" y=\"108\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">Mark</text>\n  <rect x=\"344\" y=\"84\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"389\" y=\"108\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">check</text>\n  <rect x=\"446\" y=\"84\" width=\"140\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"516\" y=\"108\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">the welds?</text>\n  <text x=\"20\" y=\"178\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">WH-</text>\n  <rect x=\"50\" y=\"154\" width=\"82\" height=\"36\" rx=\"8\" fill=\"#6941C6\"/><text x=\"91\" y=\"178\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">What</text>\n  <rect x=\"140\" y=\"154\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"180\" y=\"178\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">does</text>\n  <rect x=\"232\" y=\"154\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"282\" y=\"178\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">Mark</text>\n  <rect x=\"344\" y=\"154\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"389\" y=\"178\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">check?</text>\n  <path d=\"M352 54 C 352 68, 190 66, 182 82\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/>\n  <text x=\"460\" y=\"70\" font-size=\"11\" fill=\"#E8590C\">la -s se va a does</text>\n  <text x=\"520\" y=\"200\" text-anchor=\"middle\" font-size=\"11\" fill=\"#6941C6\">la palabra WH- va delante</text>\n</svg>",
+   "caption": "Figura 4.1 — De afirmación a pregunta: entra does (con la -s), y para una pregunta WH- se coloca la palabra interrogativa delante."
+  },
+  {
+   "title": "Afirmativo, negativo, pregunta y respuesta corta",
+   "html": "<table><thead><tr><th></th><th>I / you / we / they</th><th>He / she / it</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td><span class=\"en\">You work on weekends.</span></td><td><span class=\"en\">She works on weekends.</span></td></tr><tr><td><b>Negativo</b></td><td><span class=\"en\">You don't work on weekends.</span></td><td><span class=\"en\">She doesn't work on weekends.</span></td></tr><tr><td><b>Pregunta sí/no</b></td><td><span class=\"en\">Do you work on weekends?</span></td><td><span class=\"en\">Does she work on weekends?</span></td></tr><tr><td><b>Respuesta corta</b></td><td><span class=\"en\">Yes, I do. / No, I don't.</span></td><td><span class=\"en\">Yes, she does. / No, she doesn't.</span></td></tr><tr><td><b>Pregunta WH-</b></td><td><span class=\"en\">When do you work?</span></td><td><span class=\"en\">When does she work?</span></td></tr></tbody></table><p><b>Detalles de la respuesta corta</b></p><ul><li>Se repite el auxiliar, no el verbo: <span class=\"ok\">Yes, I do.</span> Nunca <span class=\"wrong\">Yes, I work.</span> ni <span class=\"wrong\">Yes, I like.</span></li><li>El sujeto cambia a pronombre: <i>Does <b>your boss</b> speak Spanish?</i> → <span class=\"en\">Yes, <b>he</b> does.</span></li><li>Un simple <i>Yes</i> o <i>No</i> suena seco. Con <span class=\"en\">Yes, I do</span> o <span class=\"en\">No, I don't</span> suenas natural y amable.</li></ul>"
+  },
+  {
+   "title": "Las palabras WH-: qué información piden",
+   "html": "<table><thead><tr><th>Palabra</th><th>Pregunta</th><th>Respuesta natural</th></tr></thead><tbody><tr><td><span class=\"en\">What</span></td><td><span class=\"en\">What do you do?</span></td><td>I'm an engineer. / I design pipelines.</td></tr><tr><td><span class=\"en\">Where</span></td><td><span class=\"en\">Where does she live?</span></td><td>In Freeport.</td></tr><tr><td><span class=\"en\">When</span></td><td><span class=\"en\">When do they get paid?</span></td><td>On Fridays.</td></tr><tr><td><span class=\"en\">What time</span></td><td><span class=\"en\">What time does the shift start?</span></td><td>At 6 a.m.</td></tr><tr><td><span class=\"en\">Who</span></td><td><span class=\"en\">Who do you report to?</span></td><td>To Mr. Lee.</td></tr><tr><td><span class=\"en\">Why</span></td><td><span class=\"en\">Why do you get up so early?</span></td><td>Because I live far from the plant.</td></tr><tr><td><span class=\"en\">How</span></td><td><span class=\"en\">How do you go to work?</span></td><td>By bus.</td></tr><tr><td><span class=\"en\">How often</span></td><td><span class=\"en\">How often does he visit the site?</span></td><td>Twice a week.</td></tr><tr><td><span class=\"en\">How much / How many</span></td><td><span class=\"en\">How much does it cost? / How many people work here?</span></td><td>$50. / About 200.</td></tr><tr><td><span class=\"en\">Which</span></td><td><span class=\"en\">Which bus do you take?</span></td><td>The number 12.</td></tr></tbody></table><p><i>When do they get paid?</i> usa <i>get paid</i> (recibir el pago) como bloque fijo. <i>Who do you report to?</i> = ¿A quién le reportas? (la preposición va al final).</p>",
+   "svg": "<svg viewBox=\"0 0 640 300\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <circle cx=\"320\" cy=\"150\" r=\"62\" fill=\"#0E9384\"/>\n  <text x=\"320\" y=\"146\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#fff\">WH- +</text>\n  <text x=\"320\" y=\"168\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#E6F7F5\">do / does</text>\n  <g stroke=\"#98A2B3\" stroke-width=\"2\">\n    <line x1=\"270\" y1=\"112\" x2=\"190\" y2=\"62\"/><line x1=\"370\" y1=\"112\" x2=\"450\" y2=\"62\"/>\n    <line x1=\"258\" y1=\"150\" x2=\"200\" y2=\"150\"/><line x1=\"382\" y1=\"150\" x2=\"440\" y2=\"150\"/>\n    <line x1=\"270\" y1=\"188\" x2=\"190\" y2=\"238\"/><line x1=\"370\" y1=\"188\" x2=\"450\" y2=\"238\"/>\n    <line x1=\"320\" y1=\"88\" x2=\"320\" y2=\"56\"/><line x1=\"320\" y1=\"212\" x2=\"320\" y2=\"244\"/>\n  </g>\n  <rect x=\"30\" y=\"34\" width=\"160\" height=\"50\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"110\" y=\"56\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#0E9384\">What</text>\n  <text x=\"110\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">qué / cuál (cosa)</text>\n  <rect x=\"250\" y=\"8\" width=\"140\" height=\"48\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"29\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#0E9384\">Where</text>\n  <text x=\"320\" y=\"47\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">dónde (lugar)</text>\n  <rect x=\"450\" y=\"34\" width=\"160\" height=\"50\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"530\" y=\"56\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#0E9384\">When</text>\n  <text x=\"530\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">cuándo (día, momento)</text>\n  <rect x=\"30\" y=\"125\" width=\"170\" height=\"50\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"115\" y=\"147\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#0E9384\">What time</text>\n  <text x=\"115\" y=\"165\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">a qué hora</text>\n  <rect x=\"440\" y=\"125\" width=\"170\" height=\"50\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"525\" y=\"147\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#0E9384\">Who</text>\n  <text x=\"525\" y=\"165\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">quién / a quién</text>\n  <rect x=\"30\" y=\"216\" width=\"160\" height=\"50\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"110\" y=\"238\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#0E9384\">Why</text>\n  <text x=\"110\" y=\"256\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">por qué (razón)</text>\n  <rect x=\"250\" y=\"244\" width=\"140\" height=\"48\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"265\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#0E9384\">How</text>\n  <text x=\"320\" y=\"283\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">cómo (manera)</text>\n  <rect x=\"450\" y=\"216\" width=\"160\" height=\"50\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"530\" y=\"238\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#0E9384\">How often</text>\n  <text x=\"530\" y=\"256\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">con qué frecuencia</text>\n</svg>",
+   "caption": "Figura 4.2 — Mapa de palabras WH-. Todas siguen el mismo molde: palabra WH- + do/does + sujeto + verbo base."
+  },
+  {
+   "title": "Regla de oro 2 — El orden QASI: Question · Auxiliary · Subject · Infinitive",
+   "html": "<p>Toda pregunta WH- sigue este molde: <b>palabra WH-</b> + <b>do/does</b> + <b>sujeto</b> + <b>verbo base</b> + resto.</p><p><span class=\"ok\">Where do you work?</span> Nunca <span class=\"wrong\">Where you work?</span> ni <span class=\"wrong\">Where work you?</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 170\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"20\" width=\"140\" height=\"56\" rx=\"10\" fill=\"#6941C6\"/>\n  <text x=\"90\" y=\"46\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#F2EEFC\">Q · palabra WH-</text>\n  <text x=\"90\" y=\"66\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">What time</text>\n  <rect x=\"170\" y=\"20\" width=\"130\" height=\"56\" rx=\"10\" fill=\"#E8590C\"/>\n  <text x=\"235\" y=\"46\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#FFF2E8\">A · auxiliar</text>\n  <text x=\"235\" y=\"66\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">does</text>\n  <rect x=\"310\" y=\"20\" width=\"130\" height=\"56\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"375\" y=\"46\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1570EF\">S · sujeto</text>\n  <text x=\"375\" y=\"66\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#1D2939\">the bank</text>\n  <rect x=\"450\" y=\"20\" width=\"170\" height=\"56\" rx=\"10\" fill=\"#0E9384\"/>\n  <text x=\"535\" y=\"46\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#E6F7F5\">I · verbo base</text>\n  <text x=\"535\" y=\"66\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">open?</text>\n  <rect x=\"20\" y=\"100\" width=\"140\" height=\"44\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <text x=\"90\" y=\"128\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">Where</text>\n  <rect x=\"170\" y=\"100\" width=\"130\" height=\"44\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/>\n  <text x=\"235\" y=\"128\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">do</text>\n  <rect x=\"310\" y=\"100\" width=\"130\" height=\"44\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"375\" y=\"128\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">your kids</text>\n  <rect x=\"450\" y=\"100\" width=\"170\" height=\"44\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/>\n  <text x=\"535\" y=\"128\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">go to school?</text>\n</svg>",
+   "caption": "Figura 4.3 — El molde QASI: cuatro cajas, siempre en el mismo orden."
+  },
+  {
+   "title": "¿DO / DOES o AM / IS / ARE en la pregunta?",
+   "html": "<p>Es la confusión número uno. Recuerda el Módulo 3: TO BE y los verbos de acción no se mezclan. TO BE pregunta solo, invirtiendo (Módulo 1). Los demás verbos necesitan <i>do/does</i>.</p>",
+   "svg": "<svg viewBox=\"0 0 640 230\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"170\" y=\"10\" width=\"300\" height=\"42\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"37\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#fff\">¿El verbo principal es TO BE?</text>\n  <path d=\"M250 52 L 165 84\" fill=\"none\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <path d=\"M390 52 L 475 84\" fill=\"none\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <text x=\"196\" y=\"66\" text-anchor=\"end\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">SÍ</text>\n  <text x=\"444\" y=\"66\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">NO</text>\n  <rect x=\"20\" y=\"86\" width=\"290\" height=\"132\" rx=\"12\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"2\"/>\n  <text x=\"165\" y=\"114\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#7A5B00\">Invierte: be + sujeto</text>\n  <text x=\"165\" y=\"136\" text-anchor=\"middle\" font-size=\"12\" fill=\"#7A5B00\">sin do / does</text>\n  <text x=\"165\" y=\"164\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">Are you an engineer?</text>\n  <text x=\"165\" y=\"186\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">Where is the manager?</text>\n  <text x=\"165\" y=\"208\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">Is the pump ready?</text>\n  <rect x=\"330\" y=\"86\" width=\"290\" height=\"132\" rx=\"12\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"475\" y=\"114\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#0E9384\">do / does + verbo base</text>\n  <text x=\"475\" y=\"136\" text-anchor=\"middle\" font-size=\"12\" fill=\"#0E9384\">work, live, need, have…</text>\n  <text x=\"475\" y=\"164\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">Do you work as an engineer?</text>\n  <text x=\"475\" y=\"186\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">Where does the manager sit?</text>\n  <text x=\"475\" y=\"208\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">Does the pump work?</text>\n</svg>",
+   "caption": "Figura 4.4 — Mapa de decisión: TO BE invierte; los demás verbos usan do/does. Nunca Do you are…? ni Are you work…?"
+  },
+  {
+   "title": "Preguntas de sujeto: WHO / WHAT sin DO",
+   "html": "<p>Hay un caso especial. Si <span class=\"en\">who</span> o <span class=\"en\">what</span> es <b>el sujeto</b> (preguntas quién hace la acción), no se usa <i>do/does</i>. La palabra WH- toma el lugar del sujeto y el verbo lleva <b>-s</b>, como con <i>he/she/it</i>.</p><table><thead><tr><th>Pregunta de sujeto (sin do)</th><th>Pregunta de objeto (con do/does)</th></tr></thead><tbody><tr><td><span class=\"en\">Who signs the permits? — Mr. Lee does.</span></td><td><span class=\"en\">What does Mr. Lee sign? — The permits.</span></td></tr><tr><td><span class=\"en\">Who works on Sundays? — Carlos does.</span></td><td><span class=\"en\">When does Carlos work? — On Sundays.</span></td></tr><tr><td><span class=\"en\">What happens after the test? — We drain the tank.</span></td><td><span class=\"en\">What do you do after the test? — We drain the tank.</span></td></tr><tr><td><span class=\"en\">Who knows the password? — Priya does.</span></td><td><span class=\"en\">Who do you know here? — Only Mark.</span></td></tr></tbody></table><p><b>Regla de oro 3 — Pregunta de sujeto: WHO + verbo con -s</b></p><p>Si la respuesta es \"quién hace\", el verbo va directo con -s, aunque la respuesta sea plural.</p><p><span class=\"ok\">Who works here?</span> Nunca <span class=\"wrong\">Who does work here?</span> (salvo para dar énfasis) ni <span class=\"wrong\">Who work here?</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 200\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"28\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">ORACIÓN</text>\n  <rect x=\"20\" y=\"38\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"70\" y=\"62\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">Ana</text>\n  <rect x=\"130\" y=\"38\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"180\" y=\"62\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">calls</text>\n  <rect x=\"240\" y=\"38\" width=\"116\" height=\"36\" rx=\"8\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/><text x=\"298\" y=\"62\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">the client.</text>\n  <text x=\"70\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1570EF\">sujeto</text>\n  <text x=\"298\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#E8590C\">objeto</text>\n  <rect x=\"370\" y=\"14\" width=\"250\" height=\"78\" rx=\"12\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/>\n  <text x=\"495\" y=\"40\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">¿Qué parte desconoces?</text>\n  <text x=\"495\" y=\"62\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1570EF\">el sujeto → Who + verbo-s</text>\n  <text x=\"495\" y=\"80\" text-anchor=\"middle\" font-size=\"12\" fill=\"#E8590C\">el objeto → Who + does + …</text>\n  <rect x=\"20\" y=\"112\" width=\"290\" height=\"76\" rx=\"12\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"165\" y=\"138\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1570EF\">PREGUNTA DE SUJETO (sin does)</text>\n  <text x=\"165\" y=\"164\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#1D2939\">Who calls the client?</text>\n  <text x=\"165\" y=\"180\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">— Ana does.</text>\n  <rect x=\"330\" y=\"112\" width=\"290\" height=\"76\" rx=\"12\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"475\" y=\"138\" text-anchor=\"middle\" font-size=\"12\" fill=\"#E8590C\">PREGUNTA DE OBJETO (con does)</text>\n  <text x=\"475\" y=\"164\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#1D2939\">Who does Ana call?</text>\n  <text x=\"475\" y=\"180\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">— The client.</text>\n</svg>",
+   "caption": "Figura 4.5 — Pregunta de sujeto vs pregunta de objeto. Si preguntas por quien hace la acción, sin do/does."
+  },
+  {
+   "title": "Así piensa un nativo — la entonación",
+   "html": "<p>En preguntas de sí/no la voz <b>sube</b> al final: <span class=\"en\">Do you work here? ↗</span>. En preguntas WH- la voz <b>baja</b> al final: <span class=\"en\">Where do you work? ↘</span>. Además, <i>do you</i> se pronuncia muy rápido y débil: <span class=\"pron\">də-yə</span>. <span class=\"en\">What do you do?</span> suena <span class=\"pron\">WÓ-də-yə DU</span>.</p>"
+  },
+  {
+   "title": "Traducción literal (mal) vs inglés real",
+   "html": "<table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>¿Hablas inglés?</td><td><span class=\"wrong\">You speak English?</span></td><td><span class=\"ok\">Do you speak English?</span></td></tr><tr><td>¿Dónde vives?</td><td><span class=\"wrong\">Where you live?</span></td><td><span class=\"ok\">Where do you live?</span></td></tr><tr><td>¿A qué te dedicas?</td><td><span class=\"wrong\">What is your dedicate?</span></td><td><span class=\"ok\">What do you do?</span></td></tr><tr><td>¿A qué hora abre el banco?</td><td><span class=\"wrong\">At what hour opens the bank?</span></td><td><span class=\"ok\">What time does the bank open?</span></td></tr><tr><td>¿Qué significa \"flange\"?</td><td><span class=\"wrong\">What signify \"flange\"?</span></td><td><span class=\"ok\">What does \"flange\" mean?</span></td></tr><tr><td>¿Cómo se dice \"brida\" en inglés?</td><td><span class=\"wrong\">How is said \"brida\" in English?</span></td><td><span class=\"ok\">How do you say \"brida\" in English?</span></td></tr><tr><td>¿Cuánto cuesta?</td><td><span class=\"wrong\">How much costs?</span></td><td><span class=\"ok\">How much does it cost?</span></td></tr></tbody></table>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "What do you do?",
+   "pron": "WÓ-də-yə DU",
+   "es": "¿A qué te dedicas?",
+   "group": "A. Conocer a alguien"
+  },
+  {
+   "en": "Where do you work?",
+   "pron": "wer də-yə WERK",
+   "es": "¿Dónde trabajas?",
+   "group": "A. Conocer a alguien"
+  },
+  {
+   "en": "Where do you live?",
+   "pron": "wer də-yə LIV",
+   "es": "¿Dónde vives?",
+   "group": "A. Conocer a alguien"
+  },
+  {
+   "en": "Do you have kids?",
+   "pron": "də-yə jav KIDZ",
+   "es": "¿Tienes hijos?",
+   "group": "A. Conocer a alguien"
+  },
+  {
+   "en": "Do you like it here?",
+   "pron": "də-yə LAIK it jir",
+   "es": "¿Te gusta estar aquí?",
+   "group": "A. Conocer a alguien"
+  },
+  {
+   "en": "What do you do on weekends?",
+   "pron": "WÓ-də-yə du on UÍK-endz",
+   "es": "¿Qué haces los fines de semana?",
+   "group": "A. Conocer a alguien"
+  },
+  {
+   "en": "How often do you go home?",
+   "pron": "jau ÓF-ən də-yə gou JOUM",
+   "es": "¿Cada cuánto vas a tu casa (país)?",
+   "group": "A. Conocer a alguien"
+  },
+  {
+   "en": "Do you speak Spanish?",
+   "pron": "də-yə spik SPÁ-nish",
+   "es": "¿Hablas español?",
+   "group": "A. Conocer a alguien"
+  },
+  {
+   "en": "What time does the shift start?",
+   "pron": "wot TAIM dəz dhə SHIFT start",
+   "es": "¿A qué hora empieza el turno?",
+   "group": "B. Preguntas de trabajo"
+  },
+  {
+   "en": "Who do I report to?",
+   "pron": "JU du ai ri-PÓRT tu",
+   "es": "¿A quién le reporto?",
+   "group": "B. Preguntas de trabajo"
+  },
+  {
+   "en": "Who signs the permits?",
+   "pron": "ju SAINZ dhə PÉR-mits",
+   "es": "¿Quién firma los permisos?",
+   "group": "B. Preguntas de trabajo"
+  },
+  {
+   "en": "Where do we keep the tools?",
+   "pron": "wer du wi KIP dhə TULZ",
+   "es": "¿Dónde guardamos las herramientas?",
+   "group": "B. Preguntas de trabajo"
+  },
+  {
+   "en": "How often do you test the pumps?",
+   "pron": "jau ÓF-ən də-yə TEST dhə PAMPS",
+   "es": "¿Cada cuánto prueban las bombas?",
+   "group": "B. Preguntas de trabajo"
+  },
+  {
+   "en": "Does it need a permit?",
+   "pron": "dəz it nid ə PÉR-mit",
+   "es": "¿Necesita un permiso?",
+   "group": "B. Preguntas de trabajo"
+  },
+  {
+   "en": "What do you need?",
+   "pron": "WÓ-də-yə NID",
+   "es": "¿Qué necesitas?",
+   "group": "B. Preguntas de trabajo"
+  },
+  {
+   "en": "Which drawing do you want?",
+   "pron": "wich DRÓ-ing də-yə WONT",
+   "es": "¿Qué plano quieres?",
+   "group": "B. Preguntas de trabajo"
+  },
+  {
+   "en": "What does \"gasket\" mean?",
+   "pron": "wot dəz GÁS-kit MIN",
+   "es": "¿Qué significa \"gasket\"?",
+   "group": "C. Aclarar y aprender"
+  },
+  {
+   "en": "How do you say \"brida\" in English?",
+   "pron": "jau də-yə SEI BRÍ-da in ÍN-glish",
+   "es": "¿Cómo se dice \"brida\" en inglés?",
+   "group": "C. Aclarar y aprender"
+  },
+  {
+   "en": "How do you spell that?",
+   "pron": "jau də-yə SPEL dhat",
+   "es": "¿Cómo se escribe eso?",
+   "group": "C. Aclarar y aprender"
+  },
+  {
+   "en": "What do you mean?",
+   "pron": "WÓ-də-yə MIN",
+   "es": "¿Qué quieres decir?",
+   "group": "C. Aclarar y aprender"
+  },
+  {
+   "en": "Do you understand?",
+   "pron": "də-yə an-der-STÁND",
+   "es": "¿Entiendes?",
+   "group": "C. Aclarar y aprender"
+  },
+  {
+   "en": "What do you think?",
+   "pron": "WÓ-də-yə THINK",
+   "es": "¿Qué opinas?",
+   "group": "C. Aclarar y aprender"
+  },
+  {
+   "en": "Why do you say that?",
+   "pron": "wai də-yə SEI dhat",
+   "es": "¿Por qué dices eso?",
+   "group": "C. Aclarar y aprender"
+  },
+  {
+   "en": "How much does it cost?",
+   "pron": "jau MACH dəz it KOST",
+   "es": "¿Cuánto cuesta?",
+   "group": "D. Servicios: restaurante, tienda, banco, transporte"
+  },
+  {
+   "en": "Do you take credit cards?",
+   "pron": "də-yə teik KRÉ-dit kardz",
+   "es": "¿Aceptan tarjetas de crédito?",
+   "group": "D. Servicios: restaurante, tienda, banco, transporte"
+  },
+  {
+   "en": "What time does the bank open?",
+   "pron": "wot TAIM dəz dhə BANK ÓU-pən",
+   "es": "¿A qué hora abre el banco?",
+   "group": "D. Servicios: restaurante, tienda, banco, transporte"
+  },
+  {
+   "en": "Does this bus go downtown?",
+   "pron": "dəz dhis BAS gou daun-TÁUN",
+   "es": "¿Este bus va al centro?",
+   "group": "D. Servicios: restaurante, tienda, banco, transporte"
+  },
+  {
+   "en": "Where do I pay?",
+   "pron": "WER du ai PEI",
+   "es": "¿Dónde pago?",
+   "group": "D. Servicios: restaurante, tienda, banco, transporte"
+  },
+  {
+   "en": "Does it come with fries?",
+   "pron": "dəz it KAM widh FRAIZ",
+   "es": "¿Viene con papas fritas?",
+   "group": "D. Servicios: restaurante, tienda, banco, transporte"
+  },
+  {
+   "en": "What do you recommend?",
+   "pron": "WÓ-də-yə re-kə-MÉND",
+   "es": "¿Qué me recomienda?",
+   "group": "D. Servicios: restaurante, tienda, banco, transporte"
+  },
+  {
+   "en": "Yes, I do. / No, I don't.",
+   "pron": "yes ai DU / nou ai DOUNT",
+   "es": "Sí. / No. (con do)",
+   "group": "E. Respuestas cortas y reacciones"
+  },
+  {
+   "en": "Yes, she does. / No, she doesn't.",
+   "pron": "yes shi DAZ / nou shi DÁ-zənt",
+   "es": "Sí. / No. (con does)",
+   "group": "E. Respuestas cortas y reacciones"
+  },
+  {
+   "en": "I don't know.",
+   "pron": "ai dount NOU",
+   "es": "No sé.",
+   "group": "E. Respuestas cortas y reacciones"
+  },
+  {
+   "en": "I think so. / I don't think so.",
+   "pron": "ai THINK sou / ai dount THINK sou",
+   "es": "Creo que sí. / Creo que no.",
+   "group": "E. Respuestas cortas y reacciones"
+  },
+  {
+   "en": "It depends.",
+   "pron": "it di-PÉNDZ",
+   "es": "Depende.",
+   "group": "E. Respuestas cortas y reacciones"
+  },
+  {
+   "en": "Mark does. / They do.",
+   "pron": "mark DAZ / dhei DU",
+   "es": "Mark. / Ellos. (respuesta a Who…?)",
+   "group": "E. Respuestas cortas y reacciones"
+  },
+  {
+   "en": "What kind of",
+   "pron": "wot KAIND əv",
+   "es": "qué tipo de",
+   "group": "F. Más palabras para preguntar",
+   "example": "What kind of steel do you use?"
+  },
+  {
+   "en": "How long",
+   "pron": "jau LONG",
+   "es": "cuánto tiempo (duración)",
+   "group": "F. Más palabras para preguntar",
+   "example": "How long does the test take?"
+  },
+  {
+   "en": "How far",
+   "pron": "jau FAR",
+   "es": "qué tan lejos",
+   "group": "F. Más palabras para preguntar",
+   "example": "How far is the site?"
+  },
+  {
+   "en": "Whose",
+   "pron": "juz",
+   "es": "de quién",
+   "group": "F. Más palabras para preguntar",
+   "example": "Whose helmet is this?"
+  },
+  {
+   "en": "How many",
+   "pron": "jau MÉ-ni",
+   "es": "cuántos (contables)",
+   "group": "F. Más palabras para preguntar",
+   "example": "How many welders do you need?"
+  },
+  {
+   "en": "What else",
+   "pron": "wot ELS",
+   "es": "qué más",
+   "group": "F. Más palabras para preguntar",
+   "example": "What else do you need?"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Who do I report to, and where does he sit?",
+   "es": "¿A quién le reporto y dónde se sienta?",
+   "situation": "Primer día"
+  },
+  {
+   "en": "What time does the night shift finish?",
+   "es": "¿A qué hora termina el turno de noche?",
+   "situation": "Horario"
+  },
+  {
+   "en": "Does the inspector check every weld or only a sample?",
+   "es": "¿El inspector revisa cada soldadura o solo una muestra?",
+   "situation": "Inspección"
+  },
+  {
+   "en": "How often do you change the oil in this compressor?",
+   "es": "¿Cada cuánto cambian el aceite de este compresor?",
+   "situation": "Mantenimiento"
+  },
+  {
+   "en": "What does \"NPS\" mean on this drawing?",
+   "es": "¿Qué significa \"NPS\" en este plano?",
+   "situation": "Planos"
+  },
+  {
+   "en": "How long does the supplier take to deliver the valves?",
+   "es": "¿Cuánto demora el proveedor en entregar las válvulas?",
+   "situation": "Compras"
+  },
+  {
+   "en": "Who approves the purchase orders? — The project manager does.",
+   "es": "¿Quién aprueba las órdenes de compra? — El gerente de proyecto.",
+   "situation": "Responsable"
+  },
+  {
+   "en": "Do we need a password for the printer?",
+   "es": "¿Necesitamos una contraseña para la impresora?",
+   "situation": "Oficina"
+  },
+  {
+   "en": "Why do you work so many hours? — Because I want to save money.",
+   "es": "¿Por qué trabajas tantas horas? — Porque quiero ahorrar dinero.",
+   "situation": "Conversación"
+  },
+  {
+   "en": "How often do you talk to your family in Peru?",
+   "es": "¿Cada cuánto hablas con tu familia en Perú?",
+   "situation": "Familia"
+  },
+  {
+   "en": "Does the soup have seafood? I'm allergic.",
+   "es": "¿La sopa tiene mariscos? Soy alérgico.",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "How much does an international transfer cost?",
+   "es": "¿Cuánto cuesta una transferencia internacional?",
+   "situation": "Banco"
+  },
+  {
+   "en": "Which bus goes to the airport?",
+   "es": "¿Qué bus va al aeropuerto?",
+   "situation": "Transporte"
+  },
+  {
+   "en": "How often do I take this medicine?",
+   "es": "¿Cada cuánto tomo esta medicina?",
+   "situation": "Médico"
+  },
+  {
+   "en": "Do you have the updated inspection report for Tank 5?",
+   "es": "¿Tiene el informe de inspección actualizado del Tanque 5?",
+   "situation": "Correo formal"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "You know the client.",
+     "You don't know the client.",
+     "Do you know the client?",
+     "Yes, I do. / No, I don't."
+    ],
+    [
+     "He wears a harness.",
+     "He doesn't wear a harness.",
+     "Does he wear a harness?",
+     "Yes, he does. / No, he doesn't."
+    ],
+    [
+     "She has a car.",
+     "She doesn't have a car.",
+     "Does she have a car?",
+     "Yes, she does. / No, she doesn't."
+    ],
+    [
+     "It needs a permit.",
+     "It doesn't need a permit.",
+     "Does it need a permit?",
+     "Yes, it does. / No, it doesn't."
+    ],
+    [
+     "We start at 7.",
+     "We don't start at 7.",
+     "Do we start at 7?",
+     "Yes, we do. / No, we don't."
+    ],
+    [
+     "They live near here.",
+     "They don't live near here.",
+     "Do they live near here?",
+     "Yes, they do. / No, they don't."
+    ],
+    [
+     "The store opens on Sundays.",
+     "The store doesn't open on Sundays.",
+     "Does the store open on Sundays?",
+     "Yes, it does. / No, it doesn't."
+    ],
+    [
+     "Your kids go to school.",
+     "Your kids don't go to school.",
+     "Do your kids go to school?",
+     "Yes, they do. / No, they don't."
+    ],
+    [
+     "Mr. Lee speaks Spanish.",
+     "Mr. Lee doesn't speak Spanish.",
+     "Does Mr. Lee speak Spanish?",
+     "Yes, he does. / No, he doesn't."
+    ],
+    [
+     "The valve is open.",
+     "The valve isn't open.",
+     "Is the valve open?",
+     "Yes, it is. / No, it isn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Mr. Lee",
+   "text": "So, Edwin, what do you do in your current job?"
+  },
+  {
+   "who": "Edwin",
+   "text": "I design piping systems and I check the isometric drawings."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Do you use AutoCAD Plant 3D?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, I do. I use it every day."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Good. And how often do you go to the site?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Two or three times a week. I check the fit-ups with the supervisor."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Who prepares the weld maps on your team?"
+  },
+  {
+   "who": "Edwin",
+   "text": "I do. The QC inspector reviews them."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Why do you want to work here?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Because your company works on big storage tanks, and I want to learn more about API 650."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Great. Do you have any questions for me?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes. What time does the workday start, and who do I report to?"
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "You work here?",
+   "right": "Do you work here?",
+   "why": "La pregunta escrita necesita do al inicio."
+  },
+  {
+   "wrong": "Where you live?",
+   "right": "Where do you live?",
+   "why": "Falta el auxiliar: orden QASI."
+  },
+  {
+   "wrong": "Does she works here?",
+   "right": "Does she work here?",
+   "why": "Con does, verbo sin -s."
+  },
+  {
+   "wrong": "Do he speak English?",
+   "right": "Does he speak English?",
+   "why": "He, she, it → does."
+  },
+  {
+   "wrong": "Do you are tired?",
+   "right": "Are you tired?",
+   "why": "TO BE no usa do."
+  },
+  {
+   "wrong": "Are you work on Saturdays?",
+   "right": "Do you work on Saturdays?",
+   "why": "Verbo de acción → do, no are."
+  },
+  {
+   "wrong": "What time opens the bank?",
+   "right": "What time does the bank open?",
+   "why": "Pregunta de objeto/tiempo → does + sujeto + verbo base."
+  },
+  {
+   "wrong": "Who does sign the permits?",
+   "right": "Who signs the permits?",
+   "why": "Who es el sujeto → sin does, verbo con -s."
+  },
+  {
+   "wrong": "— Do you like it? — Yes, I like.",
+   "right": "Yes, I do.",
+   "why": "La respuesta corta repite el auxiliar."
+  },
+  {
+   "wrong": "What means \"gasket\"?",
+   "right": "What does \"gasket\" mean?",
+   "why": "What es el objeto aquí → does + mean."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "How are you?",
+   "looks": "¿Cómo eres?",
+   "means": "¿Cómo estás?",
+   "fix": "What are you like?"
+  },
+  {
+   "en": "What do you do?",
+   "looks": "¿Qué haces (ahora)?",
+   "means": "¿A qué te dedicas?",
+   "fix": "What are you doing? (Módulo 5)"
+  },
+  {
+   "en": "How much?",
+   "looks": "¿Cuántos?",
+   "means": "¿Cuánto? (incontable, precio)",
+   "fix": "How many? (contables)"
+  },
+  {
+   "en": "Which?",
+   "looks": "¿Cuál? siempre",
+   "means": "¿Cuál? entre opciones limitadas",
+   "fix": "What…? (opciones abiertas)"
+  },
+  {
+   "en": "How long?",
+   "looks": "¿Qué tan largo?",
+   "means": "¿Cuánto tiempo? (también longitud)",
+   "fix": "How far? (distancia)"
+  },
+  {
+   "en": "Why?",
+   "looks": "\"Porque\" (respuesta)",
+   "means": "¿Por qué? (pregunta)",
+   "fix": "Because… (respuesta)"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "¿Hablas inglés? — Sí.",
+    "answers": [
+     "Do you speak English? — Yes, I do.",
+     "Do you speak English? Yes, I do."
+    ],
+    "explain": "Do + you + verbo base; respuesta corta con do."
+   },
+   {
+    "prompt": "¿Dónde trabaja tu esposa?",
+    "answers": [
+     "Where does your wife work?"
+    ],
+    "explain": "Your wife = she → does; work sin -s."
+   },
+   {
+    "prompt": "¿A qué hora empieza la reunión?",
+    "answers": [
+     "What time does the meeting start?",
+     "What time does the meeting begin?"
+    ],
+    "explain": "QASI: What time + does + the meeting + start."
+   },
+   {
+    "prompt": "¿Tu jefe habla español? — No.",
+    "answers": [
+     "Does your boss speak Spanish? — No, he doesn't.",
+     "Does your boss speak Spanish? — No, he does not.",
+     "Does your boss speak Spanish? — No, she doesn't.",
+     "Does your boss speak Spanish? — No, she does not.",
+     "Does your boss speak Spanish? No, he doesn't.",
+     "Does your boss speak Spanish? No, he does not.",
+     "Does your boss speak Spanish? No, she doesn't.",
+     "Does your boss speak Spanish? No, she does not."
+    ],
+    "explain": "Your boss → pronombre he en la respuesta. También she si es mujer."
+   },
+   {
+    "prompt": "¿A qué te dedicas?",
+    "answers": [
+     "What do you do?"
+    ],
+    "explain": "Bloque fijo. El primer do es auxiliar; el segundo es el verbo \"hacer\"."
+   },
+   {
+    "prompt": "¿Cada cuánto revisan las válvulas?",
+    "answers": [
+     "How often do you check the valves?",
+     "How often do they check the valves?"
+    ],
+    "explain": "How often + do + sujeto. \"Revisan\" (ustedes) = you; también vale they."
+   },
+   {
+    "prompt": "¿Qué significa \"elbow\"?",
+    "answers": [
+     "What does \"elbow\" mean?"
+    ],
+    "explain": "What es objeto → does + mean (sin -s)."
+   },
+   {
+    "prompt": "¿Quién firma los permisos?",
+    "answers": [
+     "Who signs the permits?"
+    ],
+    "explain": "Pregunta de sujeto: Who + verbo con -s, sin does."
+   },
+   {
+    "prompt": "¿Por qué vives tan lejos?",
+    "answers": [
+     "Why do you live so far away?",
+     "Why do you live so far?"
+    ],
+    "explain": "Why + do + you + live. \"Tan lejos\" = so far (away)."
+   },
+   {
+    "prompt": "¿Cuánto cuesta este casco?",
+    "answers": [
+     "How much does this helmet cost?",
+     "How much is this helmet?"
+    ],
+    "explain": "Precio con verbo cost → How much does … cost. También vale How much is this helmet?"
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "Who do you report to?",
+    "answers": [
+     "¿A quién le reportas?",
+     "¿Quién es tu jefe directo?",
+     "¿A quién reportas?",
+     "¿A quién le rindes cuentas?"
+    ],
+    "explain": "Report to = reportar a; la preposición va al final."
+   },
+   {
+    "prompt": "Does the hotel have a gym?",
+    "answers": [
+     "¿El hotel tiene gimnasio?",
+     "¿Tiene gimnasio el hotel?",
+     "¿El hotel tiene un gimnasio?"
+    ],
+    "explain": "Does no se traduce; have = tener."
+   },
+   {
+    "prompt": "How do you go to work?",
+    "answers": [
+     "¿Cómo vas al trabajo?",
+     "¿Cómo te vas al trabajo?",
+     "¿Cómo llegas al trabajo?"
+    ],
+    "explain": "How = manera (en bus, en auto…)."
+   },
+   {
+    "prompt": "Which bus goes downtown?",
+    "answers": [
+     "¿Qué bus va al centro?",
+     "¿Qué autobús va al centro?",
+     "¿Cuál bus va al centro?"
+    ],
+    "explain": "Which bus es sujeto → goes, sin does."
+   },
+   {
+    "prompt": "How long does the hydrotest take?",
+    "answers": [
+     "¿Cuánto demora la prueba hidrostática?",
+     "¿Cuánto tiempo toma la prueba hidrostática?",
+     "¿Cuánto dura la prueba hidrostática?",
+     "¿Cuánto tarda la prueba hidrostática?"
+    ],
+    "explain": "How long does … take? = ¿Cuánto tiempo toma…?"
+   }
+  ],
+  "B": [
+   {
+    "prompt": "Where you work?",
+    "answers": [
+     "Where do you work?"
+    ],
+    "explain": "Faltaba el auxiliar do."
+   },
+   {
+    "prompt": "Does she lives in Freeport?",
+    "answers": [
+     "Does she live in Freeport?"
+    ],
+    "explain": "Con does, verbo sin -s."
+   },
+   {
+    "prompt": "Do he have a car?",
+    "answers": [
+     "Does he have a car?"
+    ],
+    "explain": "He → does."
+   },
+   {
+    "prompt": "Do you are the new inspector?",
+    "answers": [
+     "Are you the new inspector?"
+    ],
+    "explain": "TO BE: sin do, se invierte."
+   },
+   {
+    "prompt": "Are you speak Spanish?",
+    "answers": [
+     "Do you speak Spanish?"
+    ],
+    "explain": "Verbo de acción → do, no are."
+   },
+   {
+    "prompt": "What time starts the shift?",
+    "answers": [
+     "What time does the shift start?"
+    ],
+    "explain": "Faltaba does + sujeto antes del verbo base."
+   },
+   {
+    "prompt": "Who does work on Sundays?",
+    "answers": [
+     "Who works on Sundays?"
+    ],
+    "explain": "Pregunta de sujeto: sin does, verbo con -s."
+   },
+   {
+    "prompt": "— Do you like your job? — Yes, I like.",
+    "answers": [
+     "Yes, I do.",
+     "— Do you like your job? — Yes, I do.",
+     "Do you like your job? Yes, I do."
+    ],
+    "explain": "Respuesta corta con el auxiliar."
+   },
+   {
+    "prompt": "What means \"flange\"?",
+    "answers": [
+     "What does \"flange\" mean?"
+    ],
+    "explain": "does + mean (sin -s)."
+   },
+   {
+    "prompt": "How many do these gloves cost?",
+    "answers": [
+     "How much do these gloves cost?"
+    ],
+    "explain": "Precio = How much, no how many (que es para contar cosas)."
+   }
+  ],
+  "bonus": {
+   "prompt": "Escribe la pregunta que pide la parte en mayúsculas: Ana works AT THE PORT. → Where…? / Ana works ON MONDAYS. → When…?",
+   "answer": "Where does Ana work? / When does Ana work?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con do, does, don't, doesn't, what, where, who o how often. Algunas palabras se repiten.",
+   "lines": [
+    {
+     "who": "Sarah",
+     "text": "Hi! [1] you work in the design office?"
+    },
+    {
+     "who": "You",
+     "text": "Yes, I [2]. I'm the new piping designer."
+    },
+    {
+     "who": "Sarah",
+     "text": "Nice! [3] do you live? Near the plant?"
+    },
+    {
+     "who": "You",
+     "text": "No, I live downtown. [4] the company bus stop there?"
+    },
+    {
+     "who": "Sarah",
+     "text": "No, it [5]. But a city bus goes to the plant."
+    },
+    {
+     "who": "You",
+     "text": "[6] does it come? Every 30 minutes?"
+    },
+    {
+     "who": "Sarah",
+     "text": "Yes. And [7] time do you start?"
+    },
+    {
+     "who": "You",
+     "text": "At 7. By the way, [8] approves the drawings here?"
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "Do"
+     ],
+     "explain": "Pregunta sí/no con you."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "do"
+     ],
+     "explain": "Respuesta corta: Yes, I do."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "Where"
+     ],
+     "explain": "La respuesta es un lugar (downtown)."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "Does"
+     ],
+     "explain": "The company bus = it → Does."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "doesn't",
+      "does not"
+     ],
+     "explain": "Respuesta corta negativa con it."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "How often"
+     ],
+     "explain": "La respuesta es una frecuencia (every 30 minutes)."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "what"
+     ],
+     "explain": "What time = a qué hora."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "who"
+     ],
+     "explain": "Pregunta de sujeto: who approves, sin does."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Prepara una entrevista. Escribe 7 preguntas para conocer a un compañero nuevo de trabajo. Incluye: (a) una pregunta sí/no con do, (b) una pregunta sí/no con does sobre otra persona, (c) una con where, (d) una con what time, (e) una con how often, (f) una pregunta de sujeto con who (sin do/does), (g) una pregunta con TO BE.",
+   "rubric": [
+    "(a) Una pregunta sí/no con do",
+    "(b) Una pregunta sí/no con does sobre otra persona",
+    "(c) Una pregunta con where",
+    "(d) Una pregunta con what time",
+    "(e) Una pregunta con how often",
+    "(f) Una pregunta de sujeto con who (sin do/does)",
+    "(g) Una pregunta con TO BE"
+   ],
+   "model": "(a) Do you live near the plant?\n(b) Does your family live here too?\n(c) Where do you have lunch?\n(d) What time does your shift finish?\n(e) How often do you visit the site?\n(f) Who checks your drawings?\n(g) Are you from the Bahamas or from another country?"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Hacer preguntas sí/no con do / does.",
+   "test": "Convierte 10 afirmaciones a pregunta en 2 minutos; cero \"does + verbo con -s\"."
+  },
+  {
+   "skill": "Dar respuestas cortas naturales.",
+   "test": "Responde 8 preguntas con \"Yes, I do / No, she doesn't…\". Cero \"Yes, I like\"."
+  },
+  {
+   "skill": "Usar las palabras WH- en orden QASI.",
+   "test": "Escribe una pregunta con cada palabra: what, where, when, what time, who, why, how, how often. 8 de 8 correctas."
+  },
+  {
+   "skill": "Elegir entre do/does y am/is/are.",
+   "test": "Traduce: ¿estás cansado?, ¿trabajas aquí?, ¿dónde está el baño?, ¿dónde vive él?, ¿es nuevo?, ¿tiene auto? 6 de 6."
+  },
+  {
+   "skill": "Hacer preguntas de sujeto con who.",
+   "test": "Forma 4 preguntas \"Who + verbo-s\" sobre tu trabajo (quién firma, quién aprueba…) sin usar does."
+  },
+  {
+   "skill": "Mantener una conversación de 2 minutos preguntando.",
+   "test": "Grábate entrevistando a alguien (o a ti mismo): mínimo 8 preguntas distintas con entonación correcta."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What do you do?",
+  "Where do you work?",
+  "What time do you start work?",
+  "How often do you exercise?",
+  "Who cooks at your house?",
+  "Why do you want to learn English?"
+ ]
+}

@@ -1,0 +1,984 @@
+{
+ "id": 31,
+ "level": "C1",
+ "title": "Entonación, ritmo y connected speech",
+ "goal": "Al terminar podrás entender el inglés rápido de nativos (gonna, wanna, didja, whaddya), hablar con el ritmo acentual del inglés usando formas débiles, enlazar palabras como un nativo y usar la entonación para preguntar, confirmar, dudar o contrastar sin sonar brusco.",
+ "lesson": [
+  {
+   "title": "Ritmo: el español cuenta sílabas, el inglés cuenta golpes",
+   "html": "<p>Muchos hispanohablantes de nivel avanzado leen y escriben bien, pero en una llamada o en obra \"no entienden nada\". El problema casi nunca es el vocabulario: es que el inglés hablado <b>no suena como se escribe</b>. Los nativos comprimen las palabras gramaticales, unen unas palabras con otras y usan la melodía para dar significado. Si esperas oír <i>What do you want to do?</i> palabra por palabra, no reconocerás <span class=\"pron\">WÓ-də-yə WÓ-nə DU</span>.</p><p>El español tiene <b>ritmo silábico</b>: cada sílaba dura más o menos lo mismo. El inglés tiene <b>ritmo acentual</b>: los golpes (sílabas fuertes) caen a intervalos casi regulares y las sílabas débiles que están en medio se aprietan para caber. Por eso una oración con más palabras puede durar casi lo mismo que una corta, si tiene el mismo número de golpes.</p>",
+   "svg": "<svg viewBox=\"0 0 640 330\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"22\" font-size=\"13\" font-weight=\"800\" fill=\"#6941C6\">INGLÉS — ritmo acentual: los golpes caen a intervalos regulares</text>\n  <g stroke=\"#B9A6E8\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\">\n    <line x1=\"210\" y1=\"36\" x2=\"210\" y2=\"214\"/>\n    <line x1=\"380\" y1=\"36\" x2=\"380\" y2=\"214\"/>\n    <line x1=\"550\" y1=\"36\" x2=\"550\" y2=\"214\"/>\n  </g>\n  <text x=\"20\" y=\"66\" font-size=\"12\" fill=\"#667085\">3 sílabas</text>\n  <text x=\"20\" y=\"126\" font-size=\"12\" fill=\"#667085\">6 sílabas</text>\n  <text x=\"20\" y=\"186\" font-size=\"12\" fill=\"#667085\">8 sílabas</text>\n  <g fill=\"#6941C6\">\n    <circle cx=\"210\" cy=\"62\" r=\"14\"/><circle cx=\"380\" cy=\"62\" r=\"14\"/><circle cx=\"550\" cy=\"62\" r=\"14\"/>\n    <circle cx=\"210\" cy=\"122\" r=\"14\"/><circle cx=\"380\" cy=\"122\" r=\"14\"/><circle cx=\"550\" cy=\"122\" r=\"14\"/>\n    <circle cx=\"210\" cy=\"182\" r=\"14\"/><circle cx=\"380\" cy=\"182\" r=\"14\"/><circle cx=\"550\" cy=\"182\" r=\"14\"/>\n  </g>\n  <g fill=\"#B9A6E8\">\n    <circle cx=\"160\" cy=\"122\" r=\"6\"/><circle cx=\"295\" cy=\"122\" r=\"6\"/><circle cx=\"465\" cy=\"122\" r=\"6\"/>\n    <circle cx=\"160\" cy=\"182\" r=\"6\"/><circle cx=\"295\" cy=\"182\" r=\"6\"/>\n    <circle cx=\"265\" cy=\"182\" r=\"6\"/><circle cx=\"325\" cy=\"182\" r=\"6\"/><circle cx=\"465\" cy=\"182\" r=\"6\"/>\n  </g>\n  <g font-size=\"13\" font-weight=\"800\" fill=\"#1D2939\" text-anchor=\"middle\">\n    <text x=\"210\" y=\"94\">NEED</text><text x=\"380\" y=\"94\">CHECK</text><text x=\"550\" y=\"94\">WELDS</text>\n    <text x=\"210\" y=\"154\">NEED</text><text x=\"380\" y=\"154\">CHECK</text><text x=\"550\" y=\"154\">WELDS</text>\n    <text x=\"210\" y=\"214\">NEED</text><text x=\"380\" y=\"214\">CHECK</text><text x=\"550\" y=\"214\">WELDS</text>\n  </g>\n  <g font-size=\"11\" fill=\"#667085\" text-anchor=\"middle\">\n    <text x=\"160\" y=\"146\">we</text><text x=\"295\" y=\"146\">to</text><text x=\"465\" y=\"146\">the</text>\n    <text x=\"160\" y=\"206\">we</text>\n    <text x=\"265\" y=\"206\">to</text><text x=\"295\" y=\"206\">have</text><text x=\"325\" y=\"206\">them</text><text x=\"465\" y=\"206\">the</text>\n  </g>\n  <text x=\"320\" y=\"238\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#4A2B91\">Mismos 3 golpes → casi el mismo tiempo. Las sílabas débiles se comprimen.</text>\n  <line x1=\"20\" y1=\"252\" x2=\"620\" y2=\"252\" stroke=\"#D0D5DD\"/>\n  <text x=\"20\" y=\"274\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">ESPAÑOL — ritmo silábico: cada sílaba dura casi lo mismo</text>\n  <g fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"1.5\">\n    <circle cx=\"60\" cy=\"294\" r=\"9\"/><circle cx=\"106\" cy=\"294\" r=\"9\"/><circle cx=\"152\" cy=\"294\" r=\"9\"/>\n    <circle cx=\"198\" cy=\"294\" r=\"9\"/><circle cx=\"244\" cy=\"294\" r=\"9\"/><circle cx=\"290\" cy=\"294\" r=\"9\"/>\n    <circle cx=\"336\" cy=\"294\" r=\"9\"/><circle cx=\"382\" cy=\"294\" r=\"9\"/><circle cx=\"428\" cy=\"294\" r=\"9\"/>\n    <circle cx=\"474\" cy=\"294\" r=\"9\"/><circle cx=\"520\" cy=\"294\" r=\"9\"/><circle cx=\"566\" cy=\"294\" r=\"9\"/>\n  </g>\n  <g font-size=\"12\" fill=\"#1D2939\" text-anchor=\"middle\">\n    <text x=\"60\" y=\"320\">te</text><text x=\"106\" y=\"320\">ne</text><text x=\"152\" y=\"320\">mos</text>\n    <text x=\"198\" y=\"320\">que</text><text x=\"244\" y=\"320\">re</text><text x=\"290\" y=\"320\">vi</text>\n    <text x=\"336\" y=\"320\">sar</text><text x=\"382\" y=\"320\">las</text><text x=\"428\" y=\"320\">sol</text>\n    <text x=\"474\" y=\"320\">da</text><text x=\"520\" y=\"320\">du</text><text x=\"566\" y=\"320\">ras</text>\n  </g>\n</svg>",
+   "caption": "Figura 31.1 — \"We need to check the welds\" (y \"We need to have them check the welds\") frente a \"Tenemos que revisar las soldaduras\". En inglés manda el golpe; en español, la sílaba."
+  },
+  {
+   "title": "Palabras fuertes y formas débiles",
+   "html": "<table><thead><tr><th>Tipo</th><th>Cuáles son</th><th>Cómo suenan</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>De contenido</b></td><td>sustantivos, verbos principales, adjetivos, adverbios, negativos (<i>can't, don't</i>), palabras WH-</td><td>Fuertes, claras, con vocal completa. Llevan el golpe.</td><td><span class=\"en\">We NEED to CHECK the WELDS.</span></td></tr><tr><td><b>Gramaticales</b></td><td>artículos, preposiciones, pronombres, auxiliares en afirmativo, conjunciones</td><td>Débiles, rápidas, con la vocal reducida a <span class=\"pron\">ə</span>.</td><td><span class=\"en\">we · to · the</span></td></tr></tbody></table><p>Estas palabras tienen dos pronunciaciones. La <b>débil</b> es la normal dentro de la oración; la <b>fuerte</b> aparece solo cuando la palabra va sola, al final o con énfasis.</p><table><thead><tr><th>Palabra</th><th>Fuerte</th><th>Débil (normal)</th><th>Ejemplo</th><th>Así suena</th></tr></thead><tbody><tr><td><span class=\"en\">to</span></td><td><span class=\"pron\">tu</span></td><td><span class=\"pron\">tə</span></td><td><span class=\"en\">I need to go.</span></td><td><span class=\"pron\">ai NÍD tə GOU</span></td></tr><tr><td><span class=\"en\">for</span></td><td><span class=\"pron\">for</span></td><td><span class=\"pron\">fər</span></td><td><span class=\"en\">It's for you.</span></td><td><span class=\"pron\">its fər YU</span></td></tr><tr><td><span class=\"en\">of</span></td><td><span class=\"pron\">ov</span></td><td><span class=\"pron\">əv / ə</span></td><td><span class=\"en\">a cup of coffee</span></td><td><span class=\"pron\">ə KÁ-pə KÓ-fi</span></td></tr><tr><td><span class=\"en\">and</span></td><td><span class=\"pron\">and</span></td><td><span class=\"pron\">ən</span></td><td><span class=\"en\">nuts and bolts</span></td><td><span class=\"pron\">NÁT-sən BÓULTS</span></td></tr><tr><td><span class=\"en\">can</span></td><td><span class=\"pron\">kan</span></td><td><span class=\"pron\">kən</span></td><td><span class=\"en\">I can help.</span></td><td><span class=\"pron\">ai kən JELP</span></td></tr><tr><td><span class=\"en\">was</span></td><td><span class=\"pron\">woz</span></td><td><span class=\"pron\">wəz</span></td><td><span class=\"en\">It was late.</span></td><td><span class=\"pron\">it wəz LEIT</span></td></tr><tr><td><span class=\"en\">have</span></td><td><span class=\"pron\">jav</span></td><td><span class=\"pron\">əv</span></td><td><span class=\"en\">They have left.</span></td><td><span class=\"pron\">dhei-yəv LEFT</span></td></tr><tr><td><span class=\"en\">at</span></td><td><span class=\"pron\">at</span></td><td><span class=\"pron\">ət</span></td><td><span class=\"en\">at the office</span></td><td><span class=\"pron\">ət dhi Ó-fis</span></td></tr><tr><td><span class=\"en\">from</span></td><td><span class=\"pron\">from</span></td><td><span class=\"pron\">frəm</span></td><td><span class=\"en\">a call from Mark</span></td><td><span class=\"pron\">ə KÓL frəm MARK</span></td></tr><tr><td><span class=\"en\">them</span></td><td><span class=\"pron\">dhem</span></td><td><span class=\"pron\">əm</span></td><td><span class=\"en\">Tell them.</span></td><td><span class=\"pron\">TÉ-ləm</span></td></tr><tr><td><span class=\"en\">do you</span></td><td><span class=\"pron\">du yu</span></td><td><span class=\"pron\">də-yə</span></td><td><span class=\"en\">Do you like it?</span></td><td><span class=\"pron\">də-yə LÁI-kit</span></td></tr><tr><td><span class=\"en\">are</span></td><td><span class=\"pron\">ar</span></td><td><span class=\"pron\">ər</span></td><td><span class=\"en\">Where are you?</span></td><td><span class=\"pron\">WÉ-rər-yə</span></td></tr></tbody></table><p><b>Regla de oro 1 — Golpe en las palabras de contenido, el resto se aprieta</b></p><p>Antes de decir una oración larga, marca mentalmente los golpes: <span class=\"en\">I'm GOING to SEND you the REPORT toMORrow.</span> Di las palabras fuertes con claridad y deja que <i>to, you, the</i> salgan rápidas, con <span class=\"pron\">ə</span>. Si pronuncias todo igual de fuerte, suenas robótico o enojado, aunque la gramática sea perfecta.</p>"
+  },
+  {
+   "title": "Auxiliares: débiles en afirmativo y pregunta, fuertes en negativo y respuesta corta",
+   "html": "<p>Aquí está la clave para no confundir <i>can</i> con <i>can't</i>, que en inglés americano casi no se distinguen por la t final: se distinguen por el <b>golpe</b>.</p><table><thead><tr><th></th><th>Regla de sonido</th><th>Ejemplo</th><th>Así suena</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td>Auxiliar débil, sin golpe.</td><td><span class=\"en\">I can swim. / She was late.</span></td><td><span class=\"pron\">ai kən SWIM</span> · <span class=\"pron\">shi wəz LEIT</span></td></tr><tr><td><b>Negativo</b></td><td>Auxiliar negativo fuerte, con golpe.</td><td><span class=\"en\">I can't swim. / She wasn't late.</span></td><td><span class=\"pron\">ai KANT SWIM</span> · <span class=\"pron\">shi WÓ-zənt LEIT</span></td></tr><tr><td><b>Pregunta</b></td><td>Auxiliar débil al inicio; la voz sube al final (↗).</td><td><span class=\"en\">Can you swim? / Was she late?</span></td><td><span class=\"pron\">kən-yə SWIM ↗</span> · <span class=\"pron\">wəz-shi LEIT ↗</span></td></tr><tr><td><b>Respuesta corta</b></td><td>Auxiliar al final = siempre fuerte.</td><td><span class=\"en\">Yes, I can. / No, she wasn't.</span></td><td><span class=\"pron\">yes ai KAN</span> · <span class=\"pron\">nou shi WÓ-zənt</span></td></tr></tbody></table><p><b>Regla de oro 2 — Negativos y respuestas cortas siempre llevan golpe</b></p><p>Si dices <span class=\"wrong\">ai kən GOU</span> queriendo decir <i>I can't go</i>, el nativo entiende lo contrario: <i>I can go</i>. Di <span class=\"pron\">ai KANT GOU</span>, con golpe en el negativo. Y no digas <span class=\"wrong\">ai KAN JELP</span> en afirmativo: suena a énfasis (\"¡claro que puedo!\") o se confunde con <i>can't</i>.</p>",
+   "svg": "<svg viewBox=\"0 0 640 240\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <g font-size=\"12\" font-weight=\"800\" fill=\"#667085\" text-anchor=\"middle\">\n    <text x=\"90\" y=\"24\">AFIRMATIVO</text><text x=\"245\" y=\"24\">NEGATIVO</text>\n    <text x=\"400\" y=\"24\">PREGUNTA</text><text x=\"555\" y=\"24\">RESP. CORTA</text>\n  </g>\n  <line x1=\"20\" y1=\"170\" x2=\"620\" y2=\"170\" stroke=\"#98A2B3\" stroke-width=\"1.5\"/>\n  <rect x=\"65\" y=\"140\" width=\"50\" height=\"30\" rx=\"4\" fill=\"#B9A6E8\"/>\n  <rect x=\"220\" y=\"70\" width=\"50\" height=\"100\" rx=\"4\" fill=\"#6941C6\"/>\n  <rect x=\"375\" y=\"140\" width=\"50\" height=\"30\" rx=\"4\" fill=\"#B9A6E8\"/>\n  <rect x=\"530\" y=\"70\" width=\"50\" height=\"100\" rx=\"4\" fill=\"#6941C6\"/>\n  <g font-size=\"14\" font-weight=\"800\" text-anchor=\"middle\">\n    <text x=\"90\" y=\"132\" fill=\"#6941C6\">kən</text>\n    <text x=\"245\" y=\"62\" fill=\"#4A2B91\">KANT</text>\n    <text x=\"400\" y=\"132\" fill=\"#6941C6\">kən</text>\n    <text x=\"555\" y=\"62\" fill=\"#4A2B91\">KAN</text>\n  </g>\n  <g font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\" text-anchor=\"middle\">\n    <text x=\"90\" y=\"196\">I can help.</text>\n    <text x=\"245\" y=\"196\">I can't help.</text>\n    <text x=\"400\" y=\"196\">Can you help?</text>\n    <text x=\"555\" y=\"196\">Yes, I can.</text>\n  </g>\n  <g font-size=\"12\" fill=\"#6941C6\" text-anchor=\"middle\">\n    <text x=\"90\" y=\"218\">ai kən JELP</text>\n    <text x=\"245\" y=\"218\">ai KANT JELP</text>\n    <text x=\"400\" y=\"218\">kən-yə JELP ↗</text>\n    <text x=\"555\" y=\"218\">yes ai KAN</text>\n  </g>\n</svg>",
+   "caption": "Figura 31.2 — Fuerza de CAN en cada forma. La altura de la barra es el golpe. Débil = kən; fuerte = KAN / KANT."
+  },
+  {
+   "title": "Entonación: la melodía también significa",
+   "html": "<p>Usaremos dos flechas: <b>↘ bajada</b> (la voz cae al final) y <b>↗ subida</b> (la voz sube al final). La combinación <b>↘↗</b> (baja y vuelve a subir) indica reserva o un \"pero…\" implícito. El movimiento empieza en la última sílaba fuerte de la frase.</p>",
+   "svg": "<svg viewBox=\"0 0 640 262\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"10\" width=\"190\" height=\"240\" rx=\"12\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <rect x=\"225\" y=\"10\" width=\"190\" height=\"240\" rx=\"12\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <rect x=\"430\" y=\"10\" width=\"190\" height=\"240\" rx=\"12\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"115\" y=\"36\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#6941C6\">BAJADA ↘</text>\n  <text x=\"320\" y=\"36\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#1570EF\">SUBIDA ↗</text>\n  <text x=\"525\" y=\"36\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#E8590C\">BAJADA-SUBIDA ↘↗</text>\n  <path d=\"M40 76 L140 70 C 160 68, 170 110, 190 116\" fill=\"none\" stroke=\"#6941C6\" stroke-width=\"4\" stroke-linecap=\"round\"/>\n  <circle cx=\"148\" cy=\"74\" r=\"6\" fill=\"#6941C6\"/>\n  <path d=\"M245 108 L345 104 C 365 102, 375 66, 395 60\" fill=\"none\" stroke=\"#1570EF\" stroke-width=\"4\" stroke-linecap=\"round\"/>\n  <circle cx=\"352\" cy=\"100\" r=\"6\" fill=\"#1570EF\"/>\n  <path d=\"M450 76 L520 74 C 540 74, 545 112, 565 112 C 585 112, 590 84, 600 76\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"4\" stroke-linecap=\"round\"/>\n  <circle cx=\"528\" cy=\"78\" r=\"6\" fill=\"#E8590C\"/>\n  <g font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">\n    <text x=\"36\" y=\"148\">Where's the rePORT?</text>\n    <text x=\"36\" y=\"168\">I'm from peRU.</text>\n    <text x=\"241\" y=\"148\">Is it READy?</text>\n    <text x=\"241\" y=\"168\">REALly?</text>\n    <text x=\"446\" y=\"148\">Well, MAYbe…</text>\n    <text x=\"446\" y=\"168\">It's GOOD, but…</text>\n  </g>\n  <line x1=\"36\" y1=\"182\" x2=\"194\" y2=\"182\" stroke=\"#B9A6E8\"/>\n  <line x1=\"241\" y1=\"182\" x2=\"399\" y2=\"182\" stroke=\"#A4C3F5\"/>\n  <line x1=\"446\" y1=\"182\" x2=\"604\" y2=\"182\" stroke=\"#F7B27A\"/>\n  <g font-size=\"12\" fill=\"#344054\">\n    <text x=\"36\" y=\"202\">• afirmaciones</text>\n    <text x=\"36\" y=\"220\">• preguntas WH-</text>\n    <text x=\"36\" y=\"238\">• órdenes, certeza</text>\n    <text x=\"241\" y=\"202\">• preguntas sí / no</text>\n    <text x=\"241\" y=\"220\">• sorpresa, interés</text>\n    <text x=\"241\" y=\"238\">• \"¿perdón?, repite\"</text>\n    <text x=\"446\" y=\"202\">• duda, reserva</text>\n    <text x=\"446\" y=\"220\">• cortesía, suavizar</text>\n    <text x=\"446\" y=\"238\">• un \"pero…\" implícito</text>\n  </g>\n</svg>",
+   "caption": "Figura 31.3 — Las tres curvas básicas. El punto marca la última sílaba fuerte, donde empieza el movimiento de la voz."
+  },
+  {
+   "title": "Connected speech: cómo se unen las palabras",
+   "html": "<p>Al hablar rápido, las palabras no se separan con pausas: se encadenan. Usamos <b>‿</b> para marcar un enlace y <b>d</b> para la \"t suave\" americana (una d muy rápida, como la r de <i>pero</i>).</p><table><thead><tr><th>Proceso</th><th>Qué pasa</th><th>Ejemplo</th><th>Así suena</th></tr></thead><tbody><tr><td><b>Enlace</b></td><td>La consonante final se pega a la vocal siguiente.</td><td><span class=\"en\">turn it off</span></td><td><span class=\"pron\">tər-ni-TÓF</span></td></tr><tr><td><b>Vocal + vocal</b></td><td>Aparece una <i>w</i> o una <i>y</i> de transición.</td><td><span class=\"en\">go on · I agree</span></td><td><span class=\"pron\">gou-WÓN</span> · <span class=\"pron\">ai-yə-GRÍ</span></td></tr><tr><td><b>Elisión</b></td><td>Una t o d entre consonantes desaparece.</td><td><span class=\"en\">next day · last night</span></td><td><span class=\"pron\">neks DEI</span> · <span class=\"pron\">las NAIT</span></td></tr><tr><td><b>Asimilación</b></td><td>d + y → sonido de la j de <i>job</i> (didja); t + y → <i>ch</i>.</td><td><span class=\"en\">did you · don't you</span></td><td><span class=\"pron\">DÍ-yə</span> · <span class=\"pron\">DÓUN-chə</span></td></tr><tr><td><b>T suave (flap)</b></td><td>Una t entre vocales suena como d rápida (EE. UU.).</td><td><span class=\"en\">water · get it</span></td><td><span class=\"pron\">WÓ-dər</span> · <span class=\"pron\">GUÉ-dit</span></td></tr><tr><td><b>Reducción</b></td><td>Combinaciones frecuentes se funden en una palabra.</td><td><span class=\"en\">going to · want to</span></td><td><span class=\"pron\">GÓ-nə</span> · <span class=\"pron\">WÓ-nə</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 310\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <g font-size=\"12\" font-weight=\"800\" fill=\"#667085\">\n    <text x=\"30\" y=\"22\">SE ESCRIBE</text><text x=\"300\" y=\"22\">SE OYE</text><text x=\"470\" y=\"22\">QUÉ PASÓ</text>\n  </g>\n  <g fill=\"#F2F4F7\" stroke=\"#98A2B3\">\n    <rect x=\"20\" y=\"34\" width=\"200\" height=\"36\" rx=\"8\"/><rect x=\"20\" y=\"80\" width=\"200\" height=\"36\" rx=\"8\"/>\n    <rect x=\"20\" y=\"126\" width=\"200\" height=\"36\" rx=\"8\"/><rect x=\"20\" y=\"172\" width=\"200\" height=\"36\" rx=\"8\"/>\n    <rect x=\"20\" y=\"218\" width=\"200\" height=\"36\" rx=\"8\"/><rect x=\"20\" y=\"264\" width=\"200\" height=\"36\" rx=\"8\"/>\n  </g>\n  <g fill=\"#6941C6\">\n    <rect x=\"290\" y=\"34\" width=\"160\" height=\"36\" rx=\"8\"/><rect x=\"290\" y=\"80\" width=\"160\" height=\"36\" rx=\"8\"/>\n    <rect x=\"290\" y=\"126\" width=\"160\" height=\"36\" rx=\"8\"/><rect x=\"290\" y=\"172\" width=\"160\" height=\"36\" rx=\"8\"/>\n    <rect x=\"290\" y=\"218\" width=\"160\" height=\"36\" rx=\"8\"/><rect x=\"290\" y=\"264\" width=\"160\" height=\"36\" rx=\"8\"/>\n  </g>\n  <g stroke=\"#6941C6\" stroke-width=\"2.5\">\n    <line x1=\"228\" y1=\"52\" x2=\"276\" y2=\"52\"/><line x1=\"228\" y1=\"98\" x2=\"276\" y2=\"98\"/>\n    <line x1=\"228\" y1=\"144\" x2=\"276\" y2=\"144\"/><line x1=\"228\" y1=\"190\" x2=\"276\" y2=\"190\"/>\n    <line x1=\"228\" y1=\"236\" x2=\"276\" y2=\"236\"/><line x1=\"228\" y1=\"282\" x2=\"276\" y2=\"282\"/>\n  </g>\n  <g fill=\"#6941C6\">\n    <polygon points=\"276,46 286,52 276,58\"/><polygon points=\"276,92 286,98 276,104\"/>\n    <polygon points=\"276,138 286,144 276,150\"/><polygon points=\"276,184 286,190 276,196\"/>\n    <polygon points=\"276,230 286,236 276,242\"/><polygon points=\"276,276 286,282 276,288\"/>\n  </g>\n  <g font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">\n    <text x=\"36\" y=\"57\">turn‿it‿off</text>\n    <text x=\"36\" y=\"103\">did you</text>\n    <text x=\"36\" y=\"149\">want to</text>\n    <text x=\"36\" y=\"195\">going to</text>\n    <text x=\"36\" y=\"241\">got to</text>\n    <text x=\"36\" y=\"287\">don't you</text>\n  </g>\n  <g font-size=\"15\" font-weight=\"800\" fill=\"#fff\" text-anchor=\"middle\">\n    <text x=\"370\" y=\"57\">tər-ni-TÓF</text>\n    <text x=\"370\" y=\"103\">DÍ-yə (didja)</text>\n    <text x=\"370\" y=\"149\">WÓ-nə (wanna)</text>\n    <text x=\"370\" y=\"195\">GÓ-nə (gonna)</text>\n    <text x=\"370\" y=\"241\">GÓ-də (gotta)</text>\n    <text x=\"370\" y=\"287\">DÓUN-chə</text>\n  </g>\n  <g font-size=\"12\" fill=\"#344054\">\n    <text x=\"470\" y=\"57\">consonante + vocal</text>\n    <text x=\"470\" y=\"103\">d + y → j de \"job\"</text>\n    <text x=\"470\" y=\"149\">la t desaparece</text>\n    <text x=\"470\" y=\"195\">solo antes de verbo</text>\n    <text x=\"470\" y=\"241\">t entre vocales → d</text>\n    <text x=\"470\" y=\"287\">t + y → ch</text>\n  </g>\n</svg>",
+   "caption": "Figura 31.4 — De lo escrito a lo que se oye. Las formas entre paréntesis son la ortografía informal que verás en chats, subtítulos y canciones."
+  },
+  {
+   "title": "Gonna no es jerga: entiende todo, usa con criterio",
+   "html": "<p><b>Así piensa un nativo — gonna no es \"jerga\", es como suena el inglés</b></p><p>Un nativo no siente que diga algo vulgar al decir <span class=\"pron\">aim GÓ-nə KÓ-lim</span>: así lo dicen gerentes, médicos y presidentes. Lo informal es <b>escribirlo</b> (<i>gonna, wanna</i>). Regla práctica: al hablar, usa las formas reducidas con naturalidad; en un correo, informe o propuesta, escribe siempre <i>going to, want to, have to</i>.</p><p><b>Regla de oro 3 — Entiende todo, usa con criterio</b></p><p>Tu prioridad es <b>entender</b> las reducciones; tu segunda meta es <b>producirlas</b> sin forzarlas. Empieza por las formas débiles (<span class=\"pron\">tə, fər, kən, ən</span>) y los enlaces: dan la mayor parte del efecto natural. <i>Gonna</i> y <i>wanna</i> vienen solas cuando hablas rápido.</p>"
+  },
+  {
+   "title": "Lectura palabra por palabra vs inglés real",
+   "html": "<table><thead><tr><th>Lo que haces si lees como en español</th><th>Lo que hace un nativo</th></tr></thead><tbody><tr><td>Cada sílaba igual de fuerte<br>Pausa entre palabras<br>Todas las vocales claras<br>Melodía plana o siempre subiendo<br>Cada t pronunciada fuerte</td><td>Golpes en las palabras de contenido<br>Palabras encadenadas: <span class=\"pron\">tər-ni-TÓF</span><br>Vocales débiles: <span class=\"pron\">tə, fər, ən</span><br>↘ para afirmar, ↗ para preguntar sí/no<br>T suave: <span class=\"pron\">WÓ-dər</span>, <span class=\"pron\">GUÉ-dit</span></td></tr></tbody></table><table><thead><tr><th>Frase</th><th>Lectura palabra por palabra (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td><span class=\"en\">What do you want?</span></td><td><span class=\"wrong\">wot du yu wont</span></td><td><span class=\"pron\">WÓ-də-yə WONT</span></td></tr><tr><td><span class=\"en\">I have to go.</span></td><td><span class=\"wrong\">ai jav tu gou</span></td><td><span class=\"pron\">ai JÁF-tə GOU</span></td></tr><tr><td><span class=\"en\">Did you eat?</span></td><td><span class=\"wrong\">did yu it</span></td><td><span class=\"pron\">DÍ-yə ÍT</span></td></tr><tr><td><span class=\"en\">a lot of people</span></td><td><span class=\"wrong\">ə lot ov pi-pol</span></td><td><span class=\"pron\">ə LÓ-də PÍ-pol</span></td></tr><tr><td><span class=\"en\">Turn it off.</span></td><td><span class=\"wrong\">tərn · it · of</span></td><td><span class=\"pron\">tər-ni-TÓF</span></td></tr><tr><td><span class=\"en\">I want to see it.</span></td><td><span class=\"wrong\">ai wont tu si it</span></td><td><span class=\"pron\">ai WÓ-nə SÍ-it</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Dónde NO funcionan las reducciones",
+   "html": "<p><b>Detalles finos — dónde NO funcionan las reducciones</b></p><ul><li><b>gonna</b> solo sustituye a <i>going to</i> + verbo (futuro). Con movimiento a un lugar no se reduce: <span class=\"ok\">I'm going to the site</span>, nunca <span class=\"wrong\">I'm gonna the site</span>.</li><li><b>wanna</b> solo sustituye a <i>want to</i>. Con objeto en medio no se reduce: <span class=\"ok\">I want you to call him</span>, nunca <span class=\"wrong\">I wanna you to call him</span>. Con <i>he/she</i> es <span class=\"pron\">ji WÓNTS tə</span>, nunca <span class=\"wrong\">he wanna</span>.</li><li><b>gotta</b> ya incluye <i>to</i>: <span class=\"ok\">We gotta go</span>, nunca <span class=\"wrong\">We gotta to go</span>. Al hablar, el <i>'ve</i> de <i>I've got to</i> casi desaparece.</li><li>La <b>t suave</b> es americana. En inglés británico <i>water</i> conserva la t. Ambas son correctas; elige una y sé constante.</li><li>Al <b>final de la frase</b> la palabra gramatical recupera su forma fuerte: <span class=\"en\">Who's it for?</span> <span class=\"pron\">JUZ it FOR</span>, no <span class=\"wrong\">fər</span>.</li></ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "a cup of coffee",
+   "pron": "ə KÁ-pə KÓ-fi",
+   "es": "una taza de café",
+   "group": "A. Formas débiles dentro de la frase"
+  },
+  {
+   "en": "nuts and bolts",
+   "pron": "NÁT-sən BÓULTS",
+   "es": "tuercas y pernos",
+   "group": "A. Formas débiles dentro de la frase"
+  },
+  {
+   "en": "It's for you.",
+   "pron": "its fər YU",
+   "es": "Es para ti.",
+   "group": "A. Formas débiles dentro de la frase"
+  },
+  {
+   "en": "to the site",
+   "pron": "tə dhə SAIT",
+   "es": "a la obra",
+   "group": "A. Formas débiles dentro de la frase"
+  },
+  {
+   "en": "at the office",
+   "pron": "ət dhi Ó-fis",
+   "es": "en la oficina",
+   "group": "A. Formas débiles dentro de la frase"
+  },
+  {
+   "en": "I can help.",
+   "pron": "ai kən JELP",
+   "es": "Puedo ayudar.",
+   "group": "A. Formas débiles dentro de la frase"
+  },
+  {
+   "en": "I was there.",
+   "pron": "ai wəz DHER",
+   "es": "Yo estuve allí.",
+   "group": "A. Formas débiles dentro de la frase"
+  },
+  {
+   "en": "Tell them.",
+   "pron": "TÉ-ləm",
+   "es": "Diles.",
+   "group": "A. Formas débiles dentro de la frase"
+  },
+  {
+   "en": "some of them",
+   "pron": "SÁ-mə-vəm",
+   "es": "algunos de ellos",
+   "group": "A. Formas débiles dentro de la frase"
+  },
+  {
+   "en": "Turn it off.",
+   "pron": "tər-ni-TÓF",
+   "es": "Apágalo.",
+   "group": "B. Enlaces consonante + vocal"
+  },
+  {
+   "en": "Pick it up.",
+   "pron": "pi-ki-TÁP",
+   "es": "Recógelo.",
+   "group": "B. Enlaces consonante + vocal"
+  },
+  {
+   "en": "Check it out.",
+   "pron": "che-ki-TÁUT",
+   "es": "Míralo / revísalo.",
+   "group": "B. Enlaces consonante + vocal"
+  },
+  {
+   "en": "in an hour",
+   "pron": "i-nə-NÁU-ər",
+   "es": "en una hora",
+   "group": "B. Enlaces consonante + vocal"
+  },
+  {
+   "en": "Not at all.",
+   "pron": "nó-də-TÓL",
+   "es": "Para nada. / De nada.",
+   "group": "B. Enlaces consonante + vocal"
+  },
+  {
+   "en": "Fill it in.",
+   "pron": "fi-li-TÍN",
+   "es": "Llénalo (formulario).",
+   "group": "B. Enlaces consonante + vocal"
+  },
+  {
+   "en": "Put it on.",
+   "pron": "pu-di-TÓN",
+   "es": "Póntelo.",
+   "group": "B. Enlaces consonante + vocal"
+  },
+  {
+   "en": "going to → gonna",
+   "pron": "GÓ-nə",
+   "es": "ir a (futuro, solo + verbo)",
+   "group": "C. Reducciones: gonna, wanna, gotta y compañía"
+  },
+  {
+   "en": "want to → wanna",
+   "pron": "WÓ-nə",
+   "es": "querer (+ verbo)",
+   "group": "C. Reducciones: gonna, wanna, gotta y compañía"
+  },
+  {
+   "en": "got to → gotta",
+   "pron": "GÓ-də",
+   "es": "tener que",
+   "group": "C. Reducciones: gonna, wanna, gotta y compañía"
+  },
+  {
+   "en": "have to → hafta",
+   "pron": "JÁF-tə",
+   "es": "tener que",
+   "group": "C. Reducciones: gonna, wanna, gotta y compañía"
+  },
+  {
+   "en": "has to → hasta",
+   "pron": "JÁS-tə",
+   "es": "tiene que",
+   "group": "C. Reducciones: gonna, wanna, gotta y compañía"
+  },
+  {
+   "en": "let me → lemme",
+   "pron": "LÉ-mi",
+   "es": "déjame",
+   "group": "C. Reducciones: gonna, wanna, gotta y compañía"
+  },
+  {
+   "en": "give me → gimme",
+   "pron": "GUÍ-mi",
+   "es": "dame",
+   "group": "C. Reducciones: gonna, wanna, gotta y compañía"
+  },
+  {
+   "en": "kind of → kinda",
+   "pron": "KÁIN-də",
+   "es": "algo, medio, un poco",
+   "group": "C. Reducciones: gonna, wanna, gotta y compañía"
+  },
+  {
+   "en": "out of → outta",
+   "pron": "ÁU-də",
+   "es": "fuera de",
+   "group": "C. Reducciones: gonna, wanna, gotta y compañía"
+  },
+  {
+   "en": "Did you…? → didja",
+   "pron": "DÍ-yə",
+   "es": "¿… (tú) + pasado?",
+   "group": "D. Asimilación con YOU"
+  },
+  {
+   "en": "Would you…?",
+   "pron": "WÚ-yə",
+   "es": "¿Podrías / te gustaría…?",
+   "group": "D. Asimilación con YOU"
+  },
+  {
+   "en": "Could you…?",
+   "pron": "KÚ-yə",
+   "es": "¿Podrías…?",
+   "group": "D. Asimilación con YOU"
+  },
+  {
+   "en": "Don't you…?",
+   "pron": "DÓUN-chə",
+   "es": "¿No (tú)…?",
+   "group": "D. Asimilación con YOU"
+  },
+  {
+   "en": "What do you…? → whaddya",
+   "pron": "WÓ-də-yə",
+   "es": "¿Qué (tú)…?",
+   "group": "D. Asimilación con YOU"
+  },
+  {
+   "en": "What are you…? → whatcha",
+   "pron": "WÓ-chə",
+   "es": "¿Qué estás / vas a…?",
+   "group": "D. Asimilación con YOU"
+  },
+  {
+   "en": "Got you. → gotcha",
+   "pron": "GÓ-chə",
+   "es": "Entendido. / ¡Te pillé!",
+   "group": "D. Asimilación con YOU"
+  },
+  {
+   "en": "should have → shoulda",
+   "pron": "SHÚ-dəv / SHÚ-də",
+   "es": "debería haber",
+   "group": "E. Modal + HAVE (Módulo 19)"
+  },
+  {
+   "en": "could have → coulda",
+   "pron": "KÚ-dəv / KÚ-də",
+   "es": "podría haber",
+   "group": "E. Modal + HAVE (Módulo 19)"
+  },
+  {
+   "en": "would have → woulda",
+   "pron": "WÚ-dəv / WÚ-də",
+   "es": "habría",
+   "group": "E. Modal + HAVE (Módulo 19)"
+  },
+  {
+   "en": "must have",
+   "pron": "MÁS-təv / MÁS-tə",
+   "es": "debe de haber",
+   "group": "E. Modal + HAVE (Módulo 19)"
+  },
+  {
+   "en": "water",
+   "pron": "WÓ-dər",
+   "es": "agua",
+   "group": "F. T suave y elisión"
+  },
+  {
+   "en": "better",
+   "pron": "BÉ-dər",
+   "es": "mejor",
+   "group": "F. T suave y elisión"
+  },
+  {
+   "en": "a lot of",
+   "pron": "ə LÓ-də",
+   "es": "mucho(s)",
+   "group": "F. T suave y elisión"
+  },
+  {
+   "en": "Get it?",
+   "pron": "GUÉ-dit ↗",
+   "es": "¿Entiendes?",
+   "group": "F. T suave y elisión"
+  },
+  {
+   "en": "next day",
+   "pron": "neks DEI",
+   "es": "al día siguiente",
+   "group": "F. T suave y elisión"
+  },
+  {
+   "en": "last night",
+   "pron": "las NAIT",
+   "es": "anoche",
+   "group": "F. T suave y elisión"
+  },
+  {
+   "en": "I don't know. → dunno",
+   "pron": "ai-də-NÓU",
+   "es": "No sé.",
+   "group": "F. T suave y elisión"
+  },
+  {
+   "en": "Really?",
+   "pron": "RÍ-li ↗",
+   "es": "¿En serio? (interés, sorpresa)",
+   "group": "G. Frases con entonación marcada"
+  },
+  {
+   "en": "Is it ready?",
+   "pron": "i-zit RÉ-di ↗",
+   "es": "¿Está listo?",
+   "group": "G. Frases con entonación marcada"
+  },
+  {
+   "en": "Where's the report?",
+   "pron": "werz dhə ri-PÓRT ↘",
+   "es": "¿Dónde está el informe?",
+   "group": "G. Frases con entonación marcada"
+  },
+  {
+   "en": "I see.",
+   "pron": "ai SÍ ↘",
+   "es": "Ya veo. / Entiendo.",
+   "group": "G. Frases con entonación marcada"
+  },
+  {
+   "en": "Well, maybe…",
+   "pron": "wel MÉI-bi ↘↗",
+   "es": "Bueno, tal vez… (reserva)",
+   "group": "G. Frases con entonación marcada"
+  }
+ ],
+ "examples": [
+  {
+   "en": "We need to check the welds before lunch.",
+   "es": "Tenemos que revisar las soldaduras antes del almuerzo.",
+   "situation": "Obra"
+  },
+  {
+   "en": "I'm going to send you the drawings tomorrow.",
+   "es": "Te voy a enviar los planos mañana.",
+   "situation": "Oficina"
+  },
+  {
+   "en": "Could you call me back in an hour?",
+   "es": "¿Podrías devolverme la llamada en una hora?",
+   "situation": "Llamada"
+  },
+  {
+   "en": "What do you think about the new schedule?",
+   "es": "¿Qué opinas del nuevo cronograma?",
+   "situation": "Reunión"
+  },
+  {
+   "en": "Turn it off and lock it out.",
+   "es": "Apágalo y bloquéalo (LOTO).",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "Can I get a cup of coffee, please?",
+   "es": "¿Me da una taza de café, por favor?",
+   "situation": "Cafetería"
+  },
+  {
+   "en": "I've had a headache for a couple of days.",
+   "es": "He tenido dolor de cabeza desde hace un par de días.",
+   "situation": "Médico"
+  },
+  {
+   "en": "I'd like to open an account.",
+   "es": "Quisiera abrir una cuenta.",
+   "situation": "Banco"
+  },
+  {
+   "en": "Do you want to grab a bite after work?",
+   "es": "¿Quieres ir a comer algo después del trabajo?",
+   "situation": "Social"
+  },
+  {
+   "en": "I've got to finish the weld map by five.",
+   "es": "Tengo que terminar el mapa de soldaduras para las cinco.",
+   "situation": "Obra"
+  },
+  {
+   "en": "You should have told me earlier.",
+   "es": "Deberías habérmelo dicho antes.",
+   "situation": "Con el jefe"
+  },
+  {
+   "en": "Did you get my email?",
+   "es": "¿Recibiste mi correo?",
+   "situation": "Correo"
+  },
+  {
+   "en": "It's kind of expensive, but it's worth it.",
+   "es": "Es algo caro, pero vale la pena.",
+   "situation": "Compras"
+  },
+  {
+   "en": "Let me check the gate number.",
+   "es": "Déjame revisar el número de puerta.",
+   "situation": "Aeropuerto"
+  },
+  {
+   "en": "I don't know. What are you going to do?",
+   "es": "No sé. ¿Qué vas a hacer tú?",
+   "situation": "Amigos"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "He can help.",
+     "He can't help.",
+     "Can he help?",
+     "Yes, he can."
+    ],
+    [
+     "She was late.",
+     "She wasn't late.",
+     "Was she late?",
+     "Yes, she was."
+    ],
+    [
+     "They have finished.",
+     "They haven't finished.",
+     "Have they finished?",
+     "Yes, they have."
+    ],
+    [
+     "You're going to call him.",
+     "You aren't going to call him.",
+     "Are you going to call him?",
+     "Yes, I am."
+    ],
+    [
+     "She has to work.",
+     "She doesn't have to work.",
+     "Does she have to work?",
+     "Yes, she does."
+    ],
+    [
+     "They want to stay.",
+     "They don't want to stay.",
+     "Do they want to stay?",
+     "No, they don't."
+    ],
+    [
+     "They were at the site.",
+     "They weren't at the site.",
+     "Were they at the site?",
+     "Yes, they were."
+    ],
+    [
+     "You checked it.",
+     "You didn't check it.",
+     "Did you check it?",
+     "Yes, I did."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Sarah",
+   "text": "Hey, Edwin, did you get my email about the hydrotest?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yeah, I got it. I'm going to read it in a minute. What do you need?"
+  },
+  {
+   "who": "Sarah",
+   "text": "We've got to move the test to Thursday. The pump isn't ready."
+  },
+  {
+   "who": "Edwin",
+   "text": "Thursday? I thought it was Wednesday."
+  },
+  {
+   "who": "Sarah",
+   "text": "It was, but the supplier called last night. Can you tell the crew?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Sure, I can tell them. But I can't change the crane booking until Monday."
+  },
+  {
+   "who": "Sarah",
+   "text": "That's OK. Let me talk to the crane company. Do you want me to call you back?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, please. Call me back in an hour. I'm kind of busy right now."
+  },
+  {
+   "who": "Sarah",
+   "text": "Got it. Talk to you later."
+  },
+  {
+   "who": "Edwin",
+   "text": "Thanks, Sarah. Bye."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "ai WANT TU GOU TU DHƏ BANK",
+   "right": "ai WANT tə GOU tə dhə BANK",
+   "why": "Golpe solo en palabras de contenido; to, the son débiles."
+  },
+  {
+   "wrong": "ai KAN JELP (afirmativo)",
+   "right": "ai kən JELP",
+   "why": "En afirmativo can es débil; fuerte suena a énfasis o a can't."
+  },
+  {
+   "wrong": "ai kən GOU (queriendo decir can't)",
+   "right": "ai KANT GOU",
+   "why": "El negativo lleva golpe; si no, el oyente entiende can."
+  },
+  {
+   "wrong": "tərn · it · of",
+   "right": "tər-ni-TÓF",
+   "why": "Consonante + vocal se enlazan; las pausas cortan el ritmo."
+  },
+  {
+   "wrong": "Where do you work? ↗",
+   "right": "Where do you work? ↘",
+   "why": "Pregunta WH- normal baja; subir suena a \"¿perdón?\"."
+  },
+  {
+   "wrong": "Can you help me? (plana)",
+   "right": "Can you help me? ↗",
+   "why": "La pregunta sí/no sube; plana suena seca o desinteresada."
+  },
+  {
+   "wrong": "I'm gonna the office.",
+   "right": "I'm going to the office.",
+   "why": "Gonna solo antes de verbo, nunca antes de un lugar."
+  },
+  {
+   "wrong": "I wanna you to call him.",
+   "right": "I want you to call him.",
+   "why": "Con objeto en medio, want … to no se reduce."
+  },
+  {
+   "wrong": "We gotta to leave.",
+   "right": "We gotta leave.",
+   "why": "Gotta ya contiene to."
+  },
+  {
+   "wrong": "Dear Mr. Lee, I'm gonna send the report.",
+   "right": "Dear Mr. Lee, I will send the report.",
+   "why": "Las reducciones se dicen; no se escriben en correos formales."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "can / can't",
+   "looks": "se confunden al oído",
+   "means": "Por el golpe y la vocal, no por la t final.",
+   "fix": "kən / KANT"
+  },
+  {
+   "en": "thirteen / thirty",
+   "looks": "se confunden al oído",
+   "means": "-teen: golpe al final, t clara. -ty: golpe al inicio, t suave.",
+   "fix": "thər-TÍN / THÉR-di"
+  },
+  {
+   "en": "fifteen / fifty",
+   "looks": "se confunden al oído",
+   "means": "Mismo truco. En cifras importantes, confirma: \"one-five or five-zero?\"",
+   "fix": "fif-TÍN / FÍF-ti"
+  },
+  {
+   "en": "won't / want",
+   "looks": "se confunden al oído",
+   "means": "Won't tiene \"ou\"; want, una o abierta.",
+   "fix": "WOUNT / WONT"
+  },
+  {
+   "en": "I'd like / I like",
+   "looks": "se confunden al oído",
+   "means": "La d es mínima; el contexto (pedido vs gusto) decide.",
+   "fix": "aid LAIK / ai LAIK"
+  },
+  {
+   "en": "I'll call / I call",
+   "looks": "se confunden al oído",
+   "means": "La l de I'll es breve pero existe; pronúnciala.",
+   "fix": "ail KOL / ai KOL"
+  },
+  {
+   "en": "walk / work",
+   "looks": "se confunden al oído",
+   "means": "Work tiene r; walk no pronuncia la l.",
+   "fix": "wok / werk"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Voy a revisar las soldaduras mañana.",
+    "answers": [
+     "I'm going to check the welds tomorrow.",
+     "I am going to check the welds tomorrow.",
+     "Tomorrow I'm going to check the welds.",
+     "Tomorrow I am going to check the welds."
+    ],
+    "explain": "Futuro planeado con going to. Suena aim GÓ-nə CHEK dhə WELDZ tə-MÓ-rou."
+   },
+   {
+    "prompt": "¿Quieres una taza de café?",
+    "answers": [
+     "Do you want a cup of coffee?",
+     "Would you like a cup of coffee?"
+    ],
+    "explain": "También Would you like a cup of coffee? Suena də-yə WÓN-tə KÁ-pə KÓ-fi ↗."
+   },
+   {
+    "prompt": "Tengo que irme ahora.",
+    "answers": [
+     "I have to go now.",
+     "I've got to go now.",
+     "I have got to go now.",
+     "I have to leave now.",
+     "I've got to leave now.",
+     "I have got to leave now."
+    ],
+    "explain": "También I've got to go now. Suena ai JÁF-tə GOU NAU."
+   },
+   {
+    "prompt": "¿Puedes ayudarme?",
+    "answers": [
+     "Can you help me?",
+     "Could you help me?"
+    ],
+    "explain": "Can débil al inicio, subida final: kən-yə JÉLP-mi ↗. También Could you…?"
+   },
+   {
+    "prompt": "No puedo ir a la reunión.",
+    "answers": [
+     "I can't go to the meeting.",
+     "I cannot go to the meeting."
+    ],
+    "explain": "Negativo fuerte: ai KANT GOU tə dhə MÍ-ting."
+   },
+   {
+    "prompt": "Déjame ver el plano.",
+    "answers": [
+     "Let me see the drawing.",
+     "Let me see the plan."
+    ],
+    "explain": "Suena LÉ-mi SÍ dhə DRÓ-ing. También plan si es un plano general."
+   },
+   {
+    "prompt": "¿Qué vas a hacer este fin de semana?",
+    "answers": [
+     "What are you going to do this weekend?"
+    ],
+    "explain": "Pregunta WH- baja: WÓ-chə GÓ-nə DU dhis WÍK-end ↘."
+   },
+   {
+    "prompt": "Deberías haberme llamado.",
+    "answers": [
+     "You should have called me."
+    ],
+    "explain": "Modal + have + participio (Módulo 19). Suena yu SHÚ-də KÓLD-mi."
+   },
+   {
+    "prompt": "Apágalo, por favor.",
+    "answers": [
+     "Turn it off, please.",
+     "Please turn it off."
+    ],
+    "explain": "También Please turn it off. Enlaces: tər-ni-TÓF PLIZ."
+   },
+   {
+    "prompt": "Es algo caro, pero es bueno.",
+    "answers": [
+     "It's kind of expensive, but it's good.",
+     "It is kind of expensive, but it is good.",
+     "It's a bit expensive, but it's good.",
+     "It is a bit expensive, but it is good."
+    ],
+    "explain": "También a bit expensive. Suena its KÁIN-də ek-SPÉN-siv bə-dits GUD."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "Whaddya wanna do after work?",
+    "answers": [
+     "¿Qué quieres hacer después del trabajo?",
+     "¿Qué quieres hacer después de trabajar?",
+     "¿Qué te gustaría hacer después del trabajo?"
+    ],
+    "explain": "Whaddya wanna = What do you want to."
+   },
+   {
+    "prompt": "I'm gonna grab some lunch.",
+    "answers": [
+     "Voy a almorzar algo rápido.",
+     "Voy a comer algo.",
+     "Voy a comprar algo para almorzar.",
+     "Voy a almorzar algo."
+    ],
+    "explain": "Gonna = going to; grab lunch = comer algo rápido. También \"voy a comer algo\" o \"voy a comprar algo para almorzar\"."
+   },
+   {
+    "prompt": "Didja get my email?",
+    "answers": [
+     "¿Recibiste mi correo?",
+     "¿Te llegó mi correo?",
+     "¿Recibiste mi email?"
+    ],
+    "explain": "Didja = Did you; get an email = recibir un correo."
+   },
+   {
+    "prompt": "We gotta finish this by five.",
+    "answers": [
+     "Tenemos que terminar esto para las cinco.",
+     "Tenemos que terminar esto antes de las cinco.",
+     "Tenemos que acabar esto para las cinco."
+    ],
+    "explain": "Gotta = (have) got to = tener que; by five = a más tardar a las cinco."
+   },
+   {
+    "prompt": "You shoulda told me earlier.",
+    "answers": [
+     "Deberías habérmelo dicho antes.",
+     "Debiste decírmelo antes.",
+     "Me lo hubieras dicho antes."
+    ],
+    "explain": "Shoulda = should have + participio: crítica o reproche sobre el pasado."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "I gonna check the valves.",
+    "answers": [
+     "I'm gonna check the valves.",
+     "I am gonna check the valves.",
+     "I'm going to check the valves.",
+     "I am going to check the valves."
+    ],
+    "explain": "Faltaba 'm: gonna sustituye a going to, no a am going to."
+   },
+   {
+    "prompt": "I wanna you to check this drawing.",
+    "answers": [
+     "I want you to check this drawing."
+    ],
+    "explain": "Con objeto (you) en medio no hay wanna."
+   },
+   {
+    "prompt": "Do you wanna to come with us?",
+    "answers": [
+     "Do you wanna come with us?",
+     "Do you want to come with us?"
+    ],
+    "explain": "Wanna ya incluye to (want to)."
+   },
+   {
+    "prompt": "Didja finished the inspection?",
+    "answers": [
+     "Didja finish the inspection?",
+     "Did you finish the inspection?"
+    ],
+    "explain": "Después de did, forma base."
+   },
+   {
+    "prompt": "You shoulda call me.",
+    "answers": [
+     "You shoulda called me.",
+     "You should have called me."
+    ],
+    "explain": "Should have + participio."
+   },
+   {
+    "prompt": "I'm gonna the warehouse now.",
+    "answers": [
+     "I'm going to the warehouse now.",
+     "I am going to the warehouse now."
+    ],
+    "explain": "Movimiento a un lugar: going to no se reduce."
+   },
+   {
+    "prompt": "Lemme to see the drawing.",
+    "answers": [
+     "Lemme see the drawing.",
+     "Let me see the drawing."
+    ],
+    "explain": "Let + verbo sin to."
+   },
+   {
+    "prompt": "She hafta leave early today.",
+    "answers": [
+     "She hasta leave early today.",
+     "She has to leave early today."
+    ],
+    "explain": "She → has to = hasta JÁS-tə. También She has to…"
+   },
+   {
+    "prompt": "We gotta to leave now.",
+    "answers": [
+     "We gotta leave now.",
+     "We've got to leave now.",
+     "We have got to leave now."
+    ],
+    "explain": "Gotta ya incluye to."
+   },
+   {
+    "prompt": "He wanna talk to the client.",
+    "answers": [
+     "He wants to talk to the client."
+    ],
+    "explain": "Tercera persona: wants to; wanna no lleva -s."
+   }
+  ],
+  "bonus": {
+   "prompt": "Escribe cómo suena, con golpes y flecha: Can you help me? y No, I can't.",
+   "answer": "kən-yə JÉLP-mi ↗ · nou ai KANT ↘"
+  },
+  "C1": {
+   "instructions": "Completa el chat (8 puntos). Usa cada forma una vez: whaddya · gonna · gotta · didja · lemme · kinda · gimme · outta.",
+   "lines": [
+    {
+     "who": "Carlos",
+     "text": "Hey, Edwin, [1] wanna do after work?"
+    },
+    {
+     "who": "Edwin",
+     "text": "Dunno. I'm [2] be here till six."
+    },
+    {
+     "who": "Edwin",
+     "text": "I've [3] finish the weld map."
+    },
+    {
+     "who": "Carlos",
+     "text": "[4] talk to Mark about the NDT results?"
+    },
+    {
+     "who": "Edwin",
+     "text": "Not yet. [5] call him now."
+    },
+    {
+     "who": "Carlos",
+     "text": "OK. The new report looks [6] long, by the way."
+    },
+    {
+     "who": "Edwin",
+     "text": "Yeah. Can you [7] a hand with the summary?"
+    },
+    {
+     "who": "Carlos",
+     "text": "Sure. But let's get [8] here by seven."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "Whaddya"
+     ],
+     "explain": "What do you + wanna = ¿Qué quieres…?"
+    },
+    {
+     "n": 2,
+     "answers": [
+      "gonna"
+     ],
+     "explain": "I'm going to be: futuro + verbo."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "gotta"
+     ],
+     "explain": "I've got to finish."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "Didja"
+     ],
+     "explain": "Pregunta en pasado: Did you talk…?"
+    },
+    {
+     "n": 5,
+     "answers": [
+      "Lemme"
+     ],
+     "explain": "Let me call him."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "kinda"
+     ],
+     "explain": "looks kind of long = parece algo largo."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "gimme"
+     ],
+     "explain": "give me a hand = echarme una mano."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "outta"
+     ],
+     "explain": "get out of here = irnos de aquí."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Prepara y graba un mensaje de voz (7 puntos). Escribe un mensaje de 6 a 8 oraciones para tu supervisor sobre un retraso en obra, márcalo y luego grábalo. Debe tener: (1) las sílabas fuertes en MAYÚSCULAS en todas las oraciones; (2) un can débil (en minúscula) y un CAN'T fuerte; (3) una pregunta sí/no marcada con ↗; (4) una pregunta WH- marcada con ↘; (5) al menos dos enlaces marcados con ‿; (6) gonna o wanna bien usado (antes de verbo); (7) una frase con ↘↗ para expresar reserva. Puntuación C2: 1 punto por cada elemento (1–7) presente y bien marcado. Si no grabas el mensaje, máximo 5 puntos.",
+   "rubric": [
+    "(1) las sílabas fuertes en MAYÚSCULAS en todas las oraciones",
+    "(2) un can débil (en minúscula) y un CAN'T fuerte",
+    "(3) una pregunta sí/no marcada con ↗",
+    "(4) una pregunta WH- marcada con ↘",
+    "(5) al menos dos enlaces marcados con ‿",
+    "(6) gonna o wanna bien usado (antes de verbo)",
+    "(7) una frase con ↘↗ para expresar reserva"
+   ],
+   "model": "Hi MARK, it's EDwin. I'm GONna be LATE for the MEETing. The CRANE is‿out‿of SERvice, so I CAN'T leave the SITE yet. I can CALL you at TEN, though. Can you MOVE the meeting to eLEVen? ↗ WHAT time works for SARah? ↘ The NEW plan is GOOD ↘↗ … but it's KIND‿of exPENsive."
+  }
+ },
+ "cando": [
+  {
+   "skill": "Hablar con ritmo acentual.",
+   "test": "Grábate diciendo las 3 frases de la Figura 31.1 con palmadas en los golpes; las tres duran casi lo mismo."
+  },
+  {
+   "skill": "Usar formas débiles y fuertes de los auxiliares.",
+   "test": "Lee en voz alta la tabla de la Parte 2 (32 frases) en menos de 3 minutos; un compañero distingue 8/8 can / can't."
+  },
+  {
+   "skill": "Entender reducciones al oído y por escrito.",
+   "test": "Escribe la forma completa de los 16 bloques de C y D en 2 minutos; cero errores."
+  },
+  {
+   "skill": "Enlazar palabras sin pausas.",
+   "test": "Graba los 7 bloques del grupo B a velocidad normal; al escucharte, ninguna pausa interna."
+  },
+  {
+   "skill": "Usar la entonación correcta en preguntas.",
+   "test": "Haz 5 preguntas sí/no y 5 WH- grabadas; 10/10 con la melodía correcta (↗ / ↘)."
+  },
+  {
+   "skill": "Expresar reserva y contraste con la voz.",
+   "test": "Di 3 frases con ↘↗ y 2 con acento contrastivo (the TOP flange); un oyente identifica la intención."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What do you want to do this weekend?",
+  "What are you going to do after work today?",
+  "Did you get enough sleep last night?",
+  "What's something you can do well, and something you can't do at all?",
+  "What should you have done differently last week?",
+  "Have you got to work late this week? Why?"
+ ]
+}

@@ -1,0 +1,923 @@
+{
+ "id": 32,
+ "level": "C1",
+ "title": "Hedging y diplomacia",
+ "goal": "Al terminar podrás suavizar opiniones, críticas, desacuerdos y malas noticias con la cortesía que espera un cliente o un jefe anglosajón (It seems that…, I'd argue that…, We may need to…), elegir el grado de franqueza adecuado y redactar un correo de malas noticias firme pero diplomático.",
+ "lesson": [
+  {
+   "title": "Qué es el hedging y por qué importa",
+   "html": "<p><b>Hedging</b> (de <i>hedge</i>, \"cerco, protección\") es suavizar lo que dices para no sonar absoluto, arrogante o agresivo. No es mentir ni ser débil: es mostrar que tu afirmación tiene un margen de duda razonable y que respetas la opinión del otro. En el inglés profesional, sobre todo en EE. UU., Reino Unido y Canadá, una frase demasiado directa (<span class=\"wrong\">Your design is wrong.</span>) se percibe como un ataque personal, aunque en español sonaría simplemente claro.</p><p>Los hispanohablantes solemos cometer dos errores opuestos: traducir la franqueza del español (<i>\"Esto está mal\"</i> → <span class=\"wrong\">This is bad</span>) o exagerar la cortesía hasta que el mensaje se pierde. El objetivo de este módulo es el punto medio: <b>suave en la forma, claro en el contenido</b>.</p>",
+   "svg": "<svg viewBox=\"0 0 640 300\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs>\n    <linearGradient id=\"g32a\" x1=\"0\" x2=\"1\" y1=\"0\" y2=\"0\">\n      <stop offset=\"0\" stop-color=\"#D92D20\"/>\n      <stop offset=\"0.5\" stop-color=\"#E9B949\"/>\n      <stop offset=\"1\" stop-color=\"#6941C6\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"20\" y=\"30\" width=\"600\" height=\"18\" rx=\"9\" fill=\"url(#g32a)\"/>\n  <text x=\"20\" y=\"20\" font-size=\"13\" font-weight=\"800\" fill=\"#D92D20\">DIRECTO / BRUSCO</text>\n  <text x=\"620\" y=\"20\" text-anchor=\"end\" font-size=\"13\" font-weight=\"800\" fill=\"#6941C6\">DIPLOMÁTICO</text>\n  <g fill=\"#fff\" stroke=\"#1D2939\" stroke-width=\"2\">\n    <circle cx=\"60\" cy=\"39\" r=\"8\"/><circle cx=\"185\" cy=\"39\" r=\"8\"/><circle cx=\"320\" cy=\"39\" r=\"8\"/>\n    <circle cx=\"455\" cy=\"39\" r=\"8\"/><circle cx=\"580\" cy=\"39\" r=\"8\"/>\n  </g>\n  <g font-size=\"13\" font-weight=\"800\" fill=\"#1D2939\" text-anchor=\"middle\">\n    <text x=\"60\" y=\"74\">1</text><text x=\"185\" y=\"74\">2</text><text x=\"320\" y=\"74\">3</text><text x=\"455\" y=\"74\">4</text><text x=\"580\" y=\"74\">5</text>\n  </g>\n  <rect x=\"20\" y=\"86\" width=\"600\" height=\"38\" rx=\"8\" fill=\"#FEF0EF\"/>\n  <text x=\"34\" y=\"110\" font-size=\"13\" font-weight=\"800\" fill=\"#D92D20\">1</text>\n  <text x=\"56\" y=\"110\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">Your estimate is wrong.</text>\n  <text x=\"606\" y=\"110\" text-anchor=\"end\" font-size=\"12\" fill=\"#D92D20\">ataque personal</text>\n  <rect x=\"20\" y=\"128\" width=\"600\" height=\"38\" rx=\"8\" fill=\"#FFF2E8\"/>\n  <text x=\"34\" y=\"152\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">2</text>\n  <text x=\"56\" y=\"152\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">The estimate is wrong.</text>\n  <text x=\"606\" y=\"152\" text-anchor=\"end\" font-size=\"12\" fill=\"#E8590C\">sin persona, aún brusco</text>\n  <rect x=\"20\" y=\"170\" width=\"600\" height=\"38\" rx=\"8\" fill=\"#FFF8E1\"/>\n  <text x=\"34\" y=\"194\" font-size=\"13\" font-weight=\"800\" fill=\"#7A5B00\">3</text>\n  <text x=\"56\" y=\"194\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">The estimate seems a bit low.</text>\n  <text x=\"606\" y=\"194\" text-anchor=\"end\" font-size=\"12\" fill=\"#7A5B00\">neutral profesional</text>\n  <rect x=\"20\" y=\"212\" width=\"600\" height=\"38\" rx=\"8\" fill=\"#F2EEFC\"/>\n  <text x=\"34\" y=\"236\" font-size=\"13\" font-weight=\"800\" fill=\"#6941C6\">4</text>\n  <text x=\"56\" y=\"236\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">I wonder if the estimate might be a little low.</text>\n  <text x=\"606\" y=\"236\" text-anchor=\"end\" font-size=\"12\" fill=\"#6941C6\">diplomático</text>\n  <rect x=\"20\" y=\"254\" width=\"600\" height=\"38\" rx=\"8\" fill=\"#E9E1FA\"/>\n  <text x=\"34\" y=\"278\" font-size=\"13\" font-weight=\"800\" fill=\"#4A2B91\">5</text>\n  <text x=\"56\" y=\"278\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I may be missing something, but could the estimate be a little low?</text>\n</svg>",
+   "caption": "Figura 32.1 — Escala de franqueza. En el trabajo apunta a 3–4; usa 5 con clientes o superiores en temas delicados; evita 1."
+  },
+  {
+   "title": "Las 7 herramientas del hedging",
+   "html": "<table><thead><tr><th>Herramienta</th><th>Cómo funciona</th><th>Directo</th><th>Con hedging</th></tr></thead><tbody><tr><td><b>1. Verbos de apariencia</b></td><td><i>seem, appear, look like</i> presentan algo como percepción, no como hecho.</td><td><span class=\"en\">The pump is faulty.</span></td><td><span class=\"en\">The pump seems to be faulty.</span></td></tr><tr><td><b>2. Modales de probabilidad</b></td><td><i>may, might, could</i> (Módulo 17) abren la posibilidad de estar equivocado.</td><td><span class=\"en\">This will cause delays.</span></td><td><span class=\"en\">This may cause delays.</span></td></tr><tr><td><b>3. Verbos de opinión</b></td><td><i>I think, I'd say, I'd argue, I feel, I suspect</i> marcan que es tu punto de vista.</td><td><span class=\"en\">Option B is better.</span></td><td><span class=\"en\">I'd argue that option B is better.</span></td></tr><tr><td><b>4. Suavizadores</b></td><td><i>a bit, slightly, somewhat, a little</i> reducen la intensidad.</td><td><span class=\"en\">The price is high.</span></td><td><span class=\"en\">The price is a bit high.</span></td></tr><tr><td><b>5. Negativo + adjetivo positivo</b></td><td>\"No muy bueno\" duele menos que \"malo\".</td><td><span class=\"en\">The report is bad.</span></td><td><span class=\"en\">The report isn't very strong yet.</span></td></tr><tr><td><b>6. Distancia temporal</b></td><td>Pasado o continuo hacen la petición menos invasiva.</td><td><span class=\"en\">I want to ask you…</span></td><td><span class=\"en\">I was wondering if I could ask you…</span></td></tr><tr><td><b>7. Impersonal y pasiva</b></td><td>Quita al \"culpable\" de la frase (Módulo 20).</td><td><span class=\"en\">You made a mistake.</span></td><td><span class=\"en\">A mistake seems to have been made.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Reglas de oro: el problema, no la persona; un hedge por idea",
+   "html": "<p><b>Regla de oro 1 — Critica el problema, no a la persona</b></p><p>Cambia <i>you</i> por la cosa, el proceso o <i>we</i>. <span class=\"wrong\">You didn't check the welds.</span> → <span class=\"ok\">The welds don't appear to have been checked.</span> o <span class=\"ok\">We may have missed a step in the weld check.</span> El contenido es el mismo; la reacción del otro es completamente distinta.</p><p><b>Regla de oro 2 — Un hedge por idea, no cinco</b></p><p>Con una o dos herramientas basta. <span class=\"wrong\">I think it might perhaps possibly be a bit late, maybe.</span> suena inseguro y confuso. <span class=\"ok\">I think it might be a bit late.</span> es diplomático y claro. Cuanto más grave el tema, más claro debe ser el mensaje central.</p>"
+  },
+  {
+   "title": "Por qué el inglés suaviza más que el español",
+   "html": "<table><thead><tr><th>Lo que dices en español (normal)</th><th>Lo que dice un profesional nativo</th></tr></thead><tbody><tr><td>Esto está mal.<br>No estoy de acuerdo.<br>Necesito el informe hoy.<br>El precio es muy alto.<br>Eso no se puede.</td><td><span class=\"en\">I'm not sure this is quite right.</span><br><span class=\"en\">I see your point, but I'm not sure I agree.</span><br><span class=\"en\">Would it be possible to get the report today?</span><br><span class=\"en\">The price is a bit higher than we expected.</span><br><span class=\"en\">I'm afraid that won't be possible.</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (suena brusca)</th><th>Inglés diplomático</th></tr></thead><tbody><tr><td>Te equivocas.</td><td><span class=\"wrong\">You are wrong.</span></td><td><span class=\"en\">I see it a little differently.</span></td></tr><tr><td>Eso es imposible.</td><td><span class=\"wrong\">That is impossible.</span></td><td><span class=\"en\">That might be difficult to achieve.</span></td></tr><tr><td>Mándame el plano.</td><td><span class=\"wrong\">Send me the drawing.</span></td><td><span class=\"en\">Could you send me the drawing when you get a chance?</span></td></tr><tr><td>Hay un problema con su pedido.</td><td><span class=\"wrong\">There is a problem with your order.</span></td><td><span class=\"en\">There seems to be an issue with your order.</span></td></tr><tr><td>No me gusta tu propuesta.</td><td><span class=\"wrong\">I don't like your proposal.</span></td><td><span class=\"en\">I have a few concerns about the proposal.</span></td></tr><tr><td>Llegaron tarde.</td><td><span class=\"wrong\">You arrived late.</span></td><td><span class=\"en\">The team arrived a little later than planned.</span></td></tr><tr><td>Debes cambiar esto.</td><td><span class=\"wrong\">You must change this.</span></td><td><span class=\"en\">It might be worth changing this.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Así piensa un nativo: understatement",
+   "html": "<p><b>Así piensa un nativo — \"understatement\" y lectura entre líneas</b></p><p>En inglés profesional la crítica se dice en tono menor y el oyente la \"amplifica\". <span class=\"en\">There are a few minor issues</span> puede significar \"hay que rehacer media sección\". <span class=\"en\">That's an interesting idea</span>, dicho sin entusiasmo y con ↘↗ (Módulo 31), puede significar \"no me convence\". Aprende a leer estas señales: si tu jefe dice <span class=\"en\">You might want to double-check the numbers</span>, no es una sugerencia opcional; es una instrucción educada.</p>"
+  },
+  {
+   "title": "La estructura del hedge: dónde se colocan las piezas",
+   "html": "<p>Anatomía de una frase con hedging: marco + modal + suavizador + palabra menos dura (unrealistic → tight).</p>",
+   "svg": "<svg viewBox=\"0 0 640 230\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"22\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">DIRECTO</text>\n  <rect x=\"20\" y=\"32\" width=\"150\" height=\"40\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"95\" y=\"57\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">The schedule</text>\n  <rect x=\"180\" y=\"32\" width=\"60\" height=\"40\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/>\n  <text x=\"210\" y=\"57\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">is</text>\n  <rect x=\"250\" y=\"32\" width=\"150\" height=\"40\" rx=\"8\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/>\n  <text x=\"325\" y=\"57\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#D92D20\">unrealistic.</text>\n  <text x=\"20\" y=\"104\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">CON HEDGING</text>\n  <rect x=\"20\" y=\"114\" width=\"100\" height=\"40\" rx=\"8\" fill=\"#6941C6\"/>\n  <text x=\"70\" y=\"139\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">I'm afraid</text>\n  <rect x=\"136\" y=\"114\" width=\"118\" height=\"40\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"195\" y=\"139\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">the schedule</text>\n  <rect x=\"270\" y=\"114\" width=\"72\" height=\"40\" rx=\"8\" fill=\"#6941C6\"/>\n  <text x=\"306\" y=\"139\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">may be</text>\n  <rect x=\"360\" y=\"114\" width=\"72\" height=\"40\" rx=\"8\" fill=\"#6941C6\"/>\n  <text x=\"396\" y=\"139\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">a little</text>\n  <rect x=\"460\" y=\"114\" width=\"80\" height=\"40\" rx=\"8\" fill=\"#FFF8E1\" stroke=\"#E9B949\"/>\n  <text x=\"500\" y=\"139\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#7A5B00\">tight.</text>\n  <g font-size=\"12\" fill=\"#6941C6\" text-anchor=\"middle\">\n    <text x=\"70\" y=\"174\">marco</text>\n    <text x=\"306\" y=\"174\">modal</text>\n    <text x=\"396\" y=\"174\">suavizador</text>\n    <text x=\"500\" y=\"174\">palabra menos dura</text>\n  </g>\n  <rect x=\"20\" y=\"192\" width=\"600\" height=\"30\" rx=\"8\" fill=\"#F2EEFC\"/>\n  <text x=\"320\" y=\"212\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#4A2B91\">El mensaje es el mismo (el cronograma no alcanza), pero se dice con 4 ajustes.</text>\n</svg>",
+   "caption": "Figura 32.2 — Anatomía de una frase con hedging: marco + modal + suavizador + palabra menos dura (unrealistic → tight)."
+  },
+  {
+   "title": "Afirmativo, negativo, pregunta: las formas diplomáticas",
+   "html": "<table><thead><tr><th></th><th>Directo</th><th>Diplomático</th><th>Técnica</th></tr></thead><tbody><tr><td><b>Afirmar</b></td><td><span class=\"en\">This is the best option.</span></td><td><span class=\"en\">This seems to be the best option.</span></td><td>verbo de apariencia</td></tr><tr><td><b>Negar</b></td><td><span class=\"en\">That won't work.</span></td><td><span class=\"en\">I'm not sure that would work.</span></td><td><i>not sure</i> + condicional</td></tr><tr><td><b>Pedir</b></td><td><span class=\"en\">Send it today.</span></td><td><span class=\"en\">Would you mind sending it today?</span></td><td>petición cortés con <i>mind</i> + -ing (Módulo 22)</td></tr><tr><td><b>Preguntar</b></td><td><span class=\"en\">Why is it late?</span></td><td><span class=\"en\">Could you tell me what caused the delay?</span></td><td>pregunta indirecta, sin <i>why</i> acusador</td></tr><tr><td><b>Pregunta negativa (sugerir)</b></td><td><span class=\"en\">You should use option B.</span></td><td><span class=\"en\">Wouldn't option B be cheaper?</span></td><td>la pregunta negativa sugiere sin imponer</td></tr><tr><td><b>Responder \"no\"</b></td><td><span class=\"en\">No.</span></td><td><span class=\"en\">I'm afraid not. / Not really, no.</span></td><td><i>I'm afraid</i> = lamento decir</td></tr></tbody></table>"
+  },
+  {
+   "title": "Cuándo NO suavizar",
+   "html": "<p><b>Detalles finos — cuándo NO suavizar</b></p><ul><li><b>Seguridad:</b> en una situación de riesgo, sé directo. <span class=\"ok\">Stop! The line is still pressurized.</span> Nunca <span class=\"wrong\">It might be a good idea to stop, maybe.</span></li><li><b>Datos medidos:</b> un resultado de ensayo no se suaviza. <span class=\"ok\">The reading was 4.2 mm, below the minimum of 5.0 mm.</span> Lo que se suaviza es la <i>interpretación</i> o la <i>recomendación</i>.</li><li><b>Cuando ya suavizaste y no te entendieron:</b> sube la claridad. <span class=\"en\">To be clear, we can't start until the permit is signed.</span></li><li><b>Too much hedging</b> en un informe técnico resta credibilidad. En reportes, usa <i>appears, indicates, suggests</i> con moderación (Módulo 33).</li></ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "I'd argue that…",
+   "pron": "aid ÁR-gyu dhət",
+   "es": "Yo diría / sostendría que…",
+   "group": "A. Dar tu opinión con margen"
+  },
+  {
+   "en": "I'd say (that)…",
+   "pron": "aid SEI",
+   "es": "Yo diría que…",
+   "group": "A. Dar tu opinión con margen"
+  },
+  {
+   "en": "I tend to think (that)…",
+   "pron": "ai TEND tə THINK",
+   "es": "Me inclino a pensar que…",
+   "group": "A. Dar tu opinión con margen"
+  },
+  {
+   "en": "As far as I can tell, …",
+   "pron": "əz FAR əz ai kən TEL",
+   "es": "Por lo que puedo ver, …",
+   "group": "A. Dar tu opinión con margen"
+  },
+  {
+   "en": "From what I understand, …",
+   "pron": "frəm WOT ai an-dər-STÁND",
+   "es": "Por lo que entiendo, …",
+   "group": "A. Dar tu opinión con margen"
+  },
+  {
+   "en": "It could be argued that…",
+   "pron": "it KUD bi ÁR-gyud dhət",
+   "es": "Se podría decir que… (formal)",
+   "group": "A. Dar tu opinión con margen"
+  },
+  {
+   "en": "I suspect (that)…",
+   "pron": "ai sə-SPÉKT",
+   "es": "Sospecho que…",
+   "group": "A. Dar tu opinión con margen"
+  },
+  {
+   "en": "It seems (that)…",
+   "pron": "it SIMZ dhət",
+   "es": "Parece que…",
+   "group": "B. Verbos de apariencia y probabilidad"
+  },
+  {
+   "en": "It appears (that)…",
+   "pron": "it ə-PÍRZ dhət",
+   "es": "Al parecer… (más formal)",
+   "group": "B. Verbos de apariencia y probabilidad"
+  },
+  {
+   "en": "There seems to be…",
+   "pron": "dher SIMZ tə bi",
+   "es": "Parece haber…",
+   "group": "B. Verbos de apariencia y probabilidad"
+  },
+  {
+   "en": "It looks like…",
+   "pron": "it LUKS laik",
+   "es": "Parece que… (informal)",
+   "group": "B. Verbos de apariencia y probabilidad"
+  },
+  {
+   "en": "This may / might / could…",
+   "pron": "dhis MEI / MAIT / KUD",
+   "es": "Esto podría…",
+   "group": "B. Verbos de apariencia y probabilidad"
+  },
+  {
+   "en": "It's likely / unlikely that…",
+   "pron": "its LÁIK-li / an-LÁIK-li dhət",
+   "es": "Es probable / improbable que…",
+   "group": "B. Verbos de apariencia y probabilidad"
+  },
+  {
+   "en": "The data suggest(s) that…",
+   "pron": "dhə DÉI-tə səg-YÉST dhət",
+   "es": "Los datos sugieren que…",
+   "group": "B. Verbos de apariencia y probabilidad"
+  },
+  {
+   "en": "a bit / a little",
+   "pron": "ə BIT / ə LÍ-dol",
+   "es": "un poco",
+   "group": "C. Suavizadores"
+  },
+  {
+   "en": "slightly",
+   "pron": "SLÁIT-li",
+   "es": "ligeramente",
+   "group": "C. Suavizadores"
+  },
+  {
+   "en": "somewhat",
+   "pron": "SÁM-wot",
+   "es": "algo, en cierta medida",
+   "group": "C. Suavizadores"
+  },
+  {
+   "en": "not quite",
+   "pron": "not KWAIT",
+   "es": "no del todo",
+   "group": "C. Suavizadores"
+  },
+  {
+   "en": "not entirely",
+   "pron": "not en-TÁIR-li",
+   "es": "no completamente",
+   "group": "C. Suavizadores"
+  },
+  {
+   "en": "to some extent",
+   "pron": "tə SAM ik-STÉNT",
+   "es": "hasta cierto punto",
+   "group": "C. Suavizadores"
+  },
+  {
+   "en": "more or less",
+   "pron": "MOR ər LES",
+   "es": "más o menos",
+   "group": "C. Suavizadores"
+  },
+  {
+   "en": "I see your point, but…",
+   "pron": "ai SI yor POINT bət",
+   "es": "Entiendo tu punto, pero…",
+   "group": "D. Desacuerdo diplomático"
+  },
+  {
+   "en": "I'm not sure I agree.",
+   "pron": "aim not SHUR ai ə-GRÍ",
+   "es": "No estoy seguro de estar de acuerdo.",
+   "group": "D. Desacuerdo diplomático"
+  },
+  {
+   "en": "I see it a little differently.",
+   "pron": "ai SÍ-it ə LÍ-dol DÍ-frənt-li",
+   "es": "Lo veo un poco distinto.",
+   "group": "D. Desacuerdo diplomático"
+  },
+  {
+   "en": "That's a fair point. However, …",
+   "pron": "dhats ə FER point · jau-É-vər",
+   "es": "Es un punto válido. Sin embargo, …",
+   "group": "D. Desacuerdo diplomático"
+  },
+  {
+   "en": "Have we considered…?",
+   "pron": "jav wi kən-SÍ-dərd",
+   "es": "¿Hemos considerado…?",
+   "group": "D. Desacuerdo diplomático"
+  },
+  {
+   "en": "I wonder if we should…",
+   "pron": "ai WÁN-dər if wi SHUD",
+   "es": "Me pregunto si deberíamos…",
+   "group": "D. Desacuerdo diplomático"
+  },
+  {
+   "en": "Would you mind + -ing…?",
+   "pron": "wud-yə MAIND",
+   "es": "¿Te importaría…?",
+   "group": "E. Peticiones suaves"
+  },
+  {
+   "en": "I was wondering if…",
+   "pron": "ai wəz WÁN-də-ring if",
+   "es": "Me preguntaba si…",
+   "group": "E. Peticiones suaves"
+  },
+  {
+   "en": "Would it be possible to…?",
+   "pron": "WÚ-dit bi PÓ-sə-bol tə",
+   "es": "¿Sería posible…?",
+   "group": "E. Peticiones suaves"
+  },
+  {
+   "en": "when you get a chance",
+   "pron": "wen yu GUÉ-də CHANS",
+   "es": "cuando puedas",
+   "group": "E. Peticiones suaves"
+  },
+  {
+   "en": "It might be worth + -ing…",
+   "pron": "it mait bi WERTH",
+   "es": "Quizás valga la pena…",
+   "group": "E. Peticiones suaves"
+  },
+  {
+   "en": "You might want to…",
+   "pron": "yu mait WÓ-nə",
+   "es": "Quizás quieras… (= deberías)",
+   "group": "E. Peticiones suaves"
+  },
+  {
+   "en": "I'm afraid (that)…",
+   "pron": "aim ə-FRÉID",
+   "es": "Lamento decir que…",
+   "group": "F. Malas noticias"
+  },
+  {
+   "en": "Unfortunately, …",
+   "pron": "an-FÓR-chə-nət-li",
+   "es": "Lamentablemente, …",
+   "group": "F. Malas noticias"
+  },
+  {
+   "en": "I regret to inform you that…",
+   "pron": "ai ri-GRÉT tu in-FÓRM yu dhət",
+   "es": "Lamento informarle que… (muy formal)",
+   "group": "F. Malas noticias"
+  },
+  {
+   "en": "We are unable to…",
+   "pron": "wi ar an-ÉI-bol tə",
+   "es": "No nos es posible…",
+   "group": "F. Malas noticias"
+  },
+  {
+   "en": "a slight delay",
+   "pron": "ə SLAIT di-LÉI",
+   "es": "un ligero retraso",
+   "group": "F. Malas noticias"
+  },
+  {
+   "en": "We apologize for any inconvenience.",
+   "pron": "wi ə-PÓ-lə-yaiz fər É-ni in-kən-VÍ-nyəns",
+   "es": "Pedimos disculpas por las molestias.",
+   "group": "F. Malas noticias"
+  },
+  {
+   "en": "We are doing everything we can to…",
+   "pron": "wi ar DÚ-ing ÉV-ri-thing wi KAN tə",
+   "es": "Estamos haciendo todo lo posible para…",
+   "group": "F. Malas noticias"
+  }
+ ],
+ "examples": [
+  {
+   "en": "It seems that the nozzle orientation on sheet 3 doesn't match the P&ID.",
+   "es": "Parece que la orientación de la boquilla en la hoja 3 no coincide con el P&ID.",
+   "situation": "Revisión de planos"
+  },
+  {
+   "en": "I'd argue that a full replacement would be cheaper in the long run.",
+   "es": "Yo diría que un reemplazo completo saldría más barato a largo plazo.",
+   "situation": "Reunión técnica"
+  },
+  {
+   "en": "The budget looks a little tight for this scope.",
+   "es": "El presupuesto se ve algo ajustado para este alcance.",
+   "situation": "Estimado"
+  },
+  {
+   "en": "There appears to be some porosity in weld W-14.",
+   "es": "Al parecer hay algo de porosidad en la soldadura W-14.",
+   "situation": "Inspección"
+  },
+  {
+   "en": "I was wondering if I could leave an hour early on Friday.",
+   "es": "Me preguntaba si podría salir una hora antes el viernes.",
+   "situation": "Con el jefe"
+  },
+  {
+   "en": "I'm afraid we won't be able to deliver the spools by Monday.",
+   "es": "Lamento decirle que no podremos entregar los spools para el lunes.",
+   "situation": "Cliente"
+  },
+  {
+   "en": "I see your point, but I'm not sure the client will accept that.",
+   "es": "Entiendo tu punto, pero no estoy seguro de que el cliente lo acepte.",
+   "situation": "Desacuerdo"
+  },
+  {
+   "en": "It might be worth getting a second quote before we decide.",
+   "es": "Quizás valga la pena pedir una segunda cotización antes de decidir.",
+   "situation": "Sugerencia"
+  },
+  {
+   "en": "Would it be possible to extend the payment terms to 60 days?",
+   "es": "¿Sería posible extender el plazo de pago a 60 días?",
+   "situation": "Proveedor"
+  },
+  {
+   "en": "Excuse me, I think there might be a mistake on the bill.",
+   "es": "Disculpe, creo que podría haber un error en la cuenta.",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "From what I understand, the transfer should have arrived yesterday.",
+   "es": "Por lo que entiendo, la transferencia debería haber llegado ayer.",
+   "situation": "Banco"
+  },
+  {
+   "en": "I'm not entirely sure I can make it tonight, but I'll try.",
+   "es": "No estoy del todo seguro de poder ir esta noche, pero lo intentaré.",
+   "situation": "Social"
+  },
+  {
+   "en": "The report is good overall, but you might want to add a summary of the results.",
+   "es": "El informe está bien en general, pero quizás quieras agregar un resumen de los resultados.",
+   "situation": "Feedback a un colega"
+  },
+  {
+   "en": "The data suggest that corrosion is more likely near the bottom shell course.",
+   "es": "Los datos sugieren que la corrosión es más probable cerca del primer anillo del casco.",
+   "situation": "Informe técnico"
+  },
+  {
+   "en": "That's a fair point. However, we would need a larger order to offer that price.",
+   "es": "Es un punto válido. Sin embargo, necesitaríamos un pedido más grande para ofrecer ese precio.",
+   "situation": "Negociación"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Directo",
+    "Diplomático",
+    "Respuesta corta diplomática"
+   ],
+   "rows": [
+    [
+     "The design is wrong.",
+     "There seem to be a few issues with the design.",
+     "— Is it a big problem? — Not really, no."
+    ],
+    [
+     "We can't do it.",
+     "I'm afraid we won't be able to do it.",
+     "— Not even next week? — I'm afraid not."
+    ],
+    [
+     "You're late again.",
+     "I noticed you've been arriving a little late recently.",
+     "— Is everything OK? — Yes, it is. Sorry about that."
+    ],
+    [
+     "Why didn't you call?",
+     "Could you let me know what happened?",
+     "— Did something come up? — Yes, it did."
+    ],
+    [
+     "Change the supplier.",
+     "Have we considered changing the supplier?",
+     "— Is it worth it? — It might be."
+    ],
+    [
+     "This price is too high.",
+     "This price is slightly higher than we expected.",
+     "— Can you lower it? — I'm not sure we can."
+    ],
+    [
+     "I disagree.",
+     "I see it a little differently.",
+     "— Don't you agree? — Not entirely."
+    ],
+    [
+     "Send me the file now.",
+     "Would you mind sending me the file when you get a chance?",
+     "— Would you mind? — Not at all."
+    ],
+    [
+     "The test failed.",
+     "Unfortunately, the test didn't meet the acceptance criteria.",
+     "— Will you repeat it? — Yes, we will."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Mr. Lee",
+   "text": "I've looked at your proposal. Honestly, I think patching the bottom plates is enough."
+  },
+  {
+   "who": "Edwin",
+   "text": "I see your point, and patching would certainly be faster. However, I'd argue that it might not be the best long-term option."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Why not? It's much cheaper."
+  },
+  {
+   "who": "Edwin",
+   "text": "It is cheaper at first. But the UT readings suggest that the corrosion is fairly widespread. We may end up patching again in two or three years."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Hmm. Are you sure about that?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Not 100%, no. That's why I was wondering if we could do a few more readings near the sump before we decide."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "That sounds reasonable. How long would that take?"
+  },
+  {
+   "who": "Edwin",
+   "text": "About two days. I'm afraid it would delay the start slightly, but it would give us much better data."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "OK, let's do that. Would you mind sending me a short summary?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Not at all. I'll send it this afternoon."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "You are wrong.",
+   "right": "I see it a little differently.",
+   "why": "Ataca a la persona; el desacuerdo se expresa sobre la idea."
+  },
+  {
+   "wrong": "It seems that the valve is leak.",
+   "right": "It seems that the valve is leaking.",
+   "why": "Después de it seems that va una oración completa y correcta."
+  },
+  {
+   "wrong": "The pump seems be faulty.",
+   "right": "The pump seems to be faulty.",
+   "why": "Seem + to + verbo."
+  },
+  {
+   "wrong": "Would you mind to send it?",
+   "right": "Would you mind sending it?",
+   "why": "Mind + -ing (Módulo 22)."
+  },
+  {
+   "wrong": "I was wondering if you can help me.",
+   "right": "I was wondering if you could help me.",
+   "why": "Con I was wondering, se usa could para mantener la distancia."
+  },
+  {
+   "wrong": "I'd argue the option B is better.",
+   "right": "I'd argue (that) option B is better.",
+   "why": "Ante un nombre como option B no va artículo."
+  },
+  {
+   "wrong": "It might maybe possibly be a bit late.",
+   "right": "It might be a bit late.",
+   "why": "Exceso de hedges = inseguridad y confusión."
+  },
+  {
+   "wrong": "I'm afraid of we can't attend.",
+   "right": "I'm afraid we can't attend.",
+   "why": "I'm afraid (lamento) va seguido de oración, sin of."
+  },
+  {
+   "wrong": "— Would you mind waiting? — Yes, sure.",
+   "right": "— Would you mind waiting? — Not at all.",
+   "why": "Aceptar = responder en negativo."
+  },
+  {
+   "wrong": "There seem to be a problem.",
+   "right": "There seems to be a problem.",
+   "why": "Concordancia con el sustantivo: a problem → seems."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "I pretend to finish today.",
+   "looks": "pretendo (tengo la intención)",
+   "means": "Finjo que termino hoy.",
+   "fix": "I intend / hope to finish today."
+  },
+  {
+   "en": "Eventually we will be late.",
+   "looks": "eventualmente (quizás)",
+   "means": "Al final, tarde o temprano, llegaremos tarde.",
+   "fix": "We might be late."
+  },
+  {
+   "en": "Sincerely, I think…",
+   "looks": "sinceramente",
+   "means": "Cierre de carta en medio de la frase.",
+   "fix": "To be honest, I think…"
+  },
+  {
+   "en": "I'm disgusted with the result.",
+   "looks": "disgustado (molesto)",
+   "means": "Me da asco el resultado.",
+   "fix": "I'm disappointed with the result."
+  },
+  {
+   "en": "It's a delicate problem. (= grave)",
+   "looks": "delicado (grave)",
+   "means": "Un problema sensible, que requiere tacto.",
+   "fix": "It's a serious problem."
+  },
+  {
+   "en": "Please, can you… en cada frase",
+   "looks": "por favor, ¿puedes…? (cortesía)",
+   "means": "Suena a súplica o a impaciencia.",
+   "fix": "Could you…, please? / Would you mind…?"
+  },
+  {
+   "en": "I demand a refund. (= pedir)",
+   "looks": "demandar (pedir)",
+   "means": "Exijo un reembolso (agresivo).",
+   "fix": "I'd like to request a refund."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Parece que hay un error en el cálculo. (there seems)",
+    "answers": [
+     "There seems to be a mistake in the calculation.",
+     "There seems to be an error in the calculation."
+    ],
+    "explain": "There seems to be + singular. También an error."
+   },
+   {
+    "prompt": "Yo diría que la opción A es más segura. (I'd argue)",
+    "answers": [
+     "I'd argue that option A is safer.",
+     "I would argue that option A is safer.",
+     "I'd argue option A is safer.",
+     "I would argue option A is safer."
+    ],
+    "explain": "Sin artículo ante option A; comparativo safer."
+   },
+   {
+    "prompt": "Lamento decirle que no podemos asistir a la reunión. (I'm afraid)",
+    "answers": [
+     "I'm afraid we can't attend the meeting.",
+     "I am afraid we cannot attend the meeting.",
+     "I'm afraid we won't be able to attend the meeting.",
+     "I am afraid we will not be able to attend the meeting."
+    ],
+    "explain": "I'm afraid + oración. Attend = asistir (sin to). También we won't be able to attend."
+   },
+   {
+    "prompt": "¿Te importaría revisar este plano? (would you mind)",
+    "answers": [
+     "Would you mind checking this drawing?",
+     "Would you mind reviewing this drawing?"
+    ],
+    "explain": "Mind + -ing. También reviewing."
+   },
+   {
+    "prompt": "Me preguntaba si podrías ayudarme con el informe. (I was wondering)",
+    "answers": [
+     "I was wondering if you could help me with the report.",
+     "I was wondering whether you could help me with the report."
+    ],
+    "explain": "I was wondering if + could."
+   },
+   {
+    "prompt": "El precio es un poco más alto de lo que esperábamos. (a bit)",
+    "answers": [
+     "The price is a bit higher than we expected.",
+     "The price is a bit higher than expected."
+    ],
+    "explain": "Suavizador a bit + comparativo. También than expected."
+   },
+   {
+    "prompt": "Entiendo tu punto, pero lo veo un poco distinto.",
+    "answers": [
+     "I see your point, but I see it a little differently.",
+     "I understand your point, but I see it a little differently.",
+     "I see your point, but I see it a bit differently.",
+     "I understand your point, but I see it a bit differently."
+    ],
+    "explain": "Reconocer + discrepar sin atacar. También I understand your point."
+   },
+   {
+    "prompt": "Esto podría causar un ligero retraso. (may)",
+    "answers": [
+     "This may cause a slight delay."
+    ],
+    "explain": "Modal may + slight como suavizador."
+   },
+   {
+    "prompt": "Quizás valga la pena pedir otra cotización. (it might be worth)",
+    "answers": [
+     "It might be worth getting another quote.",
+     "It might be worth asking for another quote."
+    ],
+    "explain": "Worth + -ing. También asking for another quote."
+   },
+   {
+    "prompt": "No estoy del todo seguro de que eso funcione. (not entirely)",
+    "answers": [
+     "I'm not entirely sure that would work.",
+     "I am not entirely sure that would work.",
+     "I'm not entirely sure that will work.",
+     "I am not entirely sure that will work."
+    ],
+    "explain": "Not entirely = no del todo; would añade distancia. También that will work."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "You might want to double-check the numbers.",
+    "answers": [
+     "Revisa los números otra vez.",
+     "Deberías revisar los números otra vez.",
+     "Vuelve a revisar los números."
+    ],
+    "explain": "You might want to = \"deberías\"; no es opcional."
+   },
+   {
+    "prompt": "There appear to be a few minor issues with the report.",
+    "answers": [
+     "El informe tiene algunos problemas que hay que corregir.",
+     "Parece que hay algunos problemas menores en el informe.",
+     "El informe parece tener algunos problemas menores."
+    ],
+    "explain": "A few minor issues es understatement: pueden ser cambios importantes."
+   },
+   {
+    "prompt": "That's an interesting idea. Let's discuss it later.",
+    "answers": [
+     "No me convence la idea; dejémoslo para después.",
+     "Es una idea interesante. Hablémoslo después.",
+     "Es una idea interesante; lo discutimos más tarde."
+    ],
+    "explain": "Sin entusiasmo, interesting + posponer = rechazo cortés."
+   },
+   {
+    "prompt": "I'm not sure that would work for us.",
+    "answers": [
+     "Eso no nos sirve.",
+     "Eso no funcionaría para nosotros.",
+     "No estoy seguro de que eso funcione para nosotros."
+    ],
+    "explain": "I'm not sure suaviza un \"no\" bastante claro."
+   },
+   {
+    "prompt": "Would it be possible to have it by Friday?",
+    "answers": [
+     "¿Podrían tenerlo para el viernes?",
+     "¿Sería posible tenerlo para el viernes?"
+    ],
+    "explain": "Pregunta indirecta = petición firme en forma cortés."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "The weld seems be acceptable.",
+    "answers": [
+     "The weld seems to be acceptable."
+    ],
+    "explain": "Seem + to + verbo."
+   },
+   {
+    "prompt": "Would you mind to call me back?",
+    "answers": [
+     "Would you mind calling me back?"
+    ],
+    "explain": "Mind + -ing."
+   },
+   {
+    "prompt": "There seem to be a problem with the pump.",
+    "answers": [
+     "There seems to be a problem with the pump."
+    ],
+    "explain": "A problem es singular → seems."
+   },
+   {
+    "prompt": "I was wondering if you can send me the file.",
+    "answers": [
+     "I was wondering if you could send me the file."
+    ],
+    "explain": "Con I was wondering, could."
+   },
+   {
+    "prompt": "I'm afraid of we can't meet the deadline.",
+    "answers": [
+     "I'm afraid we can't meet the deadline.",
+     "I am afraid we cannot meet the deadline."
+    ],
+    "explain": "Sin of: I'm afraid + oración."
+   },
+   {
+    "prompt": "It appears that the test fail.",
+    "answers": [
+     "It appears that the test failed.",
+     "It appears that the test has failed."
+    ],
+    "explain": "Oración completa en pasado: failed. También has failed."
+   },
+   {
+    "prompt": "It might be worth to check the supports again.",
+    "answers": [
+     "It might be worth checking the supports again."
+    ],
+    "explain": "Worth + -ing."
+   },
+   {
+    "prompt": "I'm not sure I agree you.",
+    "answers": [
+     "I'm not sure I agree with you.",
+     "I am not sure I agree with you."
+    ],
+    "explain": "Agree with + persona."
+   },
+   {
+    "prompt": "There appears to be some mistakes in the invoice.",
+    "answers": [
+     "There appear to be some mistakes in the invoice."
+    ],
+    "explain": "Some mistakes es plural → appear."
+   },
+   {
+    "prompt": "— Would you mind waiting a minute? — Yes, of course. (quieres decir que aceptas)",
+    "answers": [
+     "— Would you mind waiting a minute? — Not at all.",
+     "Would you mind waiting a minute? Not at all.",
+     "Would you mind waiting a minute? No, of course not.",
+     "Not at all.",
+     "No, of course not."
+    ],
+    "explain": "Aceptar Would you mind…? = negativo. También No, of course not."
+   }
+  ],
+  "bonus": {
+   "prompt": "Sube 3 niveles en la escala de la Figura 32.1: Your report is bad.",
+   "answer": "nivel 4 → I wonder if the report might need a little more work. También vale nivel 3: The report seems to need some more work."
+  },
+  "C1": {
+   "instructions": "Completa la reunión (8 puntos). Usa cada expresión una vez: seems · I'd argue · afraid · mind · wondering · fair point · slightly · might want.",
+   "lines": [
+    {
+     "who": "Client",
+     "text": "We need the tank back in service by the 15th."
+    },
+    {
+     "who": "You",
+     "text": "I'm [1] that will be difficult. It [2] that the corrosion is worse than we expected."
+    },
+    {
+     "who": "Client",
+     "text": "Can't you just add more welders?"
+    },
+    {
+     "who": "You",
+     "text": "That's a [3]. However, [4] that more welders inside the tank would create a safety risk."
+    },
+    {
+     "who": "Client",
+     "text": "So what do you suggest?"
+    },
+    {
+     "who": "You",
+     "text": "I was [5] if we could move the date [6], to the 19th."
+    },
+    {
+     "who": "Client",
+     "text": "I'll need to check with my manager."
+    },
+    {
+     "who": "You",
+     "text": "Of course. You [7] to share our inspection report with him. Would you [8] if I sent it to you today?"
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "afraid"
+     ],
+     "explain": "I'm afraid = lamento decir; introduce la mala noticia."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "seems"
+     ],
+     "explain": "It seems that… presenta el hallazgo como percepción."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "fair point"
+     ],
+     "explain": "That's a fair point reconoce la idea antes de discrepar."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "I'd argue"
+     ],
+     "explain": "However, I'd argue that… = opinión con margen."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "wondering"
+     ],
+     "explain": "I was wondering if we could… = propuesta suave."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "slightly"
+     ],
+     "explain": "Suaviza el cambio de fecha: move the date slightly."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "might want"
+     ],
+     "explain": "You might want to… = te recomiendo."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "mind"
+     ],
+     "explain": "Would you mind if I sent…? = mind if + pasado."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo de malas noticias (7 puntos). Escribe a tu cliente (Ms. Carter) un correo de 100 a 130 palabras: la prueba hidrostática del tanque T-5 no pasó por una fuga en una soldadura y la entrega se retrasa una semana. Debe tener: (1) asunto claro y neutral; (2) contexto amable al inicio; (3) la noticia con I'm afraid o Unfortunately; (4) la causa sin culpar a nadie (impersonal o pasiva); (5) un verbo de apariencia o un modal de probabilidad; (6) la solución con nueva fecha; (7) cierre con disculpa y oferta de llamada. Puntuación C2: 1 punto por cada elemento (1–7). Si el correo culpa a una persona con you o con un nombre, resta 1 punto.",
+   "rubric": [
+    "(1) asunto claro y neutral",
+    "(2) contexto amable al inicio",
+    "(3) la noticia con I'm afraid o Unfortunately",
+    "(4) la causa sin culpar a nadie (impersonal o pasiva)",
+    "(5) un verbo de apariencia o un modal de probabilidad",
+    "(6) la solución con nueva fecha",
+    "(7) cierre con disculpa y oferta de llamada"
+   ],
+   "model": "Subject: T-5 hydrotest results and updated completion date\nDear Ms. Carter,\nThank you for your support during the T-5 repair. I'm writing to update you on yesterday's hydrostatic test.\nUnfortunately, the tank did not pass the test. A small leak was found at one of the shell-to-bottom welds. It appears to be a localized defect, so the repair should be straightforward.\nThe weld will be repaired and re-inspected this week, and we expect to repeat the test next Tuesday. As a result, the new completion date is May 22, one week later than planned.\nWe apologize for any inconvenience this may cause. Please let me know if you would like to discuss it on a short call.\nKind regards,\nEdwin Prieto"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Suavizar una afirmación con las 7 herramientas.",
+   "test": "Reescribe 7 frases directas usando una herramienta distinta en cada una, en 5 minutos; 7/7 correctas."
+  },
+  {
+   "skill": "Ubicar una frase en la escala de franqueza.",
+   "test": "Escribe la misma crítica en los niveles 1 a 5 de la Figura 32.1 en 3 minutos."
+  },
+  {
+   "skill": "Discrepar sin atacar.",
+   "test": "Grábate respondiendo a 3 opiniones con I see your point, but… u otra frase del bloque D; cero You're wrong."
+  },
+  {
+   "skill": "Hacer peticiones suaves con la gramática correcta.",
+   "test": "Escribe 5 peticiones con would you mind, I was wondering, would it be possible; cero errores de -ing / could."
+  },
+  {
+   "skill": "Leer entre líneas el understatement.",
+   "test": "Explica qué significan realmente 5 frases como You might want to… o a few minor issues."
+  },
+  {
+   "skill": "Redactar un correo de malas noticias en 5 pasos.",
+   "test": "Escribe uno de 120 palabras en 15 minutos y marca los 5 pasos; compáralo con el modelo C2."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "How would you tell your boss, politely, that a deadline is unrealistic?",
+  "What's something at work that seems to be a problem right now?",
+  "How do you usually disagree with a coworker without sounding rude?",
+  "Would you mind telling me about a time you had to give bad news?",
+  "What might be worth changing in the way your team works?",
+  "How would you ask a client, very politely, for more time?"
+ ]
+}

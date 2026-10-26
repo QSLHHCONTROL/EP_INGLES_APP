@@ -1,0 +1,98 @@
+{
+ "id": 23,
+ "topic": "Phrasal verbs",
+ "title": "How I Sort Things Out at Work",
+ "practice": "Léela en voz alta 3 veces, enlazando verbo y partícula. Luego grábate 1 minuto contándola sin mirar.",
+ "rows": [
+  {
+   "en": "At {company}, I **deal with** {work}.",
+   "es": "En {company}, me encargo de {work_es}."
+  },
+  {
+   "en": "For {project}, I **set up** a daily progress tracker in {tool}.",
+   "es": "Para {project_es}, armé un control de avance diario en {tool}."
+  },
+  {
+   "en": "Before we **carry out** any task, I **go over** the documents.",
+   "es": "Antes de realizar cualquier tarea, reviso los documentos."
+  },
+  {
+   "en": "When my coworkers **fill out** their reports, I **write down** the key numbers.",
+   "es": "Cuando mis compañeros llenan sus reportes, anoto los números clave."
+  },
+  {
+   "en": "If a number doesn't match, I **look into** it right away.",
+   "es": "Si un número no cuadra, lo investigo de inmediato."
+  },
+  {
+   "en": "If I can't **figure** it **out** alone, I ask my team for help.",
+   "es": "Si no logro descifrarlo solo, le pido ayuda a mi equipo."
+  },
+  {
+   "en": "We never want to **run out of** time, so I **came up with** a simple control system.",
+   "es": "Nunca queremos quedarnos sin tiempo, así que ideé un sistema de control sencillo."
+  },
+  {
+   "en": "I'm going to **bring** it **up** at a meeting and propose it to {company}.",
+   "es": "Voy a plantearlo en una reunión y proponerlo a {company}."
+  },
+  {
+   "en": "I always **back up** my files at the end of the day.",
+   "es": "Siempre respaldo mis archivos al final del día."
+  },
+  {
+   "en": "My coworkers know they can **count on** me.",
+   "es": "Mis compañeros saben que pueden contar conmigo."
+  },
+  {
+   "en": "Learning English isn't easy, but I'm not going to **give up**.",
+   "es": "Aprender inglés no es fácil, pero no me voy a rendir."
+  }
+ ],
+ "dialogTitle": "Diálogo en el trabajo",
+ "dialog": [
+  {
+   "who": "Mark",
+   "text": "{name}, did you find out why the numbers don't match?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, I looked into it. Two items were missing from the list."
+  },
+  {
+   "who": "Mark",
+   "text": "Can you sort it out today?"
+  },
+  {
+   "who": "{name}",
+   "text": "Sure. I'll fix the list and send it over before noon."
+  },
+  {
+   "who": "Mark",
+   "text": "Great. What about the weekly report?"
+  },
+  {
+   "who": "{name}",
+   "text": "I'm still working on it. I'll get back to you this afternoon."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I look into it right away.",
+   "pron": "ai luk ÍN-tu it RAIT ə-WÉI"
+  },
+  {
+   "en": "I came up with a simple control system.",
+   "pron": "ai kei-MÁP widh ə SÍM-pəl kən-TRÓUL SÍS-təm"
+  },
+  {
+   "en": "I always back up my files.",
+   "pron": "ai ÓL-weiz ba-KÁP mai FAILZ"
+  },
+  {
+   "en": "I'm not going to give up.",
+   "pron": "aim NOT GÓU-ing tə gui-VÁP"
+  }
+ ],
+ "check": "Cuento mi trabajo en menos de 90 segundos, sin leer, y pongo el pronombre en su sitio: figure it out, bring it up, look into it (nunca bring up it)."
+}

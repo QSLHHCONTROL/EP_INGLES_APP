@@ -1,0 +1,1009 @@
+{
+ "id": 35,
+ "level": "C1",
+ "title": "Escritura avanzada: propuestas, informes y CV",
+ "goal": "Al terminar podrás redactar una propuesta técnica con alcance, supuestos y exclusiones claros, escribir un resumen ejecutivo que un gerente entienda en un minuto y armar tu CV en inglés con logros medibles para postular a un puesto de ingeniería en el extranjero.",
+ "lesson": [
+  {
+   "title": "Escribir en inglés: la conclusión primero",
+   "html": "<p>En español profesional se valora el texto cortés y completo: primero el contexto, luego el análisis y al final la conclusión. En inglés profesional (Estados Unidos, Canadá, Australia, Reino Unido) el lector es un cliente o gerente ocupado que decide en pocos minutos. Por eso el inglés escrito sigue el principio <span class=\"en\">BLUF</span> <span class=\"pron\">blaf</span> (<i>Bottom Line Up Front</i>): <b>la conclusión va primero</b>. Todo lo demás (datos, método, anexos) existe para respaldarla.</p><p>Este módulo cubre los tres documentos que más pesan en tu carrera en el extranjero: la <b>propuesta técnica</b> (gana contratos), el <b>informe</b> (justifica decisiones) y el <b>CV</b> (te consigue la entrevista). Los tres comparten la misma lógica: el lector escanea, no lee de corrido.</p><table><thead><tr><th>Cómo suele empezar en español</th><th>Cómo empieza un nativo</th></tr></thead><tbody><tr><td>Por medio de la presente, nos es grato saludarlos y, a la vez, hacerles llegar nuestra propuesta técnico-económica, la cual ha sido elaborada considerando los requerimientos indicados en su solicitud…</td><td><span class=\"en\">We are pleased to submit our proposal for the bottom-plate repair of Tank T-201. We can complete the work in 21 calendar days for a lump-sum price of USD 184,500.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Dos culturas de escritura",
+   "html": "<table><thead><tr><th>Rasgo</th><th>Español profesional típico</th><th>Inglés profesional</th></tr></thead><tbody><tr><td><b>Orden</b></td><td>Contexto → análisis → conclusión</td><td>Conclusión → razones → detalle (BLUF)</td></tr><tr><td><b>Oración</b></td><td>Larga, con varias subordinadas (30–50 palabras)</td><td>Una idea por oración (15–25 palabras)</td></tr><tr><td><b>Voz</b></td><td>Impersonal: <i>se realizó, se procedió a</i></td><td>Activa: <span class=\"en\">We inspected the tank.</span></td></tr><tr><td><b>Cortesía</b></td><td>Fórmulas largas de saludo y despedida</td><td>Cortesía en el tono, no en el relleno</td></tr><tr><td><b>Datos</b></td><td><i>Aproximadamente, varias semanas</i></td><td>Cifras exactas con unidad: <span class=\"en\">21 calendar days</span></td></tr><tr><td><b>Formato</b></td><td>Párrafos largos</td><td>Títulos, viñetas, párrafos de 3–5 líneas</td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal</th><th>Inglés real</th></tr></thead><tbody><tr><td>Por medio de la presente le hacemos llegar…</td><td><span class=\"wrong\">By means of the present we send you…</span></td><td><span class=\"ok\">We are pleased to submit… / Please find attached…</span></td></tr><tr><td>Se realizó la inspección de las soldaduras.</td><td><span class=\"wrong\">It was realized the inspection of the welds.</span></td><td><span class=\"ok\">We inspected the welds.</span></td></tr><tr><td>Sin otro particular, me despido.</td><td><span class=\"wrong\">Without other particular, I say goodbye.</span></td><td><span class=\"ok\">Please let me know if you have any questions.</span></td></tr><tr><td>Responsable de la elaboración de planos.</td><td><span class=\"wrong\">Responsible of the elaboration of drawings.</span></td><td><span class=\"ok\">Produced 140+ piping isometrics.</span></td></tr><tr><td>Tengo amplia experiencia en tanques.</td><td><span class=\"wrong\">I have wide experience in tanks.</span></td><td><span class=\"ok\">Five years of experience in API 650/653 tank work.</span></td></tr><tr><td>Asistí a la capacitación de seguridad.</td><td><span class=\"wrong\">I assisted the safety training.</span></td><td><span class=\"ok\">I attended the safety training.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "La propuesta técnica: anatomía",
+   "html": "<p>Una propuesta responde a una <span class=\"en\">RFQ</span> (<i>request for quotation</i>) o a una <span class=\"en\">RFP</span> (<i>request for proposal</i>). El cliente compara varias ofertas lado a lado, así que el orden estándar le ayuda a encontrar cada dato en segundos.</p>",
+   "svg": "<svg viewBox=\"0 0 640 362\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"24\" font-size=\"13\" font-weight=\"800\" fill=\"#6941C6\">ORDEN ESTÁNDAR</text>\n  <text x=\"280\" y=\"24\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">Qué responde cada sección</text>\n  <g>\n    <rect x=\"20\" y=\"38\" width=\"240\" height=\"32\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n    <circle cx=\"40\" cy=\"54\" r=\"10\" fill=\"#6941C6\"/><text x=\"40\" y=\"58\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#fff\">1</text>\n    <text x=\"60\" y=\"59\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Cover letter</text>\n    <text x=\"280\" y=\"59\" font-size=\"12\" fill=\"#344054\">Carta breve: quién eres y qué entregas.</text>\n  </g>\n  <g>\n    <rect x=\"20\" y=\"78\" width=\"240\" height=\"32\" rx=\"8\" fill=\"#6941C6\"/>\n    <circle cx=\"40\" cy=\"94\" r=\"10\" fill=\"#fff\"/><text x=\"40\" y=\"98\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#6941C6\">2</text>\n    <text x=\"60\" y=\"99\" font-size=\"13\" font-weight=\"700\" fill=\"#fff\">Executive summary</text>\n    <text x=\"280\" y=\"99\" font-size=\"12\" font-weight=\"700\" fill=\"#4A2B91\">La conclusión: qué, cuánto, cuándo (1 página).</text>\n  </g>\n  <g>\n    <rect x=\"20\" y=\"118\" width=\"240\" height=\"32\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n    <circle cx=\"40\" cy=\"134\" r=\"10\" fill=\"#6941C6\"/><text x=\"40\" y=\"138\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#fff\">3</text>\n    <text x=\"60\" y=\"139\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Background</text>\n    <text x=\"280\" y=\"139\" font-size=\"12\" fill=\"#344054\">El problema del cliente, con datos medidos.</text>\n  </g>\n  <g>\n    <rect x=\"20\" y=\"158\" width=\"240\" height=\"32\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n    <circle cx=\"40\" cy=\"174\" r=\"10\" fill=\"#6941C6\"/><text x=\"40\" y=\"178\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#fff\">4</text>\n    <text x=\"60\" y=\"179\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Scope of work</text>\n    <text x=\"280\" y=\"179\" font-size=\"12\" fill=\"#344054\">Qué harás, en viñetas paralelas.</text>\n  </g>\n  <g>\n    <rect x=\"20\" y=\"198\" width=\"240\" height=\"32\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n    <circle cx=\"40\" cy=\"214\" r=\"10\" fill=\"#6941C6\"/><text x=\"40\" y=\"218\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#fff\">5</text>\n    <text x=\"60\" y=\"219\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Methodology &amp; schedule</text>\n    <text x=\"280\" y=\"219\" font-size=\"12\" fill=\"#344054\">Cómo lo harás y en cuánto tiempo (fases).</text>\n  </g>\n  <g>\n    <rect x=\"20\" y=\"238\" width=\"240\" height=\"32\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n    <circle cx=\"40\" cy=\"254\" r=\"10\" fill=\"#6941C6\"/><text x=\"40\" y=\"258\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#fff\">6</text>\n    <text x=\"60\" y=\"259\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Price &amp; payment terms</text>\n    <text x=\"280\" y=\"259\" font-size=\"12\" fill=\"#344054\">Monto, moneda, impuestos e hitos de pago.</text>\n  </g>\n  <g>\n    <rect x=\"20\" y=\"278\" width=\"240\" height=\"32\" rx=\"8\" fill=\"#6941C6\"/>\n    <circle cx=\"40\" cy=\"294\" r=\"10\" fill=\"#fff\"/><text x=\"40\" y=\"298\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#6941C6\">7</text>\n    <text x=\"60\" y=\"299\" font-size=\"13\" font-weight=\"700\" fill=\"#fff\">Assumptions &amp; exclusions</text>\n    <text x=\"280\" y=\"299\" font-size=\"12\" font-weight=\"700\" fill=\"#4A2B91\">Lo que NO incluye y de qué depende el precio.</text>\n  </g>\n  <g>\n    <rect x=\"20\" y=\"318\" width=\"240\" height=\"32\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n    <circle cx=\"40\" cy=\"334\" r=\"10\" fill=\"#6941C6\"/><text x=\"40\" y=\"338\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#fff\">8</text>\n    <text x=\"60\" y=\"339\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Qualifications &amp; HSE</text>\n    <text x=\"280\" y=\"339\" font-size=\"12\" fill=\"#344054\">Por qué confiar: obras similares y seguridad.</text>\n  </g>\n</svg>",
+   "caption": "Figura 35.1 — Anatomía de una propuesta técnica. Las secciones 2 y 7 (en morado) son las que más contratos ganan o pierden."
+  },
+  {
+   "title": "Tres reglas de oro: BLUF, voz activa y logros",
+   "html": "<p><b>Regla de oro 1 — BLUF: la conclusión va primero</b></p><p>El primer párrafo de cualquier documento responde cuatro preguntas: <b>qué</b> propones o encontraste, <b>cuánto</b> cuesta, <b>cuándo</b> estará listo y <b>qué necesitas</b> del lector. Si el gerente solo lee ese párrafo, ya puede decidir.</p><p><b>Regla de oro 2 — Una idea por oración, verbo fuerte, voz activa</b></p><p>Escribe <span class=\"ok\">We replaced six plates.</span> y no <span class=\"wrong\">The replacement of six plates was carried out by our company.</span> Usa la voz pasiva (Módulo 20) solo cuando quién lo hizo no importa: <span class=\"en\">The tank was hydrotested on May 3.</span></p><p><b>Regla de oro 3 — En el CV, logros y no tareas</b></p><p>Fórmula: <b>verbo de acción en pasado + qué hiciste + cómo + resultado con número</b>.<br><span class=\"wrong\">Responsible for piping drawings.</span> → <span class=\"ok\">Produced 140+ piping isometrics with zero sheets rejected in client review.</span></p>"
+  },
+  {
+   "title": "El informe técnico: quién lee qué",
+   "html": "<p>Un informe tiene varios lectores. El gerente lee el resumen y las recomendaciones; el ingeniero lee todo; el inspector o auditor va directo a los hallazgos y a los anexos. Escribe cada sección para su lector.</p>",
+   "svg": "<svg viewBox=\"0 0 640 300\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"28\" font-size=\"13\" font-weight=\"800\" fill=\"#6941C6\">SECCIÓN DEL INFORME</text>\n  <text x=\"365\" y=\"28\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">Gerente</text>\n  <text x=\"465\" y=\"28\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">Ingeniero</text>\n  <text x=\"565\" y=\"28\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">Inspector</text>\n  <line x1=\"20\" y1=\"38\" x2=\"620\" y2=\"38\" stroke=\"#98A2B3\"/>\n  <!-- rows -->\n  <rect x=\"20\" y=\"46\" width=\"270\" height=\"26\" rx=\"6\" fill=\"#6941C6\"/><text x=\"32\" y=\"64\" font-size=\"13\" font-weight=\"700\" fill=\"#fff\">1  Executive summary</text>\n  <rect x=\"20\" y=\"78\" width=\"270\" height=\"26\" rx=\"6\" fill=\"#F2EEFC\"/><text x=\"32\" y=\"96\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">2  Introduction &amp; scope</text>\n  <rect x=\"20\" y=\"110\" width=\"270\" height=\"26\" rx=\"6\" fill=\"#F2EEFC\"/><text x=\"32\" y=\"128\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">3  Findings</text>\n  <rect x=\"20\" y=\"142\" width=\"270\" height=\"26\" rx=\"6\" fill=\"#F2EEFC\"/><text x=\"32\" y=\"160\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">4  Analysis</text>\n  <rect x=\"20\" y=\"174\" width=\"270\" height=\"26\" rx=\"6\" fill=\"#F2EEFC\"/><text x=\"32\" y=\"192\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">5  Conclusions</text>\n  <rect x=\"20\" y=\"206\" width=\"270\" height=\"26\" rx=\"6\" fill=\"#6941C6\"/><text x=\"32\" y=\"224\" font-size=\"13\" font-weight=\"700\" fill=\"#fff\">6  Recommendations</text>\n  <rect x=\"20\" y=\"238\" width=\"270\" height=\"26\" rx=\"6\" fill=\"#F2EEFC\"/><text x=\"32\" y=\"256\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">7  Appendices (NDT data, drawings)</text>\n  <!-- Gerente col 365 -->\n  <circle cx=\"365\" cy=\"59\" r=\"8\" fill=\"#6941C6\"/>\n  <circle cx=\"365\" cy=\"91\" r=\"7\" fill=\"#fff\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <circle cx=\"365\" cy=\"123\" r=\"7\" fill=\"#fff\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"365\" y=\"160\" text-anchor=\"middle\" font-size=\"13\" fill=\"#98A2B3\">—</text>\n  <circle cx=\"365\" cy=\"187\" r=\"7\" fill=\"#fff\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <circle cx=\"365\" cy=\"219\" r=\"8\" fill=\"#6941C6\"/>\n  <text x=\"365\" y=\"256\" text-anchor=\"middle\" font-size=\"13\" fill=\"#98A2B3\">—</text>\n  <!-- Ingeniero col 465 -->\n  <circle cx=\"465\" cy=\"59\" r=\"8\" fill=\"#6941C6\"/>\n  <circle cx=\"465\" cy=\"91\" r=\"8\" fill=\"#6941C6\"/>\n  <circle cx=\"465\" cy=\"123\" r=\"8\" fill=\"#6941C6\"/>\n  <circle cx=\"465\" cy=\"155\" r=\"8\" fill=\"#6941C6\"/>\n  <circle cx=\"465\" cy=\"187\" r=\"8\" fill=\"#6941C6\"/>\n  <circle cx=\"465\" cy=\"219\" r=\"8\" fill=\"#6941C6\"/>\n  <circle cx=\"465\" cy=\"251\" r=\"7\" fill=\"#fff\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <!-- Inspector col 565 -->\n  <circle cx=\"565\" cy=\"59\" r=\"8\" fill=\"#6941C6\"/>\n  <circle cx=\"565\" cy=\"91\" r=\"7\" fill=\"#fff\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <circle cx=\"565\" cy=\"123\" r=\"8\" fill=\"#6941C6\"/>\n  <circle cx=\"565\" cy=\"155\" r=\"7\" fill=\"#fff\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <circle cx=\"565\" cy=\"187\" r=\"8\" fill=\"#6941C6\"/>\n  <circle cx=\"565\" cy=\"219\" r=\"7\" fill=\"#fff\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <circle cx=\"565\" cy=\"251\" r=\"8\" fill=\"#6941C6\"/>\n  <!-- legend -->\n  <circle cx=\"30\" cy=\"286\" r=\"7\" fill=\"#6941C6\"/><text x=\"44\" y=\"290\" font-size=\"12\" fill=\"#344054\">lee con atención</text>\n  <circle cx=\"170\" cy=\"286\" r=\"6\" fill=\"#fff\" stroke=\"#6941C6\" stroke-width=\"2\"/><text x=\"184\" y=\"290\" font-size=\"12\" fill=\"#344054\">hojea</text>\n  <text x=\"250\" y=\"290\" font-size=\"12\" fill=\"#98A2B3\">—</text><text x=\"266\" y=\"290\" font-size=\"12\" fill=\"#344054\">normalmente no lo lee</text>\n</svg>",
+   "caption": "Figura 35.2 — Anatomía de un informe técnico y sus lectores. El resumen ejecutivo es lo único que todos leen con atención."
+  },
+  {
+   "title": "El resumen ejecutivo: cinco pasos",
+   "html": "<p>El <span class=\"en\">executive summary</span> <span class=\"pron\">ig-ZÉ-kiə-tiv SÁ-mə-ri</span> no es una introducción: es el documento entero en 120–200 palabras. Se escribe <b>al final</b>, cuando ya sabes tu conclusión, y se coloca <b>al inicio</b>.</p><p><b>Así piensa un nativo — el lector escanea</b></p><p>Un reclutador o un gerente no lee de arriba abajo: mira títulos, primeras líneas, cifras y negritas. Si en 30 segundos no encuentra lo que busca, pasa al siguiente documento. Por eso un nativo escribe para el <b>escaneo</b>: títulos que dicen algo (<span class=\"en\">Recommendation: Replace Six Plates</span>), viñetas paralelas y números en cada logro.</p>",
+   "svg": "<svg viewBox=\"0 0 640 190\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <polygon points=\"20,40 124,40 138,75 124,110 20,110\" fill=\"#6941C6\"/>\n  <polygon points=\"142,40 246,40 260,75 246,110 142,110 156,75\" fill=\"#7F5AD5\"/>\n  <polygon points=\"264,40 368,40 382,75 368,110 264,110 278,75\" fill=\"#6941C6\"/>\n  <polygon points=\"386,40 490,40 504,75 490,110 386,110 400,75\" fill=\"#7F5AD5\"/>\n  <polygon points=\"508,40 620,40 620,110 508,110 522,75\" fill=\"#4A2B91\"/>\n  <text x=\"75\" y=\"70\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">1</text>\n  <text x=\"75\" y=\"92\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">Conclusión</text>\n  <text x=\"203\" y=\"70\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">2</text>\n  <text x=\"203\" y=\"92\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">Problema</text>\n  <text x=\"325\" y=\"70\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">3</text>\n  <text x=\"325\" y=\"92\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">Solución</text>\n  <text x=\"447\" y=\"70\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">4</text>\n  <text x=\"447\" y=\"92\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">Costo y plazo</text>\n  <text x=\"567\" y=\"70\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">5</text>\n  <text x=\"567\" y=\"92\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">Pedido</text>\n  <text x=\"20\" y=\"26\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">Un gerente lo lee en 1 minuto y decide</text>\n  <text x=\"75\" y=\"134\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">We recommend</text>\n  <text x=\"75\" y=\"150\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">replacing…</text>\n  <text x=\"203\" y=\"134\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">The survey found</text>\n  <text x=\"203\" y=\"150\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">2.1 mm readings…</text>\n  <text x=\"325\" y=\"134\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">We will replace</text>\n  <text x=\"325\" y=\"150\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">six plates…</text>\n  <text x=\"447\" y=\"134\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">USD 184,500</text>\n  <text x=\"447\" y=\"150\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">21 calendar days</text>\n  <text x=\"567\" y=\"134\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">We request</text>\n  <text x=\"567\" y=\"150\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">approval by…</text>\n  <line x1=\"20\" y1=\"166\" x2=\"620\" y2=\"166\" stroke=\"#98A2B3\" stroke-dasharray=\"4 3\"/>\n  <text x=\"320\" y=\"182\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#6941C6\">120–200 palabras · sin tecnicismos innecesarios · cifras exactas</text>\n</svg>",
+   "caption": "Figura 35.3 — Fórmula del resumen ejecutivo: conclusión, problema con dato, solución, costo y plazo, pedido con fecha."
+  },
+  {
+   "title": "El CV en inglés: estructura que se espera",
+   "html": "<p>Diseño de un CV para Estados Unidos, Canadá o Australia. El reclutador busca primero el cargo, los años y las palabras clave.</p>",
+   "svg": "<svg viewBox=\"0 0 640 400\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"40\" y=\"16\" width=\"250\" height=\"368\" rx=\"6\" fill=\"#fff\" stroke=\"#98A2B3\" stroke-width=\"1.5\"/>\n  <!-- header -->\n  <rect x=\"58\" y=\"34\" width=\"214\" height=\"44\" rx=\"4\" fill=\"#6941C6\"/>\n  <text x=\"70\" y=\"54\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">DANIEL ROJAS</text>\n  <text x=\"70\" y=\"70\" font-size=\"11\" fill=\"#F2EEFC\">Piping Design Engineer</text>\n  <!-- summary -->\n  <rect x=\"58\" y=\"92\" width=\"110\" height=\"7\" rx=\"2\" fill=\"#1D2939\"/>\n  <rect x=\"58\" y=\"106\" width=\"214\" height=\"5\" rx=\"2\" fill=\"#D0D5DD\"/>\n  <rect x=\"58\" y=\"116\" width=\"214\" height=\"5\" rx=\"2\" fill=\"#D0D5DD\"/>\n  <rect x=\"58\" y=\"126\" width=\"150\" height=\"5\" rx=\"2\" fill=\"#D0D5DD\"/>\n  <!-- skills -->\n  <rect x=\"58\" y=\"142\" width=\"80\" height=\"7\" rx=\"2\" fill=\"#1D2939\"/>\n  <rect x=\"58\" y=\"156\" width=\"64\" height=\"11\" rx=\"5\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <rect x=\"128\" y=\"156\" width=\"64\" height=\"11\" rx=\"5\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <rect x=\"198\" y=\"156\" width=\"64\" height=\"11\" rx=\"5\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <rect x=\"58\" y=\"172\" width=\"64\" height=\"11\" rx=\"5\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <rect x=\"128\" y=\"172\" width=\"64\" height=\"11\" rx=\"5\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <rect x=\"198\" y=\"172\" width=\"64\" height=\"11\" rx=\"5\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <!-- experience -->\n  <rect x=\"58\" y=\"198\" width=\"140\" height=\"7\" rx=\"2\" fill=\"#1D2939\"/>\n  <rect x=\"58\" y=\"212\" width=\"170\" height=\"5\" rx=\"2\" fill=\"#98A2B3\"/>\n  <circle cx=\"63\" cy=\"227\" r=\"2.5\" fill=\"#6941C6\"/><rect x=\"70\" y=\"225\" width=\"200\" height=\"5\" rx=\"2\" fill=\"#D0D5DD\"/>\n  <circle cx=\"63\" cy=\"238\" r=\"2.5\" fill=\"#6941C6\"/><rect x=\"70\" y=\"236\" width=\"190\" height=\"5\" rx=\"2\" fill=\"#D0D5DD\"/>\n  <circle cx=\"63\" cy=\"249\" r=\"2.5\" fill=\"#6941C6\"/><rect x=\"70\" y=\"247\" width=\"200\" height=\"5\" rx=\"2\" fill=\"#D0D5DD\"/>\n  <circle cx=\"63\" cy=\"260\" r=\"2.5\" fill=\"#6941C6\"/><rect x=\"70\" y=\"258\" width=\"170\" height=\"5\" rx=\"2\" fill=\"#D0D5DD\"/>\n  <rect x=\"58\" y=\"274\" width=\"170\" height=\"5\" rx=\"2\" fill=\"#98A2B3\"/>\n  <circle cx=\"63\" cy=\"289\" r=\"2.5\" fill=\"#6941C6\"/><rect x=\"70\" y=\"287\" width=\"200\" height=\"5\" rx=\"2\" fill=\"#D0D5DD\"/>\n  <circle cx=\"63\" cy=\"300\" r=\"2.5\" fill=\"#6941C6\"/><rect x=\"70\" y=\"298\" width=\"185\" height=\"5\" rx=\"2\" fill=\"#D0D5DD\"/>\n  <circle cx=\"63\" cy=\"311\" r=\"2.5\" fill=\"#6941C6\"/><rect x=\"70\" y=\"309\" width=\"160\" height=\"5\" rx=\"2\" fill=\"#D0D5DD\"/>\n  <!-- education -->\n  <rect x=\"58\" y=\"330\" width=\"90\" height=\"7\" rx=\"2\" fill=\"#1D2939\"/>\n  <rect x=\"58\" y=\"344\" width=\"200\" height=\"5\" rx=\"2\" fill=\"#D0D5DD\"/>\n  <rect x=\"58\" y=\"354\" width=\"160\" height=\"5\" rx=\"2\" fill=\"#D0D5DD\"/>\n  <rect x=\"58\" y=\"364\" width=\"120\" height=\"5\" rx=\"2\" fill=\"#D0D5DD\"/>\n  <!-- callouts -->\n  <line x1=\"276\" y1=\"56\" x2=\"307\" y2=\"56\" stroke=\"#6941C6\" stroke-width=\"1.5\"/><circle cx=\"318\" cy=\"56\" r=\"11\" fill=\"#6941C6\"/><text x=\"318\" y=\"60\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#fff\">1</text>\n  <text x=\"338\" y=\"52\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Header</text>\n  <text x=\"338\" y=\"68\" font-size=\"12\" fill=\"#344054\">Nombre, cargo objetivo, ciudad, correo.</text>\n  <text x=\"338\" y=\"83\" font-size=\"12\" fill=\"#D92D20\">Sin foto, edad, estado civil ni DNI.</text>\n  <line x1=\"276\" y1=\"114\" x2=\"307\" y2=\"114\" stroke=\"#6941C6\" stroke-width=\"1.5\"/><circle cx=\"318\" cy=\"114\" r=\"11\" fill=\"#6941C6\"/><text x=\"318\" y=\"118\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#fff\">2</text>\n  <text x=\"338\" y=\"110\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Professional summary</text>\n  <text x=\"338\" y=\"126\" font-size=\"12\" fill=\"#344054\">3–4 líneas: quién eres, años, valor.</text>\n  <line x1=\"268\" y1=\"168\" x2=\"307\" y2=\"168\" stroke=\"#6941C6\" stroke-width=\"1.5\"/><circle cx=\"318\" cy=\"168\" r=\"11\" fill=\"#6941C6\"/><text x=\"318\" y=\"172\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#fff\">3</text>\n  <text x=\"338\" y=\"164\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Key skills</text>\n  <text x=\"338\" y=\"180\" font-size=\"12\" fill=\"#344054\">6–9 palabras clave tomadas del aviso.</text>\n  <line x1=\"276\" y1=\"250\" x2=\"307\" y2=\"250\" stroke=\"#6941C6\" stroke-width=\"1.5\"/><circle cx=\"318\" cy=\"250\" r=\"11\" fill=\"#6941C6\"/><text x=\"318\" y=\"254\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#fff\">4</text>\n  <text x=\"338\" y=\"240\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Professional experience</text>\n  <text x=\"338\" y=\"256\" font-size=\"12\" fill=\"#344054\">Orden cronológico inverso.</text>\n  <text x=\"338\" y=\"271\" font-size=\"12\" fill=\"#344054\">3–5 logros por puesto, con número.</text>\n  <line x1=\"262\" y1=\"350\" x2=\"307\" y2=\"350\" stroke=\"#6941C6\" stroke-width=\"1.5\"/><circle cx=\"318\" cy=\"350\" r=\"11\" fill=\"#6941C6\"/><text x=\"318\" y=\"354\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#fff\">5</text>\n  <text x=\"338\" y=\"338\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">Education · Software</text>\n  <text x=\"338\" y=\"354\" font-size=\"12\" fill=\"#344054\">Título, programas, certificados,</text>\n  <text x=\"338\" y=\"369\" font-size=\"12\" fill=\"#344054\">idiomas.</text>\n  <rect x=\"338\" y=\"294\" width=\"282\" height=\"26\" rx=\"13\" fill=\"#F2EEFC\"/>\n  <text x=\"479\" y=\"311\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#4A2B91\">Máx. 2 páginas · PDF · una sola fuente</text>\n</svg>",
+   "caption": "Figura 35.4 — Diseño de un CV para Estados Unidos, Canadá o Australia. El reclutador busca primero el cargo, los años y las palabras clave."
+  },
+  {
+   "title": "Los verbos de acción: el motor del CV",
+   "html": "<p>Cada viñeta de experiencia empieza con un verbo en pasado, sin sujeto (no se escribe <i>I</i>). Agrupa tus verbos por tipo de logro y evita repetir el mismo verbo más de dos veces en todo el CV.</p>",
+   "svg": "<svg viewBox=\"0 0 640 330\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <line x1=\"220\" y1=\"55\" x2=\"275\" y2=\"135\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <line x1=\"220\" y1=\"165\" x2=\"258\" y2=\"165\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <line x1=\"220\" y1=\"275\" x2=\"275\" y2=\"195\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <line x1=\"420\" y1=\"55\" x2=\"365\" y2=\"135\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <line x1=\"420\" y1=\"165\" x2=\"382\" y2=\"165\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <line x1=\"420\" y1=\"275\" x2=\"365\" y2=\"195\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <circle cx=\"320\" cy=\"165\" r=\"62\" fill=\"#6941C6\"/>\n  <text x=\"320\" y=\"156\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#fff\">LOGRO</text>\n  <text x=\"320\" y=\"176\" text-anchor=\"middle\" font-size=\"11\" fill=\"#F2EEFC\">verbo + qué +</text>\n  <text x=\"320\" y=\"191\" text-anchor=\"middle\" font-size=\"11\" fill=\"#F2EEFC\">resultado (nº)</text>\n  <!-- left -->\n  <rect x=\"20\" y=\"15\" width=\"200\" height=\"80\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <text x=\"32\" y=\"38\" font-size=\"13\" font-weight=\"800\" fill=\"#4A2B91\">Diseñar / crear</text>\n  <text x=\"32\" y=\"60\" font-size=\"12\" font-weight=\"600\" fill=\"#1D2939\">Designed · Engineered</text>\n  <text x=\"32\" y=\"80\" font-size=\"12\" font-weight=\"600\" fill=\"#1D2939\">Modeled · Developed</text>\n  <rect x=\"20\" y=\"125\" width=\"200\" height=\"80\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"32\" y=\"148\" font-size=\"13\" font-weight=\"800\" fill=\"#1570EF\">Dirigir / coordinar</text>\n  <text x=\"32\" y=\"170\" font-size=\"12\" font-weight=\"600\" fill=\"#1D2939\">Led · Coordinated</text>\n  <text x=\"32\" y=\"190\" font-size=\"12\" font-weight=\"600\" fill=\"#1D2939\">Supervised · Managed</text>\n  <rect x=\"20\" y=\"235\" width=\"200\" height=\"80\" rx=\"10\" fill=\"#E8F7EF\" stroke=\"#079455\"/>\n  <text x=\"32\" y=\"258\" font-size=\"13\" font-weight=\"800\" fill=\"#079455\">Mejorar / ahorrar</text>\n  <text x=\"32\" y=\"280\" font-size=\"12\" font-weight=\"600\" fill=\"#1D2939\">Reduced · Cut · Saved</text>\n  <text x=\"32\" y=\"300\" font-size=\"12\" font-weight=\"600\" fill=\"#1D2939\">Streamlined · Improved</text>\n  <!-- right -->\n  <rect x=\"420\" y=\"15\" width=\"200\" height=\"80\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/>\n  <text x=\"432\" y=\"38\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">Entregar / terminar</text>\n  <text x=\"432\" y=\"60\" font-size=\"12\" font-weight=\"600\" fill=\"#1D2939\">Delivered · Completed</text>\n  <text x=\"432\" y=\"80\" font-size=\"12\" font-weight=\"600\" fill=\"#1D2939\">Installed · Commissioned</text>\n  <rect x=\"420\" y=\"125\" width=\"200\" height=\"80\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\"/>\n  <text x=\"432\" y=\"148\" font-size=\"13\" font-weight=\"800\" fill=\"#0E9384\">Analizar / verificar</text>\n  <text x=\"432\" y=\"170\" font-size=\"12\" font-weight=\"600\" fill=\"#1D2939\">Analyzed · Inspected</text>\n  <text x=\"432\" y=\"190\" font-size=\"12\" font-weight=\"600\" fill=\"#1D2939\">Verified · Audited</text>\n  <rect x=\"420\" y=\"235\" width=\"200\" height=\"80\" rx=\"10\" fill=\"#FFF8E1\" stroke=\"#E9B949\"/>\n  <text x=\"432\" y=\"258\" font-size=\"13\" font-weight=\"800\" fill=\"#7A5B00\">Comunicar / formar</text>\n  <text x=\"432\" y=\"280\" font-size=\"12\" font-weight=\"600\" fill=\"#1D2939\">Presented · Trained</text>\n  <text x=\"432\" y=\"300\" font-size=\"12\" font-weight=\"600\" fill=\"#1D2939\">Negotiated · Wrote</text>\n</svg>",
+   "caption": "Figura 35.5 — Mapa de verbos de acción. Elige el grupo según el tipo de resultado y nunca empieces con \"Responsible for\"."
+  },
+  {
+   "title": "Afirmar, negar, preguntar y responder en registro escrito formal",
+   "html": "<p>En propuestas, informes y CV <b>no se usan contracciones</b>: <i>does not, cannot, will not</i>. Cada forma tiene una función contractual distinta.</p><table><thead><tr><th></th><th>Función en el documento</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td>Compromiso (<i>will</i>) o capacidad (<i>can</i>)</td><td><span class=\"en\">We will complete the work within 21 calendar days.</span></td></tr><tr><td><b>Negativo</b></td><td>Exclusión o límite de responsabilidad</td><td><span class=\"en\">The price does not include scaffolding.</span></td></tr><tr><td><b>Pregunta</b></td><td>Aclaración técnica, mejor indirecta (Módulo 21)</td><td><span class=\"en\">Could you please confirm whether the tank will be gas-free before mobilization?</span></td></tr><tr><td><b>Respuesta corta</b></td><td>Confirmación escrita, seguida del dato</td><td><span class=\"en\">Yes, it will. The client will issue the gas-free certificate on May 8.</span></td></tr></tbody></table><p><b>Detalles que marcan la diferencia</b></p><ul><li><span class=\"en\">Proposal</span> (propuesta técnica completa) ≠ <span class=\"en\">quotation</span> o <span class=\"en\">quote</span> (solo precio) ≠ <span class=\"en\">bid</span> o <span class=\"en\">tender</span> (oferta en un concurso formal).</li><li><span class=\"en\">CV</span> y <span class=\"en\">résumé</span>: en EE. UU. el <i>résumé</i> tiene 1–2 páginas y el <i>CV</i> es académico y largo. En Australia y el Reino Unido se dice <i>CV</i> o <i>resume</i> para el mismo documento de 2–3 páginas.</li><li>En Australia se usa ortografía británica (<i>organise, metre, analyse</i>). Este libro usa la estadounidense; elige una y sé consistente en todo el documento.</li><li><span class=\"en\">By others</span> es la fórmula estándar para decir que algo lo hará otra parte: <span class=\"en\">Scaffolding by others.</span> Su ausencia puede costarte miles de dólares.</li></ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "We are pleased to submit our proposal for…",
+   "pron": "wi ar PLIZD tə səb-MÍT aur prə-PÓU-zol for",
+   "es": "Nos complace presentar nuestra propuesta para…",
+   "group": "A. Abrir y enmarcar una propuesta o informe"
+  },
+  {
+   "en": "In response to your request for quotation…",
+   "pron": "in ris-PÓNS tə yor ri-KWÉST for kwou-TÉI-shən",
+   "es": "En respuesta a su solicitud de cotización…",
+   "group": "A. Abrir y enmarcar una propuesta o informe"
+  },
+  {
+   "en": "This proposal outlines…",
+   "pron": "dhis prə-PÓU-zol ÁUT-lainz",
+   "es": "Esta propuesta describe a grandes rasgos…",
+   "group": "A. Abrir y enmarcar una propuesta o informe"
+  },
+  {
+   "en": "The purpose of this report is to…",
+   "pron": "dhə PÉR-pəs əv dhis ri-PÓRT iz tə",
+   "es": "El propósito de este informe es…",
+   "group": "A. Abrir y enmarcar una propuesta o informe"
+  },
+  {
+   "en": "Please find attached…",
+   "pron": "pliz faind ə-TÁCHT",
+   "es": "Adjunto encontrará…",
+   "group": "A. Abrir y enmarcar una propuesta o informe"
+  },
+  {
+   "en": "Our proposed approach is to…",
+   "pron": "aur prə-PÓUZD ə-PRÓUCH iz tə",
+   "es": "El enfoque que proponemos es…",
+   "group": "A. Abrir y enmarcar una propuesta o informe"
+  },
+  {
+   "en": "We look forward to working with you.",
+   "pron": "wi luk FÓR-werd tə WÉR-king widh yu",
+   "es": "Esperamos trabajar con ustedes.",
+   "group": "A. Abrir y enmarcar una propuesta o informe"
+  },
+  {
+   "en": "The scope of work includes…",
+   "pron": "dhə SKOUP əv WERK in-KLÚDZ",
+   "es": "El alcance del trabajo incluye…",
+   "group": "B. Alcance, supuestos y exclusiones"
+  },
+  {
+   "en": "… is excluded from this scope.",
+   "pron": "iz ek-SKLÚ-did from dhis SKOUP",
+   "es": "… queda excluido de este alcance.",
+   "group": "B. Alcance, supuestos y exclusiones"
+  },
+  {
+   "en": "by others",
+   "pron": "bai Á-dherz",
+   "es": "a cargo de terceros",
+   "group": "B. Alcance, supuestos y exclusiones"
+  },
+  {
+   "en": "This proposal is based on the following assumptions:",
+   "pron": "dhis prə-PÓU-zol iz BEIST on dhə FÓ-lou-ing ə-SÁMP-shənz",
+   "es": "Esta propuesta se basa en los siguientes supuestos:",
+   "group": "B. Alcance, supuestos y exclusiones"
+  },
+  {
+   "en": "Any additional work will be quoted separately.",
+   "pron": "É-ni ə-DÍ-shə-nol WERK wil bi KWÓU-tid SÉ-pə-rət-li",
+   "es": "Todo trabajo adicional se cotizará por separado.",
+   "group": "B. Alcance, supuestos y exclusiones"
+  },
+  {
+   "en": "subject to site conditions",
+   "pron": "SÁB-yekt tə SAIT kən-DÍ-shənz",
+   "es": "sujeto a las condiciones del sitio",
+   "group": "B. Alcance, supuestos y exclusiones"
+  },
+  {
+   "en": "The price is valid for 30 days.",
+   "pron": "dhə PRAIS iz VÁ-lid for THÉR-ti deiz",
+   "es": "El precio es válido por 30 días.",
+   "group": "B. Alcance, supuestos y exclusiones"
+  },
+  {
+   "en": "lump-sum price",
+   "pron": "LAMP-sam PRAIS",
+   "es": "precio global (suma alzada)",
+   "group": "B. Alcance, supuestos y exclusiones"
+  },
+  {
+   "en": "lead time",
+   "pron": "LÍD taim",
+   "es": "plazo de entrega (de materiales)",
+   "group": "B. Alcance, supuestos y exclusiones"
+  },
+  {
+   "en": "The inspection revealed…",
+   "pron": "dhi in-SPÉK-shən ri-VÍLD",
+   "es": "La inspección reveló…",
+   "group": "C. Informes: hallazgos y recomendaciones"
+  },
+  {
+   "en": "Readings indicate that…",
+   "pron": "RÍ-dingz ÍN-di-keit dhat",
+   "es": "Las lecturas indican que…",
+   "group": "C. Informes: hallazgos y recomendaciones"
+  },
+  {
+   "en": "within acceptable limits",
+   "pron": "wi-DHÍN ək-SÉP-tə-bol LÍ-mits",
+   "es": "dentro de los límites aceptables",
+   "group": "C. Informes: hallazgos y recomendaciones"
+  },
+  {
+   "en": "… exceeds the allowable…",
+   "pron": "ek-SÍDZ dhi ə-LÁU-ə-bol",
+   "es": "… supera el … admisible",
+   "group": "C. Informes: hallazgos y recomendaciones"
+  },
+  {
+   "en": "Based on these findings, we recommend…",
+   "pron": "BEIST on dhiz FÁIN-dingz wi re-kə-MÉND",
+   "es": "Con base en estos hallazgos, recomendamos…",
+   "group": "C. Informes: hallazgos y recomendaciones"
+  },
+  {
+   "en": "It is recommended that the plate be replaced.",
+   "pron": "it iz re-kə-MÉN-did dhat dhə PLEIT bi ri-PLÉIST",
+   "es": "Se recomienda reemplazar la plancha (subjuntivo, Módulo 28).",
+   "group": "C. Informes: hallazgos y recomendaciones"
+  },
+  {
+   "en": "root cause",
+   "pron": "RUT koz",
+   "es": "causa raíz",
+   "group": "C. Informes: hallazgos y recomendaciones"
+  },
+  {
+   "en": "corrective action",
+   "pron": "kə-RÉK-tiv ÁK-shən",
+   "es": "acción correctiva",
+   "group": "C. Informes: hallazgos y recomendaciones"
+  },
+  {
+   "en": "In summary, …",
+   "pron": "in SÁ-mə-ri",
+   "es": "En resumen, …",
+   "group": "D. Resumen ejecutivo"
+  },
+  {
+   "en": "The key finding is that…",
+   "pron": "dhə KI FÁIN-ding iz dhat",
+   "es": "El hallazgo principal es que…",
+   "group": "D. Resumen ejecutivo"
+  },
+  {
+   "en": "at an estimated cost of USD…",
+   "pron": "ət ən ÉS-tə-mei-tid KOST əv",
+   "es": "a un costo estimado de USD…",
+   "group": "D. Resumen ejecutivo"
+  },
+  {
+   "en": "The work can be completed in 21 days.",
+   "pron": "dhə WERK kən bi kəm-PLÍ-tid in TWÉN-ti WAN deiz",
+   "es": "El trabajo puede completarse en 21 días.",
+   "group": "D. Resumen ejecutivo"
+  },
+  {
+   "en": "This would reduce downtime by…",
+   "pron": "dhis wud ri-DÚS DÁUN-taim bai",
+   "es": "Esto reduciría el tiempo de parada en…",
+   "group": "D. Resumen ejecutivo"
+  },
+  {
+   "en": "We request approval by…",
+   "pron": "wi ri-KWÉST ə-PRÚ-vol bai",
+   "es": "Solicitamos su aprobación a más tardar el…",
+   "group": "D. Resumen ejecutivo"
+  },
+  {
+   "en": "Designed",
+   "pron": "di-ZÁIND",
+   "es": "Diseñé",
+   "group": "E. Verbos de acción para el CV"
+  },
+  {
+   "en": "Led",
+   "pron": "led",
+   "es": "Dirigí, lideré",
+   "group": "E. Verbos de acción para el CV"
+  },
+  {
+   "en": "Reduced … by 30%",
+   "pron": "ri-DÚST … bai THÉR-ti per-SÉNT",
+   "es": "Reduje … en un 30 %",
+   "group": "E. Verbos de acción para el CV"
+  },
+  {
+   "en": "Delivered",
+   "pron": "di-LÍ-verd",
+   "es": "Entregué",
+   "group": "E. Verbos de acción para el CV"
+  },
+  {
+   "en": "Coordinated",
+   "pron": "kou-ÓR-di-nei-tid",
+   "es": "Coordiné",
+   "group": "E. Verbos de acción para el CV"
+  },
+  {
+   "en": "Streamlined",
+   "pron": "STRÍM-laind",
+   "es": "Simplifiqué, agilicé",
+   "group": "E. Verbos de acción para el CV"
+  },
+  {
+   "en": "Implemented",
+   "pron": "ÍM-plə-men-tid",
+   "es": "Implementé",
+   "group": "E. Verbos de acción para el CV"
+  },
+  {
+   "en": "Prepared",
+   "pron": "pri-PÉRD",
+   "es": "Preparé, elaboré",
+   "group": "E. Verbos de acción para el CV"
+  },
+  {
+   "en": "Supervised",
+   "pron": "SÚ-per-vaizd",
+   "es": "Supervisé",
+   "group": "E. Verbos de acción para el CV"
+  },
+  {
+   "en": "… engineer with five years of experience in…",
+   "pron": "en-yi-NÍR widh faiv yirz əv ek-SPÍ-ri-əns in",
+   "es": "Ingeniero con cinco años de experiencia en…",
+   "group": "F. Frases de perfil y logros"
+  },
+  {
+   "en": "Proven track record of…",
+   "pron": "PRÚ-vən TRAK RÉ-kərd əv",
+   "es": "Trayectoria comprobada en…",
+   "group": "F. Frases de perfil y logros"
+  },
+  {
+   "en": "Proficient in AutoCAD Plant 3D and CAESAR II",
+   "pron": "prə-FÍ-shənt in",
+   "es": "Dominio de AutoCAD Plant 3D y CAESAR II",
+   "group": "F. Frases de perfil y logros"
+  },
+  {
+   "en": "Hands-on experience with…",
+   "pron": "JANDZ-on ek-SPÍ-ri-əns widh",
+   "es": "Experiencia práctica en…",
+   "group": "F. Frases de perfil y logros"
+  },
+  {
+   "en": "…, resulting in a 15% reduction in…",
+   "pron": "ri-ZÁL-ting in ə fif-TÍN per-SÉNT ri-DÁK-shən in",
+   "es": "…, lo que logró una reducción del 15 % en…",
+   "group": "F. Frases de perfil y logros"
+  },
+  {
+   "en": "References available on request.",
+   "pron": "RÉ-fə-rən-siz ə-VÉI-lə-bol on ri-KWÉST",
+   "es": "Referencias disponibles a solicitud.",
+   "group": "F. Frases de perfil y logros"
+  },
+  {
+   "en": "Furthermore,",
+   "pron": "FÉR-dher-mor",
+   "es": "Además,",
+   "group": "G. Conectores del registro escrito"
+  },
+  {
+   "en": "However,",
+   "pron": "jau-É-ver",
+   "es": "Sin embargo,",
+   "group": "G. Conectores del registro escrito"
+  },
+  {
+   "en": "As a result,",
+   "pron": "az ə ri-ZÁLT",
+   "es": "Como resultado,",
+   "group": "G. Conectores del registro escrito"
+  },
+  {
+   "en": "In addition to…",
+   "pron": "in ə-DÍ-shən tu",
+   "es": "Además de…",
+   "group": "G. Conectores del registro escrito"
+  },
+  {
+   "en": "provided that…",
+   "pron": "prə-VÁI-did dhat",
+   "es": "siempre que…",
+   "group": "G. Conectores del registro escrito"
+  },
+  {
+   "en": "Therefore,",
+   "pron": "DHÉR-for",
+   "es": "Por lo tanto,",
+   "group": "G. Conectores del registro escrito"
+  }
+ ],
+ "examples": [
+  {
+   "en": "We are pleased to submit our proposal for the replacement of the bottom plates of Tank T-201.",
+   "es": "Nos complace presentar nuestra propuesta para el reemplazo de las planchas del fondo del tanque T-201.",
+   "situation": "Propuesta: apertura"
+  },
+  {
+   "en": "The scope of work includes blasting, coating, and vacuum box testing of all new welds.",
+   "es": "El alcance incluye granallado, recubrimiento y prueba de caja de vacío de todas las soldaduras nuevas.",
+   "situation": "Propuesta: alcance"
+  },
+  {
+   "en": "Scaffolding, waste disposal, and permits are excluded and will be provided by others.",
+   "es": "Los andamios, la disposición de residuos y los permisos quedan excluidos y estarán a cargo de terceros.",
+   "situation": "Propuesta: exclusiones"
+  },
+  {
+   "en": "The ultrasonic survey revealed localized pitting of up to 4.2 mm on the bottom plates.",
+   "es": "La medición ultrasónica reveló picaduras localizadas de hasta 4.2 mm en las planchas del fondo.",
+   "situation": "Informe: hallazgo"
+  },
+  {
+   "en": "Based on these findings, we recommend replacing the six most affected plates before the tank returns to service.",
+   "es": "Con base en estos hallazgos, recomendamos reemplazar las seis planchas más afectadas antes de que el tanque vuelva a operar.",
+   "situation": "Informe: recomendación"
+  },
+  {
+   "en": "In summary, the repair can be completed in 21 days at an estimated cost of USD 184,500.",
+   "es": "En resumen, la reparación puede completarse en 21 días a un costo estimado de USD 184,500.",
+   "situation": "Resumen ejecutivo"
+  },
+  {
+   "en": "As of Friday, 68% of the welds have been completed, and 97% of them have passed RT on the first attempt.",
+   "es": "Al viernes, se ha completado el 68 % de las soldaduras, y el 97 % de ellas aprobó la radiografía al primer intento.",
+   "situation": "Informe de avance"
+  },
+  {
+   "en": "Mechanical and piping design engineer with five years of experience in API 650/653 tank projects.",
+   "es": "Ingeniero de diseño mecánico y piping con cinco años de experiencia en proyectos de tanques API 650/653.",
+   "situation": "CV: perfil"
+  },
+  {
+   "en": "Reduced fabrication rework by 30% through a weld-map checklist for every isometric drawing.",
+   "es": "Reduje el reproceso de fabricación en un 30 % con una lista de verificación de mapa de soldaduras para cada isométrico.",
+   "situation": "CV: logro"
+  },
+  {
+   "en": "I am writing to apply for the position of Senior Piping Designer advertised on SEEK.",
+   "es": "Le escribo para postular al puesto de Diseñador Senior de Piping publicado en SEEK.",
+   "situation": "Carta de presentación"
+  },
+  {
+   "en": "Further to our call this morning, please find attached the revised schedule.",
+   "es": "En relación con nuestra llamada de esta mañana, adjunto el cronograma revisado.",
+   "situation": "Correo de seguimiento"
+  },
+  {
+   "en": "I am a reliable tenant with a stable income and excellent references from my previous landlord.",
+   "es": "Soy un inquilino confiable, con ingresos estables y excelentes referencias de mi casero anterior.",
+   "situation": "Vida diaria: alquiler"
+  },
+  {
+   "en": "I am writing to dispute a charge of USD 250 that appears twice on my March statement.",
+   "es": "Le escribo para impugnar un cargo de USD 250 que aparece dos veces en mi estado de cuenta de marzo.",
+   "situation": "Banco: reclamo formal"
+  },
+  {
+   "en": "I had the pleasure of working with Ana for three years; she is the most thorough QA/QC engineer I know.",
+   "es": "Tuve el gusto de trabajar con Ana durante tres años; es la ingeniera de QA/QC más minuciosa que conozco.",
+   "situation": "Social: recomendación en LinkedIn"
+  },
+  {
+   "en": "Thank you for the opportunity to discuss the role; I remain very interested in joining your team.",
+   "es": "Gracias por la oportunidad de conversar sobre el puesto; sigo muy interesado en unirme a su equipo.",
+   "situation": "Agradecimiento tras entrevista"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "The price includes mobilization.",
+     "The price does not include mobilization.",
+     "Does the price include mobilization?",
+     "Yes, it does. / No, it does not."
+    ],
+    [
+     "The client will supply the plates.",
+     "The client will not supply the plates.",
+     "Will the client supply the plates?",
+     "Yes, they will. / No, they will not."
+    ],
+    [
+     "The welds have passed RT.",
+     "The welds have not passed RT.",
+     "Have the welds passed RT?",
+     "Yes, they have. / No, they have not."
+    ],
+    [
+     "The report was approved.",
+     "The report was not approved.",
+     "Was the report approved?",
+     "Yes, it was. / No, it was not."
+    ],
+    [
+     "We can start on June 2.",
+     "We cannot start on June 2.",
+     "Can you start on June 2?",
+     "Yes, we can. / No, we cannot."
+    ],
+    [
+     "The candidate has a valid work visa.",
+     "The candidate does not have a valid work visa.",
+     "Does the candidate have a valid work visa?",
+     "Yes, he does. / No, he does not."
+    ],
+    [
+     "The proposal should include a schedule.",
+     "The proposal should not include a schedule.",
+     "Should the proposal include a schedule?",
+     "Yes, it should. / No, it should not."
+    ],
+    [
+     "The readings are within limits.",
+     "The readings are not within limits.",
+     "Are the readings within limits?",
+     "Yes, they are. / No, they are not."
+    ],
+    [
+     "Scaffolding is provided by others.",
+     "Scaffolding is not provided by others.",
+     "Is scaffolding provided by others?",
+     "Yes, it is. / No, it is not."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Sarah",
+   "text": "Edwin, I read your draft proposal for the T-201 repair. The technical content is solid, but the client won't find the price until page nine."
+  },
+  {
+   "who": "Edwin",
+   "text": "That's how we usually do it in Peru: background first, then the solution, and the cost at the end."
+  },
+  {
+   "who": "Sarah",
+   "text": "I get that, but here the reader is a plant manager with ten minutes. Put the bottom line in the executive summary: scope, duration, and cost."
+  },
+  {
+   "who": "Edwin",
+   "text": "Got it. So the first paragraph should say that we can complete the work in 21 days for USD 184,500?"
+  },
+  {
+   "who": "Sarah",
+   "text": "Exactly. And make the exclusions impossible to miss. If scaffolding isn't listed as \"by others,\" we'll end up paying for it."
+  },
+  {
+   "who": "Edwin",
+   "text": "Good point. I'll add an \"Assumptions and Exclusions\" section with bullet points."
+  },
+  {
+   "who": "Sarah",
+   "text": "One more thing: avoid \"It was realized an inspection.\" Just write \"We inspected the tank.\""
+  },
+  {
+   "who": "Edwin",
+   "text": "Active voice and short sentences. I'll send you the revised version by 3 p.m."
+  },
+  {
+   "who": "Sarah",
+   "text": "Perfect. And while you're at it, update your CV with the same mindset: results, not duties."
+  },
+  {
+   "who": "Edwin",
+   "text": "Action verbs and numbers. Understood."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "By means of the present, we send our proposal.",
+   "right": "We are pleased to submit our proposal.",
+   "why": "Fórmula española traducida palabra por palabra; en inglés no existe."
+  },
+  {
+   "wrong": "It was realized the inspection.",
+   "right": "We carried out the inspection.",
+   "why": "Realize = darse cuenta. Además, la pasiva inglesa no lleva it antes del verbo."
+  },
+  {
+   "wrong": "Responsible of the piping drawings.",
+   "right": "Produced the piping drawings.",
+   "why": "La preposición es for (responsible for), y en el CV es mejor un verbo de acción."
+  },
+  {
+   "wrong": "I have experience in design of tanks.",
+   "right": "I have experience in tank design.",
+   "why": "Usa sustantivo compuesto (tank design) o the design of tanks."
+  },
+  {
+   "wrong": "The price not includes scaffolding.",
+   "right": "The price does not include scaffolding.",
+   "why": "El presente simple se niega con does not + verbo base."
+  },
+  {
+   "wrong": "We recommend to replace the plates.",
+   "right": "We recommend replacing the plates.",
+   "why": "Recommend va con gerundio (Módulo 22) o con that + subjuntivo (Módulo 28)."
+  },
+  {
+   "wrong": "The informations are attached.",
+   "right": "The information is attached.",
+   "why": "Information es incontable: sin -s y con verbo singular."
+  },
+  {
+   "wrong": "I assisted to the HSE training.",
+   "right": "I attended the HSE training.",
+   "why": "Asistir a = attend (sin to). Assist = ayudar."
+  },
+  {
+   "wrong": "Increased productivity in a 20%.",
+   "right": "Increased productivity by 20%.",
+   "why": "El cambio porcentual se expresa con by, sin artículo."
+  },
+  {
+   "wrong": "Designed supports, leading a team and I reduced costs.",
+   "right": "Designed supports, led a team, and reduced costs.",
+   "why": "Paralelismo: todos los elementos de una lista con la misma forma."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "actually",
+   "looks": "actualmente",
+   "means": "en realidad",
+   "fix": "currently"
+  },
+  {
+   "en": "eventually",
+   "looks": "eventualmente",
+   "means": "finalmente, con el tiempo",
+   "fix": "possibly / occasionally"
+  },
+  {
+   "en": "assist",
+   "looks": "asistir (a un evento)",
+   "means": "ayudar",
+   "fix": "attend"
+  },
+  {
+   "en": "realize",
+   "looks": "realizar",
+   "means": "darse cuenta",
+   "fix": "carry out / perform"
+  },
+  {
+   "en": "career",
+   "looks": "carrera universitaria",
+   "means": "trayectoria profesional",
+   "fix": "degree / major"
+  },
+  {
+   "en": "formation",
+   "looks": "formación académica",
+   "means": "formación (geológica, militar)",
+   "fix": "education / training"
+  },
+  {
+   "en": "compromise",
+   "looks": "compromiso",
+   "means": "acuerdo con concesiones",
+   "fix": "commitment"
+  },
+  {
+   "en": "curriculum",
+   "looks": "currículum (CV)",
+   "means": "plan de estudios",
+   "fix": "CV / résumé"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Nos complace presentar nuestra propuesta para la reparación del tanque T-305.",
+    "answers": [
+     "We are pleased to submit our proposal for the repair of Tank T-305.",
+     "We are pleased to present our proposal for the repair of Tank T-305."
+    ],
+    "explain": "Fórmula estándar de apertura. Submit (presentar formalmente) es mejor que send. Sin contracción: We are."
+   },
+   {
+    "prompt": "El alcance no incluye andamios; estarán a cargo de terceros.",
+    "answers": [
+     "The scope does not include scaffolding; it will be provided by others.",
+     "The scope excludes scaffolding; it will be provided by others."
+    ],
+    "explain": "Scaffolding es incontable → it. \"A cargo de terceros\" = by others."
+   },
+   {
+    "prompt": "Esta propuesta se basa en los siguientes supuestos:",
+    "answers": [
+     "This proposal is based on the following assumptions:"
+    ],
+    "explain": "\"Se basa\" = is based on (pasiva), no bases on. Supuestos = assumptions."
+   },
+   {
+    "prompt": "La inspección reveló corrosión localizada en tres planchas.",
+    "answers": [
+     "The inspection revealed localized corrosion on three plates.",
+     "The inspection revealed localised corrosion on three plates."
+    ],
+    "explain": "Revealed = reveló. Corrosión on una superficie (la plancha)."
+   },
+   {
+    "prompt": "Con base en estos hallazgos, recomendamos reemplazar las planchas.",
+    "answers": [
+     "Based on these findings, we recommend replacing the plates.",
+     "Based on these findings, we recommend that the plates be replaced."
+    ],
+    "explain": "Recommend + gerundio. También vale we recommend that the plates be replaced."
+   },
+   {
+    "prompt": "El trabajo puede completarse en 18 días a un costo estimado de USD 95,000.",
+    "answers": [
+     "The work can be completed in 18 days at an estimated cost of USD 95,000."
+    ],
+    "explain": "Pasiva con modal: can be + participio. \"A un costo\" = at a cost; estimated empieza con vocal → an."
+   },
+   {
+    "prompt": "Todo trabajo adicional se cotizará por separado.",
+    "answers": [
+     "Any additional work will be quoted separately."
+    ],
+    "explain": "Work es incontable → any + singular. Quote = cotizar."
+   },
+   {
+    "prompt": "Solicitamos su aprobación a más tardar el 15 de mayo.",
+    "answers": [
+     "We request your approval by May 15.",
+     "We request your approval by 15 May.",
+     "We request your approval no later than May 15."
+    ],
+    "explain": "\"A más tardar\" = by + fecha (no until)."
+   },
+   {
+    "prompt": "(CV) Reduje el reproceso de fabricación en un 25 %.",
+    "answers": [
+     "Reduced fabrication rework by 25%.",
+     "Reduced fabrication rework by 25 percent."
+    ],
+    "explain": "CV: sin sujeto, verbo en pasado. Cambio porcentual con by."
+   },
+   {
+    "prompt": "Adjunto encontrará el cronograma revisado.",
+    "answers": [
+     "Please find attached the revised schedule.",
+     "Please find the revised schedule attached."
+    ],
+    "explain": "Fórmula fija. También vale Please find the revised schedule attached."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "The readings are within acceptable limits.",
+    "answers": [
+     "Las lecturas están dentro de los límites aceptables.",
+     "Las lecturas se encuentran dentro de los límites aceptables.",
+     "Las mediciones están dentro de los límites aceptables."
+    ],
+    "explain": "Readings = lecturas (de un instrumento), no \"lecturas\" de libros."
+   },
+   {
+    "prompt": "Proven track record of delivering projects ahead of schedule.",
+    "answers": [
+     "Trayectoria comprobada en la entrega de proyectos antes del plazo.",
+     "Historial comprobado de entrega de proyectos antes de lo programado.",
+     "Experiencia comprobada entregando proyectos antes del plazo."
+    ],
+    "explain": "Track record = historial de resultados; ahead of schedule = antes de lo programado."
+   },
+   {
+    "prompt": "The root cause was a lack of drainage under the tank.",
+    "answers": [
+     "La causa raíz fue la falta de drenaje debajo del tanque.",
+     "La causa raíz fue una falta de drenaje bajo el tanque.",
+     "La causa principal fue la falta de drenaje debajo del tanque."
+    ],
+    "explain": "Root cause = causa raíz; lack of = falta de."
+   },
+   {
+    "prompt": "The price is valid for 30 days and excludes taxes.",
+    "answers": [
+     "El precio es válido por 30 días y no incluye impuestos.",
+     "El precio tiene una validez de 30 días y excluye impuestos.",
+     "El precio es válido durante 30 días y no incluye los impuestos."
+    ],
+    "explain": "Excludes se traduce con naturalidad como \"no incluye\"."
+   },
+   {
+    "prompt": "Hands-on experience with tank inspections.",
+    "answers": [
+     "Experiencia práctica en inspecciones de tanques.",
+     "Experiencia práctica en la inspección de tanques.",
+     "Experiencia de campo en inspecciones de tanques."
+    ],
+    "explain": "Hands-on = práctica, en campo, no solo teórica."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "The price does not includes taxes.",
+    "answers": [
+     "The price does not include taxes."
+    ],
+    "explain": "Después de does not va el verbo base, sin -s."
+   },
+   {
+    "prompt": "We recommend to replace the damaged plates.",
+    "answers": [
+     "We recommend replacing the damaged plates."
+    ],
+    "explain": "Recommend + gerundio, no infinitivo."
+   },
+   {
+    "prompt": "Responsible of the weld control register.",
+    "answers": [
+     "Responsible for the weld control register."
+    ],
+    "explain": "La preposición es for. (Mejor aún: Built the weld control register…)"
+   },
+   {
+    "prompt": "The information in this report are confidential.",
+    "answers": [
+     "The information in this report is confidential."
+    ],
+    "explain": "Information es incontable → verbo singular is."
+   },
+   {
+    "prompt": "I assisted the safety training last week.",
+    "answers": [
+     "I attended the safety training last week."
+    ],
+    "explain": "Asistir a un evento = attend; assist = ayudar."
+   },
+   {
+    "prompt": "Increased productivity in 20% by introducing a weld map.",
+    "answers": [
+     "Increased productivity by 20% by introducing a weld map."
+    ],
+    "explain": "Cantidad del cambio = by 20%. El segundo by (medio) es correcto."
+   },
+   {
+    "prompt": "A full inspection of the tank was realized in May.",
+    "answers": [
+     "A full inspection of the tank was carried out in May.",
+     "A full inspection of the tank was performed in May."
+    ],
+    "explain": "Realize = darse cuenta. Realizar una inspección = carry out / perform."
+   },
+   {
+    "prompt": "The work can completed in 21 days.",
+    "answers": [
+     "The work can be completed in 21 days."
+    ],
+    "explain": "Pasiva con modal: can + be + participio. Faltaba be."
+   },
+   {
+    "prompt": "Designed pipe supports, led a team of six drafters, and reducing review time by 40%.",
+    "answers": [
+     "Designed pipe supports, led a team of six drafters, and reduced review time by 40%."
+    ],
+    "explain": "Paralelismo: los tres verbos en pasado."
+   },
+   {
+    "prompt": "We look forward to work with you.",
+    "answers": [
+     "We look forward to working with you."
+    ],
+    "explain": "En look forward to, to es preposición → gerundio."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte esta tarea en un logro con verbo de acción y número: Responsible for cost estimates.",
+   "answer": "Prepared cost estimates for 15 proposals worth USD 2.4 million; nine were awarded."
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con estas palabras, una vez cada una (8 puntos): approval · assumptions · by others · excluded · findings · quoted · scope · summary.",
+   "lines": [
+    {
+     "who": "Mr. Lee",
+     "text": "I've read your proposal. Can you confirm what the [1] of work covers?"
+    },
+    {
+     "who": "Edwin",
+     "text": "Certainly. It covers plate replacement, welding, testing, and coating. Scaffolding outside the tank is [2]."
+    },
+    {
+     "who": "Mr. Lee",
+     "text": "So who provides it?"
+    },
+    {
+     "who": "Edwin",
+     "text": "It will be provided [3], in this case your scaffolding contractor."
+    },
+    {
+     "who": "Mr. Lee",
+     "text": "And what if you find more corrosion once the tank is open?"
+    },
+    {
+     "who": "Edwin",
+     "text": "Any additional work will be [4] separately. Our price is based on the [5] listed in Section 5."
+    },
+    {
+     "who": "Mr. Lee",
+     "text": "Fine. My manager won't read all twelve pages, though."
+    },
+    {
+     "who": "Edwin",
+     "text": "That's why the executive [6] is on page one. It presents our key [7], the cost, and the schedule."
+    },
+    {
+     "who": "Mr. Lee",
+     "text": "Good. When do you need our decision?"
+    },
+    {
+     "who": "Edwin",
+     "text": "We need your [8] by April 30 so that we can mobilize on May 11."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "scope"
+     ],
+     "explain": "Scope of work = alcance del trabajo."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "excluded"
+     ],
+     "explain": "Be excluded = no estar incluido en el precio."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "by others"
+     ],
+     "explain": "Provided by others = suministrado por terceros."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "quoted"
+     ],
+     "explain": "Quoted separately = cotizado por separado."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "assumptions"
+     ],
+     "explain": "El precio depende de supuestos (tanque limpio, acceso al sitio)."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "summary"
+     ],
+     "explain": "Executive summary = resumen ejecutivo."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "findings"
+     ],
+     "explain": "Key findings = hallazgos principales."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "approval"
+     ],
+     "explain": "We need your approval by… = necesitamos su aprobación a más tardar el…"
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un resumen ejecutivo (7 puntos). Situación: en un terminal de combustible, el rack de tuberías PR-3 tiene 12 soportes con corrosión severa (pérdida de sección de hasta 35 %). Recomiendas reemplazarlos por soportes galvanizados: 10 días hábiles, USD 46,000. Necesitas la aprobación antes del 10 de julio. Escribe 100–130 palabras.",
+   "rubric": [
+    "(1) la primera oración es la recomendación (BLUF)",
+    "(2) el problema con un dato medido",
+    "(3) la solución en voz activa",
+    "(4) costo y plazo",
+    "(5) beneficio o consecuencia de no actuar",
+    "(6) pedido explícito con fecha",
+    "(7) registro formal: sin contracciones, 100–130 palabras y al menos dos conectores (As a result, Furthermore, Therefore…)"
+   ],
+   "model": "We recommend replacing 12 corroded supports on Pipe Rack PR-3 before the end of July. During the June inspection, our team found section loss of up to 35% on the support beams under the main fuel lines. As a result, these supports can no longer carry the original design loads, and a support failure could cause a line rupture and an unplanned shutdown. Northshore can fabricate and install new galvanized supports in 10 working days for a lump-sum price of USD 46,000. Furthermore, galvanizing is expected to extend the service life of the supports by at least 20 years. Therefore, we request your approval by July 10 so that fabrication can begin immediately."
+  }
+ },
+ "cando": [
+  {
+   "skill": "Redactar el antecedente y el alcance de una propuesta.",
+   "test": "En 15 minutos escribe Background + Scope of Work con 5 viñetas paralelas que empiecen con verbo; cero contracciones."
+  },
+  {
+   "skill": "Escribir supuestos y exclusiones sin ambigüedad.",
+   "test": "Lista 3 supuestos y 3 exclusiones usando based on, excluded, by others; un colega no encuentra ninguna duda."
+  },
+  {
+   "skill": "Escribir un resumen ejecutivo BLUF.",
+   "test": "120–150 palabras en 20 minutos; cumple los 5 pasos de la Figura 35.3."
+  },
+  {
+   "skill": "Convertir tareas en logros para mi CV.",
+   "test": "Reescribe 8 tareas tuyas con verbo de acción + número en 15 minutos; cero \"Responsible for\"."
+  },
+  {
+   "skill": "Armar mi CV en inglés.",
+   "test": "Máximo 2 páginas, sin foto ni datos personales sensibles, al menos 3 logros con número por puesto, cero errores en una lectura en voz alta."
+  },
+  {
+   "skill": "Limpiar un texto traducido del español.",
+   "test": "Corrige un correo con 5 fórmulas literales (by means of, it was realized…) en menos de 5 minutos, sin dejar ninguna."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What's the most important document you write at work, and who reads it?",
+  "How would you describe your main achievement at work in one sentence?",
+  "Which action verbs would you use to describe your current job on a CV?",
+  "What would you recommend changing at your workplace, and what would it cost?",
+  "Do you prefer writing short emails or long reports? Why?",
+  "What's the best advice you've ever received about writing a CV?"
+ ]
+}

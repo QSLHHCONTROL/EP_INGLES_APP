@@ -1,0 +1,94 @@
+{
+ "id": 4,
+ "topic": "Preguntas con DO / DOES y WH-",
+ "title": "Questions About Me",
+ "practice": "Léela 3 veces. Luego pide a alguien que te haga las preguntas y responde sin mirar.",
+ "rows": [
+  {
+   "en": "**What do you do?** — I'm {a_jobTitle}.",
+   "es": "¿A qué te dedicas? — Soy {jobTitle_es}."
+  },
+  {
+   "en": "**Where do you work?** — At {company}, in {companyPlace}.",
+   "es": "¿Dónde trabajas? — En {company}, en {companyPlace}."
+  },
+  {
+   "en": "**What does** {company} **do?** — It works with {work}.",
+   "es": "¿A qué se dedica {company}? — Trabaja con {work_es}."
+  },
+  {
+   "en": "**Which program do you use** every day? — {tool}.",
+   "es": "¿Qué programa usas todos los días? — {tool}."
+  },
+  {
+   "en": "**How do you track** your work? — With a file in {tool}.",
+   "es": "¿Cómo controlas tu trabajo? — Con un archivo en {tool}."
+  },
+  {
+   "en": "**Who do you report to?** — I report to ___.",
+   "es": "¿A quién le reportas? — Le reporto a ___."
+  },
+  {
+   "en": "**Do you have** any ideas for {company}? — **Yes, I do.** A new control system.",
+   "es": "¿Tienes ideas para {company}? — Sí. Un nuevo sistema de control."
+  },
+  {
+   "en": "**Do you speak** English? — **Yes, I do.** A little.",
+   "es": "¿Hablas inglés? — Sí, un poco."
+  },
+  {
+   "en": "**Why do you study** English? — Because I want to work in {dreamCountry}.",
+   "es": "¿Por qué estudias inglés? — Porque quiero trabajar en {dreamCountry}."
+  },
+  {
+   "en": "**What does** \"ASAP\" **mean**? — It means \"as soon as possible.\"",
+   "es": "¿Qué significa \"ASAP\"? — Significa \"lo antes posible\"."
+  }
+ ],
+ "dialogTitle": "Diálogo: pregunto en el trabajo",
+ "dialog": [
+  {
+   "who": "{name}",
+   "text": "Who signs the documents here?"
+  },
+  {
+   "who": "Mark",
+   "text": "Mr. Lee does. Do you need a signature?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, I do. And where do we keep the files?"
+  },
+  {
+   "who": "Mark",
+   "text": "In the blue cabinet."
+  },
+  {
+   "who": "{name}",
+   "text": "Thanks. How do you say \"plazo\" in English?"
+  },
+  {
+   "who": "Mark",
+   "text": "\"Deadline.\" D-E-A-D-L-I-N-E."
+  }
+ ],
+ "pron": [
+  {
+   "en": "What do you do?",
+   "pron": "WÓ-də-yə DU"
+  },
+  {
+   "en": "Who do you report to?",
+   "pron": "JU də-yə ri-PÓRT tu"
+  },
+  {
+   "en": "What does {company} do?",
+   "pron": ""
+  },
+  {
+   "en": "Why do you study English?",
+   "pron": "wai də-yə STÁ-di ÍN-glish"
+  }
+ ],
+ "check": "Respondo las 10 preguntas sin leer en menos de 90 segundos, y hago 5 preguntas con do / does en el orden correcto (WH- + do/does + sujeto + verbo) sin un solo error."
+}

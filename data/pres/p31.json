@@ -1,0 +1,98 @@
+{
+ "id": 31,
+ "topic": "Ritmo y connected speech",
+ "title": "A Quick Work Call",
+ "practice": "Léela 3 veces: primero lento, luego rápido, enlazando las partes resaltadas.",
+ "rows": [
+  {
+   "en": "Hi, Mike. It's {name} **from** {company}.",
+   "es": "Hola, Mike. Soy {name}, de {company}."
+  },
+  {
+   "en": "I'm **going to** send you the report **in an hour**.",
+   "es": "Te voy a enviar el reporte en una hora."
+  },
+  {
+   "en": "**Did you** check the numbers?",
+   "es": "¿Revisaste los números?"
+  },
+  {
+   "en": "We **have to** finish {project} today.",
+   "es": "Tenemos que terminar {project_es} hoy."
+  },
+  {
+   "en": "**I can** come, but **I can't** stay long.",
+   "es": "Puedo ir, pero no puedo quedarme mucho."
+  },
+  {
+   "en": "**Could you** send me the files?",
+   "es": "¿Podrías enviarme los archivos?"
+  },
+  {
+   "en": "**Let me** check the {tool} file.",
+   "es": "Déjame revisar el archivo de {tool}."
+  },
+  {
+   "en": "**What do you** need for tomorrow?",
+   "es": "¿Qué necesitas para mañana?"
+  },
+  {
+   "en": "The new version looks **a lot better**.",
+   "es": "La nueva versión se ve mucho mejor."
+  },
+  {
+   "en": "We **should have** started earlier.",
+   "es": "Deberíamos haber empezado antes."
+  },
+  {
+   "en": "OK, **got it**. **Talk to you** later!",
+   "es": "OK, entendido. ¡Hablamos luego!"
+  }
+ ],
+ "dialogTitle": "Diálogo: ¿está listo el reporte? (↗ sube · ↘ baja)",
+ "dialog": [
+  {
+   "who": "Laura",
+   "text": "Is the report for {project} ready? ↗"
+  },
+  {
+   "who": "{name}",
+   "text": "Not yet. We're going to finish it at ten. ↘"
+  },
+  {
+   "who": "Laura",
+   "text": "Really? ↗ I thought it was due at eight."
+  },
+  {
+   "who": "{name}",
+   "text": "It was, but the data arrived late. ↘"
+  },
+  {
+   "who": "Laura",
+   "text": "Can you call me when it's ready? ↗"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, I can. ↘ I'll call you right away."
+  }
+ ],
+ "pron": [
+  {
+   "en": "in an hour",
+   "pron": "i-nə-NÁU-ər"
+  },
+  {
+   "en": "Did you check the numbers?",
+   "pron": "DÍ-yə CHEK dhə NÁM-bərz ↗"
+  },
+  {
+   "en": "I can come, but I can't stay long.",
+   "pron": "ai kən KAM bət ai KANT stei LONG"
+  },
+  {
+   "en": "We should have started earlier.",
+   "pron": "wi SHÚ-dəv STÁR-tid ÉR-li-ər"
+  }
+ ],
+ "check": "Digo la llamada en menos de 40 segundos, sin leer, sin pausas dentro de los bloques, con can débil y can't fuerte."
+}

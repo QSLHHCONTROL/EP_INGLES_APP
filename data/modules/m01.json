@@ -1,0 +1,1074 @@
+{
+ "id": 1,
+ "level": "A1",
+ "title": "El verbo TO BE: ser, estar y existir",
+ "goal": "Al terminar podrás presentarte, decir de dónde eres y a qué te dedicas, cómo estás, dónde está algo y cuántos años tienes, en afirmativo, negativo y pregunta, sin dudar.",
+ "lesson": [
+  {
+   "title": "Un solo verbo para ser y estar",
+   "html": "<p>El español usa dos verbos, <i>ser</i> y <i>estar</i>. El inglés usa uno solo: <span class=\"en\">TO BE</span>. No tienes que decidir entre ser o estar; solo eliges la forma correcta según el sujeto.</p>",
+   "svg": "<svg viewBox=\"0 0 640 210\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"20\" width=\"170\" height=\"70\" rx=\"12\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"2\"/>\n  <text x=\"105\" y=\"52\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"800\" fill=\"#7A5B00\">SER</text>\n  <text x=\"105\" y=\"76\" text-anchor=\"middle\" font-size=\"12\" fill=\"#7A5B00\">Soy ingeniero</text>\n  <rect x=\"20\" y=\"120\" width=\"170\" height=\"70\" rx=\"12\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"2\"/>\n  <text x=\"105\" y=\"152\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"800\" fill=\"#7A5B00\">ESTAR</text>\n  <text x=\"105\" y=\"176\" text-anchor=\"middle\" font-size=\"12\" fill=\"#7A5B00\">Estoy cansado</text>\n  <path d=\"M195 55 C 260 55, 260 100, 300 100\" fill=\"none\" stroke=\"#0E9384\" stroke-width=\"3\"/>\n  <path d=\"M195 155 C 260 155, 260 112, 300 112\" fill=\"none\" stroke=\"#0E9384\" stroke-width=\"3\"/>\n  <polygon points=\"300,94 316,106 300,118\" fill=\"#0E9384\"/>\n  <rect x=\"320\" y=\"60\" width=\"150\" height=\"90\" rx=\"14\" fill=\"#0E9384\"/>\n  <text x=\"395\" y=\"102\" text-anchor=\"middle\" font-size=\"28\" font-weight=\"800\" fill=\"#fff\">TO BE</text>\n  <text x=\"395\" y=\"128\" text-anchor=\"middle\" font-size=\"12\" fill=\"#E6F7F5\">un solo verbo</text>\n  <text x=\"490\" y=\"78\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I am an engineer.</text>\n  <text x=\"490\" y=\"98\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I am tired.</text>\n  <text x=\"490\" y=\"118\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I am at work.</text>\n  <text x=\"490\" y=\"138\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I am 30.</text>\n</svg>",
+   "caption": "Figura 1.1 — Dos verbos en español, uno en inglés."
+  },
+  {
+   "title": "Las formas del presente",
+   "html": "<table><thead><tr><th>Sujeto</th><th>Forma completa</th><th>Contracción (habla normal)</th><th>Pronunciación</th></tr></thead><tbody><tr><td>I (yo)</td><td>I am</td><td><span class=\"en\">I'm</span></td><td><span class=\"pron\">aim</span></td></tr><tr><td>You (tú / usted / ustedes)</td><td>you are</td><td><span class=\"en\">you're</span></td><td><span class=\"pron\">yur</span></td></tr><tr><td>He (él)</td><td>he is</td><td><span class=\"en\">he's</span></td><td><span class=\"pron\">jiz</span></td></tr><tr><td>She (ella)</td><td>she is</td><td><span class=\"en\">she's</span></td><td><span class=\"pron\">shiz</span></td></tr><tr><td>It (cosa, animal, idea)</td><td>it is</td><td><span class=\"en\">it's</span></td><td><span class=\"pron\">its</span></td></tr><tr><td>We (nosotros)</td><td>we are</td><td><span class=\"en\">we're</span></td><td><span class=\"pron\">wir</span></td></tr><tr><td>They (ellos / ellas / cosas)</td><td>they are</td><td><span class=\"en\">they're</span></td><td><span class=\"pron\">dher</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 170\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"20\" width=\"180\" height=\"130\" rx=\"14\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"110\" y=\"62\" text-anchor=\"middle\" font-size=\"26\" font-weight=\"800\" fill=\"#E8590C\">I</text>\n  <text x=\"110\" y=\"100\" text-anchor=\"middle\" font-size=\"16\" fill=\"#344054\">siempre con</text>\n  <text x=\"110\" y=\"132\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"800\" fill=\"#E8590C\">am</text>\n  <rect x=\"230\" y=\"20\" width=\"180\" height=\"130\" rx=\"14\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"62\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"800\" fill=\"#1570EF\">he · she · it</text>\n  <text x=\"320\" y=\"100\" text-anchor=\"middle\" font-size=\"16\" fill=\"#344054\">una persona o cosa</text>\n  <text x=\"320\" y=\"132\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"800\" fill=\"#1570EF\">is</text>\n  <rect x=\"440\" y=\"20\" width=\"180\" height=\"130\" rx=\"14\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"530\" y=\"62\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"800\" fill=\"#0E9384\">you · we · they</text>\n  <text x=\"530\" y=\"100\" text-anchor=\"middle\" font-size=\"16\" fill=\"#344054\">tú, o varios</text>\n  <text x=\"530\" y=\"132\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"800\" fill=\"#0E9384\">are</text>\n</svg>",
+   "caption": "Figura 1.2 — Mapa de concordancia. Si dudas, mira el sujeto y elige la caja."
+  },
+  {
+   "title": "Regla de oro 1 — El sujeto siempre va",
+   "html": "<p>En español el verbo ya dice quién es (<i>soy</i> = yo). En inglés <i>am, is, are</i> no bastan: se necesita el sujeto.</p><p><span class=\"es\">Es importante</span> → <span class=\"ok\">It is important.</span> Nunca <span class=\"wrong\">Is important.</span></p>"
+  },
+  {
+   "title": "Regla de oro 2 — IT para cosas, ideas, clima, hora y distancia",
+   "html": "<p>El español omite este sujeto; el inglés no:</p><ul><li><span class=\"es\">Hace calor</span> → <span class=\"en\">It's hot.</span></li><li><span class=\"es\">Son las tres</span> → <span class=\"en\">It's three o'clock.</span></li><li><span class=\"es\">Está lejos</span> → <span class=\"en\">It's far.</span></li></ul>"
+  },
+  {
+   "title": "Así piensa un nativo — las contracciones son lo normal",
+   "html": "<p><span class=\"en\">I am ready</span> suena rígido o enfático. Un nativo dice <span class=\"en\">I'm ready</span> <span class=\"pron\">aim RÉ-di</span>. En correos formales y reportes técnicos se escribe la forma completa: <span class=\"en\">I am available on Monday.</span></p>"
+  },
+  {
+   "title": "La estructura: sujeto + am/is/are + complemento",
+   "html": "<table><thead><tr><th>Tipo de complemento</th><th>Ejemplo</th><th>En español equivale a</th></tr></thead><tbody><tr><td>Profesión o identidad (con a/an)</td><td><span class=\"en\">I'm an engineer.</span></td><td>ser</td></tr><tr><td>Origen</td><td><span class=\"en\">She's from Peru.</span></td><td>ser de</td></tr><tr><td>Adjetivo (cualidad o estado)</td><td><span class=\"en\">The tank is full.</span></td><td>ser / estar</td></tr><tr><td>Lugar</td><td><span class=\"en\">They're at the site.</span></td><td>estar en</td></tr><tr><td>Edad</td><td><span class=\"en\">I'm 28 (years old).</span></td><td>tener … años</td></tr><tr><td>Sensación física</td><td><span class=\"en\">We're hungry / cold / thirsty.</span></td><td>tener hambre / frío / sed</td></tr><tr><td>Acuerdo</td><td><span class=\"en\">You're right.</span></td><td>tener razón</td></tr></tbody></table>"
+  },
+  {
+   "title": "Traducción directa vs interpretación real",
+   "html": "<p>El español usa <b>tener</b> donde el inglés usa <b>be</b> para edad y sensaciones. Piensa así: en inglés <b>eres</b> tu edad y <b>estás</b> frío.</p><table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>Tengo 28 años</td><td><span class=\"en\">I'm 28.</span> <span class=\"wrong\">I have 28 years</span></td></tr><tr><td>Tengo frío</td><td><span class=\"en\">I'm cold.</span> <span class=\"wrong\">I have cold</span></td></tr><tr><td>Tengo razón</td><td><span class=\"en\">I'm right.</span> <span class=\"wrong\">I have reason</span></td></tr><tr><td>Tengo miedo</td><td><span class=\"en\">I'm afraid / scared.</span> <span class=\"wrong\">I have fear</span></td></tr><tr><td>Es tarde</td><td><span class=\"en\">It's late.</span> <span class=\"wrong\">Is late</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Negativo y pregunta: sin auxiliares",
+   "html": "<p>TO BE es especial: no necesita <i>do/does</i>. Para negar se añade <b>not</b>; para preguntar se <b>invierte</b> el orden.</p><table><thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td>Sujeto + be + …</td><td><span class=\"en\">She is ready.</span></td></tr><tr><td><b>Negativo</b></td><td>Sujeto + be + not + …</td><td><span class=\"en\">She isn't ready.</span></td></tr><tr><td><b>Pregunta</b></td><td>Be + sujeto + … ?</td><td><span class=\"en\">Is she ready?</span></td></tr><tr><td><b>Respuesta corta</b></td><td>Yes, + sujeto + be. / No, + sujeto + be + not.</td><td><span class=\"en\">Yes, she is. / No, she isn't.</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 190\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"36\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">AFIRMATIVO</text>\n  <rect x=\"140\" y=\"14\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"195\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">She</text>\n  <rect x=\"262\" y=\"14\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"307\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">is</text>\n  <rect x=\"364\" y=\"14\" width=\"130\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"429\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">ready.</text>\n  <text x=\"20\" y=\"96\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">NEGATIVO</text>\n  <rect x=\"140\" y=\"74\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"195\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">She</text>\n  <rect x=\"262\" y=\"74\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"307\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">is</text>\n  <rect x=\"364\" y=\"74\" width=\"70\" height=\"36\" rx=\"8\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"399\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#D92D20\">not</text>\n  <rect x=\"446\" y=\"74\" width=\"130\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"511\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">ready.</text>\n  <text x=\"20\" y=\"160\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">PREGUNTA</text>\n  <rect x=\"140\" y=\"138\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"185\" y=\"162\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">Is</text>\n  <rect x=\"242\" y=\"138\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"297\" y=\"162\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">she</text>\n  <rect x=\"364\" y=\"138\" width=\"130\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"429\" y=\"162\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">ready?</text>\n  <path d=\"M500 32 C 628 32, 628 156, 500 156\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/>\n  <text x=\"560\" y=\"182\" text-anchor=\"middle\" font-size=\"11\" fill=\"#E8590C\">el verbo pasa adelante</text>\n</svg>",
+   "caption": "Figura 1.3 — Negar = agregar NOT después del verbo. Preguntar = mover el verbo antes del sujeto."
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<ul><li>Hay dos negativos válidos: <span class=\"en\">he isn't</span> = <span class=\"en\">he's not</span>; <span class=\"en\">you aren't</span> = <span class=\"en\">you're not</span>.</li><li>Con <b>I</b> solo existe <span class=\"en\">I'm not</span>. Nunca <span class=\"wrong\">I amn't</span>.</li><li>La respuesta corta afirmativa no se contrae: <span class=\"ok\">Yes, I am.</span> Nunca <span class=\"wrong\">Yes, I'm.</span></li></ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "I'm from Peru.",
+   "pron": "aim from pə-RÚ",
+   "es": "Soy de Perú.",
+   "group": "A. Presentarte"
+  },
+  {
+   "en": "I'm an engineer.",
+   "pron": "aim ən en-yi-NÍR",
+   "es": "Soy ingeniero.",
+   "group": "A. Presentarte"
+  },
+  {
+   "en": "I'm a project manager.",
+   "pron": "aim ə PRÓ-yekt MÁ-ni-yer",
+   "es": "Soy gerente de proyecto.",
+   "group": "A. Presentarte"
+  },
+  {
+   "en": "I'm new here.",
+   "pron": "aim nu JIR",
+   "es": "Soy nuevo aquí.",
+   "group": "A. Presentarte"
+  },
+  {
+   "en": "I'm in charge of…",
+   "pron": "aim in CHARCH əv",
+   "es": "Estoy a cargo de…",
+   "group": "A. Presentarte"
+  },
+  {
+   "en": "This is my colleague, Ana.",
+   "pron": "dhis iz mai KÓ-lig Á-na",
+   "es": "Te presento a mi colega, Ana.",
+   "group": "A. Presentarte"
+  },
+  {
+   "en": "Nice to meet you.",
+   "pron": "nais tə MÍT-yu",
+   "es": "Mucho gusto.",
+   "group": "A. Presentarte"
+  },
+  {
+   "en": "I'm tired.",
+   "pron": "aim TÁI-erd",
+   "es": "Estoy cansado.",
+   "group": "B. Estados y sensaciones (donde el español usa \"tener\" o \"estar\")"
+  },
+  {
+   "en": "I'm busy right now.",
+   "pron": "aim BÍ-zi rait NÁU",
+   "es": "Estoy ocupado ahora.",
+   "group": "B. Estados y sensaciones (donde el español usa \"tener\" o \"estar\")"
+  },
+  {
+   "en": "I'm hungry / thirsty.",
+   "pron": "aim JÁN-gri / THÉRS-ti",
+   "es": "Tengo hambre / sed.",
+   "group": "B. Estados y sensaciones (donde el español usa \"tener\" o \"estar\")"
+  },
+  {
+   "en": "I'm cold / hot.",
+   "pron": "aim KOULD / JOT",
+   "es": "Tengo frío / calor.",
+   "group": "B. Estados y sensaciones (donde el español usa \"tener\" o \"estar\")"
+  },
+  {
+   "en": "I'm 28 years old.",
+   "pron": "aim TWÉN-ti eit yirz OULD",
+   "es": "Tengo 28 años.",
+   "group": "B. Estados y sensaciones (donde el español usa \"tener\" o \"estar\")"
+  },
+  {
+   "en": "You're right.",
+   "pron": "yur RAIT",
+   "es": "Tienes razón.",
+   "group": "B. Estados y sensaciones (donde el español usa \"tener\" o \"estar\")"
+  },
+  {
+   "en": "I'm sure. / I'm not sure.",
+   "pron": "aim SHUR / aim not SHUR",
+   "es": "Estoy seguro. / No estoy seguro.",
+   "group": "B. Estados y sensaciones (donde el español usa \"tener\" o \"estar\")"
+  },
+  {
+   "en": "I'm ready.",
+   "pron": "aim RÉ-di",
+   "es": "Estoy listo.",
+   "group": "B. Estados y sensaciones (donde el español usa \"tener\" o \"estar\")"
+  },
+  {
+   "en": "I'm late. Sorry!",
+   "pron": "aim LEIT, SÓ-ri",
+   "es": "Llego tarde. ¡Perdón!",
+   "group": "B. Estados y sensaciones (donde el español usa \"tener\" o \"estar\")"
+  },
+  {
+   "en": "I'm on my way.",
+   "pron": "aim on mai WEI",
+   "es": "Estoy en camino.",
+   "group": "B. Estados y sensaciones (donde el español usa \"tener\" o \"estar\")"
+  },
+  {
+   "en": "I'm at work / at the office.",
+   "pron": "aim ət WERK / ət dhi Ó-fis",
+   "es": "Estoy en el trabajo / en la oficina.",
+   "group": "C. Lugar"
+  },
+  {
+   "en": "He's at the site.",
+   "pron": "jiz ət dhə SAIT",
+   "es": "Él está en obra.",
+   "group": "C. Lugar"
+  },
+  {
+   "en": "She's at home.",
+   "pron": "shiz ət JOUM",
+   "es": "Ella está en casa.",
+   "group": "C. Lugar"
+  },
+  {
+   "en": "It's on the table.",
+   "pron": "its on dhə TÉI-bol",
+   "es": "Está sobre la mesa.",
+   "group": "C. Lugar"
+  },
+  {
+   "en": "They're in a meeting.",
+   "pron": "dher in ə MÍ-ting",
+   "es": "Están en una reunión.",
+   "group": "C. Lugar"
+  },
+  {
+   "en": "Where is it?",
+   "pron": "wer IZ it",
+   "es": "¿Dónde está?",
+   "group": "C. Lugar"
+  },
+  {
+   "en": "It's important.",
+   "pron": "its im-PÓR-tənt",
+   "es": "Es importante.",
+   "group": "D. Cosas, clima, hora y opinión (con IT)"
+  },
+  {
+   "en": "It's urgent.",
+   "pron": "its ÉR-yent",
+   "es": "Es urgente.",
+   "group": "D. Cosas, clima, hora y opinión (con IT)"
+  },
+  {
+   "en": "It's ready.",
+   "pron": "its RÉ-di",
+   "es": "Está listo.",
+   "group": "D. Cosas, clima, hora y opinión (con IT)"
+  },
+  {
+   "en": "It's broken.",
+   "pron": "its BRÓU-ken",
+   "es": "Está roto / malogrado.",
+   "group": "D. Cosas, clima, hora y opinión (con IT)"
+  },
+  {
+   "en": "It's hot today.",
+   "pron": "its jot tə-DÉI",
+   "es": "Hace calor hoy.",
+   "group": "D. Cosas, clima, hora y opinión (con IT)"
+  },
+  {
+   "en": "It's 7 o'clock.",
+   "pron": "its SÉ-ven ə-KLÓK",
+   "es": "Son las 7.",
+   "group": "D. Cosas, clima, hora y opinión (con IT)"
+  },
+  {
+   "en": "It's too expensive.",
+   "pron": "its tu ek-SPÉN-siv",
+   "es": "Es demasiado caro.",
+   "group": "D. Cosas, clima, hora y opinión (con IT)"
+  },
+  {
+   "en": "It's not a problem.",
+   "pron": "its NOT ə PRÓ-blem",
+   "es": "No es problema.",
+   "group": "D. Cosas, clima, hora y opinión (con IT)"
+  },
+  {
+   "en": "How are you?",
+   "pron": "JÁU ar yu",
+   "es": "¿Cómo estás?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "Where are you from?",
+   "pron": "WER ar yu from",
+   "es": "¿De dónde eres?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "What's your name?",
+   "pron": "wots yor NEIM",
+   "es": "¿Cómo te llamas?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "How old are you?",
+   "pron": "jau OULD ar yu",
+   "es": "¿Cuántos años tienes?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "Are you ready?",
+   "pron": "ar yu RÉ-di",
+   "es": "¿Estás listo?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "Is it OK?",
+   "pron": "iz it ou-KÉI",
+   "es": "¿Está bien?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "Are you sure?",
+   "pron": "ar yu SHUR",
+   "es": "¿Estás seguro?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "What's the problem?",
+   "pron": "wots dhə PRÓ-blem",
+   "es": "¿Cuál es el problema?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "Who's in charge?",
+   "pron": "juz in CHARCH",
+   "es": "¿Quién está a cargo?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "How much is it?",
+   "pron": "jau MACH iz it",
+   "es": "¿Cuánto cuesta?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "What",
+   "pron": "wot",
+   "es": "qué / cuál",
+   "group": "F. Palabras para preguntar con TO BE",
+   "example": "What's your job?"
+  },
+  {
+   "en": "Where",
+   "pron": "wer",
+   "es": "dónde",
+   "group": "F. Palabras para preguntar con TO BE",
+   "example": "Where's the manager?"
+  },
+  {
+   "en": "Who",
+   "pron": "ju",
+   "es": "quién",
+   "group": "F. Palabras para preguntar con TO BE",
+   "example": "Who's that?"
+  },
+  {
+   "en": "How",
+   "pron": "jau",
+   "es": "cómo",
+   "group": "F. Palabras para preguntar con TO BE",
+   "example": "How's the project?"
+  },
+  {
+   "en": "How old",
+   "pron": "jau ould",
+   "es": "qué edad",
+   "group": "F. Palabras para preguntar con TO BE",
+   "example": "How old is the tank?"
+  },
+  {
+   "en": "How much",
+   "pron": "jau mach",
+   "es": "cuánto (precio)",
+   "group": "F. Palabras para preguntar con TO BE",
+   "example": "How much is it?"
+  },
+  {
+   "en": "When",
+   "pron": "wen",
+   "es": "cuándo",
+   "group": "F. Palabras para preguntar con TO BE",
+   "example": "When's the meeting?"
+  },
+  {
+   "en": "Why",
+   "pron": "wai",
+   "es": "por qué",
+   "group": "F. Palabras para preguntar con TO BE",
+   "example": "Why are you late?"
+  },
+  {
+   "en": "happy",
+   "pron": "JÁ-pi",
+   "es": "feliz",
+   "group": "G. Adjetivos para combinar con TO BE — Personas"
+  },
+  {
+   "en": "busy",
+   "pron": "BÍ-zi",
+   "es": "ocupado",
+   "group": "G. Adjetivos para combinar con TO BE — Personas"
+  },
+  {
+   "en": "tired",
+   "pron": "TÁI-erd",
+   "es": "cansado",
+   "group": "G. Adjetivos para combinar con TO BE — Personas"
+  },
+  {
+   "en": "angry",
+   "pron": "ÁN-gri",
+   "es": "enojado",
+   "group": "G. Adjetivos para combinar con TO BE — Personas"
+  },
+  {
+   "en": "available",
+   "pron": "ə-VÉI-lə-bol",
+   "es": "disponible",
+   "group": "G. Adjetivos para combinar con TO BE — Personas"
+  },
+  {
+   "en": "responsible",
+   "pron": "ris-PÓN-si-bol",
+   "es": "responsable",
+   "group": "G. Adjetivos para combinar con TO BE — Personas"
+  },
+  {
+   "en": "ready",
+   "pron": "RÉ-di",
+   "es": "listo",
+   "group": "G. Adjetivos para combinar con TO BE — Cosas y trabajo"
+  },
+  {
+   "en": "finished",
+   "pron": "FÍ-nisht",
+   "es": "terminado",
+   "group": "G. Adjetivos para combinar con TO BE — Cosas y trabajo"
+  },
+  {
+   "en": "full / empty",
+   "pron": "ful / ÉMP-ti",
+   "es": "lleno / vacío",
+   "group": "G. Adjetivos para combinar con TO BE — Cosas y trabajo"
+  },
+  {
+   "en": "safe / dangerous",
+   "pron": "seif / DÉIN-yer-əs",
+   "es": "seguro / peligroso",
+   "group": "G. Adjetivos para combinar con TO BE — Cosas y trabajo"
+  },
+  {
+   "en": "correct / wrong",
+   "pron": "ko-RÉKT / rong",
+   "es": "correcto / incorrecto",
+   "group": "G. Adjetivos para combinar con TO BE — Cosas y trabajo"
+  },
+  {
+   "en": "late / on time",
+   "pron": "leit / on taim",
+   "es": "tarde / a tiempo",
+   "group": "G. Adjetivos para combinar con TO BE — Cosas y trabajo"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Hi, I'm Edwin. I'm the new design engineer.",
+   "es": "Hola, soy Edwin. Soy el nuevo ingeniero de diseño.",
+   "situation": "Primer día de trabajo"
+  },
+  {
+   "en": "This is Mark. He's our safety supervisor.",
+   "es": "Él es Mark. Es nuestro supervisor de seguridad.",
+   "situation": "Presentar a alguien"
+  },
+  {
+   "en": "We're from Peru, but our boss is from Canada.",
+   "es": "Somos de Perú, pero nuestro jefe es de Canadá.",
+   "situation": "Origen"
+  },
+  {
+   "en": "Sorry, I'm in a meeting right now.",
+   "es": "Perdón, estoy en una reunión ahora.",
+   "situation": "Llamada telefónica"
+  },
+  {
+   "en": "The tank is empty and the valves are closed.",
+   "es": "El tanque está vacío y las válvulas están cerradas.",
+   "situation": "Reporte en obra"
+  },
+  {
+   "en": "The drawings are ready, but the report isn't finished.",
+   "es": "Los planos están listos, pero el informe no está terminado.",
+   "situation": "Estado del trabajo"
+  },
+  {
+   "en": "It's dangerous. The area isn't safe yet.",
+   "es": "Es peligroso. El área aún no es segura.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "It's very hot today. Are you OK?",
+   "es": "Hace mucho calor hoy. ¿Estás bien?",
+   "situation": "Clima"
+  },
+  {
+   "en": "It's 8 o'clock. We're late!",
+   "es": "Son las 8. ¡Llegamos tarde!",
+   "situation": "Hora"
+  },
+  {
+   "en": "The tools are in the container, next to the gate.",
+   "es": "Las herramientas están en el contenedor, junto a la puerta.",
+   "situation": "Ubicación"
+  },
+  {
+   "en": "I'm hungry. Are you hungry too?",
+   "es": "Tengo hambre. ¿Tú también tienes hambre?",
+   "situation": "Sensaciones"
+  },
+  {
+   "en": "My daughter is 5 years old.",
+   "es": "Mi hija tiene 5 años.",
+   "situation": "Edad"
+  },
+  {
+   "en": "You're right. The measurement is wrong.",
+   "es": "Tienes razón. La medida está mal.",
+   "situation": "Acuerdo"
+  },
+  {
+   "en": "How much is it? — It's 50 dollars.",
+   "es": "¿Cuánto cuesta? — Cuesta 50 dólares.",
+   "situation": "Precio"
+  },
+  {
+   "en": "I am available for a meeting on Monday.",
+   "es": "Estoy disponible para una reunión el lunes.",
+   "situation": "Correo formal"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "I'm ready.",
+     "I'm not ready.",
+     "Am I ready?",
+     "Yes, you are. / No, you aren't."
+    ],
+    [
+     "You're the supervisor.",
+     "You aren't the supervisor.",
+     "Are you the supervisor?",
+     "Yes, I am. / No, I'm not."
+    ],
+    [
+     "He's at the site.",
+     "He isn't at the site.",
+     "Is he at the site?",
+     "Yes, he is. / No, he isn't."
+    ],
+    [
+     "She's from Chile.",
+     "She isn't from Chile.",
+     "Is she from Chile?",
+     "Yes, she is. / No, she isn't."
+    ],
+    [
+     "It's urgent.",
+     "It isn't urgent.",
+     "Is it urgent?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "We're on time.",
+     "We aren't on time.",
+     "Are we on time?",
+     "Yes, we are. / No, we aren't."
+    ],
+    [
+     "They're busy.",
+     "They aren't busy.",
+     "Are they busy?",
+     "Yes, they are. / No, they aren't."
+    ],
+    [
+     "The pipes are new.",
+     "The pipes aren't new.",
+     "Are the pipes new?",
+     "Yes, they are. / No, they aren't."
+    ],
+    [
+     "The report is correct.",
+     "The report isn't correct.",
+     "Is the report correct?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "Maria is your boss.",
+     "Maria isn't your boss.",
+     "Is Maria your boss?",
+     "Yes, she is. / No, she isn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Mark",
+   "text": "Hi! Are you the new engineer?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, I am. I'm Edwin. Nice to meet you."
+  },
+  {
+   "who": "Mark",
+   "text": "Nice to meet you too. I'm Mark, the site supervisor. Where are you from?"
+  },
+  {
+   "who": "Edwin",
+   "text": "I'm from Peru."
+  },
+  {
+   "who": "Mark",
+   "text": "Great. Are you ready for the site tour?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, I'm ready. Is it far?"
+  },
+  {
+   "who": "Mark",
+   "text": "No, it isn't. It's next to the tank farm. But it's very hot today. Are you OK with that?"
+  },
+  {
+   "who": "Edwin",
+   "text": "No problem. I'm used to it. Talara is hot too!"
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "Is important.",
+   "right": "It is important.",
+   "why": "El inglés exige sujeto; para cosas e ideas se usa it."
+  },
+  {
+   "wrong": "I have 30 years.",
+   "right": "I'm 30 (years old).",
+   "why": "La edad se dice con be, no con have."
+  },
+  {
+   "wrong": "I have cold.",
+   "right": "I'm cold.",
+   "why": "Sensaciones físicas = be + adjetivo."
+  },
+  {
+   "wrong": "I am engineer.",
+   "right": "I'm an engineer.",
+   "why": "Profesión en singular lleva a/an."
+  },
+  {
+   "wrong": "She are / They is",
+   "right": "She is / They are",
+   "why": "He, she, it → is. You, we, they → are."
+  },
+  {
+   "wrong": "You are ready?",
+   "right": "Are you ready?",
+   "why": "En la pregunta escrita se invierte el orden."
+  },
+  {
+   "wrong": "I no am ready.",
+   "right": "I'm not ready.",
+   "why": "TO BE se niega con not después del verbo."
+  },
+  {
+   "wrong": "Do you are busy?",
+   "right": "Are you busy?",
+   "why": "TO BE no usa do/does."
+  },
+  {
+   "wrong": "Yes, I'm.",
+   "right": "Yes, I am.",
+   "why": "La respuesta corta afirmativa no se contrae."
+  },
+  {
+   "wrong": "The people is happy.",
+   "right": "The people are happy.",
+   "why": "People es plural en inglés."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "I'm embarrassed.",
+   "looks": "embarazada",
+   "means": "avergonzado",
+   "fix": "I'm pregnant."
+  },
+  {
+   "en": "He's sensible.",
+   "looks": "sensible",
+   "means": "sensato, prudente",
+   "fix": "He's sensitive."
+  },
+  {
+   "en": "She's constipated.",
+   "looks": "constipada",
+   "means": "estreñida",
+   "fix": "She has a cold."
+  },
+  {
+   "en": "It's the actual cost.",
+   "looks": "actual",
+   "means": "real, verdadero",
+   "fix": "It's the current cost."
+  },
+  {
+   "en": "He's educated.",
+   "looks": "educado (amable)",
+   "means": "instruido, con estudios",
+   "fix": "He's polite."
+  },
+  {
+   "en": "It's large.",
+   "looks": "largo",
+   "means": "grande",
+   "fix": "It's long."
+  },
+  {
+   "en": "The eventual cost is high.",
+   "looks": "eventual",
+   "means": "final (que llegará al final)",
+   "fix": "The possible cost is high."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Soy ingeniero mecánico.",
+    "answers": [
+     "I'm a mechanical engineer.",
+     "I am a mechanical engineer."
+    ],
+    "explain": "Profesión en singular lleva a; mechanical empieza con consonante, por eso a y no an."
+   },
+   {
+    "prompt": "Tengo 32 años.",
+    "answers": [
+     "I'm 32.",
+     "I am 32.",
+     "I'm 32 years old.",
+     "I am 32 years old.",
+     "I'm thirty-two.",
+     "I am thirty-two.",
+     "I'm thirty-two years old.",
+     "I am thirty-two years old."
+    ],
+    "explain": "Edad = be. Years old es opcional."
+   },
+   {
+    "prompt": "Es muy importante.",
+    "answers": [
+     "It's very important.",
+     "It is very important."
+    ],
+    "explain": "El sujeto it es obligatorio."
+   },
+   {
+    "prompt": "¿Estás listo?",
+    "answers": [
+     "Are you ready?"
+    ],
+    "explain": "El verbo va antes del sujeto."
+   },
+   {
+    "prompt": "Ellos no están en la oficina. Están en obra.",
+    "answers": [
+     "They aren't at the office. They're at the site.",
+     "They are not at the office. They are at the site.",
+     "They're not at the office. They're at the site."
+    ],
+    "explain": "También vale They're not. Lugar de trabajo: at the office, at the site."
+   },
+   {
+    "prompt": "Hace frío hoy.",
+    "answers": [
+     "It's cold today.",
+     "It is cold today.",
+     "Today it's cold.",
+     "Today it is cold."
+    ],
+    "explain": "El clima lleva it; \"hace\" no se traduce como make."
+   },
+   {
+    "prompt": "Tienes razón.",
+    "answers": [
+     "You're right.",
+     "You are right."
+    ],
+    "explain": "\"Tener razón\" = be right."
+   },
+   {
+    "prompt": "¿De dónde es tu jefe?",
+    "answers": [
+     "Where's your boss from?",
+     "Where is your boss from?"
+    ],
+    "explain": "WH- + be + sujeto + from al final."
+   },
+   {
+    "prompt": "La válvula no está cerrada.",
+    "answers": [
+     "The valve isn't closed.",
+     "The valve is not closed."
+    ],
+    "explain": "Valve es singular → is."
+   },
+   {
+    "prompt": "Son las 6 y llegamos tarde.",
+    "answers": [
+     "It's 6 o'clock and we're late.",
+     "It is 6 o'clock and we are late.",
+     "It's six o'clock and we're late.",
+     "It is six o'clock and we are late.",
+     "It's 6 and we're late.",
+     "It is 6 and we are late."
+    ],
+    "explain": "Hora = it's. \"Llegamos tarde\" (estado) = we're late."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "I'm not sure. Is it correct?",
+    "answers": [
+     "No estoy seguro. ¿Está correcto?",
+     "No estoy segura. ¿Está correcto?",
+     "No estoy seguro. ¿Es correcto?",
+     "No estoy seguro. ¿Está bien?"
+    ],
+    "explain": "El it no se traduce en español."
+   },
+   {
+    "prompt": "She's in charge of the project.",
+    "answers": [
+     "Ella está a cargo del proyecto.",
+     "Ella es la encargada del proyecto.",
+     "Ella está encargada del proyecto."
+    ],
+    "explain": "Be in charge of = estar a cargo de."
+   },
+   {
+    "prompt": "The pipes aren't ready yet.",
+    "answers": [
+     "Las tuberías aún no están listas.",
+     "Las tuberías todavía no están listas.",
+     "Los tubos aún no están listos.",
+     "Las tuberías no están listas todavía."
+    ],
+    "explain": "Not … yet = aún no / todavía no."
+   },
+   {
+    "prompt": "How old is the building?",
+    "answers": [
+     "¿Qué antigüedad tiene el edificio?",
+     "¿Cuántos años tiene el edificio?",
+     "¿Qué edad tiene el edificio?"
+    ],
+    "explain": "How old se usa también para cosas."
+   },
+   {
+    "prompt": "We're thirsty. Is the water cold?",
+    "answers": [
+     "Tenemos sed. ¿El agua está fría?",
+     "Tenemos sed. ¿Está fría el agua?",
+     "Tenemos sed. ¿El agua está helada?"
+    ],
+    "explain": "Be thirsty = tener sed."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "Is very late.",
+    "answers": [
+     "It's very late.",
+     "It is very late."
+    ],
+    "explain": "Faltaba el sujeto it."
+   },
+   {
+    "prompt": "My brother have 25 years.",
+    "answers": [
+     "My brother is 25.",
+     "My brother is 25 years old.",
+     "My brother's 25.",
+     "My brother's 25 years old."
+    ],
+    "explain": "Edad con be; my brother = he → is."
+   },
+   {
+    "prompt": "They is from Mexico.",
+    "answers": [
+     "They're from Mexico.",
+     "They are from Mexico."
+    ],
+    "explain": "They va con are."
+   },
+   {
+    "prompt": "You are busy now?",
+    "answers": [
+     "Are you busy now?"
+    ],
+    "explain": "En la pregunta se invierte."
+   },
+   {
+    "prompt": "I no am tired.",
+    "answers": [
+     "I'm not tired.",
+     "I am not tired."
+    ],
+    "explain": "Negativo con not después del verbo."
+   },
+   {
+    "prompt": "Do you are the new supervisor?",
+    "answers": [
+     "Are you the new supervisor?"
+    ],
+    "explain": "TO BE no usa do."
+   },
+   {
+    "prompt": "He's engineer.",
+    "answers": [
+     "He's an engineer.",
+     "He is an engineer."
+    ],
+    "explain": "Profesión lleva a/an; sonido vocal → an."
+   },
+   {
+    "prompt": "— Are you ready? — Yes, I'm.",
+    "answers": [
+     "Yes, I am.",
+     "— Are you ready? — Yes, I am.",
+     "Are you ready? Yes, I am."
+    ],
+    "explain": "La respuesta corta afirmativa no se contrae."
+   },
+   {
+    "prompt": "The people is very friendly here.",
+    "answers": [
+     "The people are very friendly here."
+    ],
+    "explain": "People es plural → are."
+   },
+   {
+    "prompt": "I have hungry. Is the food ready?",
+    "answers": [
+     "I'm hungry. Is the food ready?",
+     "I am hungry. Is the food ready?"
+    ],
+    "explain": "Hambre = be hungry, no have."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte a negativo y a pregunta: The tank is full.",
+   "answer": "The tank isn't full. / Is the tank full?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con am, is, are, not, it o they.",
+   "lines": [
+    {
+     "who": "Client",
+     "text": "Hello, [1] you the engineer for this job?"
+    },
+    {
+     "who": "You",
+     "text": "Yes, I [2]. My name is Edwin."
+    },
+    {
+     "who": "Client",
+     "text": "Nice to meet you. Where [3] the welders today?"
+    },
+    {
+     "who": "You",
+     "text": "[4]'re at the warehouse. The new pipes [5] there."
+    },
+    {
+     "who": "Client",
+     "text": "[6] the job on schedule?"
+    },
+    {
+     "who": "You",
+     "text": "Not exactly. We [7] two days late, but [8]'s not a big problem."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "Are"
+     ],
+     "explain": "Pregunta con you → Are al inicio."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "am"
+     ],
+     "explain": "Yes, I am, sin contraer."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "are"
+     ],
+     "explain": "The welders es plural."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "They"
+     ],
+     "explain": "'re necesita sujeto plural: los soldadores → they."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "are"
+     ],
+     "explain": "The new pipes es plural."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "Is"
+     ],
+     "explain": "The job es singular."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "are"
+     ],
+     "explain": "We → are."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "it"
+     ],
+     "explain": "\"No es un gran problema\" habla de la situación → it."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un mensaje. Escribe un WhatsApp de 5 a 7 oraciones a tu supervisor que diga: (a) quién eres y en qué proyecto estás, (b) dónde estás ahora, (c) cómo está el trabajo, (d) un problema, (e) una pregunta. Usa TO BE al menos 6 veces, con un negativo y una pregunta.",
+   "rubric": [
+    "(a) Dices quién eres y en qué proyecto estás",
+    "(b) Dices dónde estás ahora",
+    "(c) Dices cómo está el trabajo",
+    "(d) Mencionas un problema",
+    "(e) Haces una pregunta",
+    "Incluyes un negativo con TO BE bien formado (isn't / aren't / I'm not)",
+    "La pregunta está bien formada (am / is / are antes del sujeto)"
+   ],
+   "model": "Hi Mark, it's Edwin, the design engineer for the T8076 repair. I'm at the site now, next to the tank. The new plates are ready and the welders are here. But the crane isn't available today. Is it OK to start tomorrow at 7?"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Presentarme: nombre, origen, profesión y edad.",
+   "test": "Grábate 30 segundos sin leer y sin pausas largas. Usa al menos 4 frases con TO BE."
+  },
+  {
+   "skill": "Usar am / is / are sin dudar.",
+   "test": "Escribe 10 oraciones con sujetos distintos en 2 minutos; 10 de 10 correctas."
+  },
+  {
+   "skill": "Decir edad y sensaciones con BE, no con HAVE.",
+   "test": "Traduce en voz alta: tengo 30 años, tengo frío, tengo razón, tengo sed. Cero \"have\"."
+  },
+  {
+   "skill": "Negar y preguntar con TO BE.",
+   "test": "Convierte 5 oraciones afirmativas a negativo y pregunta en menos de 1 minuto."
+  },
+  {
+   "skill": "Dar respuestas cortas correctas.",
+   "test": "Responde 5 preguntas con \"Yes, … / No, …\" sin contraer en afirmativo."
+  },
+  {
+   "skill": "Escribir un mensaje de estado de trabajo.",
+   "test": "Redacta 5 oraciones sobre tu día de trabajo y compáralas con el modelo C2."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "Where are you from?",
+  "What's your job?",
+  "How old are you?",
+  "Where are you right now?",
+  "Are you busy today?",
+  "Is your job difficult?"
+ ]
+}

@@ -1,0 +1,979 @@
+{
+ "id": 2,
+ "level": "A1",
+ "title": "Artículos, plurales y THERE IS / THERE ARE",
+ "goal": "Al terminar podrás describir qué hay en un lugar (oficina, obra, almacén, hotel), contar personas y objetos, elegir entre a, an y the sin dudar, y formar plurales regulares, irregulares e incontables correctamente.",
+ "lesson": [
+  {
+   "title": "A / AN: un, una",
+   "html": "<p>Este módulo resuelve tres piezas pequeñas que aparecen en casi todas las oraciones: el <b>artículo</b> (<span class=\"en\">a, an, the</span>), el <b>plural</b> (<span class=\"en\">-s, -es</span> e irregulares) y la forma de decir <b>\"hay\"</b> (<span class=\"en\">there is / there are</span>). Son piezas cortas, pero un error en ellas se nota en cada frase.</p><p>El inglés tiene una sola palabra para <i>un</i> y <i>una</i>: <span class=\"en\">a</span>. No cambia por género (no hay masculino ni femenino). Solo cambia a <span class=\"en\">an</span> por el <b>sonido</b> de la palabra que sigue, no por la letra escrita.</p><table><thead><tr><th>Palabra</th><th>Primera letra</th><th>Primer sonido</th><th>Artículo</th></tr></thead><tbody><tr><td><span class=\"en\">engineer</span></td><td>e (vocal)</td><td><span class=\"pron\">en-yi-NÍR</span> → vocal</td><td><span class=\"en\">an engineer</span></td></tr><tr><td><span class=\"en\">hour</span></td><td>h (consonante)</td><td><span class=\"pron\">ÁU-er</span> → vocal (h muda)</td><td><span class=\"en\">an hour</span></td></tr><tr><td><span class=\"en\">uniform</span></td><td>u (vocal)</td><td><span class=\"pron\">YÚ-ni-form</span> → consonante \"y\"</td><td><span class=\"en\">a uniform</span></td></tr><tr><td><span class=\"en\">university</span></td><td>u (vocal)</td><td><span class=\"pron\">yu-ni-VÉR-si-ti</span> → consonante \"y\"</td><td><span class=\"en\">a university</span></td></tr><tr><td><span class=\"en\">hotel</span></td><td>h (consonante)</td><td><span class=\"pron\">jou-TÉL</span> → consonante</td><td><span class=\"en\">a hotel</span></td></tr><tr><td><span class=\"en\">office</span></td><td>o (vocal)</td><td><span class=\"pron\">Ó-fis</span> → vocal</td><td><span class=\"en\">an office</span></td></tr></tbody></table><p><b>Regla de oro 1 — A / AN: un solo objeto o persona que se menciona por primera vez</b></p><p>Usa <span class=\"en\">a/an</span> con un sustantivo <b>contable en singular</b>: una cosa, una persona, una profesión. Nunca con plurales ni con incontables.</p><p><span class=\"ok\">She's a welder.</span> <span class=\"ok\">There's a crane.</span> Nunca <span class=\"wrong\">a cranes</span> ni <span class=\"wrong\">an information</span>.</p>",
+   "svg": "<svg viewBox=\"0 0 640 225\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"170\" y=\"12\" width=\"300\" height=\"58\" rx=\"12\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"37\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">¿La palabra siguiente empieza</text>\n  <text x=\"320\" y=\"58\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">con SONIDO de vocal?</text>\n  <path d=\"M250 70 L 170 100\" fill=\"none\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <polygon points=\"166,94 160,104 172,105\" fill=\"#667085\"/>\n  <path d=\"M390 70 L 470 100\" fill=\"none\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <polygon points=\"474,94 480,104 468,105\" fill=\"#667085\"/>\n  <rect x=\"30\" y=\"105\" width=\"270\" height=\"108\" rx=\"12\" fill=\"#F2F4F7\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <text x=\"165\" y=\"135\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#1D2939\">NO → a</text>\n  <text x=\"165\" y=\"162\" text-anchor=\"middle\" font-size=\"13\" fill=\"#344054\">a pipe · a tank · a welder</text>\n  <text x=\"165\" y=\"182\" text-anchor=\"middle\" font-size=\"13\" fill=\"#344054\">a uniform (suena \"yu\")</text>\n  <text x=\"165\" y=\"202\" text-anchor=\"middle\" font-size=\"13\" fill=\"#344054\">a hotel (la h suena)</text>\n  <rect x=\"340\" y=\"105\" width=\"270\" height=\"108\" rx=\"12\" fill=\"#0E9384\"/>\n  <text x=\"475\" y=\"135\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#fff\">SÍ → an</text>\n  <text x=\"475\" y=\"162\" text-anchor=\"middle\" font-size=\"13\" fill=\"#fff\">an engineer · an inspector</text>\n  <text x=\"475\" y=\"182\" text-anchor=\"middle\" font-size=\"13\" fill=\"#fff\">an office · an issue</text>\n  <text x=\"475\" y=\"202\" text-anchor=\"middle\" font-size=\"13\" fill=\"#fff\">an hour (la h es muda)</text>\n</svg>",
+   "caption": "Figura 2.1 — A o AN: decide el oído, no la letra."
+  },
+  {
+   "title": "THE: el, la, los, las",
+   "html": "<p><span class=\"en\">The</span> sirve para los cuatro artículos del español. Se usa cuando quien habla y quien escucha <b>saben de cuál se trata</b>: ya se mencionó, es único, o está claro por la situación.</p><p>Pronunciación: <span class=\"pron\">dhə</span> antes de sonido consonante (<span class=\"en\">the tank</span> <span class=\"pron\">dhə TANK</span>) y <span class=\"pron\">dhi</span> antes de sonido vocal (<span class=\"en\">the engineer</span> <span class=\"pron\">dhi en-yi-NÍR</span>).</p><table><thead><tr><th>Uso</th><th>Ejemplo</th><th>Por qué</th></tr></thead><tbody><tr><td>Segunda mención</td><td><span class=\"en\">There's a crane on site. The crane is yellow.</span></td><td>Primero <i>a</i> (nueva), luego <i>the</i> (ya conocida).</td></tr><tr><td>Algo único</td><td><span class=\"en\">The sun is very strong today.</span></td><td>Solo hay uno.</td></tr><tr><td>Claro por la situación</td><td><span class=\"en\">Where's the manager? The door is open.</span></td><td>El gerente de aquí, la puerta de este cuarto.</td></tr><tr><td>Con primero, último, mismo</td><td><span class=\"en\">It's the first floor. It's the same model.</span></td><td>Ordinales y <i>same</i> siempre llevan <i>the</i>.</td></tr></tbody></table>"
+  },
+  {
+   "title": "Regla de oro 2 — Para hablar en general, SIN artículo",
+   "html": "<p>El español pone artículo en las generalizaciones (<i>el acero, los ingenieros, la seguridad</i>). El inglés no: plural o incontable <b>sin the</b> = \"en general\".</p><p><span class=\"es\">El acero es caro</span> → <span class=\"ok\">Steel is expensive.</span> Nunca <span class=\"wrong\">The steel is expensive</span> (si hablas del acero en general).</p><table><thead><tr><th>Español: con artículo</th><th>Inglés: sin artículo</th></tr></thead><tbody><tr><td>La seguridad es importante.</td><td><span class=\"en\">Safety is important.</span></td></tr><tr><td>Los ingenieros son prácticos.</td><td><span class=\"en\">Engineers are practical.</span></td></tr><tr><td>El inglés es útil.</td><td><span class=\"en\">English is useful.</span></td></tr><tr><td>La inspección es el lunes.</td><td><span class=\"en\">The inspection is on Monday.</span></td></tr><tr><td>Estoy en el trabajo.</td><td><span class=\"en\">I'm at work.</span></td></tr></tbody></table><p>Sin artículo también: idiomas (<i>English</i>), días (<i>on Monday</i>), <i>at work, at home</i>, y títulos con nombre (<i>Mr. Lee</i>, nunca <i>the Mr. Lee</i>).</p>"
+  },
+  {
+   "title": "Plurales: cómo se escriben",
+   "html": "<table><thead><tr><th>Regla</th><th>Singular → plural</th></tr></thead><tbody><tr><td>General: + <b>s</b></td><td><span class=\"en\">pipe → pipes · tool → tools · valve → valves</span></td></tr><tr><td>Termina en -s, -ss, -sh, -ch, -x: + <b>es</b></td><td><span class=\"en\">bus → buses · glass → glasses · brush → brushes · wrench → wrenches · box → boxes</span></td></tr><tr><td>Consonante + y → <b>ies</b></td><td><span class=\"en\">battery → batteries · company → companies · city → cities</span></td></tr><tr><td>Vocal + y → + <b>s</b></td><td><span class=\"en\">day → days · key → keys · boy → boys</span></td></tr><tr><td>-f / -fe → <b>ves</b> (con excepciones)</td><td><span class=\"en\">shelf → shelves · knife → knives · half → halves · <i>pero</i> roof → roofs</span></td></tr><tr><td>-o: algunas + <b>es</b>, otras + <b>s</b></td><td><span class=\"en\">potato → potatoes · tomato → tomatoes · <i>pero</i> photo → photos · radio → radios</span></td></tr><tr><td>Irregulares (memorízalos)</td><td><span class=\"en\">man → men · woman → women · child → children · person → people · foot → feet · tooth → teeth</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Plurales: cómo suena la -s final",
+   "html": "<p>La -s del plural tiene tres sonidos. No es un detalle: si dices <i>\"bok-ses\"</i> o <i>\"pai-pes\"</i>, el nativo tarda en entenderte.</p>",
+   "svg": "<svg viewBox=\"0 0 640 190\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"16\" y=\"14\" width=\"196\" height=\"164\" rx=\"14\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"114\" y=\"46\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"800\" fill=\"#E8590C\">suena S</text>\n  <text x=\"114\" y=\"70\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">tras sonidos sordos</text>\n  <text x=\"114\" y=\"86\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">p, t, k, f</text>\n  <text x=\"114\" y=\"118\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">pipes → paips</text>\n  <text x=\"114\" y=\"140\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">tanks → tanks</text>\n  <text x=\"114\" y=\"162\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">roofs → rufs</text>\n  <rect x=\"222\" y=\"14\" width=\"196\" height=\"164\" rx=\"14\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"46\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"800\" fill=\"#1570EF\">suena Z</text>\n  <text x=\"320\" y=\"70\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">tras vocales y sonidos</text>\n  <text x=\"320\" y=\"86\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">sonoros: l, n, v, b, d, g</text>\n  <text x=\"320\" y=\"118\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">valves → valvz</text>\n  <text x=\"320\" y=\"140\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">tools → tulz</text>\n  <text x=\"320\" y=\"162\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">days → deiz</text>\n  <rect x=\"428\" y=\"14\" width=\"196\" height=\"164\" rx=\"14\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"526\" y=\"46\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"800\" fill=\"#0E9384\">suena IZ</text>\n  <text x=\"526\" y=\"70\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">añade una sílaba tras</text>\n  <text x=\"526\" y=\"86\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">s, z, sh, ch, x, ge</text>\n  <text x=\"526\" y=\"118\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">boxes → BÓK-siz</text>\n  <text x=\"526\" y=\"140\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">wrenches → RÉN-chiz</text>\n  <text x=\"526\" y=\"162\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">pages → PÉI-yiz</text>\n</svg>",
+   "caption": "Figura 2.2 — Los tres sonidos de la -s del plural. Solo la tercera caja agrega una sílaba."
+  },
+  {
+   "title": "Regla de oro 3 — Los incontables no tienen plural ni llevan a/an",
+   "html": "<p>Algunas palabras son <b>incontables</b> en inglés aunque en español se cuenten: <span class=\"en\">equipment, information, advice, furniture, luggage, news, money, steel, water</span>. Van con verbo en singular (<i>is</i>) y nunca con -s.</p><p><span class=\"ok\">The equipment is new.</span> Nunca <span class=\"wrong\">The equipments are new.</span><br> Para contarlas usa <span class=\"en\">a piece of</span>: <span class=\"en\">a piece of equipment, two pieces of advice</span>.</p>"
+  },
+  {
+   "title": "THERE IS / THERE ARE: \"hay\"",
+   "html": "<p>En español <i>hay</i> no cambia: <i>hay un tanque, hay tres tanques</i>. En inglés el verbo <b>concuerda</b> con lo que viene después: singular o incontable → <span class=\"en\">there is</span>; plural → <span class=\"en\">there are</span>. La palabra <span class=\"en\">there</span> aquí no significa \"allí\"; solo ocupa el lugar del sujeto, igual que <span class=\"en\">it</span> en <i>It's hot</i>.</p><table><thead><tr><th></th><th>Singular o incontable</th><th>Plural</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td><span class=\"en\">There's a crane. / There's some water.</span></td><td><span class=\"en\">There are two cranes. / There are some gloves.</span></td></tr><tr><td><b>Negativo</b></td><td><span class=\"en\">There isn't a crane. / There isn't any water.</span></td><td><span class=\"en\">There aren't any cranes.</span></td></tr><tr><td><b>Negativo con NO</b></td><td><span class=\"en\">There's no crane. / There's no water.</span></td><td><span class=\"en\">There are no cranes.</span></td></tr><tr><td><b>Pregunta</b></td><td><span class=\"en\">Is there a crane? / Is there any water?</span></td><td><span class=\"en\">Are there any cranes?</span></td></tr><tr><td><b>Respuesta corta</b></td><td><span class=\"en\">Yes, there is. / No, there isn't.</span></td><td><span class=\"en\">Yes, there are. / No, there aren't.</span></td></tr><tr><td><b>Cantidad</b></td><td><span class=\"en\">How much water is there?</span></td><td><span class=\"en\">How many cranes are there?</span></td></tr></tbody></table><p><b>Detalles que marcan la diferencia</b></p><ul><li><span class=\"en\">There's</span> es la forma normal al hablar. <span class=\"en\">There are</span> no se contrae por escrito.</li><li>La respuesta corta afirmativa no se contrae: <span class=\"ok\">Yes, there is.</span> Nunca <span class=\"wrong\">Yes, there's.</span></li><li><span class=\"en\">some</span> va en afirmativo; <span class=\"en\">any</span> en negativo y pregunta: <span class=\"en\">There are some bolts. / There aren't any bolts. / Are there any bolts?</span></li><li><span class=\"en\">There isn't any</span> = <span class=\"en\">There's no</span>. Nunca los dos juntos: <span class=\"wrong\">There isn't no water.</span></li></ul>",
+   "svg": "<svg viewBox=\"0 0 640 260\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"10\" y=\"14\" width=\"300\" height=\"216\" fill=\"#F2F4F7\"/>\n  <text x=\"20\" y=\"34\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">WAREHOUSE A</text>\n  <rect x=\"24\" y=\"80\" width=\"6\" height=\"150\" fill=\"#98A2B3\"/>\n  <rect x=\"144\" y=\"80\" width=\"6\" height=\"150\" fill=\"#98A2B3\"/>\n  <rect x=\"24\" y=\"120\" width=\"126\" height=\"6\" fill=\"#667085\"/>\n  <rect x=\"24\" y=\"176\" width=\"126\" height=\"6\" fill=\"#667085\"/>\n  <rect x=\"36\" y=\"90\" width=\"30\" height=\"30\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <rect x=\"72\" y=\"90\" width=\"30\" height=\"30\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <rect x=\"108\" y=\"90\" width=\"30\" height=\"30\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <rect x=\"172\" y=\"78\" width=\"20\" height=\"46\" rx=\"6\" fill=\"#D92D20\"/>\n  <rect x=\"177\" y=\"70\" width=\"10\" height=\"9\" fill=\"#1D2939\"/>\n  <circle cx=\"190\" cy=\"216\" r=\"13\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"3\"/>\n  <circle cx=\"218\" cy=\"216\" r=\"13\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"3\"/>\n  <circle cx=\"246\" cy=\"216\" r=\"13\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"3\"/>\n  <circle cx=\"204\" cy=\"192\" r=\"13\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"3\"/>\n  <rect x=\"254\" y=\"168\" width=\"52\" height=\"6\" fill=\"#667085\"/>\n  <rect x=\"258\" y=\"174\" width=\"5\" height=\"56\" fill=\"#667085\"/>\n  <rect x=\"297\" y=\"174\" width=\"5\" height=\"56\" fill=\"#667085\"/>\n  <path d=\"M264 168 A 16 16 0 0 1 296 168 Z\" fill=\"#E9B949\"/>\n  <line x1=\"10\" y1=\"230\" x2=\"310\" y2=\"230\" stroke=\"#1D2939\" stroke-width=\"3\"/>\n  <text x=\"325\" y=\"62\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\"><tspan fill=\"#0E9384\">There are</tspan> three boxes on the shelf.</text>\n  <text x=\"325\" y=\"92\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\"><tspan fill=\"#0E9384\">There are</tspan> four pipes on the floor.</text>\n  <text x=\"325\" y=\"122\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\"><tspan fill=\"#0E9384\">There's</tspan> a helmet on the table.</text>\n  <text x=\"325\" y=\"152\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\"><tspan fill=\"#0E9384\">There's</tspan> an extinguisher on the wall.</text>\n  <text x=\"325\" y=\"182\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\"><tspan fill=\"#D92D20\">There isn't</tspan> a forklift.</text>\n  <text x=\"325\" y=\"212\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\"><tspan fill=\"#D92D20\">There aren't</tspan> any people.</text>\n  <text x=\"160\" y=\"252\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">Describe la escena: ¿qué hay y qué no hay?</text>\n</svg>",
+   "caption": "Figura 2.3 — Una escena, seis oraciones. Singular → there's; plural → there are."
+  },
+  {
+   "title": "¿THERE IS o THE … IS? Existir vs describir",
+   "html": "<p>Usa <span class=\"en\">there is/are</span> para <b>presentar</b> algo nuevo (existe, hay). Cuando ya se sabe de qué hablas, usa <span class=\"en\">the … is</span> o <span class=\"en\">it is</span> para <b>describirlo o ubicarlo</b>.</p><p><b>Así piensa un nativo — primero A, después THE</b></p><p>Un nativo presenta con <span class=\"en\">there's a…</span> y sigue con <span class=\"en\">the…</span>: <span class=\"en\">There's a problem with the pump. The problem is the seal. It's old.</span> Es una cadena: nuevo → conocido → pronombre.</p>",
+   "svg": "<svg viewBox=\"0 0 640 230\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"220\" y=\"10\" width=\"200\" height=\"38\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"35\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#fff\">¿Qué quieres decir?</text>\n  <path d=\"M290 48 L 190 76\" fill=\"none\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <path d=\"M350 48 L 480 76\" fill=\"none\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <rect x=\"20\" y=\"78\" width=\"320\" height=\"38\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"180\" y=\"102\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#0E9384\">Algo EXISTE (= hay)</text>\n  <rect x=\"360\" y=\"78\" width=\"260\" height=\"38\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"490\" y=\"102\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#E8590C\">Describir algo YA CONOCIDO</text>\n  <path d=\"M130 116 L 97 142\" fill=\"none\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <path d=\"M230 116 L 262 142\" fill=\"none\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <path d=\"M490 116 L 490 142\" fill=\"none\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <rect x=\"20\" y=\"144\" width=\"155\" height=\"76\" rx=\"10\" fill=\"#0E9384\"/>\n  <text x=\"97\" y=\"166\" text-anchor=\"middle\" font-size=\"12\" fill=\"#E6F7F5\">singular o incontable</text>\n  <text x=\"97\" y=\"190\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#fff\">There is</text>\n  <text x=\"97\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#fff\">There's a leak.</text>\n  <rect x=\"185\" y=\"144\" width=\"155\" height=\"76\" rx=\"10\" fill=\"#0E9384\"/>\n  <text x=\"262\" y=\"166\" text-anchor=\"middle\" font-size=\"12\" fill=\"#E6F7F5\">plural</text>\n  <text x=\"262\" y=\"190\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#fff\">There are</text>\n  <text x=\"262\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#fff\">There are two leaks.</text>\n  <rect x=\"360\" y=\"144\" width=\"260\" height=\"76\" rx=\"10\" fill=\"#E8590C\"/>\n  <text x=\"490\" y=\"166\" text-anchor=\"middle\" font-size=\"12\" fill=\"#FFF2E8\">the + nombre / it + is / are</text>\n  <text x=\"490\" y=\"190\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">The leak is small.</text>\n  <text x=\"490\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#fff\">It's on the flange.</text>\n</svg>",
+   "caption": "Figura 2.4 — Mapa de decisión: presentar algo nuevo (there is/are) o describir algo conocido (the/it + be)."
+  },
+  {
+   "title": "Traducción literal (mal) vs inglés real",
+   "html": "<table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>Hay un problema.</td><td><span class=\"wrong\">Have a problem. / Is a problem.</span></td><td><span class=\"ok\">There's a problem.</span></td></tr><tr><td>Hay dos soldadores.</td><td><span class=\"wrong\">There is two welders.</span></td><td><span class=\"ok\">There are two welders.</span></td></tr><tr><td>¿Hay agua?</td><td><span class=\"wrong\">Is water? / Have water?</span></td><td><span class=\"ok\">Is there any water?</span></td></tr><tr><td>No hay tiempo.</td><td><span class=\"wrong\">No have time.</span></td><td><span class=\"ok\">There's no time.</span></td></tr><tr><td>Hay mucha gente.</td><td><span class=\"wrong\">There is much people.</span></td><td><span class=\"ok\">There are a lot of people.</span></td></tr><tr><td>¿Cuántos hay?</td><td><span class=\"wrong\">How many there are?</span></td><td><span class=\"ok\">How many are there?</span></td></tr><tr><td>Los equipos están listos.</td><td><span class=\"wrong\">The equipments are ready.</span></td><td><span class=\"ok\">The equipment is ready.</span></td></tr></tbody></table>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "There's a problem.",
+   "pron": "dherz ə PRÓ-blem",
+   "es": "Hay un problema.",
+   "group": "A. Describir un lugar"
+  },
+  {
+   "en": "There's a leak in the pipe.",
+   "pron": "dherz ə LIK in dhə PAIP",
+   "es": "Hay una fuga en la tubería.",
+   "group": "A. Describir un lugar"
+  },
+  {
+   "en": "There are two cranes on site.",
+   "pron": "dher ar tu KREINZ on SAIT",
+   "es": "Hay dos grúas en obra.",
+   "group": "A. Describir un lugar"
+  },
+  {
+   "en": "There are a lot of people here.",
+   "pron": "dher ar ə LOT əv PÍ-pol jir",
+   "es": "Hay mucha gente aquí.",
+   "group": "A. Describir un lugar"
+  },
+  {
+   "en": "There's some water on the floor.",
+   "pron": "dherz səm WÓ-ter on dhə FLOR",
+   "es": "Hay algo de agua en el piso.",
+   "group": "A. Describir un lugar"
+  },
+  {
+   "en": "There's a restaurant near the hotel.",
+   "pron": "dherz ə RÉS-tə-rənt nir dhə jou-TÉL",
+   "es": "Hay un restaurante cerca del hotel.",
+   "group": "A. Describir un lugar"
+  },
+  {
+   "en": "There are some boxes in the warehouse.",
+   "pron": "dher ar səm BÓK-siz in dhə WÉR-jaus",
+   "es": "Hay unas cajas en el almacén.",
+   "group": "A. Describir un lugar"
+  },
+  {
+   "en": "There's a meeting at 10.",
+   "pron": "dherz ə MÍ-ting ət TEN",
+   "es": "Hay una reunión a las 10.",
+   "group": "A. Describir un lugar"
+  },
+  {
+   "en": "There's no time.",
+   "pron": "dherz nou TAIM",
+   "es": "No hay tiempo.",
+   "group": "B. Negar, preguntar y contar"
+  },
+  {
+   "en": "There isn't a parking lot.",
+   "pron": "dher ÍZ-ənt ə PÁR-king lot",
+   "es": "No hay estacionamiento.",
+   "group": "B. Negar, preguntar y contar"
+  },
+  {
+   "en": "There aren't any problems.",
+   "pron": "dher ARNT É-ni PRÓ-blemz",
+   "es": "No hay ningún problema.",
+   "group": "B. Negar, preguntar y contar"
+  },
+  {
+   "en": "Is there a bathroom here?",
+   "pron": "iz dher ə BÁTH-rum jir",
+   "es": "¿Hay un baño aquí?",
+   "group": "B. Negar, preguntar y contar"
+  },
+  {
+   "en": "Are there any questions?",
+   "pron": "ar dher É-ni KUÉS-chənz",
+   "es": "¿Hay alguna pregunta?",
+   "group": "B. Negar, preguntar y contar"
+  },
+  {
+   "en": "Is there any coffee?",
+   "pron": "iz dher É-ni KÓ-fi",
+   "es": "¿Hay café?",
+   "group": "B. Negar, preguntar y contar"
+  },
+  {
+   "en": "How many welders are there?",
+   "pron": "jau MÉ-ni WÉL-derz ar dher",
+   "es": "¿Cuántos soldadores hay?",
+   "group": "B. Negar, preguntar y contar"
+  },
+  {
+   "en": "Yes, there is. / No, there aren't.",
+   "pron": "yes dher IZ / nou dher ARNT",
+   "es": "Sí, hay. / No, no hay.",
+   "group": "B. Negar, preguntar y contar"
+  },
+  {
+   "en": "a piece of equipment",
+   "pron": "ə PIS əv i-KUÍP-mənt",
+   "es": "un equipo (una máquina)",
+   "group": "C. Artículos en bloques fijos"
+  },
+  {
+   "en": "an hour",
+   "pron": "ən ÁU-er",
+   "es": "una hora",
+   "group": "C. Artículos en bloques fijos"
+  },
+  {
+   "en": "a uniform",
+   "pron": "ə YÚ-ni-form",
+   "es": "un uniforme",
+   "group": "C. Artículos en bloques fijos"
+  },
+  {
+   "en": "the same",
+   "pron": "dhə SEIM",
+   "es": "el mismo / lo mismo",
+   "group": "C. Artículos en bloques fijos"
+  },
+  {
+   "en": "the first / the last one",
+   "pron": "dhə FERST / dhə LAST wan",
+   "es": "el primero / el último",
+   "group": "C. Artículos en bloques fijos"
+  },
+  {
+   "en": "at home / at work",
+   "pron": "ət JOUM / ət WERK",
+   "es": "en casa / en el trabajo (sin artículo)",
+   "group": "C. Artículos en bloques fijos"
+  },
+  {
+   "en": "on Monday",
+   "pron": "on MÁN-dei",
+   "es": "el lunes (sin artículo)",
+   "group": "C. Artículos en bloques fijos"
+  },
+  {
+   "en": "the other one",
+   "pron": "dhi Á-dher wan",
+   "es": "el otro / la otra",
+   "group": "C. Artículos en bloques fijos"
+  },
+  {
+   "en": "a man → two men",
+   "pron": "man → men",
+   "es": "hombre → hombres",
+   "group": "D. Plurales irregulares"
+  },
+  {
+   "en": "a woman → two women",
+   "pron": "WÚ-mən → WÍ-min",
+   "es": "mujer → mujeres",
+   "group": "D. Plurales irregulares"
+  },
+  {
+   "en": "a person → two people",
+   "pron": "PÉR-sən → PÍ-pol",
+   "es": "persona → personas",
+   "group": "D. Plurales irregulares"
+  },
+  {
+   "en": "a child → two children",
+   "pron": "chaild → CHÍL-drən",
+   "es": "niño → niños / hijos",
+   "group": "D. Plurales irregulares"
+  },
+  {
+   "en": "a foot → ten feet",
+   "pron": "fut → fit",
+   "es": "pie → pies (también la unidad)",
+   "group": "D. Plurales irregulares"
+  },
+  {
+   "en": "a tooth → two teeth",
+   "pron": "tuth → tith",
+   "es": "diente → dientes",
+   "group": "D. Plurales irregulares"
+  },
+  {
+   "en": "a shelf → two shelves",
+   "pron": "shelf → shelvz",
+   "es": "estante → estantes",
+   "group": "D. Plurales irregulares"
+  },
+  {
+   "en": "a knife → two knives",
+   "pron": "naif → naivz",
+   "es": "cuchillo → cuchillos",
+   "group": "D. Plurales irregulares"
+  },
+  {
+   "en": "The equipment is ready.",
+   "pron": "dhi i-KUÍP-mənt iz RÉ-di",
+   "es": "Los equipos están listos.",
+   "group": "E. Incontables frecuentes (siempre con IS)"
+  },
+  {
+   "en": "The information is correct.",
+   "pron": "dhi in-fer-MÉI-shən iz ko-RÉKT",
+   "es": "La información es correcta.",
+   "group": "E. Incontables frecuentes (siempre con IS)"
+  },
+  {
+   "en": "a piece of advice",
+   "pron": "ə PIS əv əd-VÁIS",
+   "es": "un consejo",
+   "group": "E. Incontables frecuentes (siempre con IS)"
+  },
+  {
+   "en": "The furniture is new.",
+   "pron": "dhə FÉR-ni-cher iz NU",
+   "es": "Los muebles son nuevos.",
+   "group": "E. Incontables frecuentes (siempre con IS)"
+  },
+  {
+   "en": "My luggage is here.",
+   "pron": "mai LÁ-guich iz JIR",
+   "es": "Mi equipaje está aquí.",
+   "group": "E. Incontables frecuentes (siempre con IS)"
+  },
+  {
+   "en": "The news is good.",
+   "pron": "dhə NUZ iz GUD",
+   "es": "Las noticias son buenas.",
+   "group": "E. Incontables frecuentes (siempre con IS)"
+  },
+  {
+   "en": "The money is in the bank.",
+   "pron": "dhə MÁ-ni iz in dhə BANK",
+   "es": "El dinero está en el banco.",
+   "group": "E. Incontables frecuentes (siempre con IS)"
+  },
+  {
+   "en": "Steel is expensive.",
+   "pron": "STIL iz ek-SPÉN-siv",
+   "es": "El acero es caro.",
+   "group": "E. Incontables frecuentes (siempre con IS)"
+  },
+  {
+   "en": "some",
+   "pron": "səm",
+   "es": "algunos / algo de (afirmativo)",
+   "group": "F. Palabras de cantidad",
+   "example": "There are some bolts."
+  },
+  {
+   "en": "any",
+   "pron": "É-ni",
+   "es": "algún / ningún (negativo, pregunta)",
+   "group": "F. Palabras de cantidad",
+   "example": "Are there any bolts?"
+  },
+  {
+   "en": "no",
+   "pron": "nou",
+   "es": "ningún / nada de",
+   "group": "F. Palabras de cantidad",
+   "example": "There are no bolts."
+  },
+  {
+   "en": "a lot of",
+   "pron": "ə LOT əv",
+   "es": "mucho / muchos",
+   "group": "F. Palabras de cantidad",
+   "example": "There's a lot of dust."
+  },
+  {
+   "en": "a few",
+   "pron": "ə FIU",
+   "es": "unos pocos (contables)",
+   "group": "F. Palabras de cantidad",
+   "example": "There are a few gloves."
+  },
+  {
+   "en": "a little",
+   "pron": "ə LÍ-təl",
+   "es": "un poco (incontables)",
+   "group": "F. Palabras de cantidad",
+   "example": "There's a little paint."
+  }
+ ],
+ "examples": [
+  {
+   "en": "There are four welders and an inspector on site today.",
+   "es": "Hay cuatro soldadores y un inspector en obra hoy.",
+   "situation": "Obra"
+  },
+  {
+   "en": "There's a crack in the weld. It's about 3 inches long.",
+   "es": "Hay una grieta en la soldadura. Mide unas 3 pulgadas.",
+   "situation": "Inspección"
+  },
+  {
+   "en": "There aren't any gaskets in the warehouse.",
+   "es": "No hay empaquetaduras en el almacén.",
+   "situation": "Almacén"
+  },
+  {
+   "en": "Is there a printer on this floor?",
+   "es": "¿Hay una impresora en este piso?",
+   "situation": "Oficina"
+  },
+  {
+   "en": "Are there any questions about the drawings?",
+   "es": "¿Hay alguna pregunta sobre los planos?",
+   "situation": "Reunión"
+  },
+  {
+   "en": "There's a gym, but there isn't a pool.",
+   "es": "Hay un gimnasio, pero no hay piscina.",
+   "situation": "Hotel"
+  },
+  {
+   "en": "Is there a table for two by the window?",
+   "es": "¿Hay una mesa para dos junto a la ventana?",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "There are three quotes on your desk. The first one is from Lima.",
+   "es": "Hay tres cotizaciones en tu escritorio. La primera es de Lima.",
+   "situation": "Presupuesto"
+  },
+  {
+   "en": "There's an emergency exit next to the stairs.",
+   "es": "Hay una salida de emergencia junto a las escaleras.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "The equipment is new, but the information on the label is wrong.",
+   "es": "Los equipos son nuevos, pero la información de la etiqueta está mal.",
+   "situation": "Equipos"
+  },
+  {
+   "en": "There are five people in my family: my wife, our three children and me.",
+   "es": "Somos cinco en mi familia: mi esposa, nuestros tres hijos y yo.",
+   "situation": "Familia"
+  },
+  {
+   "en": "How many ATMs are there in the airport? — There are two.",
+   "es": "¿Cuántos cajeros hay en el aeropuerto? — Hay dos.",
+   "situation": "Aeropuerto"
+  },
+  {
+   "en": "Is there a doctor in the hotel? It's an emergency.",
+   "es": "¿Hay un médico en el hotel? Es una emergencia.",
+   "situation": "Médico"
+  },
+  {
+   "en": "The news is good: there are no delays this week.",
+   "es": "Las noticias son buenas: no hay retrasos esta semana.",
+   "situation": "Noticias"
+  },
+  {
+   "en": "There are two issues with the drawings for Tank 3.",
+   "es": "Hay dos observaciones en los planos del Tanque 3.",
+   "situation": "Correo formal"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "There's a leak.",
+     "There isn't a leak.",
+     "Is there a leak?",
+     "Yes, there is. / No, there isn't."
+    ],
+    [
+     "There are some gloves.",
+     "There aren't any gloves.",
+     "Are there any gloves?",
+     "Yes, there are. / No, there aren't."
+    ],
+    [
+     "There's some water.",
+     "There isn't any water.",
+     "Is there any water?",
+     "Yes, there is. / No, there isn't."
+    ],
+    [
+     "There's an elevator.",
+     "There isn't an elevator.",
+     "Is there an elevator?",
+     "Yes, there is. / No, there isn't."
+    ],
+    [
+     "There are some problems.",
+     "There aren't any problems.",
+     "Are there any problems?",
+     "Yes, there are. / No, there aren't."
+    ],
+    [
+     "There's a meeting today.",
+     "There isn't a meeting today.",
+     "Is there a meeting today?",
+     "Yes, there is. / No, there isn't."
+    ],
+    [
+     "There's some coffee.",
+     "There isn't any coffee.",
+     "Is there any coffee?",
+     "Yes, there is. / No, there isn't."
+    ],
+    [
+     "There are some people in the office.",
+     "There aren't any people in the office.",
+     "Are there any people in the office?",
+     "Yes, there are. / No, there aren't."
+    ],
+    [
+     "The valve is open.",
+     "The valve isn't open.",
+     "Is the valve open?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "The welders are here.",
+     "The welders aren't here.",
+     "Are the welders here?",
+     "Yes, they are. / No, they aren't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Edwin",
+   "text": "Hi, Sarah. Is there a box of gaskets here? They're for the 6-inch flanges."
+  },
+  {
+   "who": "Sarah",
+   "text": "Yes, there is. It's on the second shelf, next to the bolts."
+  },
+  {
+   "who": "Edwin",
+   "text": "Great. And are there any stud bolts?"
+  },
+  {
+   "who": "Sarah",
+   "text": "There are some, but not many. How many are on your list?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Forty-eight. There are six flanges, and that's eight bolts for each one."
+  },
+  {
+   "who": "Sarah",
+   "text": "Hmm. There are only thirty in the box."
+  },
+  {
+   "who": "Edwin",
+   "text": "Is there another box in Warehouse B?"
+  },
+  {
+   "who": "Sarah",
+   "text": "I'm not sure. The inventory list is on my computer. One moment… Yes, there is. There are fifty in Warehouse B."
+  },
+  {
+   "who": "Edwin",
+   "text": "Perfect. And is there any safety equipment for the new welders?"
+  },
+  {
+   "who": "Sarah",
+   "text": "Yes. There are helmets and gloves in the cabinet. The gloves are new."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "There is two welders.",
+   "right": "There are two welders.",
+   "why": "Después viene un plural → are."
+  },
+  {
+   "wrong": "Have a problem with the pump.",
+   "right": "There's a problem with the pump.",
+   "why": "\"Hay\" no es have; es there is."
+  },
+  {
+   "wrong": "Is a leak in the pipe.",
+   "right": "There's a leak in the pipe.",
+   "why": "Falta there como sujeto."
+  },
+  {
+   "wrong": "I'm a engineer.",
+   "right": "I'm an engineer.",
+   "why": "Sonido de vocal → an."
+  },
+  {
+   "wrong": "an uniform",
+   "right": "a uniform",
+   "why": "Uniform empieza con sonido \"yu\" (consonante) → a."
+  },
+  {
+   "wrong": "The steel is expensive.",
+   "right": "Steel is expensive.",
+   "why": "Generalización → sin artículo."
+  },
+  {
+   "wrong": "equipments / informations",
+   "right": "equipment / information",
+   "why": "Incontables: sin -s y con is."
+  },
+  {
+   "wrong": "The peoples are here.",
+   "right": "The people are here.",
+   "why": "People ya es plural."
+  },
+  {
+   "wrong": "Are there a bathroom?",
+   "right": "Is there a bathroom?",
+   "why": "A bathroom es singular → is."
+  },
+  {
+   "wrong": "How many tanks there are?",
+   "right": "How many tanks are there?",
+   "why": "En la pregunta, are va antes de there."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "equipment",
+   "looks": "equipo (de personas)",
+   "means": "equipo = máquinas, herramientas",
+   "fix": "team"
+  },
+  {
+   "en": "carpet",
+   "looks": "carpeta",
+   "means": "alfombra",
+   "fix": "folder"
+  },
+  {
+   "en": "parents",
+   "looks": "parientes",
+   "means": "padres (papá y mamá)",
+   "fix": "relatives"
+  },
+  {
+   "en": "library",
+   "looks": "librería",
+   "means": "biblioteca",
+   "fix": "bookstore"
+  },
+  {
+   "en": "fabric",
+   "looks": "fábrica",
+   "means": "tela",
+   "fix": "factory / plant"
+  },
+  {
+   "en": "facilities",
+   "looks": "facilidades (de pago)",
+   "means": "instalaciones (baños, gimnasio, planta)",
+   "fix": "payment terms"
+  },
+  {
+   "en": "lecture",
+   "looks": "lectura",
+   "means": "conferencia, clase magistral",
+   "fix": "reading"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Hay un problema con la bomba.",
+    "answers": [
+     "There's a problem with the pump.",
+     "There is a problem with the pump."
+    ],
+    "explain": "\"Hay\" + singular = there's. A problem (nuevo), the pump (la bomba conocida)."
+   },
+   {
+    "prompt": "Hay tres soldadores en obra.",
+    "answers": [
+     "There are three welders on site.",
+     "There are three welders at the site."
+    ],
+    "explain": "Plural → there are. También vale at the site."
+   },
+   {
+    "prompt": "¿Hay un baño aquí?",
+    "answers": [
+     "Is there a bathroom here?"
+    ],
+    "explain": "Pregunta singular: Is there + a + nombre."
+   },
+   {
+    "prompt": "No hay agua en el tanque.",
+    "answers": [
+     "There isn't any water in the tank.",
+     "There is not any water in the tank.",
+     "There's no water in the tank.",
+     "There is no water in the tank."
+    ],
+    "explain": "Incontable en negativo → isn't any. También vale There's no water in the tank."
+   },
+   {
+    "prompt": "¿Cuántas válvulas hay?",
+    "answers": [
+     "How many valves are there?"
+    ],
+    "explain": "How many + plural + are there."
+   },
+   {
+    "prompt": "Soy inspector.",
+    "answers": [
+     "I'm an inspector.",
+     "I am an inspector."
+    ],
+    "explain": "Profesión lleva artículo; inspector empieza con sonido vocal → an."
+   },
+   {
+    "prompt": "El acero es caro.",
+    "answers": [
+     "Steel is expensive."
+    ],
+    "explain": "Generalización con incontable → sin the."
+   },
+   {
+    "prompt": "Hay mucha gente en la reunión.",
+    "answers": [
+     "There are a lot of people at the meeting.",
+     "There are a lot of people in the meeting."
+    ],
+    "explain": "People es plural → are. \"Mucha gente\" = a lot of people. También vale: in the meeting."
+   },
+   {
+    "prompt": "Las mujeres y los niños están en el hotel.",
+    "answers": [
+     "The women and the children are in the hotel.",
+     "The women and children are at the hotel.",
+     "The women and children are in the hotel.",
+     "The women and the children are at the hotel."
+    ],
+    "explain": "Plurales irregulares women, children. Aquí the porque son personas concretas. También vale: The women and children are at the hotel."
+   },
+   {
+    "prompt": "¿Hay alguna pregunta? — No, no hay.",
+    "answers": [
+     "Are there any questions? — No, there aren't.",
+     "Are there any questions? — No, there are not.",
+     "Are there any questions? No, there aren't.",
+     "Are there any questions? No, there are not."
+    ],
+    "explain": "Plural en pregunta → Are there any. Respuesta corta negativa contraída."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "There's an hour before the meeting.",
+    "answers": [
+     "Hay una hora antes de la reunión.",
+     "Falta una hora para la reunión.",
+     "Queda una hora antes de la reunión."
+    ],
+    "explain": "An hour: la h es muda, por eso an."
+   },
+   {
+    "prompt": "The equipment is in the warehouse.",
+    "answers": [
+     "Los equipos están en el almacén.",
+     "El equipo está en el almacén.",
+     "Los equipos están en el depósito."
+    ],
+    "explain": "Equipment es incontable; en español puede ir en plural."
+   },
+   {
+    "prompt": "There aren't any boxes on the shelves.",
+    "answers": [
+     "No hay cajas en los estantes.",
+     "No hay ninguna caja en los estantes.",
+     "No hay cajas en las repisas."
+    ],
+    "explain": "Aren't any = no hay ningún/ninguna. Shelves = plural de shelf."
+   },
+   {
+    "prompt": "Is there a restaurant near the airport?",
+    "answers": [
+     "¿Hay un restaurante cerca del aeropuerto?",
+     "¿Hay algún restaurante cerca del aeropuerto?"
+    ],
+    "explain": "Is there…? = ¿Hay…?"
+   },
+   {
+    "prompt": "The news is good: there are no delays.",
+    "answers": [
+     "Las noticias son buenas: no hay retrasos.",
+     "Las noticias son buenas: no hay demoras.",
+     "La noticia es buena: no hay retrasos."
+    ],
+    "explain": "News va con is, pero en español es plural. There are no = no hay."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "There is five pipes on the truck.",
+    "answers": [
+     "There are five pipes on the truck."
+    ],
+    "explain": "Five pipes es plural → are."
+   },
+   {
+    "prompt": "Today have a meeting at 3 p.m.",
+    "answers": [
+     "Today there's a meeting at 3 p.m.",
+     "Today there is a meeting at 3 p.m.",
+     "There's a meeting at 3 p.m. today.",
+     "There is a meeting at 3 p.m. today.",
+     "Today I have a meeting at 3 p.m."
+    ],
+    "explain": "\"Hay\" = there is, no have. También vale There's a meeting at 3 p.m. today. (Today I have a meeting… también es válido si quieres decir \"tengo\".)"
+   },
+   {
+    "prompt": "She's a engineer from Chile.",
+    "answers": [
+     "She's an engineer from Chile.",
+     "She is an engineer from Chile."
+    ],
+    "explain": "Sonido vocal → an."
+   },
+   {
+    "prompt": "Are there a hospital near here?",
+    "answers": [
+     "Is there a hospital near here?"
+    ],
+    "explain": "A hospital es singular → Is."
+   },
+   {
+    "prompt": "There are three childrens in the car.",
+    "answers": [
+     "There are three children in the car."
+    ],
+    "explain": "Children ya es plural; no lleva -s."
+   },
+   {
+    "prompt": "The news are very good today.",
+    "answers": [
+     "The news is very good today."
+    ],
+    "explain": "News es incontable → is."
+   },
+   {
+    "prompt": "How many bolts there are in the box?",
+    "answers": [
+     "How many bolts are there in the box?"
+    ],
+    "explain": "En la pregunta, are there (verbo antes de there)."
+   },
+   {
+    "prompt": "Is there any informations about the new job?",
+    "answers": [
+     "Is there any information about the new job?"
+    ],
+    "explain": "Information es incontable: sin -s."
+   },
+   {
+    "prompt": "The tank is ten foots tall.",
+    "answers": [
+     "The tank is ten feet tall."
+    ],
+    "explain": "Plural irregular: foot → feet, también como unidad."
+   },
+   {
+    "prompt": "The safety is very important on site.",
+    "answers": [
+     "Safety is very important on site."
+    ],
+    "explain": "Generalización → sin the."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte a negativo y a pregunta: There are some gloves in the box.",
+   "answer": "There aren't any gloves in the box. / Are there any gloves in the box?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con are, is, there, a, an, the, some o any. Usa cada palabra una vez.",
+   "lines": [
+    {
+     "who": "Ana",
+     "text": "Welcome to the plant. [1] there any questions before the tour?"
+    },
+    {
+     "who": "You",
+     "text": "Yes. Is [2] a cafeteria here?"
+    },
+    {
+     "who": "Ana",
+     "text": "Yes, there [3]. It's next to [4] main gate."
+    },
+    {
+     "who": "You",
+     "text": "Great. And are there [5] lockers for the workers?"
+    },
+    {
+     "who": "Ana",
+     "text": "Yes, there are [6] lockers in Building 2."
+    },
+    {
+     "who": "You",
+     "text": "Perfect. Is there [7] office for me?"
+    },
+    {
+     "who": "Ana",
+     "text": "Yes. It's [8] small office, but it's quiet."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "Are"
+     ],
+     "explain": "Any questions es plural → Are there."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "there"
+     ],
+     "explain": "Pregunta de existencia: Is there a cafeteria?"
+    },
+    {
+     "n": 3,
+     "answers": [
+      "is"
+     ],
+     "explain": "Respuesta corta: Yes, there is, sin contraer."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "the"
+     ],
+     "explain": "La puerta principal es única y conocida → the main gate."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "any"
+     ],
+     "explain": "Pregunta en plural → any."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "some"
+     ],
+     "explain": "Afirmativo en plural → some."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "an"
+     ],
+     "explain": "Office empieza con sonido vocal → an."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "a"
+     ],
+     "explain": "Small empieza con consonante; el artículo depende de la palabra siguiente, no del sustantivo."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo. Escribe 5 a 7 oraciones a un colega nuevo para describir tu oficina o taller. Incluye: (a) una cosa con there is / there's, (b) dos o más cosas con there are, (c) algo que no hay (negativo), (d) un incontable bien usado (equipment, information…), (e) una pregunta con Is there o Are there.",
+   "rubric": [
+    "(a) Una cosa con there is / there's",
+    "(b) Dos o más cosas con there are",
+    "(c) Algo que no hay (negativo)",
+    "(d) Un incontable bien usado (equipment, information…)",
+    "(e) Una pregunta con Is there o Are there",
+    "Usas a / an correctamente",
+    "Usas the en una segunda mención"
+   ],
+   "model": "Hi Priya, welcome to the team! Here is some information about the workshop. There's a big table in the middle, and there are two computers for the designers. There's also a printer, but the printer is very old. There aren't any lockers, but there's a cabinet for your things. The safety equipment is next to the door. Are there any questions about your first day?"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Describir un lugar con there is / there are.",
+   "test": "Grábate 45 segundos describiendo tu cuarto u oficina: mínimo 6 oraciones y cero \"there is\" + plural."
+  },
+  {
+   "skill": "Elegir a o an por el sonido.",
+   "test": "Di con su artículo: hour, uniform, engineer, university, office, pipe, hotel, issue, inspector, tank. 10 de 10."
+  },
+  {
+   "skill": "Formar plurales regulares e irregulares.",
+   "test": "Escribe en 2 minutos el plural de: box, battery, shelf, child, person, foot, wrench, day, roof, woman, photo, tooth. 12 de 12."
+  },
+  {
+   "skill": "Usar incontables sin -s y con is.",
+   "test": "Escribe 5 oraciones con equipment, information, advice, news y luggage. Cero errores."
+  },
+  {
+   "skill": "Preguntar qué hay y cuántos hay, y responder corto.",
+   "test": "Haz y responde 8 preguntas con Is there / Are there / How many en 2 minutos."
+  },
+  {
+   "skill": "Generalizar sin artículo.",
+   "test": "Traduce en voz alta: el acero es caro, la seguridad es importante, los ingenieros son prácticos, el inglés es útil. Cero \"the\"."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What is there in your office?",
+  "How many people are there in your family?",
+  "Is there a park near your house?",
+  "Are there any good restaurants in your city?",
+  "How many rooms are there in your home?",
+  "Is there a lot of traffic in your city?"
+ ]
+}

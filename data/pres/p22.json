@@ -1,0 +1,98 @@
+{
+ "id": 22,
+ "topic": "Gerundio o infinitivo",
+ "title": "What I Enjoy and What I Want",
+ "practice": "Léela en voz alta 3 veces. Completa el espacio y luego dila en 1 minuto sin mirar.",
+ "rows": [
+  {
+   "en": "As {a_profession}, I **enjoy solving** real problems.",
+   "es": "Como {profession_es}, disfruto resolver problemas reales."
+  },
+  {
+   "en": "I'm **good at organizing** information in {tool}.",
+   "es": "Soy bueno organizando información en {tool}."
+  },
+  {
+   "en": "I'm **used to working** with {work}.",
+   "es": "Estoy acostumbrado a trabajar con {work_es}."
+  },
+  {
+   "en": "In my free time, I **enjoy** ___.",
+   "es": "En mi tiempo libre, disfruto ___."
+  },
+  {
+   "en": "I **want to work** in {dreamCountry} one day.",
+   "es": "Quiero trabajar en {dreamCountry} algún día."
+  },
+  {
+   "en": "I **decided to prepare** my CV in English.",
+   "es": "Decidí preparar mi CV en inglés."
+  },
+  {
+   "en": "I **hope to get** interviews with companies there.",
+   "es": "Espero conseguir entrevistas con empresas de allá."
+  },
+  {
+   "en": "I **practice speaking** English with this book.",
+   "es": "Practico hablar inglés con este libro."
+  },
+  {
+   "en": "I **want my managers to see** my work on {project}.",
+   "es": "Quiero que mis gerentes vean mi trabajo en {project_es}."
+  },
+  {
+   "en": "I'm **looking forward to presenting** it.",
+   "es": "Tengo muchas ganas de presentarlo."
+  },
+  {
+   "en": "One day, I'd **like to start** my own business.",
+   "es": "Algún día, me gustaría empezar mi propio negocio."
+  }
+ ],
+ "dialogTitle": "Diálogo en una entrevista",
+ "dialog": [
+  {
+   "who": "Recruiter",
+   "text": "What do you enjoy doing at work?"
+  },
+  {
+   "who": "{name}",
+   "text": "I enjoy solving problems, and I'm good at organizing data in {tool}."
+  },
+  {
+   "who": "Recruiter",
+   "text": "Why did you decide to apply for this job?"
+  },
+  {
+   "who": "{name}",
+   "text": "I want to work on bigger projects and keep learning."
+  },
+  {
+   "who": "Recruiter",
+   "text": "Would you mind moving to another city?"
+  },
+  {
+   "who": "{name}",
+   "text": "Not at all. I'm used to working far from home. I look forward to hearing from you."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I enjoy solving real problems.",
+   "pron": "ai en-YÓI SÓL-ving RÍ-əl PRÓ-bləmz"
+  },
+  {
+   "en": "I practice speaking English.",
+   "pron": "ai PRÁK-tis SPÍ-king ÍN-glish"
+  },
+  {
+   "en": "I hope to get interviews.",
+   "pron": "ai JOUP tə guet ÍN-tər-vyuz"
+  },
+  {
+   "en": "I'm looking forward to presenting it.",
+   "pron": "aim LÚ-king FÓR-wərd tə pri-ZÉN-ting it"
+  }
+ ],
+ "check": "Digo el monólogo en menos de 90 segundos, sin leer, y nunca digo enjoy to, want working ni looking forward to present."
+}

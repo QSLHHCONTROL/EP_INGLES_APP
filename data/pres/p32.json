@@ -1,0 +1,102 @@
+{
+ "id": 32,
+ "topic": "Hedging y diplomacia",
+ "title": "Bad News, Said Diplomatically",
+ "practice": "Léela 3 veces con voz amable y bajada suave al final. Luego dila sin mirar.",
+ "rows": [
+  {
+   "en": "Thank you for your comments on the plan for {project}.",
+   "es": "Gracias por sus comentarios sobre el plan de {project_es}."
+  },
+  {
+   "en": "**I see your point** about finishing on Monday.",
+   "es": "Entiendo su punto sobre terminar el lunes."
+  },
+  {
+   "en": "However, **I'm not sure** that date **would work**.",
+   "es": "Sin embargo, no estoy seguro de que esa fecha funcione."
+  },
+  {
+   "en": "**It seems that** a few items still need some work.",
+   "es": "Parece que algunos puntos todavía necesitan trabajo."
+  },
+  {
+   "en": "**I'm afraid** this **may** cause **a slight delay**.",
+   "es": "Lamento decir que esto podría causar un ligero retraso."
+  },
+  {
+   "en": "**From what I understand**, it's two days of work.",
+   "es": "Por lo que entiendo, son dos días de trabajo."
+  },
+  {
+   "en": "**I'd argue that** finishing those items first is the better option.",
+   "es": "Yo diría que terminar primero esos puntos es la mejor opción."
+  },
+  {
+   "en": "**Would it be possible to** move the deadline to Wednesday?",
+   "es": "¿Sería posible pasar la fecha de entrega al miércoles?"
+  },
+  {
+   "en": "**Have we considered** adding more people to the team?",
+   "es": "¿Hemos considerado agregar más personas al equipo?"
+  },
+  {
+   "en": "**We are doing everything we can** to stay on schedule.",
+   "es": "Estamos haciendo todo lo posible para cumplir con el cronograma."
+  },
+  {
+   "en": "**We apologize for any inconvenience.**",
+   "es": "Pedimos disculpas por las molestias."
+  }
+ ],
+ "dialogTitle": "Diálogo: desacuerdo con el jefe, sin chocar",
+ "dialog": [
+  {
+   "who": "Manager",
+   "text": "I think we should keep the records on paper."
+  },
+  {
+   "who": "{name}",
+   "text": "I see your point, but I have a slightly different view."
+  },
+  {
+   "who": "Manager",
+   "text": "Why? Paper works fine."
+  },
+  {
+   "who": "{name}",
+   "text": "From what I understand, old records are a bit hard to find."
+  },
+  {
+   "who": "Manager",
+   "text": "A new system might be expensive."
+  },
+  {
+   "who": "{name}",
+   "text": "That's a fair point. However, it only uses {tool}. Would you mind looking at a short demo?"
+  },
+  {
+   "who": "Manager",
+   "text": "Sure. Send it when you get a chance."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I see your point.",
+   "pron": "ai SI yor POINT"
+  },
+  {
+   "en": "I'm afraid this may cause a slight delay.",
+   "pron": "aim ə-FRÉID dhis mei KOZ ə SLAIT di-LÉI"
+  },
+  {
+   "en": "I'd argue that…",
+   "pron": "aid ÁR-gyu dhət"
+  },
+  {
+   "en": "Would it be possible to…?",
+   "pron": "WÚ-dit bi PÓ-sə-bol tə"
+  }
+ ],
+ "check": "Doy la noticia del retraso en menos de 1 minuto, sin leer, con tono amable y sin una sola frase brusca (You're wrong, That's impossible)."
+}

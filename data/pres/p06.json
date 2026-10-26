@@ -1,0 +1,98 @@
+{
+ "id": 6,
+ "topic": "Posesivos, demostrativos y objeto",
+ "title": "My Work and My Team",
+ "practice": "Léela en voz alta 3 veces. Luego preséntala 1 minuto sin mirar, señalando tus cosas.",
+ "rows": [
+  {
+   "en": "Hi, **this** is {name}, from {company}.",
+   "es": "Hola, habla {name}, de {company} (al teléfono)."
+  },
+  {
+   "en": "**My** job title is {jobTitle}.",
+   "es": "Mi cargo es {jobTitle_es}."
+  },
+  {
+   "en": "**Our** team works on projects in {companyPlace}.",
+   "es": "Nuestro equipo trabaja en proyectos en {companyPlace}."
+  },
+  {
+   "en": "**This** file is **my** progress report. I use **it** every day.",
+   "es": "Este archivo es mi reporte de avance. Lo uso todos los días."
+  },
+  {
+   "en": "**Its** columns show the tasks, the dates and the progress.",
+   "es": "Sus columnas muestran las tareas, las fechas y el avance."
+  },
+  {
+   "en": "My coworkers send **me** **their** reports.",
+   "es": "Mis compañeros me envían sus reportes."
+  },
+  {
+   "en": "**That** {tool} file is **mine**.",
+   "es": "Ese archivo de {tool} es mío."
+  },
+  {
+   "en": "I want to show **it** to **my** boss.",
+   "es": "Quiero mostrárselo a mi jefe."
+  },
+  {
+   "en": "**Our** company is {company}. **Its** office is in {companyPlace}.",
+   "es": "Nuestra empresa es {company}. Su oficina está en {companyPlace}."
+  },
+  {
+   "en": "**These** are **my** tools: {tool}, **my** notebook and **my** phone.",
+   "es": "Estas son mis herramientas: {tool}, mi cuaderno y mi teléfono."
+  },
+  {
+   "en": "English is important for **me** and for **my** future.",
+   "es": "El inglés es importante para mí y para mi futuro."
+  }
+ ],
+ "dialogTitle": "Diálogo en el trabajo: ¿de quién es?",
+ "dialog": [
+  {
+   "who": "Mark",
+   "text": "{name}, is this notebook yours?"
+  },
+  {
+   "who": "{name}",
+   "text": "No, it isn't. Mine is black. That's Carlos's."
+  },
+  {
+   "who": "Mark",
+   "text": "And these pens? Are they his too?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, they're his. Please give them to him."
+  },
+  {
+   "who": "Mark",
+   "text": "OK. And whose documents are those?"
+  },
+  {
+   "who": "{name}",
+   "text": "They're ours. They're the documents for {project}."
+  }
+ ],
+ "pron": [
+  {
+   "en": "Hi, this is {name}, from {company}.",
+   "pron": ""
+  },
+  {
+   "en": "Our team works on projects in {companyPlace}.",
+   "pron": ""
+  },
+  {
+   "en": "That {tool} file is mine.",
+   "pron": ""
+  },
+  {
+   "en": "Please give them to him.",
+   "pron": "pliz GIV dhəm tə JIM"
+  }
+ ],
+ "check": "Presento mis cosas y mi trabajo en menos de 1 minuto, sin leer, sin confundir his / her / its / their ni this / these, y con me / him / them después del verbo."
+}

@@ -1,0 +1,941 @@
+{
+ "id": 7,
+ "level": "A2",
+ "title": "CAN / CAN'T y pedir cosas con cortesía",
+ "goal": "Al terminar podrás decir lo que sabes y puedes hacer (y lo que no), pedir permiso, pedir favores y cosas con el nivel de cortesía correcto (con un compañero, un cliente o un jefe), y responder que sí o que no con amabilidad.",
+ "lesson": [
+  {
+   "title": "Un solo verbo para poder y saber",
+   "html": "<p><span class=\"en\">Can</span> es un <b>verbo modal</b>: una palabra auxiliar que se pone antes de otro verbo para añadir una idea (capacidad, permiso, petición). Un solo <i>can</i> cubre en español <i>poder</i> y <i>saber</i> (hacer algo): <span class=\"en\">I can weld</span> = <i>sé soldar</i>; <span class=\"en\">I can come tomorrow</span> = <i>puedo venir mañana</i>.</p><p>Es la estructura más fácil del inglés: <b>no cambia nunca</b>. No lleva -s, no usa <i>do/does</i> y el verbo que le sigue va siempre en su forma base.</p>"
+  },
+  {
+   "title": "La forma: sujeto + can + verbo base",
+   "html": "<table>\n<thead><tr><th>Sujeto</th><th>Afirmativo</th><th>Negativo</th><th>Pronunciación</th></tr></thead>\n<tbody>\n<tr><td>I</td><td><span class=\"en\">I can swim.</span></td><td><span class=\"en\">I can't swim.</span></td><td><span class=\"pron\">ai kən SUÍM / ai KANT suim</span></td></tr>\n<tr><td>You</td><td><span class=\"en\">You can park here.</span></td><td><span class=\"en\">You can't park here.</span></td><td><span class=\"pron\">yu kən PARK / yu KANT park</span></td></tr>\n<tr><td>He / She / It</td><td><span class=\"en\">She can drive.</span></td><td><span class=\"en\">She can't drive.</span></td><td><span class=\"pron\">shi kən DRAIV / shi KANT draiv</span></td></tr>\n<tr><td>We</td><td><span class=\"en\">We can start today.</span></td><td><span class=\"en\">We can't start today.</span></td><td><span class=\"pron\">wi kən STÁRT / wi KANT start</span></td></tr>\n<tr><td>They</td><td><span class=\"en\">They can help.</span></td><td><span class=\"en\">They can't help.</span></td><td><span class=\"pron\">dhei kən JÉLP / dhei KANT jelp</span></td></tr>\n</tbody></table><table>\n<thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead>\n<tbody>\n<tr><td><b>Afirmativo</b></td><td>Sujeto + can + verbo base</td><td><span class=\"en\">He can read drawings.</span></td></tr>\n<tr><td><b>Negativo</b></td><td>Sujeto + can't (cannot) + verbo base</td><td><span class=\"en\">He can't read drawings.</span></td></tr>\n<tr><td><b>Pregunta</b></td><td>Can + sujeto + verbo base … ?</td><td><span class=\"en\">Can he read drawings?</span></td></tr>\n<tr><td><b>Respuesta corta</b></td><td>Yes, + sujeto + can. / No, + sujeto + can't.</td><td><span class=\"en\">Yes, he can. / No, he can't.</span></td></tr>\n<tr><td><b>Pregunta WH-</b></td><td>WH- + can + sujeto + verbo base?</td><td><span class=\"en\">What can he do?</span></td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 210\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"36\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">AFIRMATIVO</text>\n  <rect x=\"130\" y=\"14\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"175\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">Carlos</text>\n  <rect x=\"232\" y=\"14\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"272\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">can</text>\n  <rect x=\"324\" y=\"14\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"369\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">weld</text>\n  <rect x=\"426\" y=\"14\" width=\"150\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"501\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">stainless steel.</text>\n  <text x=\"20\" y=\"96\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">NEGATIVO</text>\n  <rect x=\"130\" y=\"74\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"175\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">Carlos</text>\n  <rect x=\"232\" y=\"74\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#D92D20\"/><text x=\"272\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">can't</text>\n  <rect x=\"324\" y=\"74\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"369\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">weld</text>\n  <rect x=\"426\" y=\"74\" width=\"150\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"501\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">stainless steel.</text>\n  <text x=\"20\" y=\"156\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">PREGUNTA</text>\n  <rect x=\"130\" y=\"134\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"170\" y=\"158\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">Can</text>\n  <rect x=\"222\" y=\"134\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"267\" y=\"158\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">Carlos</text>\n  <rect x=\"324\" y=\"134\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"369\" y=\"158\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">weld</text>\n  <rect x=\"426\" y=\"134\" width=\"150\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"501\" y=\"158\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">stainless steel?</text>\n  <text x=\"130\" y=\"196\" font-size=\"12\" fill=\"#0E9384\">Sin -s (nunca \"cans\"), sin do/does, sin \"to\": can + verbo base.</text>\n</svg>",
+   "caption": "Figura 7.1 — CAN funciona como TO BE: para negar, can't; para preguntar, can pasa adelante."
+  },
+  {
+   "title": "Regla de oro 1 — CAN no cambia y no lleva TO",
+   "html": "<p>Igual con todos los sujetos: <span class=\"ok\">She can drive.</span> Nunca <span class=\"wrong\">She cans drive</span>, <span class=\"wrong\">She can drives</span> ni <span class=\"wrong\">She can to drive</span>.</p>\n<p>Y nunca <i>do</i>: <span class=\"wrong\">Do you can help me?</span> → <span class=\"ok\">Can you help me?</span></p>"
+  },
+  {
+   "title": "Los cuatro usos de CAN",
+   "html": "<table>\n<thead><tr><th>Uso</th><th>Ejemplo</th><th>En español</th></tr></thead>\n<tbody>\n<tr><td>Habilidad (saber hacer)</td><td><span class=\"en\">I can speak Spanish and English.</span></td><td>Sé / puedo hablar español e inglés.</td></tr>\n<tr><td>Posibilidad (es posible / hay tiempo)</td><td><span class=\"en\">We can finish the job on Friday.</span></td><td>Podemos terminar el trabajo el viernes.</td></tr>\n<tr><td>Permiso (está permitido)</td><td><span class=\"en\">You can't smoke here.</span></td><td>No se puede fumar aquí.</td></tr>\n<tr><td>Petición (pedir algo)</td><td><span class=\"en\">Can you help me, please?</span></td><td>¿Me puedes ayudar, por favor?</td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Así piensa un nativo — \"can\" y \"can't\" se distinguen por el acento, no por la t",
+   "html": "<p>En una oración afirmativa <i>can</i> es <b>débil</b>: <span class=\"en\">I can help.</span> <span class=\"pron\">ai kən JELP</span> — casi \"kn\". En la negativa, <i>can't</i> es <b>fuerte</b> y lleva el acento: <span class=\"en\">I can't help.</span> <span class=\"pron\">ai KANT jelp</span>. La <i>t</i> final casi no se oye en EE. UU., así que escucha la <b>vocal</b>: débil = puede; fuerte y larga = no puede.</p>",
+   "svg": "<svg viewBox=\"0 0 640 150\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"16\" width=\"290\" height=\"118\" rx=\"14\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"165\" y=\"42\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#0E9384\">AFIRMATIVO · can débil</text>\n  <text x=\"165\" y=\"76\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"700\" fill=\"#1D2939\">I can <tspan font-weight=\"900\" font-size=\"24\">HELP</tspan>.</text>\n  <text x=\"165\" y=\"104\" text-anchor=\"middle\" font-size=\"15\" fill=\"#E8590C\">ai kən JELP</text>\n  <text x=\"165\" y=\"124\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">la fuerza va en el verbo</text>\n  <rect x=\"330\" y=\"16\" width=\"290\" height=\"118\" rx=\"14\" fill=\"#FEF0EF\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <text x=\"475\" y=\"42\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#D92D20\">NEGATIVO · can't fuerte</text>\n  <text x=\"475\" y=\"76\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"700\" fill=\"#1D2939\">I <tspan font-weight=\"900\" font-size=\"24\">CAN'T</tspan> help.</text>\n  <text x=\"475\" y=\"104\" text-anchor=\"middle\" font-size=\"15\" fill=\"#E8590C\">ai KANT jelp</text>\n  <text x=\"475\" y=\"124\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">la fuerza va en can't</text>\n</svg>",
+   "caption": "Figura 7.2 — Escucha dónde cae la fuerza: así distingues can de can't aunque no oigas la t."
+  },
+  {
+   "title": "Pedir con cortesía: la escala",
+   "html": "<p>Para pedir algo, el inglés no usa el imperativo solo, como a veces hacemos en español (<i>pásame la llave</i>). Usa una <b>pregunta</b>. Cuanto más larga e indirecta es la pregunta, más cortés suena. Elige el nivel según la persona y el tamaño del favor.</p><table>\n<thead><tr><th>Para…</th><th>Fórmula</th><th>Ejemplo</th></tr></thead>\n<tbody>\n<tr><td>Pedir que <b>otro</b> haga algo</td><td>Can / Could you + verbo base…?</td><td><span class=\"en\">Could you close the valve, please?</span></td></tr>\n<tr><td>Pedir <b>permiso</b> para ti</td><td>Can / Could I + verbo base…?</td><td><span class=\"en\">Could I leave early today?</span></td></tr>\n<tr><td>Pedir <b>una cosa</b></td><td>Can / Could I have + cosa…?</td><td><span class=\"en\">Can I have the bill, please?</span></td></tr>\n<tr><td>Pedir un favor grande</td><td>Would you mind + verbo-ing…?</td><td><span class=\"en\">Would you mind waiting a few minutes?</span></td></tr>\n<tr><td>Ofrecer algo</td><td>Can I + verbo…? / Would you like…?</td><td><span class=\"en\">Can I help you? / Would you like a coffee?</span></td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 330\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"22\" y=\"20\" width=\"16\" height=\"280\" rx=\"8\" fill=\"#F2F4F7\"/>\n  <rect x=\"22\" y=\"20\" width=\"16\" height=\"56\" rx=\"8\" fill=\"#E9B949\"/>\n  <rect x=\"22\" y=\"76\" width=\"16\" height=\"56\" fill=\"#079455\"/>\n  <rect x=\"22\" y=\"132\" width=\"16\" height=\"56\" fill=\"#1570EF\"/>\n  <rect x=\"22\" y=\"188\" width=\"16\" height=\"56\" fill=\"#6941C6\"/>\n  <rect x=\"22\" y=\"244\" width=\"16\" height=\"56\" rx=\"8\" fill=\"#E8590C\"/>\n  <text x=\"12\" y=\"14\" font-size=\"11\" font-weight=\"700\" fill=\"#667085\">− cortés</text>\n  <text x=\"12\" y=\"318\" font-size=\"11\" font-weight=\"700\" fill=\"#667085\">+ cortés</text>\n  <g font-size=\"12\">\n  <rect x=\"52\" y=\"22\" width=\"568\" height=\"52\" rx=\"10\" fill=\"#FFF8E1\" stroke=\"#E9B949\"/>\n  <text x=\"66\" y=\"44\" font-size=\"14\" font-weight=\"800\" fill=\"#1D2939\">Give me the wrench.</text>\n  <text x=\"66\" y=\"63\" fill=\"#7A5B00\">Orden directa: solo en emergencias o con mucha confianza.</text>\n  <rect x=\"52\" y=\"78\" width=\"568\" height=\"52\" rx=\"10\" fill=\"#E8F7EF\" stroke=\"#079455\"/>\n  <text x=\"66\" y=\"100\" font-size=\"14\" font-weight=\"800\" fill=\"#1D2939\">Can you pass me the wrench?</text>\n  <text x=\"66\" y=\"119\" fill=\"#344054\">Normal entre compañeros, amigos y familia. Con \"please\", más amable.</text>\n  <rect x=\"52\" y=\"134\" width=\"568\" height=\"52\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"66\" y=\"156\" font-size=\"14\" font-weight=\"800\" fill=\"#1D2939\">Could you send me the drawings, please?</text>\n  <text x=\"66\" y=\"175\" fill=\"#344054\">Más suave. Ideal con jefe, cliente, proveedor, hotel o restaurante.</text>\n  <rect x=\"52\" y=\"190\" width=\"568\" height=\"52\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <text x=\"66\" y=\"212\" font-size=\"14\" font-weight=\"800\" fill=\"#1D2939\">Would you mind checking this report?</text>\n  <text x=\"66\" y=\"231\" fill=\"#344054\">Muy cortés: un favor que cuesta tiempo. Después de \"mind\", verbo -ing.</text>\n  <rect x=\"52\" y=\"246\" width=\"568\" height=\"52\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/>\n  <text x=\"66\" y=\"268\" font-size=\"14\" font-weight=\"800\" fill=\"#1D2939\">Could you possibly extend the deadline?</text>\n  <text x=\"66\" y=\"287\" fill=\"#344054\">Máxima cortesía: un favor grande o difícil, a un cliente o superior.</text>\n  </g>\n</svg>",
+   "caption": "Figura 7.3 — Escala de cortesía. De arriba (directo) a abajo (muy formal). En el trabajo, el nivel normal es Could you…, please?"
+  },
+  {
+   "title": "Reglas de oro 2 y 3 — pedir y responder",
+   "html": "<p><b>Regla de oro 2 — \"Can you…?\" pide; \"Can I…?\" pide permiso</b></p>\n<p>Fíjate en el sujeto: <span class=\"en\">Can <b>you</b> open the door?</span> = ¿Puedes abrir la puerta? (lo haces tú). <span class=\"en\">Can <b>I</b> open the window?</span> = ¿Puedo abrir la ventana? (lo hago yo).</p>\n<p>Para pedir una cosa en una tienda o restaurante: <span class=\"ok\">Can I have a coffee, please?</span> Evita <span class=\"wrong\">Can you give me a coffee?</span> con el mesero: suena más brusco.</p>\n<p><b>Regla de oro 3 — \"Would you mind…?\" se responde al revés</b></p>\n<p><i>Mind</i> = molestar, importar. <span class=\"en\">Would you mind helping me?</span> = ¿Te molestaría ayudarme? Si aceptas, dices que <b>no</b> te molesta: <span class=\"ok\">No, not at all.</span> / <span class=\"ok\">Of course not.</span> Si dices <span class=\"wrong\">Yes!</span> significa \"sí, me molesta\".</p>"
+  },
+  {
+   "title": "Traducción directa vs interpretación real",
+   "html": "<table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>Pásame la llave.</td><td><span class=\"en\">Can you pass me the wrench?</span></td></tr><tr><td>¿Me das un café?</td><td><span class=\"en\">Can I have a coffee, please?</span></td></tr><tr><td>Sé nadar.</td><td><span class=\"en\">I can swim.</span></td></tr><tr><td>¿Se puede fumar aquí?</td><td><span class=\"en\">Can I smoke here?</span></td></tr><tr><td>No puedo creerlo.</td><td><span class=\"en\">I can't believe it.</span></td></tr></tbody></table><table>\n<thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th><th>Por qué</th></tr></thead>\n<tbody>\n<tr><td>Sé soldar.</td><td><span class=\"wrong\">I know weld.</span></td><td><span class=\"ok\">I can weld.</span></td><td>\"Saber + verbo\" = <i>can</i>.</td></tr>\n<tr><td>¿Me das la factura?</td><td><span class=\"wrong\">You give me the invoice?</span></td><td><span class=\"ok\">Can I have the invoice, please?</span></td><td>Pedir cosas = <i>Can I have…?</i></td></tr>\n<tr><td>¿Puedes ayudarme?</td><td><span class=\"wrong\">Do you can help me?</span></td><td><span class=\"ok\">Can you help me?</span></td><td>Modal: sin <i>do</i>.</td></tr>\n<tr><td>Puedo ir.</td><td><span class=\"wrong\">I can to go.</span></td><td><span class=\"ok\">I can go.</span></td><td>Después de <i>can</i>, verbo sin <i>to</i>.</td></tr>\n<tr><td>No se puede estacionar.</td><td><span class=\"wrong\">Not can park.</span></td><td><span class=\"ok\">You can't park here.</span></td><td>Reglas generales con sujeto <i>you</i>.</td></tr>\n<tr><td>¿Me prestas tu lapicero?</td><td><span class=\"wrong\">You lend me your pen?</span></td><td><span class=\"ok\">Can I borrow your pen?</span></td><td>Desde quien recibe: <i>borrow</i>.</td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<ul>\n<li><span class=\"en\">Cannot</span> se escribe en <b>una sola palabra</b>. <span class=\"en\">Can't</span> es lo normal al hablar; <span class=\"en\">cannot</span> en documentos formales.</li>\n<li><span class=\"en\">Could</span> también es el pasado de <i>can</i>: <span class=\"en\">I could swim when I was five.</span> (= sabía nadar a los cinco años). En peticiones, <i>could</i> no es pasado: solo es más suave.</li>\n<li><span class=\"en\">Please</span> va al final o después de <i>you</i>: <span class=\"en\">Could you please call me?</span> / <span class=\"en\">Could you call me, please?</span></li>\n<li>Para \"saber\" información (no habilidad) se usa <span class=\"en\">know</span>: <span class=\"en\">I know the answer.</span> Para \"saber hacer\", <span class=\"en\">can</span>.</li>\n</ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "I can read drawings.",
+   "pron": "ai kən RID DRÓ-ingz",
+   "es": "Sé leer planos.",
+   "group": "A. Habilidades en el trabajo"
+  },
+  {
+   "en": "I can use AutoCAD.",
+   "pron": "ai kən YUZ Ó-tou-kad",
+   "es": "Sé usar AutoCAD.",
+   "group": "A. Habilidades en el trabajo"
+  },
+  {
+   "en": "He can weld stainless steel.",
+   "pron": "ji kən WELD STÉIN-ləs STIL",
+   "es": "Él sabe soldar acero inoxidable.",
+   "group": "A. Habilidades en el trabajo"
+  },
+  {
+   "en": "She can operate the crane.",
+   "pron": "shi kən Ó-pə-reit dhə KREIN",
+   "es": "Ella sabe operar la grúa.",
+   "group": "A. Habilidades en el trabajo"
+  },
+  {
+   "en": "I can speak a little English.",
+   "pron": "ai kən SPIK ə LÍ-tol ÍN-glish",
+   "es": "Hablo un poco de inglés.",
+   "group": "A. Habilidades en el trabajo"
+  },
+  {
+   "en": "I can't drive a truck.",
+   "pron": "ai KANT draiv ə TRAK",
+   "es": "No sé manejar camión.",
+   "group": "A. Habilidades en el trabajo"
+  },
+  {
+   "en": "Can you read this?",
+   "pron": "kən yu RID dhis",
+   "es": "¿Puedes leer esto?",
+   "group": "A. Habilidades en el trabajo"
+  },
+  {
+   "en": "Can you help me?",
+   "pron": "kən yu JELP mi",
+   "es": "¿Me ayudas?",
+   "group": "B. Pedir que alguien haga algo"
+  },
+  {
+   "en": "Can you pass me the wrench?",
+   "pron": "kən yu PAS mi dhə RENCH",
+   "es": "¿Me pasas la llave?",
+   "group": "B. Pedir que alguien haga algo"
+  },
+  {
+   "en": "Could you send me the file?",
+   "pron": "kud yu SEND mi dhə FAIL",
+   "es": "¿Podría enviarme el archivo?",
+   "group": "B. Pedir que alguien haga algo"
+  },
+  {
+   "en": "Could you repeat that, please?",
+   "pron": "kud yu ri-PÍT dhat, pliz",
+   "es": "¿Podría repetirlo, por favor?",
+   "group": "B. Pedir que alguien haga algo"
+  },
+  {
+   "en": "Could you speak more slowly?",
+   "pron": "kud yu SPIK mor SLÓU-li",
+   "es": "¿Podría hablar más despacio?",
+   "group": "B. Pedir que alguien haga algo"
+  },
+  {
+   "en": "Could you call me back?",
+   "pron": "kud yu KOL mi BAK",
+   "es": "¿Podría devolverme la llamada?",
+   "group": "B. Pedir que alguien haga algo"
+  },
+  {
+   "en": "Would you mind waiting?",
+   "pron": "wud yu MAIND WÉI-ting",
+   "es": "¿Le molestaría esperar?",
+   "group": "B. Pedir que alguien haga algo"
+  },
+  {
+   "en": "Could you possibly check it today?",
+   "pron": "kud yu PÓ-sə-bli CHEK it tə-DÉI",
+   "es": "¿Sería posible que lo revisara hoy?",
+   "group": "B. Pedir que alguien haga algo"
+  },
+  {
+   "en": "Can I ask a question?",
+   "pron": "kən ai ASK ə KUÉS-chən",
+   "es": "¿Puedo hacer una pregunta?",
+   "group": "C. Pedir permiso y pedir cosas"
+  },
+  {
+   "en": "Can I come in?",
+   "pron": "kən ai kam IN",
+   "es": "¿Puedo pasar?",
+   "group": "C. Pedir permiso y pedir cosas"
+  },
+  {
+   "en": "Could I leave early today?",
+   "pron": "kud ai LIV ÉR-li tə-DÉI",
+   "es": "¿Podría salir temprano hoy?",
+   "group": "C. Pedir permiso y pedir cosas"
+  },
+  {
+   "en": "Can I borrow your pen?",
+   "pron": "kən ai BÓ-rou yor PEN",
+   "es": "¿Me prestas tu lapicero?",
+   "group": "C. Pedir permiso y pedir cosas"
+  },
+  {
+   "en": "Can I have the bill, please?",
+   "pron": "kən ai jav dhə BIL, pliz",
+   "es": "¿Me trae la cuenta, por favor?",
+   "group": "C. Pedir permiso y pedir cosas"
+  },
+  {
+   "en": "Could I have a glass of water?",
+   "pron": "kud ai jav ə GLAS əv WÓ-ter",
+   "es": "¿Me podría dar un vaso de agua?",
+   "group": "C. Pedir permiso y pedir cosas"
+  },
+  {
+   "en": "Can I use your phone?",
+   "pron": "kən ai YUZ yor FOUN",
+   "es": "¿Puedo usar tu teléfono?",
+   "group": "C. Pedir permiso y pedir cosas"
+  },
+  {
+   "en": "Sure.",
+   "pron": "SHUR",
+   "es": "Claro.",
+   "group": "D. Responder que sí"
+  },
+  {
+   "en": "Of course.",
+   "pron": "əv KORS",
+   "es": "Por supuesto.",
+   "group": "D. Responder que sí"
+  },
+  {
+   "en": "No problem.",
+   "pron": "nou PRÓ-bləm",
+   "es": "No hay problema.",
+   "group": "D. Responder que sí"
+  },
+  {
+   "en": "Go ahead.",
+   "pron": "gou ə-JÉD",
+   "es": "Adelante. / Hazlo.",
+   "group": "D. Responder que sí"
+  },
+  {
+   "en": "Here you are.",
+   "pron": "JÍR yu ar",
+   "es": "Aquí tiene.",
+   "group": "D. Responder que sí"
+  },
+  {
+   "en": "No, not at all.",
+   "pron": "nou, NOT ət ol",
+   "es": "No, para nada (respuesta a Would you mind…?).",
+   "group": "D. Responder que sí"
+  },
+  {
+   "en": "Sorry, I can't right now.",
+   "pron": "SÓ-ri, ai KANT rait NÁU",
+   "es": "Perdón, ahora no puedo.",
+   "group": "E. Responder que no, con amabilidad"
+  },
+  {
+   "en": "I'm afraid I can't.",
+   "pron": "aim ə-FRÉID ai KANT",
+   "es": "Me temo que no puedo.",
+   "group": "E. Responder que no, con amabilidad"
+  },
+  {
+   "en": "I'm sorry, but you can't park here.",
+   "pron": "aim SÓ-ri, bət yu KANT park JIR",
+   "es": "Lo siento, pero no puede estacionar aquí.",
+   "group": "E. Responder que no, con amabilidad"
+  },
+  {
+   "en": "Maybe later?",
+   "pron": "MÉI-bi LÉI-ter",
+   "es": "¿Quizás más tarde?",
+   "group": "E. Responder que no, con amabilidad"
+  },
+  {
+   "en": "I can do it tomorrow.",
+   "pron": "ai kən DU it tə-MÓ-rou",
+   "es": "Puedo hacerlo mañana.",
+   "group": "E. Responder que no, con amabilidad"
+  },
+  {
+   "en": "Let me check.",
+   "pron": "let mi CHEK",
+   "es": "Déjame verificar.",
+   "group": "E. Responder que no, con amabilidad"
+  },
+  {
+   "en": "please",
+   "pron": "pliz",
+   "es": "por favor",
+   "group": "F. Palabras que suavizan",
+   "example": "Can you sign here, please?"
+  },
+  {
+   "en": "Excuse me",
+   "pron": "ek-SKIÚZ mi",
+   "es": "disculpe (para llamar la atención)",
+   "group": "F. Palabras que suavizan",
+   "example": "Excuse me, can I ask something?"
+  },
+  {
+   "en": "Sorry to bother you",
+   "pron": "SÓ-ri tə BÓ-dher yu",
+   "es": "perdón por molestar",
+   "group": "F. Palabras que suavizan",
+   "example": "Sorry to bother you, but could you help me?"
+  },
+  {
+   "en": "Thanks a lot",
+   "pron": "thanks ə LOT",
+   "es": "muchas gracias",
+   "group": "F. Palabras que suavizan",
+   "example": "Thanks a lot. I really appreciate it."
+  },
+  {
+   "en": "just",
+   "pron": "yast",
+   "es": "solo (hace pequeño el pedido)",
+   "group": "F. Palabras que suavizan",
+   "example": "Can I just ask one thing?"
+  },
+  {
+   "en": "a minute",
+   "pron": "ə MÍ-nit",
+   "es": "un minuto",
+   "group": "F. Palabras que suavizan",
+   "example": "Could you wait a minute?"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I can read isometric drawings and I can use AutoCAD.",
+   "es": "Sé leer isométricos y sé usar AutoCAD.",
+   "situation": "Entrevista de trabajo"
+  },
+  {
+   "en": "I can't operate the crane, but Mark can.",
+   "es": "No sé operar la grúa, pero Mark sí.",
+   "situation": "Habilidad que falta"
+  },
+  {
+   "en": "Carlos, can you pass me that wrench?",
+   "es": "Carlos, ¿me pasas esa llave?",
+   "situation": "Pedido a compañero"
+  },
+  {
+   "en": "Could you send us the updated quote, please?",
+   "es": "¿Podría enviarnos la cotización actualizada, por favor?",
+   "situation": "Correo a proveedor"
+  },
+  {
+   "en": "You can't enter the tank without a permit.",
+   "es": "No puedes entrar al tanque sin permiso de trabajo.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "Could I leave at 3 today? I have a doctor's appointment.",
+   "es": "¿Podría salir a las 3 hoy? Tengo cita con el médico.",
+   "situation": "Permiso al jefe"
+  },
+  {
+   "en": "Sorry, could you speak more slowly, please?",
+   "es": "Perdón, ¿podría hablar más despacio, por favor?",
+   "situation": "Llamada difícil"
+  },
+  {
+   "en": "Can I have the chicken and a glass of water, please?",
+   "es": "¿Me trae el pollo y un vaso de agua, por favor?",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "Could I have a room with an ocean view?",
+   "es": "¿Me podría dar una habitación con vista al mar?",
+   "situation": "Hotel"
+  },
+  {
+   "en": "Would you mind checking my report before the meeting?",
+   "es": "¿Te molestaría revisar mi informe antes de la reunión?",
+   "situation": "Favor grande"
+  },
+  {
+   "en": "Could you possibly extend the deadline to Friday?",
+   "es": "¿Sería posible extender el plazo hasta el viernes?",
+   "situation": "Cliente"
+  },
+  {
+   "en": "I'm afraid I can't come to the meeting. I'm on site all day.",
+   "es": "Me temo que no puedo ir a la reunión. Estoy en obra todo el día.",
+   "situation": "Decir que no"
+  },
+  {
+   "en": "You look busy. Can I help you with those boxes?",
+   "es": "Te ves ocupado. ¿Te ayudo con esas cajas?",
+   "situation": "Ofrecer ayuda"
+  },
+  {
+   "en": "When can you start? — I can start on Monday.",
+   "es": "¿Cuándo puedes empezar? — Puedo empezar el lunes.",
+   "situation": "Pregunta WH-"
+  },
+  {
+   "en": "Can your kids swim? — My son can, but my daughter can't.",
+   "es": "¿Tus hijos saben nadar? — Mi hijo sí, pero mi hija no.",
+   "situation": "Vida social"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "I can come tomorrow.",
+     "I can't come tomorrow.",
+     "Can you come tomorrow?",
+     "Yes, I can. / No, I can't."
+    ],
+    [
+     "You can park here.",
+     "You can't park here.",
+     "Can I park here?",
+     "Yes, you can. / No, you can't."
+    ],
+    [
+     "He can weld aluminum.",
+     "He can't weld aluminum.",
+     "Can he weld aluminum?",
+     "Yes, he can. / No, he can't."
+    ],
+    [
+     "She can speak French.",
+     "She can't speak French.",
+     "Can she speak French?",
+     "Yes, she can. / No, she can't."
+    ],
+    [
+     "It can hold 500 barrels.",
+     "It can't hold 500 barrels.",
+     "Can it hold 500 barrels?",
+     "Yes, it can. / No, it can't."
+    ],
+    [
+     "We can finish today.",
+     "We can't finish today.",
+     "Can we finish today?",
+     "Yes, we can. / No, we can't."
+    ],
+    [
+     "They can work on Sunday.",
+     "They can't work on Sunday.",
+     "Can they work on Sunday?",
+     "Yes, they can. / No, they can't."
+    ],
+    [
+     "The crane can lift 20 tons.",
+     "The crane can't lift 20 tons.",
+     "Can the crane lift 20 tons?",
+     "Yes, it can. / No, it can't."
+    ],
+    [
+     "Ana can read Chinese.",
+     "Ana can't read Chinese.",
+     "Can Ana read Chinese?",
+     "Yes, she can. / No, she can't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Edwin",
+   "text": "Excuse me, Ms. Brown. Sorry to bother you. Can I ask a quick question?"
+  },
+  {
+   "who": "Ms. Brown",
+   "text": "Of course. How can I help you?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Could you send me the latest drawings for Tank 8076, please?"
+  },
+  {
+   "who": "Ms. Brown",
+   "text": "Sure. I can send them this afternoon."
+  },
+  {
+   "who": "Edwin",
+   "text": "Thank you. And would you mind checking the nozzle sizes too?"
+  },
+  {
+   "who": "Ms. Brown",
+   "text": "No, not at all. But I'm afraid I can't do it today. Is tomorrow OK?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Tomorrow is fine. Could I also have a visitor pass for Carlos?"
+  },
+  {
+   "who": "Ms. Brown",
+   "text": "Yes. Can he come to reception at 8?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, he can. Thanks a lot. I really appreciate it."
+  },
+  {
+   "who": "Ms. Brown",
+   "text": "No problem. Let me know if you need anything else."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "She cans drive.",
+   "right": "She can drive.",
+   "why": "Can nunca lleva -s."
+  },
+  {
+   "wrong": "He can drives.",
+   "right": "He can drive.",
+   "why": "Después de can, verbo base sin -s."
+  },
+  {
+   "wrong": "I can to help you.",
+   "right": "I can help you.",
+   "why": "Can no lleva to."
+  },
+  {
+   "wrong": "Do you can come?",
+   "right": "Can you come?",
+   "why": "Modal: pregunta sin do."
+  },
+  {
+   "wrong": "I don't can swim.",
+   "right": "I can't swim.",
+   "why": "Negativo = can't, sin don't."
+  },
+  {
+   "wrong": "I can not come. (escrito)",
+   "right": "I cannot come. / I can't come.",
+   "why": "Cannot se escribe junto."
+  },
+  {
+   "wrong": "I know weld.",
+   "right": "I can weld.",
+   "why": "\"Saber hacer\" = can."
+  },
+  {
+   "wrong": "Give me a coffee. (al mesero)",
+   "right": "Can I have a coffee, please?",
+   "why": "El imperativo suena brusco; pide con pregunta."
+  },
+  {
+   "wrong": "Would you mind to help me?",
+   "right": "Would you mind helping me?",
+   "why": "Después de mind, verbo en -ing."
+  },
+  {
+   "wrong": "Can I lend your pen?",
+   "right": "Can I borrow your pen?",
+   "why": "Lend = prestar (dar); borrow = pedir prestado (recibir)."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "lend / borrow",
+   "looks": "los dos \"prestar\"",
+   "means": "dar prestado / pedir prestado",
+   "fix": "Can you lend me $20? = Can I borrow $20?"
+  },
+  {
+   "en": "I'm sorry, but I can't assist.",
+   "looks": "no puedo asistir",
+   "means": "no puedo ayudar",
+   "fix": "I can't attend the meeting."
+  },
+  {
+   "en": "Can you support me?",
+   "looks": "¿me soportas?",
+   "means": "¿me apoyas / ayudas?",
+   "fix": "Can you stand the noise? (aguantar)"
+  },
+  {
+   "en": "Can I ask a question?",
+   "looks": "hacer = \"make\"",
+   "means": "hacer una pregunta (con ask)",
+   "fix": "Nunca make a question."
+  },
+  {
+   "en": "Can you pass me…?",
+   "looks": "pasar (aprobar)",
+   "means": "alcanzar, dar en mano",
+   "fix": "I need to pass the exam. (aprobar)"
+  },
+  {
+   "en": "I can't stand it.",
+   "looks": "no puedo estar de pie",
+   "means": "no lo soporto",
+   "fix": "I can't stand up. (levantarme)"
+  },
+  {
+   "en": "Could you collect the parts?",
+   "looks": "coleccionar",
+   "means": "recoger",
+   "fix": "He collects coins. (colecciona)"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Sé leer planos, pero no sé usar AutoCAD.",
+    "answers": [
+     "I can read drawings, but I can't use AutoCAD.",
+     "I can read drawings, but I cannot use AutoCAD.",
+     "I can read plans, but I can't use AutoCAD.",
+     "I can read plans, but I cannot use AutoCAD."
+    ],
+    "explain": "\"Saber + verbo\" = can; negativo can't."
+   },
+   {
+    "prompt": "¿Tu esposa sabe manejar? — Sí.",
+    "answers": [
+     "Can your wife drive? — Yes, she can.",
+     "Can your wife drive? Yes, she can."
+    ],
+    "explain": "Can adelante; respuesta corta con she can (sin repetir drive)."
+   },
+   {
+    "prompt": "No puedes fumar aquí.",
+    "answers": [
+     "You can't smoke here.",
+     "You cannot smoke here."
+    ],
+    "explain": "Prohibición general = you can't."
+   },
+   {
+    "prompt": "¿Me ayudas? (a un compañero)",
+    "answers": [
+     "Can you help me?"
+    ],
+    "explain": "Compañero → nivel normal Can you…?"
+   },
+   {
+    "prompt": "¿Podría enviarme la cotización, por favor? (a un proveedor)",
+    "answers": [
+     "Could you send me the quote, please?",
+     "Could you send me the quotation, please?",
+     "Could you please send me the quote?",
+     "Could you please send me the quotation?"
+    ],
+    "explain": "Proveedor → Could you…, please? También vale quotation."
+   },
+   {
+    "prompt": "¿Puedo hacer una pregunta?",
+    "answers": [
+     "Can I ask a question?",
+     "Could I ask a question?",
+     "Can I ask you a question?",
+     "Could I ask you a question?"
+    ],
+    "explain": "Permiso para ti → Can I; \"hacer una pregunta\" = ask. También vale Could I."
+   },
+   {
+    "prompt": "¿Me trae la cuenta, por favor? (en un restaurante)",
+    "answers": [
+     "Can I have the bill, please?",
+     "Could I have the bill, please?",
+     "Can I have the check, please?",
+     "Could I have the check, please?"
+    ],
+    "explain": "Pedir una cosa → Can I have…? También vale Could I have…? o check en EE. UU."
+   },
+   {
+    "prompt": "¿Le molestaría esperar un minuto?",
+    "answers": [
+     "Would you mind waiting a minute?",
+     "Would you mind waiting for a minute?"
+    ],
+    "explain": "Would you mind + verbo -ing."
+   },
+   {
+    "prompt": "¿Cuándo puedes empezar?",
+    "answers": [
+     "When can you start?"
+    ],
+    "explain": "WH- + can + sujeto + verbo base."
+   },
+   {
+    "prompt": "¿Me prestas tu lapicero? (usa borrow)",
+    "answers": [
+     "Can I borrow your pen?"
+    ],
+    "explain": "Tú recibes → borrow, con Can I."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "I'm afraid I can't come today.",
+    "answers": [
+     "Me temo que no puedo venir hoy.",
+     "Me temo que hoy no puedo venir.",
+     "Lo siento, pero no puedo venir hoy."
+    ],
+    "explain": "I'm afraid = me temo (suaviza el \"no\")."
+   },
+   {
+    "prompt": "Could you speak more slowly, please?",
+    "answers": [
+     "¿Podría hablar más despacio, por favor?",
+     "¿Puede hablar más despacio, por favor?",
+     "¿Podrías hablar más despacio, por favor?",
+     "¿Podría hablar más lento, por favor?"
+    ],
+    "explain": "Could you = ¿podría usted…?"
+   },
+   {
+    "prompt": "The crane can't lift 30 tons.",
+    "answers": [
+     "La grúa no puede levantar 30 toneladas.",
+     "La grúa no puede cargar 30 toneladas.",
+     "La grúa no puede alzar 30 toneladas."
+    ],
+    "explain": "Can't = capacidad de una máquina."
+   },
+   {
+    "prompt": "Would you mind closing the door? — No, not at all.",
+    "answers": [
+     "¿Le molestaría cerrar la puerta? — No, para nada.",
+     "¿Te molestaría cerrar la puerta? — No, para nada.",
+     "¿Le importaría cerrar la puerta? — No, en absoluto."
+    ],
+    "explain": "Responder \"no\" = aceptar con gusto."
+   },
+   {
+    "prompt": "Could you possibly extend the deadline?",
+    "answers": [
+     "¿Sería posible extender el plazo?",
+     "¿Sería posible ampliar el plazo?",
+     "¿Sería posible extender la fecha límite?"
+    ],
+    "explain": "Possibly sube la cortesía al máximo."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "Mark cans operate the crane.",
+    "answers": [
+     "Mark can operate the crane."
+    ],
+    "explain": "Can no lleva -s."
+   },
+   {
+    "prompt": "She can speaks three languages.",
+    "answers": [
+     "She can speak three languages."
+    ],
+    "explain": "Después de can, verbo base sin -s."
+   },
+   {
+    "prompt": "I can to start on Monday.",
+    "answers": [
+     "I can start on Monday."
+    ],
+    "explain": "Can no lleva to."
+   },
+   {
+    "prompt": "Do you can help me with this valve?",
+    "answers": [
+     "Can you help me with this valve?"
+    ],
+    "explain": "Modal: sin do."
+   },
+   {
+    "prompt": "We don't can finish today.",
+    "answers": [
+     "We can't finish today.",
+     "We cannot finish today."
+    ],
+    "explain": "Negativo = can't, no don't can."
+   },
+   {
+    "prompt": "Would you mind to send me the file?",
+    "answers": [
+     "Would you mind sending me the file?"
+    ],
+    "explain": "Después de mind → -ing."
+   },
+   {
+    "prompt": "I know swim very well.",
+    "answers": [
+     "I can swim very well."
+    ],
+    "explain": "\"Saber nadar\" = can swim."
+   },
+   {
+    "prompt": "Can I lend your phone for a minute?",
+    "answers": [
+     "Can I borrow your phone for a minute?"
+    ],
+    "explain": "Quien recibe → borrow."
+   },
+   {
+    "prompt": "Could you sending me the report today?",
+    "answers": [
+     "Could you send me the report today?"
+    ],
+    "explain": "Después de could, verbo base: send, no sending. El -ing solo va después de Would you mind."
+   },
+   {
+    "prompt": "Excuse me, can I make a question?",
+    "answers": [
+     "Excuse me, can I ask a question?"
+    ],
+    "explain": "\"Hacer una pregunta\" = ask a question."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte a negativo y a pregunta: Ana can read Chinese. Luego reescribe Give me the report. en el nivel \"jefe o cliente\".",
+   "answer": "Ana can't read Chinese. / Can Ana read Chinese? · Could you give me the report, please? (o Could I have the report, please?)"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con: can · can't · could · would · mind · have · borrow · sure. Usa cada palabra una vez.",
+   "lines": [
+    {
+     "who": "Edwin",
+     "text": "Excuse me, [1] you help me? I'm looking for the site office."
+    },
+    {
+     "who": "Guard",
+     "text": "[2]. It's next to the warehouse."
+    },
+    {
+     "who": "Edwin",
+     "text": "Thanks. [3] I park my truck here?"
+    },
+    {
+     "who": "Guard",
+     "text": "No, sorry. You [4] park here. It's for the fire trucks."
+    },
+    {
+     "who": "Edwin",
+     "text": "OK. [5] you mind calling Mr. Lee for me?"
+    },
+    {
+     "who": "Guard",
+     "text": "No, I don't [6]. One moment."
+    },
+    {
+     "who": "Edwin",
+     "text": "Thank you. Can I [7] a visitor pass, please?"
+    },
+    {
+     "who": "Guard",
+     "text": "Yes. Here you are. Do you need a pen? You can [8] mine."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "could",
+      "can"
+     ],
+     "explain": "A un desconocido: Could you help me? (can también sería correcto, pero se necesita en el espacio 3)."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "Sure"
+     ],
+     "explain": "Respuesta afirmativa: \"Claro\"."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "Can",
+      "Could"
+     ],
+     "explain": "Pedir permiso: Can I park…?"
+    },
+    {
+     "n": 4,
+     "answers": [
+      "can't"
+     ],
+     "explain": "Prohibición: You can't park here."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "Would"
+     ],
+     "explain": "Would you mind + -ing."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "mind"
+     ],
+     "explain": "No, I don't mind = no me molesta (acepta)."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "have"
+     ],
+     "explain": "Pedir una cosa: Can I have…?"
+    },
+    {
+     "n": 8,
+     "answers": [
+      "borrow"
+     ],
+     "explain": "Tú recibes el lapicero → borrow. (You can have mine también es natural, pero have ya se usa en el 7.)"
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo. Escribe un correo de 5 a 7 oraciones a un cliente (Ms. Brown) para organizar una visita a su planta. Incluye: (a) saludo formal, (b) una habilidad de tu equipo con can, (c) una limitación con can't, (d) una petición con Could you…, please?, (e) un pedido de permiso con Could I / Can I…?, (f) un favor con Would you mind + -ing, (g) cierre cortés con agradecimiento.",
+   "rubric": [
+    "(a) Saludo formal",
+    "(b) Una habilidad de tu equipo con can",
+    "(c) Una limitación con can't",
+    "(d) Una petición con Could you…, please?",
+    "(e) Un pedido de permiso con Could I / Can I…?",
+    "(f) Un favor con Would you mind + -ing",
+    "(g) Cierre cortés con agradecimiento"
+   ],
+   "model": "Dear Ms. Brown,\nOur team can inspect the three tanks next week. We can start on Tuesday, but we can't work on Saturday. Could you send us the latest drawings, please? Could I also visit the site on Monday to check the access? Would you mind preparing visitor passes for four people? Thank you very much for your help.\nBest regards,\nEdwin Prieto"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Decir mis habilidades y limitaciones.",
+   "test": "Grábate 30 segundos: 4 cosas que puedes hacer y 2 que no, sin leer."
+  },
+  {
+   "skill": "Usar can sin -s, sin to y sin do.",
+   "test": "Escribe 8 oraciones (afirmativo, negativo, pregunta) con sujetos distintos en 2 minutos. 8 de 8."
+  },
+  {
+   "skill": "Distinguir can y can't al oído y al hablar.",
+   "test": "Graba 6 oraciones mezcladas; que otra persona diga cuál es cuál. 6 de 6."
+  },
+  {
+   "skill": "Pedir con el nivel de cortesía correcto.",
+   "test": "Di la misma petición en 3 niveles (compañero, jefe, favor grande) para 4 situaciones distintas."
+  },
+  {
+   "skill": "Pedir cosas y permiso en tienda, hotel o restaurante.",
+   "test": "Simula 3 pedidos con Can I have…? y 2 permisos con Could I…? sin imperativos."
+  },
+  {
+   "skill": "Responder sí y no con amabilidad.",
+   "test": "Responde 6 peticiones: 3 aceptando (incluye una con Would you mind) y 3 rechazando con I'm afraid I can't."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What can you do very well at work?",
+  "Can you speak any other languages?",
+  "What can't you do yet?",
+  "Can you drive?",
+  "How do you ask a coworker for help?",
+  "What do you say when you want the bill in a restaurant?"
+ ]
+}

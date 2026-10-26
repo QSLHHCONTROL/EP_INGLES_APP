@@ -1,0 +1,94 @@
+{
+ "id": 15,
+ "topic": "Pasado continuo y pasado perfecto",
+ "title": "Looking Back: My Path to {company}",
+ "practice": "Léela en voz alta 3 veces. Luego grábate 1 minuto contándola sin mirar.",
+ "rows": [
+  {
+   "en": "Before {company}, I **was working** in {prevPlace}.",
+   "es": "Antes de {company}, trabajaba en {prevPlace}."
+  },
+  {
+   "en": "When I started at {company}, I **had** already **worked** for {prevJob}.",
+   "es": "Cuando empecé en {company}, ya había trabajado en {prevJob}."
+  },
+  {
+   "en": "**While** I **was working** there, I learned a lot.",
+   "es": "Mientras trabajaba allí, aprendí mucho."
+  },
+  {
+   "en": "In {startDate}, I started at {company}.",
+   "es": "En {startDate} empecé en {company}."
+  },
+  {
+   "en": "I **hadn't worked** at a company like {company} before.",
+   "es": "Nunca antes había trabajado en una empresa como {company}."
+  },
+  {
+   "en": "At first, I **was learning** something new every day.",
+   "es": "Al principio, aprendía algo nuevo cada día."
+  },
+  {
+   "en": "During {project}, the team **was working** very hard.",
+   "es": "Durante {project_es}, el equipo estaba trabajando muy duro."
+  },
+  {
+   "en": "**While** my coworkers **were working**, I **was updating** the progress report.",
+   "es": "Mientras mis compañeros trabajaban, yo actualizaba el reporte de avance."
+  },
+  {
+   "en": "I **had worked** with {work} before, so the job wasn't new to me.",
+   "es": "Ya había trabajado con {work_es}, así que el trabajo no era nuevo para mí."
+  },
+  {
+   "en": "I **was** already **working** at {company} when I started this English book.",
+   "es": "Ya trabajaba en {company} cuando empecé este libro de inglés."
+  }
+ ],
+ "dialogTitle": "Diálogo después de un simulacro",
+ "dialog": [
+  {
+   "who": "Mark",
+   "text": "What were you doing when the fire alarm went off?"
+  },
+  {
+   "who": "{name}",
+   "text": "I was updating a report in the office."
+  },
+  {
+   "who": "Mark",
+   "text": "Had your team left the work area?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes. They had already stopped working."
+  },
+  {
+   "who": "Mark",
+   "text": "Good. What did you do then?"
+  },
+  {
+   "who": "{name}",
+   "text": "I left the office and went to the meeting point."
+  }
+ ],
+ "pron": [
+  {
+   "en": "Before {company}, I was working in {prevPlace}.",
+   "pron": ""
+  },
+  {
+   "en": "I hadn't worked at a company like {company} before.",
+   "pron": ""
+  },
+  {
+   "en": "At first, I was learning something new every day.",
+   "pron": "ət FERST, ai wəz LÉR-ning SAM-thing NIU É-vri DEI"
+  },
+  {
+   "en": "What were you doing when the alarm went off?",
+   "pron": "WOT wer yu DÚ-ing wen dhi ə-LÁRM went OF"
+  }
+ ],
+ "check": "Cuento mi historia en menos de 1 minuto, sin leer, uso was/were + -ing para la escena y had + participio para lo anterior, sin decir \"I was knowing\"."
+}

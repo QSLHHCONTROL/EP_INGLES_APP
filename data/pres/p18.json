@@ -1,0 +1,98 @@
+{
+ "id": 18,
+ "topic": "CONDICIONALES 0, 1 Y 2",
+ "title": "If I Moved to {dreamCountry}…",
+ "practice": "Léela en voz alta 3 veces. Luego di 3 frases con cada condicional (0, 1 y 2) sin mirar.",
+ "rows": [
+  {
+   "en": "**If** you **heat** water to 100 °C, it **boils**. That's basic science.",
+   "es": "Si calientas agua a 100 °C, hierve. Es ciencia básica."
+  },
+  {
+   "en": "**If** a report **has** an error, we **correct** it and **check** it again.",
+   "es": "Si un reporte tiene un error, lo corregimos y lo revisamos otra vez."
+  },
+  {
+   "en": "**If** I **don't sleep** well, I **feel** tired at work.",
+   "es": "Si no duermo bien, me siento cansado en el trabajo."
+  },
+  {
+   "en": "**If** I **finish** {project}, **I'll present** the results to my managers at {company}.",
+   "es": "Si termino {project_es}, les presentaré los resultados a mis jefes en {company}."
+  },
+  {
+   "en": "**If** they **approve** my work, **it'll help** my career.",
+   "es": "Si aprueban mi trabajo, ayudará a mi carrera."
+  },
+  {
+   "en": "**If** I **practice** every day, my English **will get** better.",
+   "es": "Si practico todos los días, mi inglés mejorará."
+  },
+  {
+   "en": "**If** I **lived** in {dreamCountry}, **I'd work** on big projects.",
+   "es": "Si viviera en {dreamCountry}, trabajaría en grandes proyectos."
+  },
+  {
+   "en": "**If** I **had** more free time, **I'd take** an advanced {tool} course.",
+   "es": "Si tuviera más tiempo libre, tomaría un curso avanzado de {tool}."
+  },
+  {
+   "en": "**If** I **opened** my own business, it **would be** in {city}.",
+   "es": "Si abriera mi propio negocio, estaría en {city}."
+  },
+  {
+   "en": "My advice for students: **if I were you**, **I'd learn** {tool} very well.",
+   "es": "Mi consejo para estudiantes: yo que tú, aprendería {tool} muy bien."
+  },
+  {
+   "en": "**If** you **need** {a_profession}, **call** me!",
+   "es": "Si necesitas un {profession_es}, ¡llámame!"
+  }
+ ],
+ "dialogTitle": "Diálogo en una entrevista",
+ "dialog": [
+  {
+   "who": "Recruiter",
+   "text": "What would you do if you found a serious mistake in a report?"
+  },
+  {
+   "who": "{name}",
+   "text": "I'd check the details, and we'd correct the mistake. Then we'd review it again."
+  },
+  {
+   "who": "Recruiter",
+   "text": "And if you got the job, what would you do first?"
+  },
+  {
+   "who": "{name}",
+   "text": "I'd talk to my manager at {company}. Then I'd plan my move."
+  },
+  {
+   "who": "Recruiter",
+   "text": "Great. If you have any questions, let me know."
+  },
+  {
+   "who": "{name}",
+   "text": "Thank you. If I have any questions, I'll email you."
+  }
+ ],
+ "pron": [
+  {
+   "en": "If I practice every day, my English will get better.",
+   "pron": "if ai PRÁK-tis É-vri DEI, mai ÍN-glish wil guet BÉ-tər"
+  },
+  {
+   "en": "I'd work on big projects.",
+   "pron": "aid WERK on big PRÓ-yekts"
+  },
+  {
+   "en": "If I were you, I'd learn {tool}.",
+   "pron": ""
+  },
+  {
+   "en": "If you have any questions, let me know.",
+   "pron": "if yu jav É-ni KWÉS-chənz, let mi NOU"
+  }
+ ],
+ "check": "Digo el monólogo en menos de 90 segundos, sin leer, y nunca pongo will ni would después de if."
+}

@@ -1,0 +1,1150 @@
+{
+ "id": 23,
+ "level": "B2",
+ "title": "Phrasal verbs esenciales",
+ "goal": "Al terminar entenderás la lógica de las partículas (up, out, off, on, down…), sabrás dónde va el objeto (turn it off, nunca turn off it) y usarás con soltura 58 phrasal verbs de obra, oficina, comunicación y vida diaria, eligiendo cuándo conviene el phrasal y cuándo el verbo formal.",
+ "lesson": [
+  {
+   "title": "Introducción",
+   "html": "<p>Un <b>phrasal verb</b> es un verbo + una <b>partícula</b> (up, out, off, on, down, back, in, over…) que juntos forman un significado propio. El español tiende a usar un verbo largo de origen latino: <i>postergar, realizar, averiguar, cancelar</i>. El inglés hablado prefiere un verbo corto y una partícula: <span class=\"en\">put off, carry out, find out, call off</span>.</p><p>Por eso los phrasal verbs son la gran barrera de comprensión para el hispanohablante: entiendes un informe técnico escrito con <i>postpone</i> o <i>investigate</i>, pero en la reunión de obra escuchas <span class=\"en\">\"We need to look into it and probably put off the test\"</span> y te pierdes. Un nativo usa decenas de phrasal verbs por hora de conversación.</p>"
+  },
+  {
+   "title": "Tres grados de dificultad",
+   "html": "<table><thead><tr><th>Tipo</th><th>Cómo funciona</th><th>Ejemplos</th></tr></thead><tbody><tr><td><b>Literal</b></td><td>Verbo y partícula conservan su sentido físico. Fáciles.</td><td><span class=\"en\">sit down, go out, come back, pick up a box</span></td></tr><tr><td><b>Semitransparente</b></td><td>La partícula añade una idea constante (completar, terminar, desconectar…).</td><td><span class=\"en\">fill up, use up, turn off, shut down, write down</span></td></tr><tr><td><b>Idiomático</b></td><td>El significado no se deduce de las partes. Se memoriza como vocabulario.</td><td><span class=\"en\">put up with, come up with, let down, look up to</span></td></tr></tbody></table><p>La clave para aprender rápido es el segundo grupo: cada partícula tiene <b>uno o dos sentidos principales</b> que se repiten en decenas de verbos. Si conoces el mapa, puedes adivinar muchos phrasal verbs nuevos por el contexto.</p>",
+   "svg": "<svg viewBox=\"0 0 640 410\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"320\" y=\"22\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#1D2939\">Lo que suele aportar cada partícula</text>\n  <!-- row 1 -->\n  <rect x=\"8\" y=\"38\" width=\"150\" height=\"172\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <rect x=\"8\" y=\"38\" width=\"150\" height=\"38\" rx=\"10\" fill=\"#1570EF\"/>\n  <text x=\"83\" y=\"64\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#fff\">UP</text>\n  <text x=\"83\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">completar · aumentar</text>\n  <text x=\"83\" y=\"109\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">crear · aparecer</text>\n  <line x1=\"24\" y1=\"120\" x2=\"142\" y2=\"120\" stroke=\"#1570EF\" stroke-dasharray=\"3 3\"/>\n  <g font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\" text-anchor=\"middle\"><text x=\"83\" y=\"141\">fill up</text><text x=\"83\" y=\"159\">turn up</text><text x=\"83\" y=\"177\">set up</text><text x=\"83\" y=\"195\">show up</text></g>\n\n  <rect x=\"166\" y=\"38\" width=\"150\" height=\"172\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <rect x=\"166\" y=\"38\" width=\"150\" height=\"38\" rx=\"10\" fill=\"#E8590C\"/>\n  <text x=\"241\" y=\"64\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#fff\">OUT</text>\n  <text x=\"241\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">sacar · terminar</text>\n  <text x=\"241\" y=\"109\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">descubrir · hasta el final</text>\n  <line x1=\"182\" y1=\"120\" x2=\"300\" y2=\"120\" stroke=\"#E8590C\" stroke-dasharray=\"3 3\"/>\n  <g font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\" text-anchor=\"middle\"><text x=\"241\" y=\"141\">run out of</text><text x=\"241\" y=\"159\">find out</text><text x=\"241\" y=\"177\">carry out</text><text x=\"241\" y=\"195\">sort out</text></g>\n\n  <rect x=\"324\" y=\"38\" width=\"150\" height=\"172\" rx=\"10\" fill=\"#FEF0EF\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <rect x=\"324\" y=\"38\" width=\"150\" height=\"38\" rx=\"10\" fill=\"#D92D20\"/>\n  <text x=\"399\" y=\"64\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#fff\">OFF</text>\n  <text x=\"399\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">desconectar · cancelar</text>\n  <text x=\"399\" y=\"109\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">separarse · partir</text>\n  <line x1=\"340\" y1=\"120\" x2=\"458\" y2=\"120\" stroke=\"#D92D20\" stroke-dasharray=\"3 3\"/>\n  <g font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\" text-anchor=\"middle\"><text x=\"399\" y=\"141\">turn off</text><text x=\"399\" y=\"159\">call off</text><text x=\"399\" y=\"177\">put off</text><text x=\"399\" y=\"195\">set off</text></g>\n\n  <rect x=\"482\" y=\"38\" width=\"150\" height=\"172\" rx=\"10\" fill=\"#E8F7EF\" stroke=\"#079455\" stroke-width=\"2\"/>\n  <rect x=\"482\" y=\"38\" width=\"150\" height=\"38\" rx=\"10\" fill=\"#079455\"/>\n  <text x=\"557\" y=\"64\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#fff\">ON</text>\n  <text x=\"557\" y=\"94\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">activar · continuar</text>\n  <text x=\"557\" y=\"109\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">ponerse · apoyarse</text>\n  <line x1=\"498\" y1=\"120\" x2=\"616\" y2=\"120\" stroke=\"#079455\" stroke-dasharray=\"3 3\"/>\n  <g font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\" text-anchor=\"middle\"><text x=\"557\" y=\"141\">turn on</text><text x=\"557\" y=\"159\">hold on</text><text x=\"557\" y=\"177\">put on</text><text x=\"557\" y=\"195\">count on</text></g>\n  <!-- row 2 -->\n  <rect x=\"8\" y=\"226\" width=\"150\" height=\"172\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <rect x=\"8\" y=\"226\" width=\"150\" height=\"38\" rx=\"10\" fill=\"#6941C6\"/>\n  <text x=\"83\" y=\"252\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#fff\">DOWN</text>\n  <text x=\"83\" y=\"282\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">reducir · fallar</text>\n  <text x=\"83\" y=\"297\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">fijar en papel · rechazar</text>\n  <line x1=\"24\" y1=\"308\" x2=\"142\" y2=\"308\" stroke=\"#6941C6\" stroke-dasharray=\"3 3\"/>\n  <g font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\" text-anchor=\"middle\"><text x=\"83\" y=\"329\">turn down</text><text x=\"83\" y=\"347\">break down</text><text x=\"83\" y=\"365\">write down</text><text x=\"83\" y=\"383\">shut down</text></g>\n\n  <rect x=\"166\" y=\"226\" width=\"150\" height=\"172\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <rect x=\"166\" y=\"226\" width=\"150\" height=\"38\" rx=\"10\" fill=\"#0E9384\"/>\n  <text x=\"241\" y=\"252\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#fff\">BACK</text>\n  <text x=\"241\" y=\"282\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">regresar · devolver</text>\n  <text x=\"241\" y=\"297\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">respaldar</text>\n  <line x1=\"182\" y1=\"308\" x2=\"300\" y2=\"308\" stroke=\"#0E9384\" stroke-dasharray=\"3 3\"/>\n  <g font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\" text-anchor=\"middle\"><text x=\"241\" y=\"329\">call back</text><text x=\"241\" y=\"347\">get back to</text><text x=\"241\" y=\"365\">back up</text><text x=\"241\" y=\"383\">come back</text></g>\n\n  <rect x=\"324\" y=\"226\" width=\"150\" height=\"172\" rx=\"10\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"2\"/>\n  <rect x=\"324\" y=\"226\" width=\"150\" height=\"38\" rx=\"10\" fill=\"#E9B949\"/>\n  <text x=\"399\" y=\"252\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#1D2939\">IN · INTO</text>\n  <text x=\"399\" y=\"282\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">entrar · entregar</text>\n  <text x=\"399\" y=\"297\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">investigar · chocar</text>\n  <line x1=\"340\" y1=\"308\" x2=\"458\" y2=\"308\" stroke=\"#E9B949\" stroke-dasharray=\"3 3\"/>\n  <g font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\" text-anchor=\"middle\"><text x=\"399\" y=\"329\">check in</text><text x=\"399\" y=\"347\">hand in</text><text x=\"399\" y=\"365\">look into</text><text x=\"399\" y=\"383\">run into</text></g>\n\n  <rect x=\"482\" y=\"226\" width=\"150\" height=\"172\" rx=\"10\" fill=\"#F2F4F7\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <rect x=\"482\" y=\"226\" width=\"150\" height=\"38\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"557\" y=\"252\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#fff\">OVER</text>\n  <text x=\"557\" y=\"282\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">transferir · revisar</text>\n  <text x=\"557\" y=\"297\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">de un lado a otro</text>\n  <line x1=\"498\" y1=\"308\" x2=\"616\" y2=\"308\" stroke=\"#667085\" stroke-dasharray=\"3 3\"/>\n  <g font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\" text-anchor=\"middle\"><text x=\"557\" y=\"329\">take over</text><text x=\"557\" y=\"347\">go over</text><text x=\"557\" y=\"365\">hand over</text><text x=\"557\" y=\"383\">send over</text></g>\n</svg>",
+   "caption": "Figura 23.1 — Mapa de partículas. No son reglas absolutas, pero explican la mayoría de los phrasal verbs de este módulo."
+  },
+  {
+   "title": "Así piensa un nativo — la partícula lleva el acento",
+   "html": "<p>En el verbo, la sílaba fuerte suele ser la <b>partícula</b>: <span class=\"en\">set UP</span> <span class=\"pron\">se-TÁP</span>, <span class=\"en\">break DOWN</span> <span class=\"pron\">breik DÁUN</span>. Cuando el phrasal verb se convierte en <b>sustantivo</b>, el acento pasa a la primera parte y se escribe junto o con guion: <span class=\"en\">a SETup</span> <span class=\"pron\">SÉ-tap</span>, <span class=\"en\">a BREAKdown</span> <span class=\"pron\">BRÉIK-daun</span>, <span class=\"en\">a FOLLOW-up</span> <span class=\"pron\">FÓ-lou-ap</span>, <span class=\"en\">a BACKup</span>, <span class=\"en\">a SHUTdown</span>, <span class=\"en\">a TAKEover</span>.</p><p>Además, el verbo y la partícula se <b>enlazan</b>: la consonante final del verbo se pega a la vocal de la partícula. <span class=\"en\">turn it off</span> suena <span class=\"pron\">ter-ni-TÓF</span>; <span class=\"en\">pick it up</span> suena <span class=\"pron\">pi-ki-TÁP</span>. Si separas las palabras, el oído nativo tarda en reconocerlas.</p>"
+  },
+  {
+   "title": "Los cuatro tipos gramaticales",
+   "html": "<p>Lo que más errores provoca no es el significado, sino <b>dónde va el objeto</b>. Hay cuatro tipos:</p><table><thead><tr><th>Tipo</th><th>Regla</th><th>Ejemplos</th></tr></thead><tbody><tr><td><b>1. Sin objeto</b> (intransitivo)</td><td>No lleva complemento directo.</td><td><span class=\"en\">The pump broke down. The inspector didn't show up.</span></td></tr><tr><td><b>2. Separable</b></td><td>El objeto puede ir después de la partícula o en medio. Si es <b>pronombre</b>, va <b>obligatoriamente en medio</b>.</td><td><span class=\"en\">Turn off the light. / Turn the light off. / Turn it off.</span></td></tr><tr><td><b>3. Inseparable</b></td><td>El objeto va siempre después de la partícula, incluso si es pronombre.</td><td><span class=\"en\">Look into the leak. / Look into it.</span></td></tr><tr><td><b>4. De tres palabras</b></td><td>Verbo + partícula + preposición. Nunca se separan.</td><td><span class=\"en\">We ran out of gas. / We ran out of it.</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 372\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <!-- left panel -->\n  <rect x=\"8\" y=\"8\" width=\"306\" height=\"272\" rx=\"12\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"161\" y=\"34\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#1570EF\">SEPARABLE · turn off</text>\n  <!-- row1 -->\n  <circle cx=\"34\" cy=\"73\" r=\"12\" fill=\"#079455\"/><text x=\"34\" y=\"78\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">SÍ</text>\n  <rect x=\"54\" y=\"56\" width=\"84\" height=\"34\" rx=\"7\" fill=\"#1570EF\"/><text x=\"96\" y=\"78\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#fff\">turn off</text>\n  <rect x=\"144\" y=\"56\" width=\"96\" height=\"34\" rx=\"7\" fill=\"#fff\" stroke=\"#98A2B3\"/><text x=\"192\" y=\"78\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">the pump</text>\n  <!-- row2 -->\n  <circle cx=\"34\" cy=\"121\" r=\"12\" fill=\"#079455\"/><text x=\"34\" y=\"126\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">SÍ</text>\n  <rect x=\"54\" y=\"104\" width=\"54\" height=\"34\" rx=\"7\" fill=\"#1570EF\"/><text x=\"81\" y=\"126\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#fff\">turn</text>\n  <rect x=\"114\" y=\"104\" width=\"96\" height=\"34\" rx=\"7\" fill=\"#fff\" stroke=\"#98A2B3\"/><text x=\"162\" y=\"126\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">the pump</text>\n  <rect x=\"216\" y=\"104\" width=\"46\" height=\"34\" rx=\"7\" fill=\"#1570EF\"/><text x=\"239\" y=\"126\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#fff\">off</text>\n  <!-- row3 -->\n  <circle cx=\"34\" cy=\"169\" r=\"12\" fill=\"#079455\"/><text x=\"34\" y=\"174\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">SÍ</text>\n  <rect x=\"54\" y=\"152\" width=\"54\" height=\"34\" rx=\"7\" fill=\"#1570EF\"/><text x=\"81\" y=\"174\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#fff\">turn</text>\n  <rect x=\"114\" y=\"152\" width=\"40\" height=\"34\" rx=\"7\" fill=\"#E8590C\"/><text x=\"134\" y=\"174\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">it</text>\n  <rect x=\"160\" y=\"152\" width=\"46\" height=\"34\" rx=\"7\" fill=\"#1570EF\"/><text x=\"183\" y=\"174\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#fff\">off</text>\n  <!-- row4 wrong -->\n  <circle cx=\"34\" cy=\"217\" r=\"12\" fill=\"#D92D20\"/><text x=\"34\" y=\"222\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">NO</text>\n  <rect x=\"54\" y=\"200\" width=\"84\" height=\"34\" rx=\"7\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"96\" y=\"222\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#D92D20\">turn off</text>\n  <rect x=\"144\" y=\"200\" width=\"40\" height=\"34\" rx=\"7\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"164\" y=\"222\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#D92D20\">it</text>\n  <line x1=\"50\" y1=\"217\" x2=\"190\" y2=\"217\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <text x=\"161\" y=\"262\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">Pronombre (it, them, me…) → siempre en medio</text>\n  <!-- right panel -->\n  <rect x=\"326\" y=\"8\" width=\"306\" height=\"272\" rx=\"12\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"479\" y=\"34\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#6941C6\">INSEPARABLE · look into</text>\n  <circle cx=\"352\" cy=\"73\" r=\"12\" fill=\"#079455\"/><text x=\"352\" y=\"78\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">SÍ</text>\n  <rect x=\"372\" y=\"56\" width=\"92\" height=\"34\" rx=\"7\" fill=\"#6941C6\"/><text x=\"418\" y=\"78\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#fff\">look into</text>\n  <rect x=\"470\" y=\"56\" width=\"110\" height=\"34\" rx=\"7\" fill=\"#fff\" stroke=\"#98A2B3\"/><text x=\"525\" y=\"78\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">the problem</text>\n  <circle cx=\"352\" cy=\"121\" r=\"12\" fill=\"#079455\"/><text x=\"352\" y=\"126\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">SÍ</text>\n  <rect x=\"372\" y=\"104\" width=\"92\" height=\"34\" rx=\"7\" fill=\"#6941C6\"/><text x=\"418\" y=\"126\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#fff\">look into</text>\n  <rect x=\"470\" y=\"104\" width=\"40\" height=\"34\" rx=\"7\" fill=\"#E8590C\"/><text x=\"490\" y=\"126\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">it</text>\n  <circle cx=\"352\" cy=\"169\" r=\"12\" fill=\"#D92D20\"/><text x=\"352\" y=\"174\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">NO</text>\n  <rect x=\"372\" y=\"152\" width=\"54\" height=\"34\" rx=\"7\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"399\" y=\"174\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#D92D20\">look</text>\n  <rect x=\"432\" y=\"152\" width=\"110\" height=\"34\" rx=\"7\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"487\" y=\"174\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#D92D20\">the problem</text>\n  <rect x=\"548\" y=\"152\" width=\"56\" height=\"34\" rx=\"7\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"576\" y=\"174\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#D92D20\">into</text>\n  <line x1=\"368\" y1=\"169\" x2=\"608\" y2=\"169\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <circle cx=\"352\" cy=\"217\" r=\"12\" fill=\"#D92D20\"/><text x=\"352\" y=\"222\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">NO</text>\n  <rect x=\"372\" y=\"200\" width=\"54\" height=\"34\" rx=\"7\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"399\" y=\"222\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#D92D20\">look</text>\n  <rect x=\"432\" y=\"200\" width=\"40\" height=\"34\" rx=\"7\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"452\" y=\"222\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#D92D20\">it</text>\n  <rect x=\"478\" y=\"200\" width=\"56\" height=\"34\" rx=\"7\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"506\" y=\"222\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#D92D20\">into</text>\n  <line x1=\"368\" y1=\"217\" x2=\"538\" y2=\"217\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <text x=\"479\" y=\"262\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">Verbo y partícula nunca se separan</text>\n  <!-- bottom band -->\n  <rect x=\"8\" y=\"294\" width=\"624\" height=\"70\" rx=\"12\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"320\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#7A5B00\">TRES PALABRAS: run out of · come up with · get along with · put up with</text>\n  <text x=\"320\" y=\"346\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">We ran out of bolts.  →  We ran out of them.   (bloque fijo, objeto al final)</text>\n</svg>",
+   "caption": "Figura 23.2 — Separable vs inseparable. La prueba rápida: ¿puedo decir \"verbo + it + partícula\"? Si suena bien, es separable."
+  },
+  {
+   "title": "Reglas de oro",
+   "html": "<p><b>Regla de oro 1 — Pronombre en medio con los separables</b></p><p>Con un sustantivo tienes dos opciones; con un pronombre (<i>it, them, him, her, me, us, you</i>) solo una:</p><p><span class=\"ok\">Pick up the samples. / Pick the samples up. / Pick them up.</span> Nunca <span class=\"wrong\">Pick up them.</span></p><p><b>Regla de oro 2 — Solo se conjuga el verbo; la partícula no cambia</b></p><p>El tiempo, la persona y el auxiliar afectan al verbo: <span class=\"en\">set up → sets up → set up → setting up</span>; <span class=\"en\">break down → broke down → has broken down</span>. La partícula se queda igual y en su sitio.</p><p><b>Regla de oro 3 — Aprende el phrasal verb con su objeto y su tipo</b></p><p>No memorices <i>run out</i>: memoriza <span class=\"en\">run out <b>of</b> something</span>. No memorices <i>get along</i>: memoriza <span class=\"en\">get along <b>with</b> someone</span>. Y anota si es separable. En la sección 2 cada verbo trae su tipo.</p>"
+  },
+  {
+   "title": "Traducción literal vs inglés real",
+   "html": "<table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td><span class=\"es\">Vamos a realizar la prueba.</span></td><td><span class=\"en\">We're going to carry out the test.</span> <span class=\"wrong\">realize the test</span></td></tr><tr><td><span class=\"es\">Se nos acabó el combustible.</span></td><td><span class=\"en\">We ran out of fuel.</span> <span class=\"wrong\">The fuel finished us</span></td></tr><tr><td><span class=\"es\">Apágalo.</span></td><td><span class=\"en\">Turn it off.</span> <span class=\"wrong\">Turn off it</span></td></tr><tr><td><span class=\"es\">Hay que investigar la fuga.</span></td><td><span class=\"en\">We need to look into the leak.</span> <span class=\"wrong\">look the leak into</span></td></tr><tr><td><span class=\"es\">Me llevo bien con él.</span></td><td><span class=\"en\">I get along with him.</span> <span class=\"wrong\">I carry well with him</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>Se malogró la grúa.</td><td><span class=\"wrong\">The crane got bad.</span></td><td><span class=\"ok\">The crane broke down.</span></td></tr><tr><td>Llena este formulario.</td><td><span class=\"wrong\">Fill this form.</span></td><td><span class=\"ok\">Fill out this form.</span></td></tr><tr><td>¿Me recoges a las 7?</td><td><span class=\"wrong\">Do you recollect me at 7?</span></td><td><span class=\"ok\">Can you pick me up at 7?</span></td></tr><tr><td>No te rindas.</td><td><span class=\"wrong\">Don't render yourself.</span></td><td><span class=\"ok\">Don't give up.</span></td></tr><tr><td>Te llamo más tarde.</td><td><span class=\"wrong\">I call you more late.</span></td><td><span class=\"ok\">I'll call you back later.</span></td></tr><tr><td>No soporto el ruido.</td><td><span class=\"wrong\">I don't support the noise.</span></td><td><span class=\"ok\">I can't put up with the noise.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Afirmativo, negativo, pregunta y respuesta corta",
+   "html": "<table><thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td>Sujeto + verbo (conjugado) + partícula + objeto</td><td><span class=\"en\">They set up the scaffolding yesterday.</span></td></tr><tr><td><b>Negativo</b></td><td>Sujeto + don't / didn't / haven't… + verbo base + partícula</td><td><span class=\"en\">They didn't set up the scaffolding.</span></td></tr><tr><td><b>Pregunta</b></td><td>Auxiliar + sujeto + verbo base + partícula…?</td><td><span class=\"en\">Did they set up the scaffolding?</span></td></tr><tr><td><b>Respuesta corta</b></td><td>Yes / No + sujeto + auxiliar (sin partícula)</td><td><span class=\"en\">Yes, they did. / No, they didn't.</span></td></tr><tr><td><b>Pregunta WH-</b></td><td>La partícula se queda junto al verbo</td><td><span class=\"en\">Who set up the scaffolding? / When did they set it up?</span></td></tr><tr><td><b>Pasiva</b> (Módulo 20)</td><td>be + participio + partícula</td><td><span class=\"en\">The scaffolding was set up yesterday.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<ul><li><b>Objeto largo → después de la partícula.</b> Con un separable, si el objeto es largo, no lo pongas en medio: <span class=\"ok\">Turn off all the lights on the second floor.</span> Suena raro <i>Turn all the lights on the second floor off.</i></li><li><b>Después de una preposición o partícula final, -ing</b> (Módulo 22): <span class=\"en\">He gave up smoking.</span> <span class=\"en\">I'm looking forward to seeing you.</span> <span class=\"en\">We put off signing the contract.</span></li><li><b>Un mismo phrasal, varios significados.</b> <span class=\"en\">turn down</span> = bajar (volumen) o rechazar (oferta); <span class=\"en\">work out</span> = resolver, funcionar o hacer ejercicio; <span class=\"en\">pick up</span> = recoger, contestar el teléfono o aprender de oído. El contexto decide.</li><li><b>Registro.</b> Los phrasal verbs son normales en correos de trabajo y reuniones. En contratos, especificaciones e informes formales se prefiere el verbo latino (<i>postpone, conduct, investigate</i>). Ver Figura 23.3.</li></ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "set up",
+   "pron": "se-TÁP",
+   "es": "instalar, montar, organizar",
+   "type": "Sep",
+   "example": "We set up the pump this morning.",
+   "group": "A. Trabajo y proyectos"
+  },
+  {
+   "en": "carry out",
+   "pron": "ke-ri ÁUT",
+   "es": "realizar, llevar a cabo",
+   "type": "Sep",
+   "example": "They carried out a leak test.",
+   "group": "A. Trabajo y proyectos"
+  },
+  {
+   "en": "take over",
+   "pron": "tei-KÓU-vər",
+   "es": "asumir, hacerse cargo",
+   "type": "Sep",
+   "example": "Priya will take over the project.",
+   "group": "A. Trabajo y proyectos"
+  },
+  {
+   "en": "hand in",
+   "pron": "jan-DÍN",
+   "es": "entregar (documento)",
+   "type": "Sep",
+   "example": "Hand in your timesheet by Friday.",
+   "group": "A. Trabajo y proyectos"
+  },
+  {
+   "en": "draw up",
+   "pron": "dro ÁP",
+   "es": "redactar (plan, contrato)",
+   "type": "Sep",
+   "example": "Can you draw up a lift plan?",
+   "group": "A. Trabajo y proyectos"
+  },
+  {
+   "en": "follow up on",
+   "pron": "fo-lou ÁP on",
+   "es": "dar seguimiento a",
+   "type": "Insep",
+   "example": "I'll follow up on the quote.",
+   "group": "A. Trabajo y proyectos"
+  },
+  {
+   "en": "put off",
+   "pron": "pu-TÓF",
+   "es": "postergar",
+   "type": "Sep",
+   "example": "They put off the meeting.",
+   "group": "A. Trabajo y proyectos"
+  },
+  {
+   "en": "call off",
+   "pron": "ko-LÓF",
+   "es": "cancelar",
+   "type": "Sep",
+   "example": "The lift was called off due to wind.",
+   "group": "A. Trabajo y proyectos"
+  },
+  {
+   "en": "bring up",
+   "pron": "brin-GÁP",
+   "es": "mencionar, plantear (tema)",
+   "type": "Sep",
+   "example": "Bring it up at the meeting.",
+   "group": "A. Trabajo y proyectos"
+  },
+  {
+   "en": "go over",
+   "pron": "gou ÓU-vər",
+   "es": "revisar, repasar",
+   "type": "Insep",
+   "example": "Let's go over the drawings.",
+   "group": "A. Trabajo y proyectos"
+  },
+  {
+   "en": "run out of",
+   "pron": "ra-NÁU-təv",
+   "es": "quedarse sin",
+   "type": "Insep",
+   "example": "We ran out of welding rods.",
+   "group": "B. Problemas y soluciones"
+  },
+  {
+   "en": "break down",
+   "pron": "breik DÁUN",
+   "es": "averiarse, malograrse",
+   "type": "Sin obj",
+   "example": "The compressor broke down.",
+   "group": "B. Problemas y soluciones"
+  },
+  {
+   "en": "figure out",
+   "pron": "fí-gyə-RÁUT",
+   "es": "entender, descifrar",
+   "type": "Sep",
+   "example": "I can't figure out this error.",
+   "group": "B. Problemas y soluciones"
+  },
+  {
+   "en": "sort out",
+   "pron": "sor-TÁUT",
+   "es": "solucionar, arreglar",
+   "type": "Sep",
+   "example": "Mark sorted out the permit issue.",
+   "group": "B. Problemas y soluciones"
+  },
+  {
+   "en": "look into",
+   "pron": "luk ÍN-tu",
+   "es": "investigar, examinar",
+   "type": "Insep",
+   "example": "We're looking into the leak.",
+   "group": "B. Problemas y soluciones"
+  },
+  {
+   "en": "come up with",
+   "pron": "ka-MÁP widh",
+   "es": "idear, proponer",
+   "type": "Insep",
+   "example": "She came up with a cheaper design.",
+   "group": "B. Problemas y soluciones"
+  },
+  {
+   "en": "work out",
+   "pron": "wer-KÁUT",
+   "es": "resolver; calcular; salir bien",
+   "type": "Sep",
+   "example": "We worked out the total weight.",
+   "group": "B. Problemas y soluciones"
+  },
+  {
+   "en": "back up",
+   "pron": "ba-KÁP",
+   "es": "respaldar (archivos, a alguien)",
+   "type": "Sep",
+   "example": "Back up your files every day.",
+   "group": "B. Problemas y soluciones"
+  },
+  {
+   "en": "point out",
+   "pron": "poin-TÁUT",
+   "es": "señalar, hacer notar",
+   "type": "Sep",
+   "example": "He pointed out two errors.",
+   "group": "B. Problemas y soluciones"
+  },
+  {
+   "en": "find out",
+   "pron": "fain-DÁUT",
+   "es": "averiguar, enterarse",
+   "type": "Sep",
+   "example": "Find out who left the valve open.",
+   "group": "B. Problemas y soluciones"
+  },
+  {
+   "en": "turn on",
+   "pron": "ter-NÓN",
+   "es": "encender",
+   "type": "Sep",
+   "example": "Turn on the extractor fan.",
+   "group": "C. Equipos, máquinas y EPP"
+  },
+  {
+   "en": "turn off",
+   "pron": "ter-NÓF",
+   "es": "apagar",
+   "type": "Sep",
+   "example": "Turn it off before you leave.",
+   "group": "C. Equipos, máquinas y EPP"
+  },
+  {
+   "en": "turn up",
+   "pron": "ter-NÁP",
+   "es": "subir (volumen, presión)",
+   "type": "Sep",
+   "example": "Turn up the pressure slowly.",
+   "group": "C. Equipos, máquinas y EPP"
+  },
+  {
+   "en": "turn down",
+   "pron": "tern DÁUN",
+   "es": "bajar; rechazar",
+   "type": "Sep",
+   "example": "Turn down the radio, please.",
+   "group": "C. Equipos, máquinas y EPP"
+  },
+  {
+   "en": "shut down",
+   "pron": "shat DÁUN",
+   "es": "parar por completo (planta, sistema)",
+   "type": "Sep",
+   "example": "They shut down the unit for maintenance.",
+   "group": "C. Equipos, máquinas y EPP"
+  },
+  {
+   "en": "start up",
+   "pron": "star-TÁP",
+   "es": "arrancar (equipo)",
+   "type": "Sep",
+   "example": "Start up the generator.",
+   "group": "C. Equipos, máquinas y EPP"
+  },
+  {
+   "en": "plug in",
+   "pron": "pla-GUÍN",
+   "es": "enchufar",
+   "type": "Sep",
+   "example": "Plug in the grinder.",
+   "group": "C. Equipos, máquinas y EPP"
+  },
+  {
+   "en": "fill up",
+   "pron": "fi-LÁP",
+   "es": "llenar por completo",
+   "type": "Sep",
+   "example": "Fill up the tank with water.",
+   "group": "C. Equipos, máquinas y EPP"
+  },
+  {
+   "en": "put on",
+   "pron": "pu-TÓN",
+   "es": "ponerse (ropa, EPP)",
+   "type": "Sep",
+   "example": "Put on your harness.",
+   "group": "C. Equipos, máquinas y EPP"
+  },
+  {
+   "en": "take off",
+   "pron": "tei-KÓF",
+   "es": "quitarse; despegar (avión)",
+   "type": "Sep",
+   "example": "Take off your gloves first.",
+   "group": "C. Equipos, máquinas y EPP"
+  },
+  {
+   "en": "fill out",
+   "pron": "fi-LÁUT",
+   "es": "llenar (formulario)",
+   "type": "Sep",
+   "example": "Fill out the work permit.",
+   "group": "D. Documentos y comunicación"
+  },
+  {
+   "en": "write down",
+   "pron": "rait DÁUN",
+   "es": "anotar",
+   "type": "Sep",
+   "example": "Write down the serial number.",
+   "group": "D. Documentos y comunicación"
+  },
+  {
+   "en": "look up",
+   "pron": "lu-KÁP",
+   "es": "buscar (dato, palabra)",
+   "type": "Sep",
+   "example": "Look it up in the code.",
+   "group": "D. Documentos y comunicación"
+  },
+  {
+   "en": "get back to",
+   "pron": "guet BAK tu",
+   "es": "responder más tarde",
+   "type": "Insep",
+   "example": "I'll get back to you tomorrow.",
+   "group": "D. Documentos y comunicación"
+  },
+  {
+   "en": "call back",
+   "pron": "kol BAK",
+   "es": "devolver la llamada",
+   "type": "Sep",
+   "example": "Can you call me back?",
+   "group": "D. Documentos y comunicación"
+  },
+  {
+   "en": "hang up",
+   "pron": "jang ÁP",
+   "es": "colgar (teléfono)",
+   "type": "Sin obj",
+   "example": "Don't hang up, please.",
+   "group": "D. Documentos y comunicación"
+  },
+  {
+   "en": "hold on",
+   "pron": "joul DÓN",
+   "es": "esperar un momento",
+   "type": "Sin obj",
+   "example": "Hold on, I'll check.",
+   "group": "D. Documentos y comunicación"
+  },
+  {
+   "en": "speak up",
+   "pron": "spi-KÁP",
+   "es": "hablar más fuerte; opinar",
+   "type": "Sin obj",
+   "example": "Speak up if you see a risk.",
+   "group": "D. Documentos y comunicación"
+  },
+  {
+   "en": "send over",
+   "pron": "send ÓU-vər",
+   "es": "enviar, mandar",
+   "type": "Sep",
+   "example": "Send over the latest revision.",
+   "group": "D. Documentos y comunicación"
+  },
+  {
+   "en": "get along with",
+   "pron": "gue-tə-LÓNG widh",
+   "es": "llevarse bien con",
+   "type": "Insep",
+   "example": "I get along with my crew.",
+   "group": "E. Personas y relaciones"
+  },
+  {
+   "en": "look after",
+   "pron": "lu-KÁF-tər",
+   "es": "cuidar",
+   "type": "Insep",
+   "example": "Who looks after your kids?",
+   "group": "E. Personas y relaciones"
+  },
+  {
+   "en": "count on",
+   "pron": "kaun-TÓN",
+   "es": "contar con",
+   "type": "Insep",
+   "example": "You can count on me.",
+   "group": "E. Personas y relaciones"
+  },
+  {
+   "en": "look up to",
+   "pron": "lu-KÁP tu",
+   "es": "admirar",
+   "type": "Insep",
+   "example": "I look up to my father.",
+   "group": "E. Personas y relaciones"
+  },
+  {
+   "en": "put up with",
+   "pron": "pu-TÁP widh",
+   "es": "soportar, aguantar",
+   "type": "Insep",
+   "example": "I can't put up with the noise.",
+   "group": "E. Personas y relaciones"
+  },
+  {
+   "en": "let down",
+   "pron": "let DÁUN",
+   "es": "decepcionar, fallarle a alguien",
+   "type": "Sep",
+   "example": "Don't let the team down.",
+   "group": "E. Personas y relaciones"
+  },
+  {
+   "en": "catch up with",
+   "pron": "ka-CHÁP widh",
+   "es": "ponerse al día con; alcanzar",
+   "type": "Insep",
+   "example": "I'll catch up with you later.",
+   "group": "E. Personas y relaciones"
+  },
+  {
+   "en": "show up",
+   "pron": "shou ÁP",
+   "es": "aparecer, llegar",
+   "type": "Sin obj",
+   "example": "The driver didn't show up.",
+   "group": "E. Personas y relaciones"
+  },
+  {
+   "en": "give up",
+   "pron": "gui-VÁP",
+   "es": "rendirse; dejar (hábito)",
+   "type": "Sep",
+   "example": "He gave up smoking.",
+   "group": "E. Personas y relaciones"
+  },
+  {
+   "en": "wake up",
+   "pron": "wei-KÁP",
+   "es": "despertar(se)",
+   "type": "Sep",
+   "example": "Wake me up at five.",
+   "group": "F. Vida diaria y viajes"
+  },
+  {
+   "en": "get up",
+   "pron": "gue-TÁP",
+   "es": "levantarse",
+   "type": "Sin obj",
+   "example": "I get up at 5:30.",
+   "group": "F. Vida diaria y viajes"
+  },
+  {
+   "en": "check in",
+   "pron": "che-KÍN",
+   "es": "registrarse (hotel, vuelo)",
+   "type": "Sin obj",
+   "example": "We checked in at noon.",
+   "group": "F. Vida diaria y viajes"
+  },
+  {
+   "en": "check out",
+   "pron": "che-KÁUT",
+   "es": "dejar el hotel; revisar",
+   "type": "Sep",
+   "example": "Check out this new tool.",
+   "group": "F. Vida diaria y viajes"
+  },
+  {
+   "en": "pick up",
+   "pron": "pi-KÁP",
+   "es": "recoger",
+   "type": "Sep",
+   "example": "I'll pick you up at seven.",
+   "group": "F. Vida diaria y viajes"
+  },
+  {
+   "en": "drop off",
+   "pron": "dro-PÓF",
+   "es": "dejar (a alguien, algo)",
+   "type": "Sep",
+   "example": "Drop me off at the gate.",
+   "group": "F. Vida diaria y viajes"
+  },
+  {
+   "en": "get on / get off",
+   "pron": "gue-TÓN / gue-TÓF",
+   "es": "subir / bajar (bus, avión)",
+   "type": "Insep",
+   "example": "Get off at the next stop.",
+   "group": "F. Vida diaria y viajes"
+  },
+  {
+   "en": "run into",
+   "pron": "ra-NÍN-tu",
+   "es": "encontrarse por casualidad",
+   "type": "Insep",
+   "example": "I ran into Carlos at the mall.",
+   "group": "F. Vida diaria y viajes"
+  },
+  {
+   "en": "eat out",
+   "pron": "i-TÁUT",
+   "es": "comer fuera",
+   "type": "Sin obj",
+   "example": "We eat out on Fridays.",
+   "group": "F. Vida diaria y viajes"
+  },
+  {
+   "en": "set off",
+   "pron": "se-TÓF",
+   "es": "salir de viaje, partir",
+   "type": "Sin obj",
+   "example": "We set off at dawn.",
+   "group": "F. Vida diaria y viajes"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "They set up the pump.",
+     "They didn't set up the pump.",
+     "Did they set up the pump?",
+     "Yes, they did. / No, they didn't."
+    ],
+    [
+     "The generator broke down.",
+     "The generator didn't break down.",
+     "Did the generator break down?",
+     "Yes, it did. / No, it didn't."
+    ],
+    [
+     "We've run out of bolts.",
+     "We haven't run out of bolts.",
+     "Have we run out of bolts?",
+     "Yes, we have. / No, we haven't."
+    ],
+    [
+     "She gets along with her boss.",
+     "She doesn't get along with her boss.",
+     "Does she get along with her boss?",
+     "Yes, she does. / No, she doesn't."
+    ],
+    [
+     "He's looking into the problem.",
+     "He isn't looking into the problem.",
+     "Is he looking into the problem?",
+     "Yes, he is. / No, he isn't."
+    ],
+    [
+     "They'll call off the lift.",
+     "They won't call off the lift.",
+     "Will they call off the lift?",
+     "Yes, they will. / No, they won't."
+    ],
+    [
+     "You need to fill it out.",
+     "You don't need to fill it out.",
+     "Do I need to fill it out?",
+     "Yes, you do. / No, you don't."
+    ],
+    [
+     "Mark turned the offer down.",
+     "Mark didn't turn the offer down.",
+     "Did Mark turn the offer down?",
+     "Yes, he did. / No, he didn't."
+    ],
+    [
+     "The test was carried out.",
+     "The test wasn't carried out.",
+     "Was the test carried out?",
+     "Yes, it was. / No, it wasn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Sarah",
+   "text": "Morning, Edwin. Did the crew set up the scaffolding on the east side?"
+  },
+  {
+   "who": "Edwin",
+   "text": "They set it up yesterday afternoon. But we've run out of clamps, so we can't finish the top level."
+  },
+  {
+   "who": "Sarah",
+   "text": "OK, I'll ask the warehouse to send some over. What about the compressor? It broke down twice last week."
+  },
+  {
+   "who": "Edwin",
+   "text": "The mechanic is looking into it. He thinks the air filter is clogged."
+  },
+  {
+   "who": "Sarah",
+   "text": "Got it. Hold on a second, the client is calling me…"
+  },
+  {
+   "who": "Sarah",
+   "text": "Sorry about that. They want to put off the hydrotest until Thursday."
+  },
+  {
+   "who": "Edwin",
+   "text": "That actually works out well. It gives us time to sort out the clamp problem."
+  },
+  {
+   "who": "Sarah",
+   "text": "Great. Can you write down the clamp sizes and send me the list?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Sure. I'll fill out the requisition form and hand it in before lunch."
+  },
+  {
+   "who": "Sarah",
+   "text": "Perfect. I'm counting on you. Call me back if anything comes up."
+  }
+ ],
+ "examples": [
+  {
+   "en": "The crew set up the scaffolding around Tank 3 in two days.",
+   "es": "La cuadrilla montó el andamio alrededor del tanque 3 en dos días.",
+   "situation": "Montaje"
+  },
+  {
+   "en": "The inspector carried out a vacuum box test on the bottom welds.",
+   "es": "El inspector realizó una prueba de caja de vacío en las soldaduras del fondo.",
+   "situation": "Control de calidad"
+  },
+  {
+   "en": "We've run out of grinding discs. Can you order more?",
+   "es": "Se nos acabaron los discos de esmeril. ¿Puedes pedir más?",
+   "situation": "Suministros"
+  },
+  {
+   "en": "The crane broke down, so we had to put off the lift until Monday.",
+   "es": "La grúa se malogró, así que tuvimos que postergar el izaje hasta el lunes.",
+   "situation": "Avería"
+  },
+  {
+   "en": "Before you open the panel, turn off the power and lock it out.",
+   "es": "Antes de abrir el tablero, corta la energía y bloquéala.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "Could you send over the latest revision of the isometrics?",
+   "es": "¿Podrías enviarme la última revisión de los isométricos?",
+   "situation": "Oficina"
+  },
+  {
+   "en": "Sorry, I'm driving. Can I call you back in ten minutes?",
+   "es": "Perdón, estoy manejando. ¿Te devuelvo la llamada en diez minutos?",
+   "situation": "Teléfono"
+  },
+  {
+   "en": "Thanks for your question. I'll look into it and get back to you by Friday.",
+   "es": "Gracias por tu pregunta. Lo voy a revisar y te respondo antes del viernes.",
+   "situation": "Correo"
+  },
+  {
+   "en": "Ana pointed out that the budget doesn't include the crane rental.",
+   "es": "Ana señaló que el presupuesto no incluye el alquiler de la grúa.",
+   "situation": "Reunión"
+  },
+  {
+   "en": "The client turned down our first offer, so we came up with a new one.",
+   "es": "El cliente rechazó nuestra primera oferta, así que propusimos una nueva.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "I get along well with the welders. I know I can count on them.",
+   "es": "Me llevo bien con los soldadores. Sé que puedo contar con ellos.",
+   "situation": "Equipo"
+  },
+  {
+   "en": "Our flight took off late, so we checked in at the hotel after midnight.",
+   "es": "Nuestro vuelo despegó tarde, así que nos registramos en el hotel después de la medianoche.",
+   "situation": "Viaje"
+  },
+  {
+   "en": "Can you pick up the kids from school? I'll drop them off tomorrow.",
+   "es": "¿Puedes recoger a los niños del colegio? Yo los dejo mañana.",
+   "situation": "Vida diaria"
+  },
+  {
+   "en": "I ran into Mr. Lee at the airport. We should catch up soon.",
+   "es": "Me encontré con el Sr. Lee en el aeropuerto. Deberíamos ponernos al día pronto.",
+   "situation": "Social"
+  },
+  {
+   "en": "My doctor told me to give up sugar and work out three times a week.",
+   "es": "Mi médico me dijo que dejara el azúcar e hiciera ejercicio tres veces por semana.",
+   "situation": "Salud"
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "Turn off it, please.",
+   "right": "Turn it off, please.",
+   "why": "Con separables, el pronombre va en medio."
+  },
+  {
+   "wrong": "Pick up me at seven.",
+   "right": "Pick me up at seven.",
+   "why": "Igual: me es pronombre → en medio."
+  },
+  {
+   "wrong": "We ran out fuel.",
+   "right": "We ran out of fuel.",
+   "why": "Es de tres palabras: run out of + objeto."
+  },
+  {
+   "wrong": "We need to look the problem into.",
+   "right": "We need to look into the problem.",
+   "why": "Look into es inseparable."
+  },
+  {
+   "wrong": "I get along my boss.",
+   "right": "I get along with my boss.",
+   "why": "Falta la preposición: get along with."
+  },
+  {
+   "wrong": "She came up a good idea.",
+   "right": "She came up with a good idea.",
+   "why": "Come up with = idear; sin with cambia el sentido."
+  },
+  {
+   "wrong": "He gave up to smoke.",
+   "right": "He gave up smoking.",
+   "why": "Después de partícula, verbo en -ing (Módulo 22)."
+  },
+  {
+   "wrong": "The pump broke up.",
+   "right": "The pump broke down.",
+   "why": "Break up = terminar una relación o romper en pedazos. Averiarse = break down."
+  },
+  {
+   "wrong": "I'll call back you.",
+   "right": "I'll call you back.",
+   "why": "Pronombre en medio."
+  },
+  {
+   "wrong": "Get in the bus, please.",
+   "right": "Get on the bus, please.",
+   "why": "Bus, avión, tren, barco → get on/off. Auto, taxi → get in/out of."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "carry out",
+   "looks": "cargar afuera",
+   "means": "realizar, llevar a cabo",
+   "fix": "Sacar cargando → carry something outside"
+  },
+  {
+   "en": "look after",
+   "looks": "mirar después",
+   "means": "cuidar",
+   "fix": "Revisar después → check it later"
+  },
+  {
+   "en": "turn down",
+   "looks": "voltear abajo",
+   "means": "bajar (volumen); rechazar",
+   "fix": "Voltear → turn over"
+  },
+  {
+   "en": "make up",
+   "looks": "maquillar",
+   "means": "inventar; reconciliarse; recuperar (tiempo)",
+   "fix": "Maquillarse → put on makeup"
+  },
+  {
+   "en": "give up",
+   "looks": "dar arriba",
+   "means": "rendirse; dejar un hábito",
+   "fix": "Entregar → hand in / hand over"
+  },
+  {
+   "en": "look up / look up to",
+   "looks": "mirar arriba",
+   "means": "buscar un dato / admirar",
+   "fix": "Mirar hacia arriba → look up (literal, sin objeto)"
+  },
+  {
+   "en": "realize",
+   "looks": "realizar",
+   "means": "darse cuenta",
+   "fix": "Realizar una prueba → carry out a test"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Se nos acabó el papel.",
+    "answers": [
+     "We ran out of paper.",
+     "We've run out of paper.",
+     "We have run out of paper."
+    ],
+    "explain": "\"Acabársele algo a alguien\" = run out of; el sujeto es la persona, no la cosa."
+   },
+   {
+    "prompt": "Apaga la bomba, por favor.",
+    "answers": [
+     "Turn off the pump, please.",
+     "Turn the pump off, please.",
+     "Please turn off the pump.",
+     "Please turn the pump off."
+    ],
+    "explain": "Separable: con sustantivo valen las dos posiciones."
+   },
+   {
+    "prompt": "Tenemos que realizar una inspección mañana.",
+    "answers": [
+     "We have to carry out an inspection tomorrow."
+    ],
+    "explain": "\"Realizar\" = carry out. Nunca realize (darse cuenta)."
+   },
+   {
+    "prompt": "¿Puedes averiguar quién dejó la puerta abierta?",
+    "answers": [
+     "Can you find out who left the door open?"
+    ],
+    "explain": "\"Averiguar\" = find out + pregunta indirecta (orden afirmativo: who left)."
+   },
+   {
+    "prompt": "La reunión se canceló.",
+    "answers": [
+     "The meeting was called off.",
+     "They called off the meeting.",
+     "They called the meeting off."
+    ],
+    "explain": "Pasiva con phrasal verb: was + participio + partícula. También vale They called off the meeting."
+   },
+   {
+    "prompt": "Llena este formulario, por favor.",
+    "answers": [
+     "Fill out this form, please.",
+     "Fill in this form, please.",
+     "Please fill out this form.",
+     "Please fill in this form."
+    ],
+    "explain": "Formulario = fill out (EE. UU.); fill in también es correcto."
+   },
+   {
+    "prompt": "Me llevo bien con mi jefe.",
+    "answers": [
+     "I get along well with my boss.",
+     "I get along with my boss."
+    ],
+    "explain": "De tres palabras: get along with."
+   },
+   {
+    "prompt": "La grúa se malogró otra vez.",
+    "answers": [
+     "The crane broke down again."
+    ],
+    "explain": "Averiarse = break down, sin objeto; pasado broke."
+   },
+   {
+    "prompt": "Vamos a postergar la prueba hasta el lunes.",
+    "answers": [
+     "We're going to put off the test until Monday.",
+     "We are going to put off the test until Monday.",
+     "We're going to put the test off until Monday.",
+     "We are going to put the test off until Monday."
+    ],
+    "explain": "Postergar = put off. También put the test off."
+   },
+   {
+    "prompt": "Te devuelvo la llamada en diez minutos.",
+    "answers": [
+     "I'll call you back in ten minutes.",
+     "I will call you back in ten minutes."
+    ],
+    "explain": "Pronombre you en medio: call you back. Will para decisión del momento."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "Who's going to take over the project when Mark leaves?",
+    "answers": [
+     "¿Quién va a asumir el proyecto cuando Mark se vaya?",
+     "¿Quién va a hacerse cargo del proyecto cuando Mark se vaya?",
+     "¿Quién se hará cargo del proyecto cuando Mark se vaya?"
+    ],
+    "explain": "Take over = asumir el control de algo."
+   },
+   {
+    "prompt": "We need to come up with a better plan.",
+    "answers": [
+     "Tenemos que idear un plan mejor.",
+     "Tenemos que proponer un plan mejor.",
+     "Necesitamos idear un mejor plan."
+    ],
+    "explain": "Come up with = crear una idea o solución."
+   },
+   {
+    "prompt": "Could you look into the leak on Line 2?",
+    "answers": [
+     "¿Podrías investigar la fuga en la línea 2?",
+     "¿Podrías revisar la fuga en la línea 2?",
+     "¿Puedes investigar la fuga de la línea 2?"
+    ],
+    "explain": "Look into = investigar, examinar."
+   },
+   {
+    "prompt": "I can't put up with this noise anymore.",
+    "answers": [
+     "Ya no soporto este ruido.",
+     "Ya no aguanto este ruido.",
+     "No puedo soportar más este ruido."
+    ],
+    "explain": "Put up with = soportar; not … anymore = ya no."
+   },
+   {
+    "prompt": "She set up her own company in 2020.",
+    "answers": [
+     "Ella fundó su propia empresa en 2020.",
+     "Ella montó su propia empresa en 2020.",
+     "Fundó su propia empresa en 2020."
+    ],
+    "explain": "Set up una empresa = fundarla, crearla."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "We ran out fuel halfway to the site.",
+    "answers": [
+     "We ran out of fuel halfway to the site."
+    ],
+    "explain": "Faltaba of: run out of."
+   },
+   {
+    "prompt": "The heater is on. Can you turn off it?",
+    "answers": [
+     "The heater is on. Can you turn it off?"
+    ],
+    "explain": "Pronombre en medio con separables."
+   },
+   {
+    "prompt": "The meeting was called out because of the storm.",
+    "answers": [
+     "The meeting was called off because of the storm."
+    ],
+    "explain": "Cancelar = call off; call out = gritar o llamar a alguien."
+   },
+   {
+    "prompt": "Please fill out this form and hand in it by Friday.",
+    "answers": [
+     "Please fill out this form and hand it in by Friday."
+    ],
+    "explain": "Pronombre it en medio: hand it in."
+   },
+   {
+    "prompt": "She came up a great idea to save time.",
+    "answers": [
+     "She came up with a great idea to save time."
+    ],
+    "explain": "Faltaba with."
+   },
+   {
+    "prompt": "I don't get along my new roommate.",
+    "answers": [
+     "I don't get along with my new roommate.",
+     "I do not get along with my new roommate."
+    ],
+    "explain": "Faltaba with."
+   },
+   {
+    "prompt": "The pump broke up this morning, so we stopped work.",
+    "answers": [
+     "The pump broke down this morning, so we stopped work."
+    ],
+    "explain": "Averiarse = break down, no break up."
+   },
+   {
+    "prompt": "We need to look the problem into before the audit.",
+    "answers": [
+     "We need to look into the problem before the audit."
+    ],
+    "explain": "Look into es inseparable."
+   },
+   {
+    "prompt": "He gave up to smoke last year.",
+    "answers": [
+     "He gave up smoking last year."
+    ],
+    "explain": "Después de partícula → -ing."
+   },
+   {
+    "prompt": "Did you found out who left the valve open?",
+    "answers": [
+     "Did you find out who left the valve open?"
+    ],
+    "explain": "Después de did, verbo base: find."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte a negativo y a pregunta: They set up the scaffolding yesterday.",
+   "answer": "They didn't set up the scaffolding yesterday. / Did they set up the scaffolding yesterday?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con la partícula correcta: up, out, off, down, back, into (algunas se repiten).",
+   "lines": [
+    {
+     "who": "Supervisor",
+     "text": "Good morning. Did the crew set [1] the scaffolding?"
+    },
+    {
+     "who": "Edwin",
+     "text": "Yes, but we ran [2] of bolts, so we couldn't finish."
+    },
+    {
+     "who": "Supervisor",
+     "text": "OK. And the generator? Yesterday it broke [3] twice."
+    },
+    {
+     "who": "Edwin",
+     "text": "The mechanic is looking [4] it. He thinks the filter is clogged."
+    },
+    {
+     "who": "Supervisor",
+     "text": "Fine. Please turn it [5] when you're not using it. Fuel is expensive."
+    },
+    {
+     "who": "Edwin",
+     "text": "Will do. Also, the client wants to put [6] the hydrotest until Thursday."
+    },
+    {
+     "who": "Supervisor",
+     "text": "Thursday? I'll call them [7] after lunch. Anything else?"
+    },
+    {
+     "who": "Edwin",
+     "text": "No, that's all. I'll write [8] the bolt sizes and send you the list."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "up"
+     ],
+     "explain": "Set up = montar (el andamio)."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "out"
+     ],
+     "explain": "Run out of = quedarse sin."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "down"
+     ],
+     "explain": "Break down = averiarse."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "into"
+     ],
+     "explain": "Look into = investigar; inseparable, por eso looking into it."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "off"
+     ],
+     "explain": "Turn it off = apagarlo (pronombre en medio)."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "off"
+     ],
+     "explain": "Put off = postergar."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "back"
+     ],
+     "explain": "Call them back = devolverles la llamada."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "down"
+     ],
+     "explain": "Write down = anotar."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un reporte diario (7 puntos). Escribe un correo de 6 a 8 oraciones a tu supervisor sobre el día en obra. Debe incluir: (a) carry out, (b) un problema con break down o run out of, (c) put off o call off, (d) un separable con pronombre en medio, (e) un phrasal verb de tres palabras, (f) follow up on o get back to, (g) todos los phrasal verbs en el tiempo verbal correcto.",
+   "rubric": [
+    "(a) carry out",
+    "(b) un problema con break down o run out of",
+    "(c) put off o call off",
+    "(d) un separable con pronombre en medio",
+    "(e) un phrasal verb de tres palabras",
+    "(f) follow up on o get back to",
+    "(g) todos los phrasal verbs en el tiempo verbal correcto"
+   ],
+   "model": "Subject: Daily report – Tank 12, October 14\nHi Sarah,\nToday we carried out the vacuum box test on the floor welds and found two small leaks. Unfortunately, the compressor broke down at 2 p.m., so we had to put off the coating work until tomorrow. We also ran out of grinding discs, and the warehouse will send some over in the morning. The new hot work permit arrived this afternoon. I filled it out and handed it in to the client. I'll follow up on the compressor repair tomorrow and get back to you by noon.\nBest regards,\nEdwin"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Explicar el sentido básico de 8 partículas.",
+   "test": "Sin mirar la Figura 23.1, escribe el significado de up, out, off, on, down, back, in/into y over con 2 ejemplos cada una, en 5 minutos."
+  },
+  {
+   "skill": "Recordar el significado de los 58 phrasal verbs.",
+   "test": "Tapa la columna \"Significado\" de la sección 2: 52 de 58 correctos (90 %)."
+  },
+  {
+   "skill": "Colocar bien el objeto (separable / inseparable).",
+   "test": "Reescribe 10 ejemplos con sustantivo de los grupos A y C de la sección 2 cambiándolo por it/them (turn off the pump → turn it off); 10 de 10."
+  },
+  {
+   "skill": "Usar phrasal verbs de tres palabras sin olvidar la preposición.",
+   "test": "Di en voz alta 5 oraciones con run out of, come up with, get along with, put up with, get back to. Cero omisiones."
+  },
+  {
+   "skill": "Cambiar de registro: phrasal verb ↔ verbo formal.",
+   "test": "Convierte las 6 frases de la tabla de la Parte 3 de una columna a la otra sin mirar; 6 de 6."
+  },
+  {
+   "skill": "Dar un reporte oral de obra con phrasal verbs.",
+   "test": "Grábate 1 minuto contando tu día con al menos 6 phrasal verbs distintos, enlazando verbo y partícula."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What time do you usually get up on weekdays?",
+  "How do you get along with your coworkers?",
+  "Have you ever had to put off an important plan? Why?",
+  "What do you do when you run out of time on a project?",
+  "Is there a habit you would like to give up?",
+  "Who do you look up to, and why?"
+ ]
+}

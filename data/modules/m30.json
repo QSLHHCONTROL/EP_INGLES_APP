@@ -1,0 +1,1044 @@
+{
+ "id": 30,
+ "level": "C1",
+ "title": "Collocations avanzadas y precisión léxica (make vs do, rise vs raise)",
+ "goal": "Al terminar podrás elegir el verbo y el adjetivo exactos que un nativo combina con cada sustantivo (make a decision, do research, pay attention, heavy rain), distinguir pares confusos como rise/raise y lie/lay, y redactar un correo técnico sin calcos del español.",
+ "lesson": [
+  {
+   "title": "¿Qué es una collocation?",
+   "html": "<p>Una <b>collocation</b> es una combinación de palabras que los nativos usan juntas por costumbre, no por lógica: <span class=\"en\">make a mistake</span>, <span class=\"en\">do research</span>, <span class=\"en\">heavy rain</span>. La gramática no prohíbe <span class=\"wrong\">do a mistake</span> ni <span class=\"wrong\">strong rain</span>, pero un nativo las nota al instante. En nivel C1 ya no basta con que te entiendan: un informe o un correo con calcos se ve menos profesional, aunque cada palabra exista.</p><p>El problema para el hispanohablante es que el español usa verbos \"comodín\" (<i>hacer, tomar, dar, subir</i>) y el inglés reparte esos significados entre varios verbos. No se trata de traducir el verbo, sino de aprender <b>el sustantivo con su verbo compañero</b>.</p>",
+   "svg": "<svg viewBox=\"0 0 640 330\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"20\" width=\"180\" height=\"36\" rx=\"6\" fill=\"#1D2939\"/>\n  <text x=\"110\" y=\"43\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#fff\">SUSTANTIVO</text>\n  <rect x=\"200\" y=\"20\" width=\"420\" height=\"36\" rx=\"6\" fill=\"#6941C6\"/>\n  <text x=\"242\" y=\"43\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">MAKE</text>\n  <text x=\"326\" y=\"43\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">DO</text>\n  <text x=\"410\" y=\"43\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">TAKE</text>\n  <text x=\"494\" y=\"43\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">PAY</text>\n  <text x=\"578\" y=\"43\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">GIVE</text>\n  <rect x=\"20\" y=\"56\" width=\"600\" height=\"30\" fill=\"#F2EEFC\"/>\n  <rect x=\"20\" y=\"116\" width=\"600\" height=\"30\" fill=\"#F2EEFC\"/>\n  <rect x=\"20\" y=\"176\" width=\"600\" height=\"30\" fill=\"#F2EEFC\"/>\n  <rect x=\"20\" y=\"236\" width=\"600\" height=\"30\" fill=\"#F2EEFC\"/>\n  <rect x=\"20\" y=\"56\" width=\"600\" height=\"240\" fill=\"none\" stroke=\"#98A2B3\"/>\n  <line x1=\"200\" y1=\"56\" x2=\"200\" y2=\"296\" stroke=\"#98A2B3\"/>\n  <line x1=\"284\" y1=\"56\" x2=\"284\" y2=\"296\" stroke=\"#D0D5DD\"/>\n  <line x1=\"368\" y1=\"56\" x2=\"368\" y2=\"296\" stroke=\"#D0D5DD\"/>\n  <line x1=\"452\" y1=\"56\" x2=\"452\" y2=\"296\" stroke=\"#D0D5DD\"/>\n  <line x1=\"536\" y1=\"56\" x2=\"536\" y2=\"296\" stroke=\"#D0D5DD\"/>\n  <g font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">\n    <text x=\"34\" y=\"76\">a mistake</text>\n    <text x=\"34\" y=\"106\">progress</text>\n    <text x=\"34\" y=\"136\">research</text>\n    <text x=\"34\" y=\"166\">business</text>\n    <text x=\"34\" y=\"196\">a risk</text>\n    <text x=\"34\" y=\"226\">a nap</text>\n    <text x=\"34\" y=\"256\">attention</text>\n    <text x=\"34\" y=\"286\">feedback</text>\n  </g>\n  <g fill=\"#6941C6\">\n    <circle cx=\"242\" cy=\"71\" r=\"10\"/><circle cx=\"242\" cy=\"101\" r=\"10\"/>\n    <circle cx=\"326\" cy=\"131\" r=\"10\"/><circle cx=\"326\" cy=\"161\" r=\"10\"/>\n    <circle cx=\"410\" cy=\"191\" r=\"10\"/><circle cx=\"410\" cy=\"221\" r=\"10\"/>\n    <circle cx=\"494\" cy=\"251\" r=\"10\"/><circle cx=\"578\" cy=\"281\" r=\"10\"/>\n  </g>\n  <g fill=\"none\" stroke=\"#fff\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <path d=\"M236 71 L240 75 L248 66\"/><path d=\"M236 101 L240 105 L248 96\"/>\n    <path d=\"M320 131 L324 135 L332 126\"/><path d=\"M320 161 L324 165 L332 156\"/>\n    <path d=\"M404 191 L408 195 L416 186\"/><path d=\"M404 221 L408 225 L416 216\"/>\n    <path d=\"M488 251 L492 255 L500 246\"/><path d=\"M572 281 L576 285 L584 276\"/>\n  </g>\n  <circle cx=\"30\" cy=\"316\" r=\"7\" fill=\"#6941C6\"/>\n  <text x=\"44\" y=\"320\" font-size=\"12\" fill=\"#344054\">= combinación natural · celda vacía = suena rara o cambia el sentido</text>\n</svg>",
+   "caption": "Figura 30.1 — Rejilla de collocations: cada sustantivo \"elige\" su verbo. Lee cada fila en voz alta: make a mistake, do research, take a nap…"
+  },
+  {
+   "title": "MAKE vs DO",
+   "html": "<table>\n<thead><tr><th>Verbo</th><th>Idea central</th><th>Categoría</th><th>Ejemplos</th></tr></thead>\n<tbody>\n<tr><td><span class=\"en\">MAKE</span></td><td>Crear, producir o provocar un resultado que antes no existía.</td><td>Decisiones y planes</td><td><span class=\"en\">a decision, a plan, arrangements</span></td></tr>\n<tr><td>Comunicación</td><td><span class=\"en\">a call, a complaint, a request, a suggestion, an offer</span></td></tr>\n<tr><td>Dinero y resultados</td><td><span class=\"en\">money, a profit, a loss, progress</span></td></tr>\n<tr><td>Errores y ruidos</td><td><span class=\"en\">a mistake, a noise, a mess</span></td></tr>\n<tr><td>Cambios</td><td><span class=\"en\">changes, improvements, an exception</span></td></tr>\n<tr><td><span class=\"en\">DO</span></td><td>Realizar una actividad, una tarea o un trabajo (lo importante es la acción, no el producto).</td><td>Trabajo y tareas</td><td><span class=\"en\">a job, the paperwork, research, an assignment</span></td></tr>\n<tr><td>Tareas de casa</td><td><span class=\"en\">the dishes, the laundry, the shopping</span></td></tr>\n<tr><td>Con palabras indefinidas</td><td><span class=\"en\">something, anything, nothing, everything</span></td></tr>\n<tr><td>Favor, daño, bien</td><td><span class=\"en\">a favor, damage, harm, good</span></td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 262\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"20\" width=\"260\" height=\"60\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"150\" y=\"45\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">¿Creas o produces algo</text>\n  <text x=\"150\" y=\"65\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">que antes no existía?</text>\n  <rect x=\"360\" y=\"20\" width=\"260\" height=\"60\" rx=\"10\" fill=\"#6941C6\"/>\n  <text x=\"490\" y=\"46\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#fff\">MAKE</text>\n  <text x=\"490\" y=\"68\" text-anchor=\"middle\" font-size=\"12\" fill=\"#F2EEFC\">a plan, a profit, a noise, a decision</text>\n  <line x1=\"280\" y1=\"50\" x2=\"350\" y2=\"50\" stroke=\"#079455\" stroke-width=\"2.5\"/>\n  <polygon points=\"350,44 360,50 350,56\" fill=\"#079455\"/>\n  <text x=\"315\" y=\"42\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#079455\">Sí</text>\n  <line x1=\"150\" y1=\"80\" x2=\"150\" y2=\"100\" stroke=\"#D92D20\" stroke-width=\"2.5\"/>\n  <polygon points=\"144,100 150,110 156,100\" fill=\"#D92D20\"/>\n  <text x=\"162\" y=\"98\" font-size=\"12\" font-weight=\"700\" fill=\"#D92D20\">No</text>\n  <rect x=\"20\" y=\"110\" width=\"260\" height=\"60\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"150\" y=\"135\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">¿Es una tarea, un trabajo</text>\n  <text x=\"150\" y=\"155\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">o una actividad?</text>\n  <rect x=\"360\" y=\"110\" width=\"260\" height=\"60\" rx=\"10\" fill=\"#4A2B91\"/>\n  <text x=\"490\" y=\"136\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#fff\">DO</text>\n  <text x=\"490\" y=\"158\" text-anchor=\"middle\" font-size=\"12\" fill=\"#F2EEFC\">research, the paperwork, a job</text>\n  <line x1=\"280\" y1=\"140\" x2=\"350\" y2=\"140\" stroke=\"#079455\" stroke-width=\"2.5\"/>\n  <polygon points=\"350,134 360,140 350,146\" fill=\"#079455\"/>\n  <text x=\"315\" y=\"132\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#079455\">Sí</text>\n  <line x1=\"150\" y1=\"170\" x2=\"150\" y2=\"190\" stroke=\"#D92D20\" stroke-width=\"2.5\"/>\n  <polygon points=\"144,190 150,200 156,190\" fill=\"#D92D20\"/>\n  <text x=\"162\" y=\"188\" font-size=\"12\" font-weight=\"700\" fill=\"#D92D20\">No / no estoy seguro</text>\n  <rect x=\"20\" y=\"200\" width=\"600\" height=\"46\" rx=\"10\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"228\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#7A5B00\">Expresión fija → memorízala como bloque: make sure, do a favor, make friends</text>\n</svg>",
+   "caption": "Figura 30.2 — Mapa de decisión MAKE o DO. La regla da la tendencia; las expresiones fijas mandan."
+  },
+  {
+   "title": "Reglas de oro 1 y 2",
+   "html": "<p><b>Regla de oro 1 — Aprende el sustantivo con su compañero</b></p><p>No memorices <i>decision</i>; memoriza <span class=\"en\">make a decision</span>. No memorices <i>attention</i>; memoriza <span class=\"en\">pay attention to</span>. El bloque completo es la unidad mínima de vocabulario.</p><p><b>Regla de oro 2 — No traduzcas los verbos comodín</b></p><p><i>Hacer, tomar, dar, tener, poner</i> casi nunca se traducen directo. Parte siempre del sustantivo inglés y busca su verbo: <span class=\"es\">hacer una pregunta</span> → <span class=\"ok\">ask a question</span>; <span class=\"es\">prestar atención</span> → <span class=\"ok\">pay attention</span>; <span class=\"es\">tener en cuenta</span> → <span class=\"ok\">take into account</span>.</p>"
+  },
+  {
+   "title": "Pares confusos: con o sin objeto",
+   "html": "<p>Muchos pares difíciles se resuelven con una sola pregunta: <b>¿hay objeto directo?</b> Si algo \"sube solo\", el verbo es <i>intransitivo</i> (<span class=\"en\">rise</span>). Si alguien sube <b>algo</b>, es <i>transitivo</i> (<span class=\"en\">raise</span>). Lo mismo con <span class=\"en\">lie</span> (estar tendido) y <span class=\"en\">lay</span> (colocar algo).</p><table>\n<thead><tr><th>Verbo</th><th>Objeto</th><th>Pasado</th><th>Participio</th><th>-ing</th><th>Ejemplo</th></tr></thead>\n<tbody>\n<tr><td><span class=\"en\">rise (subir, elevarse)</span></td><td>No</td><td>rose</td><td>risen</td><td>rising</td><td><span class=\"en\">Costs have risen again.</span></td></tr>\n<tr><td><span class=\"en\">raise (subir algo, plantear)</span></td><td>Sí</td><td>raised</td><td>raised</td><td>raising</td><td><span class=\"en\">They raised the budget.</span></td></tr>\n<tr><td><span class=\"en\">arise (surgir)</span></td><td>No</td><td>arose</td><td>arisen</td><td>arising</td><td><span class=\"en\">A problem arose.</span></td></tr>\n<tr><td><span class=\"en\">lie (estar tendido)</span></td><td>No</td><td>lay</td><td>lain</td><td>lying</td><td><span class=\"en\">The pipe lay in the mud.</span></td></tr>\n<tr><td><span class=\"en\">lay (colocar, tender)</span></td><td>Sí</td><td>laid</td><td>laid</td><td>laying</td><td><span class=\"en\">They laid the cable.</span></td></tr>\n<tr><td><span class=\"en\">lie (mentir)</span></td><td>No</td><td>lied</td><td>lied</td><td>lying</td><td><span class=\"en\">He lied about the test.</span></td></tr>\n</tbody></table><p><b>Regla de oro 3 — Objeto directo → raise / lay; sin objeto → rise / lie</b></p><p>Prueba con \"¿qué?\": <span class=\"en\">They raised… ¿qué?</span> → <i>the price</i>. Hay respuesta: raise. <span class=\"en\">Prices rose… ¿qué?</span> → nada. Sin respuesta: rise. Al hablar y en correos es muy común <span class=\"en\">go up</span> como sinónimo menos formal de <i>rise</i>: <span class=\"en\">Prices went up 8%.</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 312\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"10\" width=\"290\" height=\"135\" rx=\"12\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"40\" y=\"42\" font-size=\"22\" font-weight=\"800\" fill=\"#6941C6\">RISE</text>\n  <text x=\"40\" y=\"62\" font-size=\"12\" fill=\"#344054\">sin objeto: sube solo</text>\n  <text x=\"40\" y=\"88\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">rise · rose · risen</text>\n  <text x=\"40\" y=\"112\" font-size=\"13\" fill=\"#1D2939\">Prices rose 8%.</text>\n  <text x=\"40\" y=\"132\" font-size=\"13\" fill=\"#1D2939\">The sun rises at 6.</text>\n  <rect x=\"236\" y=\"104\" width=\"12\" height=\"26\" fill=\"#B9A6E8\"/>\n  <rect x=\"254\" y=\"88\" width=\"12\" height=\"42\" fill=\"#9B83DD\"/>\n  <rect x=\"272\" y=\"68\" width=\"12\" height=\"62\" fill=\"#6941C6\"/>\n  <line x1=\"232\" y1=\"96\" x2=\"284\" y2=\"44\" stroke=\"#6941C6\" stroke-width=\"2.5\"/>\n  <polygon points=\"279,40 292,36 288,49\" fill=\"#6941C6\"/>\n  <rect x=\"330\" y=\"10\" width=\"290\" height=\"135\" rx=\"12\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"350\" y=\"42\" font-size=\"22\" font-weight=\"800\" fill=\"#E8590C\">RAISE</text>\n  <text x=\"350\" y=\"62\" font-size=\"12\" fill=\"#344054\">+ objeto: alguien sube algo</text>\n  <text x=\"350\" y=\"88\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">raise · raised · raised</text>\n  <text x=\"350\" y=\"112\" font-size=\"13\" fill=\"#1D2939\">They raised prices 8%.</text>\n  <text x=\"350\" y=\"132\" font-size=\"13\" fill=\"#1D2939\">Raise your hand.</text>\n  <rect x=\"556\" y=\"30\" width=\"50\" height=\"26\" rx=\"4\" fill=\"#E8590C\"/>\n  <text x=\"581\" y=\"48\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#fff\">precio</text>\n  <line x1=\"581\" y1=\"120\" x2=\"581\" y2=\"66\" stroke=\"#E8590C\" stroke-width=\"3\"/>\n  <polygon points=\"574,68 581,58 588,68\" fill=\"#E8590C\"/>\n  <text x=\"581\" y=\"134\" text-anchor=\"middle\" font-size=\"11\" fill=\"#E8590C\">alguien</text>\n  <rect x=\"20\" y=\"160\" width=\"290\" height=\"120\" rx=\"12\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"40\" y=\"190\" font-size=\"22\" font-weight=\"800\" fill=\"#6941C6\">LIE</text>\n  <text x=\"40\" y=\"210\" font-size=\"12\" fill=\"#344054\">sin objeto: estar tendido, estar ahí</text>\n  <text x=\"40\" y=\"236\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">lie · lay · lain</text>\n  <text x=\"40\" y=\"262\" font-size=\"12\" fill=\"#1D2939\">The pipe lay in the mud for a week.</text>\n  <rect x=\"330\" y=\"160\" width=\"290\" height=\"120\" rx=\"12\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"350\" y=\"190\" font-size=\"22\" font-weight=\"800\" fill=\"#0E9384\">LAY</text>\n  <text x=\"350\" y=\"210\" font-size=\"12\" fill=\"#344054\">+ objeto: colocar algo, tender</text>\n  <text x=\"350\" y=\"236\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">lay · laid · laid</text>\n  <text x=\"350\" y=\"262\" font-size=\"12\" fill=\"#1D2939\">Lay the pipe on the supports.</text>\n  <text x=\"320\" y=\"302\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#D92D20\">Trampa: lay es también el pasado de lie (The pipe lay there).</text>\n</svg>",
+   "caption": "Figura 30.3 — Pares confusos: a la izquierda el verbo sin objeto; a la derecha, el verbo que necesita objeto."
+  },
+  {
+   "title": "Así piensa un nativo",
+   "html": "<p><b>Así piensa un nativo — oye bloques, no palabras</b></p><p>Un nativo no aplica la regla make/do: ha oído <span class=\"en\">make a mistake</span> miles de veces y lo procesa como una sola palabra. Por eso <span class=\"wrong\">do a mistake</span> le \"suena\" mal aunque lo entienda. Tu meta es la misma: que el bloque te salga entero, sin pensar en el verbo. La vía más rápida es leer y escuchar mucho, y anotar cada bloque nuevo con su verbo, no la palabra suelta.</p>"
+  },
+  {
+   "title": "Traducción directa vs inglés real",
+   "html": "<p><b>Lo que piensas en español</b><br>Hacer una pregunta<br/>Tomar una decisión<br/>Prestar atención<br/>Realizar una inspección<br/>Los precios subieron<br/>Lluvia fuerte</p><p><b>Lo que dice un nativo</b><br><span class=\"en\">ask a question</span> <span class=\"wrong\">make a question</span><br/>\n<span class=\"en\">make a decision</span> <span class=\"wrong\">do a decision</span><br/>\n<span class=\"en\">pay attention</span> <span class=\"wrong\">lend attention</span><br/>\n<span class=\"en\">carry out an inspection</span> <span class=\"wrong\">realize an inspection</span><br/>\n<span class=\"en\">prices rose</span> <span class=\"wrong\">prices raised</span><br/>\n<span class=\"en\">heavy rain</span> <span class=\"wrong\">strong rain</span></p><table>\n<thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead>\n<tbody>\n<tr><td>cometer un error</td><td><span class=\"wrong\">commit an error</span></td><td><span class=\"en\">make a mistake</span></td></tr>\n<tr><td>sacar una foto</td><td><span class=\"wrong\">take out a photo</span></td><td><span class=\"en\">take a photo</span></td></tr>\n<tr><td>tener en cuenta</td><td><span class=\"wrong\">have in account</span></td><td><span class=\"en\">take into account</span></td></tr>\n<tr><td>ganar dinero (trabajando)</td><td><span class=\"wrong\">win money</span></td><td><span class=\"en\">make / earn money</span></td></tr>\n<tr><td>hacer una fiesta</td><td><span class=\"wrong\">make a party</span></td><td><span class=\"en\">have / throw a party</span></td></tr>\n<tr><td>pasarla bien</td><td><span class=\"wrong\">pass a good time</span></td><td><span class=\"en\">have a good time</span></td></tr>\n<tr><td>perder el bus</td><td><span class=\"wrong\">lose the bus</span></td><td><span class=\"en\">miss the bus</span></td></tr>\n<tr><td>subir los sueldos</td><td><span class=\"wrong\">rise the salaries</span></td><td><span class=\"en\">raise salaries</span></td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 262\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <g stroke=\"#B9A6E8\" stroke-width=\"2\">\n    <line x1=\"272\" y1=\"118\" x2=\"220\" y2=\"45\"/>\n    <line x1=\"270\" y1=\"130\" x2=\"220\" y2=\"130\"/>\n    <line x1=\"272\" y1=\"142\" x2=\"220\" y2=\"215\"/>\n    <line x1=\"368\" y1=\"118\" x2=\"420\" y2=\"45\"/>\n    <line x1=\"370\" y1=\"130\" x2=\"420\" y2=\"130\"/>\n    <line x1=\"368\" y1=\"142\" x2=\"420\" y2=\"215\"/>\n  </g>\n  <circle cx=\"320\" cy=\"130\" r=\"52\" fill=\"#6941C6\"/>\n  <text x=\"320\" y=\"132\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#fff\">fuerte</text>\n  <text x=\"320\" y=\"152\" text-anchor=\"middle\" font-size=\"11\" fill=\"#F2EEFC\">(en español)</text>\n  <g font-family=\"Inter, sans-serif\">\n    <rect x=\"20\" y=\"20\" width=\"200\" height=\"50\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n    <text x=\"36\" y=\"39\" font-size=\"11\" fill=\"#667085\">lluvia fuerte</text>\n    <text x=\"36\" y=\"60\" font-size=\"15\" font-weight=\"800\" fill=\"#1D2939\">heavy rain</text>\n    <rect x=\"20\" y=\"105\" width=\"200\" height=\"50\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n    <text x=\"36\" y=\"124\" font-size=\"11\" fill=\"#667085\">viento fuerte</text>\n    <text x=\"36\" y=\"145\" font-size=\"15\" font-weight=\"800\" fill=\"#1D2939\">strong wind</text>\n    <rect x=\"20\" y=\"190\" width=\"200\" height=\"50\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n    <text x=\"36\" y=\"209\" font-size=\"11\" fill=\"#667085\">café fuerte (cargado)</text>\n    <text x=\"36\" y=\"230\" font-size=\"15\" font-weight=\"800\" fill=\"#1D2939\">strong coffee</text>\n    <rect x=\"420\" y=\"20\" width=\"200\" height=\"50\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n    <text x=\"436\" y=\"39\" font-size=\"11\" fill=\"#667085\">ruido fuerte</text>\n    <text x=\"436\" y=\"60\" font-size=\"15\" font-weight=\"800\" fill=\"#1D2939\">loud noise</text>\n    <rect x=\"420\" y=\"105\" width=\"200\" height=\"50\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n    <text x=\"436\" y=\"124\" font-size=\"11\" fill=\"#667085\">dolor fuerte</text>\n    <text x=\"436\" y=\"145\" font-size=\"15\" font-weight=\"800\" fill=\"#1D2939\">severe pain</text>\n    <rect x=\"420\" y=\"190\" width=\"200\" height=\"50\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n    <text x=\"436\" y=\"209\" font-size=\"11\" fill=\"#667085\">golpe fuerte</text>\n    <text x=\"436\" y=\"230\" font-size=\"15\" font-weight=\"800\" fill=\"#1D2939\">a hard blow</text>\n  </g>\n</svg>",
+   "caption": "Figura 30.4 — Un solo \"fuerte\" en español, varios adjetivos en inglés. El sustantivo decide el adjetivo."
+  },
+  {
+   "title": "El bloque no se rompe",
+   "html": "<p>En negativo y pregunta la collocation queda intacta; solo cambia el auxiliar. Ojo con los verbos irregulares: el pasado (<i>rose, made, took</i>) aparece <b>solo en afirmativo</b>. Con <i>did / didn't</i> vuelve la forma base.</p><table>\n<thead><tr><th></th><th>Estructura</th><th>Ejemplo con MAKE</th><th>Ejemplo con RISE</th></tr></thead>\n<tbody>\n<tr><td><b>Afirmativo</b></td><td>Sujeto + verbo (pasado) + sustantivo</td><td><span class=\"en\">We made progress.</span></td><td><span class=\"en\">Prices rose.</span></td></tr>\n<tr><td><b>Negativo</b></td><td>Sujeto + didn't + verbo base + …</td><td><span class=\"en\">We didn't make much progress.</span></td><td><span class=\"en\">Prices didn't rise.</span></td></tr>\n<tr><td><b>Pregunta</b></td><td>Did + sujeto + verbo base + …?</td><td><span class=\"en\">Did you make any progress?</span></td><td><span class=\"en\">Did prices rise?</span></td></tr>\n<tr><td><b>Respuesta corta</b></td><td>Yes / No, + sujeto + did / didn't.</td><td><span class=\"en\">Yes, we did.</span></td><td><span class=\"en\">No, they didn't.</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Detalles finos: EE. UU. vs británico",
+   "html": "<p><b>Detalles finos — inglés estadounidense vs británico</b></p><ul>\n<li>Aumento de sueldo: <span class=\"en\">a raise</span> (EE. UU.) / <span class=\"en\">a pay rise</span> (Reino Unido). <span class=\"en\">A rise in prices</span> se usa en ambos.</li>\n<li><span class=\"en\">take a decision</span> existe en inglés británico formal; en EE. UU. lo normal es <span class=\"en\">make a decision</span>.</li>\n<li><span class=\"en\">take a shower / a nap</span> (EE. UU.) = <span class=\"en\">have a shower / a nap</span> (Reino Unido).</li>\n<li><i>Research</i>, <i>progress</i>, <i>advice</i>, <i>feedback</i> y <i>damage</i> son incontables: <span class=\"ok\">do research</span>, nunca <span class=\"wrong\">do a research</span>; <span class=\"ok\">some feedback</span>, nunca <span class=\"wrong\">a feedback</span>.</li>\n<li>Algunas collocations tienen grados: <span class=\"en\">a big mistake</span> (neutral) → <span class=\"en\">a serious mistake</span> (más formal) → <span class=\"en\">a grave mistake</span> (muy formal, escrito).</li>\n</ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "make a decision",
+   "pron": "meik ə di-SÍ-zhən",
+   "es": "tomar una decisión",
+   "group": "A. MAKE — decisiones, resultados y cambios"
+  },
+  {
+   "en": "make a mistake",
+   "pron": "meik ə mis-TÉIK",
+   "es": "cometer un error",
+   "group": "A. MAKE — decisiones, resultados y cambios"
+  },
+  {
+   "en": "make progress",
+   "pron": "meik PRÓ-gres",
+   "es": "avanzar, progresar",
+   "group": "A. MAKE — decisiones, resultados y cambios"
+  },
+  {
+   "en": "make an effort",
+   "pron": "meik ən É-fərt",
+   "es": "hacer un esfuerzo",
+   "group": "A. MAKE — decisiones, resultados y cambios"
+  },
+  {
+   "en": "make an exception",
+   "pron": "meik ən ek-SÉP-shən",
+   "es": "hacer una excepción",
+   "group": "A. MAKE — decisiones, resultados y cambios"
+  },
+  {
+   "en": "make arrangements",
+   "pron": "meik ə-RÉINCH-mənts",
+   "es": "organizar, coordinar (logística)",
+   "group": "A. MAKE — decisiones, resultados y cambios"
+  },
+  {
+   "en": "make sure (that)…",
+   "pron": "meik SHUR",
+   "es": "asegurarse de que…",
+   "group": "A. MAKE — decisiones, resultados y cambios"
+  },
+  {
+   "en": "make a difference",
+   "pron": "meik ə DÍ-frəns",
+   "es": "marcar la diferencia",
+   "group": "A. MAKE — decisiones, resultados y cambios"
+  },
+  {
+   "en": "do business (with)",
+   "pron": "du BÍZ-nəs",
+   "es": "hacer negocios (con)",
+   "group": "B. DO — tareas, trabajo y actividades"
+  },
+  {
+   "en": "do research",
+   "pron": "du RÍ-serch",
+   "es": "investigar (incontable)",
+   "group": "B. DO — tareas, trabajo y actividades"
+  },
+  {
+   "en": "do someone a favor",
+   "pron": "du SAM-wan ə FÉI-vər",
+   "es": "hacerle un favor a alguien",
+   "group": "B. DO — tareas, trabajo y actividades"
+  },
+  {
+   "en": "do the paperwork",
+   "pron": "du dhə PÉI-pər-werk",
+   "es": "hacer el papeleo",
+   "group": "B. DO — tareas, trabajo y actividades"
+  },
+  {
+   "en": "do damage (to)",
+   "pron": "du DÁ-mich",
+   "es": "causar daños (a)",
+   "group": "B. DO — tareas, trabajo y actividades"
+  },
+  {
+   "en": "do your best",
+   "pron": "du yor BEST",
+   "es": "hacer todo lo posible",
+   "group": "B. DO — tareas, trabajo y actividades"
+  },
+  {
+   "en": "do a good job",
+   "pron": "du ə gud YOB",
+   "es": "hacer un buen trabajo",
+   "group": "B. DO — tareas, trabajo y actividades"
+  },
+  {
+   "en": "take a risk",
+   "pron": "teik ə RISK",
+   "es": "correr un riesgo",
+   "group": "C. TAKE, PAY, GIVE, HAVE"
+  },
+  {
+   "en": "take steps / measures",
+   "pron": "teik STEPS / MÉ-zhərz",
+   "es": "tomar medidas",
+   "group": "C. TAKE, PAY, GIVE, HAVE"
+  },
+  {
+   "en": "take … into account",
+   "pron": "teik … in-tu ə-KÁUNT",
+   "es": "tener en cuenta",
+   "group": "C. TAKE, PAY, GIVE, HAVE"
+  },
+  {
+   "en": "pay attention (to)",
+   "pron": "pei ə-TÉN-shən",
+   "es": "prestar atención (a)",
+   "group": "C. TAKE, PAY, GIVE, HAVE"
+  },
+  {
+   "en": "pay a visit (to)",
+   "pron": "pei ə VÍ-zit",
+   "es": "hacer una visita (a)",
+   "group": "C. TAKE, PAY, GIVE, HAVE"
+  },
+  {
+   "en": "give a presentation",
+   "pron": "guiv ə pre-zən-TÉI-shən",
+   "es": "dar una presentación",
+   "group": "C. TAKE, PAY, GIVE, HAVE"
+  },
+  {
+   "en": "give feedback",
+   "pron": "guiv FÍD-bak",
+   "es": "dar comentarios, retroalimentación",
+   "group": "C. TAKE, PAY, GIVE, HAVE"
+  },
+  {
+   "en": "have a look (at)",
+   "pron": "jav ə LUK",
+   "es": "echar un vistazo (a)",
+   "group": "C. TAKE, PAY, GIVE, HAVE"
+  },
+  {
+   "en": "Prices rose sharply.",
+   "pron": "PRÁI-siz rouz SHÁRP-li",
+   "es": "Los precios subieron bruscamente.",
+   "group": "D. RISE, RAISE, ARISE — subir, plantear, surgir"
+  },
+  {
+   "en": "a sharp rise in…",
+   "pron": "ə sharp RÁIZ in",
+   "es": "un fuerte aumento de…",
+   "group": "D. RISE, RAISE, ARISE — subir, plantear, surgir"
+  },
+  {
+   "en": "raise an issue / a concern",
+   "pron": "reiz ən Í-shu / ə kən-SÉRN",
+   "es": "plantear un tema / una inquietud",
+   "group": "D. RISE, RAISE, ARISE — subir, plantear, surgir"
+  },
+  {
+   "en": "raise prices / salaries",
+   "pron": "reiz PRÁI-siz / SÁ-lə-riz",
+   "es": "subir precios / sueldos",
+   "group": "D. RISE, RAISE, ARISE — subir, plantear, surgir"
+  },
+  {
+   "en": "raise money / funds",
+   "pron": "reiz MÁ-ni / FANDZ",
+   "es": "recaudar dinero / fondos",
+   "group": "D. RISE, RAISE, ARISE — subir, plantear, surgir"
+  },
+  {
+   "en": "raise awareness (of)",
+   "pron": "reiz ə-WÉR-nəs",
+   "es": "concientizar (sobre)",
+   "group": "D. RISE, RAISE, ARISE — subir, plantear, surgir"
+  },
+  {
+   "en": "get a raise",
+   "pron": "guet ə RÉIZ",
+   "es": "recibir un aumento de sueldo (EE. UU.)",
+   "group": "D. RISE, RAISE, ARISE — subir, plantear, surgir"
+  },
+  {
+   "en": "A problem arose.",
+   "pron": "ə PRÓ-bləm ə-RÓUZ",
+   "es": "Surgió un problema.",
+   "group": "D. RISE, RAISE, ARISE — subir, plantear, surgir"
+  },
+  {
+   "en": "rise to the challenge",
+   "pron": "raiz tə dhə CHÁ-lənch",
+   "es": "estar a la altura del reto",
+   "group": "D. RISE, RAISE, ARISE — subir, plantear, surgir"
+  },
+  {
+   "en": "heavy rain / heavy traffic",
+   "pron": "JÉ-vi REIN / JÉ-vi TRÁ-fik",
+   "es": "lluvia fuerte / mucho tráfico",
+   "group": "E. Adjetivo + sustantivo"
+  },
+  {
+   "en": "strong wind / strong coffee",
+   "pron": "strong WIND / strong KÓ-fi",
+   "es": "viento fuerte / café cargado",
+   "group": "E. Adjetivo + sustantivo"
+  },
+  {
+   "en": "a high risk",
+   "pron": "ə jai RISK",
+   "es": "un riesgo alto",
+   "group": "E. Adjetivo + sustantivo"
+  },
+  {
+   "en": "a tight deadline",
+   "pron": "ə tait DÉD-lain",
+   "es": "un plazo ajustado",
+   "group": "E. Adjetivo + sustantivo"
+  },
+  {
+   "en": "a rough estimate",
+   "pron": "ə raf ÉS-ti-mət",
+   "es": "un estimado aproximado",
+   "group": "E. Adjetivo + sustantivo"
+  },
+  {
+   "en": "a steep learning curve",
+   "pron": "ə stip LÉR-ning kerv",
+   "es": "mucho que aprender en poco tiempo",
+   "group": "E. Adjetivo + sustantivo"
+  },
+  {
+   "en": "a major setback",
+   "pron": "ə MÉI-yər SÉT-bak",
+   "es": "un revés importante",
+   "group": "E. Adjetivo + sustantivo"
+  },
+  {
+   "en": "a serious mistake",
+   "pron": "ə SÍ-ri-əs mis-TÉIK",
+   "es": "un error grave",
+   "group": "E. Adjetivo + sustantivo"
+  },
+  {
+   "en": "highly unlikely",
+   "pron": "JÁI-li an-LÁIK-li",
+   "es": "muy improbable",
+   "group": "F. Adverbio + adjetivo / verbo"
+  },
+  {
+   "en": "fully aware (of)",
+   "pron": "FÚ-li ə-WÉR",
+   "es": "plenamente consciente (de)",
+   "group": "F. Adverbio + adjetivo / verbo"
+  },
+  {
+   "en": "deeply concerned",
+   "pron": "DÍP-li kən-SÉRND",
+   "es": "profundamente preocupado",
+   "group": "F. Adverbio + adjetivo / verbo"
+  },
+  {
+   "en": "strongly recommend",
+   "pron": "STRÓNG-li re-kə-MÉND",
+   "es": "recomendar encarecidamente",
+   "group": "F. Adverbio + adjetivo / verbo"
+  },
+  {
+   "en": "bitterly disappointed",
+   "pron": "BÍ-tər-li di-sə-PÓIN-tid",
+   "es": "profundamente decepcionado",
+   "group": "F. Adverbio + adjetivo / verbo"
+  },
+  {
+   "en": "closely monitor",
+   "pron": "KLÓUS-li MÓ-ni-tər",
+   "es": "vigilar de cerca",
+   "group": "F. Adverbio + adjetivo / verbo"
+  },
+  {
+   "en": "widely used",
+   "pron": "WÁID-li YUZD",
+   "es": "ampliamente usado",
+   "group": "F. Adverbio + adjetivo / verbo"
+  },
+  {
+   "en": "carry out an inspection",
+   "pron": "KÉ-ri aut ən in-SPÉK-shən",
+   "es": "realizar una inspección",
+   "group": "G. Collocations técnicas y de proyecto"
+  },
+  {
+   "en": "conduct / perform a test",
+   "pron": "kən-DÁKT / pər-FÓRM ə TEST",
+   "es": "realizar una prueba",
+   "group": "G. Collocations técnicas y de proyecto"
+  },
+  {
+   "en": "meet the requirements",
+   "pron": "mit dhə ri-KWÁIR-mənts",
+   "es": "cumplir los requisitos",
+   "group": "G. Collocations técnicas y de proyecto"
+  },
+  {
+   "en": "comply with the code",
+   "pron": "kəm-PLÁI widh dhə KOUD",
+   "es": "cumplir con el código / la norma",
+   "group": "G. Collocations técnicas y de proyecto"
+  },
+  {
+   "en": "meet / miss a deadline",
+   "pron": "mit / mis ə DÉD-lain",
+   "es": "cumplir / incumplir un plazo",
+   "group": "G. Collocations técnicas y de proyecto"
+  },
+  {
+   "en": "issue a report",
+   "pron": "Í-shu ə ri-PÓRT",
+   "es": "emitir un informe",
+   "group": "G. Collocations técnicas y de proyecto"
+  },
+  {
+   "en": "submit a proposal",
+   "pron": "səb-MÍT ə prə-PÓU-zəl",
+   "es": "presentar una propuesta",
+   "group": "G. Collocations técnicas y de proyecto"
+  },
+  {
+   "en": "lay a pipeline",
+   "pron": "lei ə PÁIP-lain",
+   "es": "tender una tubería",
+   "group": "G. Collocations técnicas y de proyecto"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The inspector carried out a visual inspection and raised two concerns about the welds.",
+   "es": "El inspector realizó una inspección visual y planteó dos inquietudes sobre las soldaduras.",
+   "situation": "Inspección de soldaduras"
+  },
+  {
+   "en": "We need to make a decision by Friday, so let's take all the costs into account.",
+   "es": "Tenemos que tomar una decisión antes del viernes, así que tengamos en cuenta todos los costos.",
+   "situation": "Reunión de proyecto"
+  },
+  {
+   "en": "Steel prices rose by 12% in the first quarter.",
+   "es": "Los precios del acero subieron un 12 % en el primer trimestre.",
+   "situation": "Informe de costos"
+  },
+  {
+   "en": "The client has raised the budget for the next phase.",
+   "es": "El cliente ha subido el presupuesto para la siguiente fase.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "Could you do me a favor and check these drawings before lunch?",
+   "es": "¿Me harías el favor de revisar estos planos antes del almuerzo?",
+   "situation": "Oficina"
+  },
+  {
+   "en": "We can't take any risks with confined-space work.",
+   "es": "No podemos correr ningún riesgo con trabajos en espacios confinados.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "We've made good progress, but we're still behind schedule.",
+   "es": "Hemos avanzado bien, pero seguimos atrasados.",
+   "situation": "Avance de obra"
+  },
+  {
+   "en": "The deadline is tight, but I'm confident we'll meet it.",
+   "es": "El plazo es ajustado, pero confío en que lo cumpliremos.",
+   "situation": "Plazos"
+  },
+  {
+   "en": "Can you give me a rough estimate of the cost?",
+   "es": "¿Me puedes dar un estimado aproximado del costo?",
+   "situation": "Estimado"
+  },
+  {
+   "en": "I usually do the shopping on Saturdays and the laundry on Sundays.",
+   "es": "Normalmente hago las compras los sábados y lavo la ropa los domingos.",
+   "situation": "Vida diaria"
+  },
+  {
+   "en": "Thanks for the advice. It really made a difference.",
+   "es": "Gracias por el consejo. De verdad marcó la diferencia.",
+   "situation": "Social"
+  },
+  {
+   "en": "The doctor strongly recommended that I take a few days off.",
+   "es": "El médico me recomendó encarecidamente que me tomara unos días libres.",
+   "situation": "Médico"
+  },
+  {
+   "en": "Lay the spools on the timber supports; don't leave them lying in the mud.",
+   "es": "Coloca los spools sobre los soportes de madera; no los dejes tirados en el barro.",
+   "situation": "Montaje de tubería"
+  },
+  {
+   "en": "We are fully aware of the delay and are taking steps to address it.",
+   "es": "Somos plenamente conscientes del retraso y estamos tomando medidas para resolverlo.",
+   "situation": "Correo formal"
+  },
+  {
+   "en": "Unemployment rose slightly, while interest rates remained unchanged.",
+   "es": "El desempleo subió ligeramente, mientras que las tasas de interés se mantuvieron sin cambios.",
+   "situation": "Noticias económicas"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "We made a decision.",
+     "We didn't make a decision.",
+     "Did you make a decision?",
+     "Yes, we did."
+    ],
+    [
+     "She did the paperwork.",
+     "She didn't do the paperwork.",
+     "Did she do the paperwork?",
+     "Yes, she did."
+    ],
+    [
+     "Prices rose last year.",
+     "Prices didn't rise last year.",
+     "Did prices rise last year?",
+     "Yes, they did."
+    ],
+    [
+     "They raised the issue.",
+     "They didn't raise the issue.",
+     "Did they raise the issue?",
+     "No, they didn't."
+    ],
+    [
+     "He has taken that into account.",
+     "He hasn't taken that into account.",
+     "Has he taken that into account?",
+     "Yes, he has."
+    ],
+    [
+     "The welders are carrying out the test.",
+     "The welders aren't carrying out the test.",
+     "Are the welders carrying out the test?",
+     "Yes, they are."
+    ],
+    [
+     "You'll meet the deadline.",
+     "You won't meet the deadline.",
+     "Will you meet the deadline?",
+     "Yes, I will."
+    ],
+    [
+     "They paid attention.",
+     "They didn't pay attention.",
+     "Did they pay attention?",
+     "No, they didn't."
+    ],
+    [
+     "She can make an exception.",
+     "She can't make an exception.",
+     "Can she make an exception?",
+     "No, she can't."
+    ],
+    [
+     "The sun rises at six.",
+     "The sun doesn't rise at six.",
+     "Does the sun rise at six?",
+     "Yes, it does."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Priya",
+   "text": "Edwin, have you had a chance to look at the new steel quotes?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes. Prices have risen about 9% since March, so the supplier wants to raise the unit price."
+  },
+  {
+   "who": "Priya",
+   "text": "That's going to make a big difference to our margin. Did they give a reason?"
+  },
+  {
+   "who": "Edwin",
+   "text": "They said the cost of raw materials had risen sharply. We should take that into account, but I think we can still negotiate."
+  },
+  {
+   "who": "Priya",
+   "text": "Agreed. Can you do some research and find two alternative suppliers?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Sure. I'll also give you a rough estimate of the impact on the total budget."
+  },
+  {
+   "who": "Priya",
+   "text": "Great. We need to make a decision by Thursday. The deadline is tight."
+  },
+  {
+   "who": "Edwin",
+   "text": "Understood. I'll do my best to have everything ready by Wednesday afternoon."
+  },
+  {
+   "who": "Priya",
+   "text": "Perfect. And please raise any concerns early. I don't want surprises at the client meeting."
+  },
+  {
+   "who": "Edwin",
+   "text": "Will do. I'll make sure the numbers are double-checked."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "I did a mistake in the calculation.",
+   "right": "I made a mistake in the calculation.",
+   "why": "Un error es un \"resultado\": make a mistake."
+  },
+  {
+   "wrong": "Can I make you a question?",
+   "right": "Can I ask you a question?",
+   "why": "Las preguntas se ask; \"hacer\" no se traduce."
+  },
+  {
+   "wrong": "The temperature raised overnight.",
+   "right": "The temperature rose overnight.",
+   "why": "Sube sola, sin objeto → rise (rose)."
+  },
+  {
+   "wrong": "The company rose salaries.",
+   "right": "The company raised salaries.",
+   "why": "Hay objeto (salaries) → raise."
+  },
+  {
+   "wrong": "We must put attention to safety.",
+   "right": "We must pay attention to safety.",
+   "why": "La atención se \"paga\": pay attention to."
+  },
+  {
+   "wrong": "They realized the inspection yesterday.",
+   "right": "They carried out the inspection yesterday.",
+   "why": "Realize = darse cuenta. \"Realizar\" = carry out / conduct."
+  },
+  {
+   "wrong": "We did a research on coatings.",
+   "right": "We did some research on coatings.",
+   "why": "Research es incontable: sin a."
+  },
+  {
+   "wrong": "Prices didn't rose.",
+   "right": "Prices didn't rise.",
+   "why": "Después de didn't va la forma base."
+  },
+  {
+   "wrong": "The supplier said us the price.",
+   "right": "The supplier told us the price.",
+   "why": "Tell + persona; say no lleva persona directa."
+  },
+  {
+   "wrong": "There was strong rain on site.",
+   "right": "There was heavy rain on site.",
+   "why": "La lluvia es heavy; el viento es strong."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "realize a project",
+   "looks": "calco del español",
+   "means": "darse cuenta de un proyecto",
+   "fix": "carry out / complete a project"
+  },
+  {
+   "en": "assist a meeting",
+   "looks": "calco del español",
+   "means": "ayudar a una reunión",
+   "fix": "attend a meeting"
+  },
+  {
+   "en": "attend a client",
+   "looks": "calco del español",
+   "means": "asistir a un cliente, como si fuera un evento",
+   "fix": "serve / attend to / deal with a client"
+  },
+  {
+   "en": "win money at work",
+   "looks": "calco del español",
+   "means": "ganar dinero como premio",
+   "fix": "earn / make money"
+  },
+  {
+   "en": "lose the bus",
+   "looks": "calco del español",
+   "means": "extraviar el bus",
+   "fix": "miss the bus"
+  },
+  {
+   "en": "make a party",
+   "looks": "calco del español",
+   "means": "fabricar una fiesta",
+   "fix": "have / throw a party"
+  },
+  {
+   "en": "an economic car",
+   "looks": "calco del español",
+   "means": "un auto relacionado con la economía",
+   "fix": "an economical car"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Cometí un error en el cálculo de la presión.",
+    "answers": [
+     "I made a mistake in the pressure calculation.",
+     "I made an error in the pressure calculation.",
+     "I made a mistake in calculating the pressure."
+    ],
+    "explain": "\"Cometer un error\" = make a mistake. Nunca commit ni do."
+   },
+   {
+    "prompt": "¿Puedo hacerte una pregunta?",
+    "answers": [
+     "Can I ask you a question?",
+     "May I ask you a question?",
+     "Could I ask you a question?"
+    ],
+    "explain": "\"Hacer una pregunta\" = ask a question. También vale May I ask you a question?"
+   },
+   {
+    "prompt": "Los precios del acero subieron un 10 % el año pasado.",
+    "answers": [
+     "Steel prices rose by 10% last year.",
+     "Steel prices rose 10% last year.",
+     "Steel prices went up by 10% last year.",
+     "Steel prices went up 10% last year.",
+     "The price of steel rose by 10% last year.",
+     "The price of steel rose 10% last year."
+    ],
+    "explain": "Los precios suben solos → rise, pasado rose. También vale went up."
+   },
+   {
+    "prompt": "El proveedor subió sus precios.",
+    "answers": [
+     "The supplier raised its prices.",
+     "The supplier raised their prices."
+    ],
+    "explain": "Hay objeto (its prices) → raise. También vale their prices."
+   },
+   {
+    "prompt": "Tenemos que tomar una decisión antes del viernes.",
+    "answers": [
+     "We have to make a decision before Friday.",
+     "We need to make a decision before Friday.",
+     "We have to make a decision by Friday.",
+     "We need to make a decision by Friday."
+    ],
+    "explain": "\"Tomar una decisión\" = make a decision. También need to y by Friday."
+   },
+   {
+    "prompt": "Por favor, presta atención a los detalles.",
+    "answers": [
+     "Please pay attention to the details.",
+     "Please pay attention to details."
+    ],
+    "explain": "\"Prestar atención\" = pay attention to."
+   },
+   {
+    "prompt": "Realizaron la prueba hidrostática ayer.",
+    "answers": [
+     "They carried out the hydrostatic test yesterday.",
+     "They conducted the hydrostatic test yesterday.",
+     "They performed the hydrostatic test yesterday.",
+     "They carried out the hydrotest yesterday."
+    ],
+    "explain": "\"Realizar una prueba\" = carry out / conduct / perform. Realize sería \"darse cuenta\"."
+   },
+   {
+    "prompt": "¿Me haces un favor?",
+    "answers": [
+     "Can you do me a favor?",
+     "Could you do me a favor?"
+    ],
+    "explain": "\"Hacer un favor\" = do someone a favor. También Could you…?"
+   },
+   {
+    "prompt": "El plazo es ajustado, pero lo vamos a cumplir.",
+    "answers": [
+     "The deadline is tight, but we're going to meet it.",
+     "The deadline is tight, but we will meet it.",
+     "It's a tight deadline, but we're going to meet it.",
+     "The deadline is tight, but we are going to meet it.",
+     "The deadline is tight, but we'll meet it.",
+     "It is a tight deadline, but we are going to meet it."
+    ],
+    "explain": "Plazo ajustado = tight deadline; cumplir un plazo = meet a deadline."
+   },
+   {
+    "prompt": "Había mucho tráfico y llovía fuerte.",
+    "answers": [
+     "There was heavy traffic, and it was raining hard.",
+     "There was heavy traffic, and it was raining heavily.",
+     "There was heavy traffic and it was raining hard.",
+     "There was a lot of traffic, and it was raining hard."
+    ],
+    "explain": "Tráfico y lluvia intensos = heavy. También raining heavily. Nunca strong rain."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "We've made a lot of progress this week.",
+    "answers": [
+     "Hemos avanzado mucho esta semana.",
+     "Hemos progresado mucho esta semana.",
+     "Hemos avanzado bastante esta semana."
+    ],
+    "explain": "Make progress = avanzar; \"hacer mucho progreso\" suena forzado en español."
+   },
+   {
+    "prompt": "Please take the wind load into account.",
+    "answers": [
+     "Por favor, ten en cuenta la carga de viento.",
+     "Por favor, tenga en cuenta la carga de viento.",
+     "Por favor, considera la carga de viento."
+    ],
+    "explain": "Take … into account = tener en cuenta."
+   },
+   {
+    "prompt": "A problem arose during the hydrotest.",
+    "answers": [
+     "Surgió un problema durante la prueba hidrostática.",
+     "Se presentó un problema durante la prueba hidrostática.",
+     "Surgió un problema en la prueba hidrostática."
+    ],
+    "explain": "Arose es el pasado de arise = surgir."
+   },
+   {
+    "prompt": "I strongly recommend a second inspection.",
+    "answers": [
+     "Recomiendo encarecidamente una segunda inspección.",
+     "Recomiendo firmemente una segunda inspección.",
+     "Recomiendo encarecidamente que se haga una segunda inspección."
+    ],
+    "explain": "Strongly recommend = recomendar encarecidamente / recomendar firmemente."
+   },
+   {
+    "prompt": "Lay the plates flat on the supports.",
+    "answers": [
+     "Coloca las planchas planas sobre los soportes.",
+     "Apoya las planchas en posición horizontal sobre los soportes.",
+     "Coloca las placas planas sobre los soportes."
+    ],
+    "explain": "Lay lleva objeto (the plates) = colocar. También \"apoya las planchas en posición horizontal\"."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "I did a big mistake yesterday.",
+    "answers": [
+     "I made a big mistake yesterday."
+    ],
+    "explain": "Mistake va con make."
+   },
+   {
+    "prompt": "The water level raised during the night.",
+    "answers": [
+     "The water level rose during the night."
+    ],
+    "explain": "Sin objeto → rise (rose)."
+   },
+   {
+    "prompt": "Our manager made us a lot of questions.",
+    "answers": [
+     "Our manager asked us a lot of questions."
+    ],
+    "explain": "Las preguntas se ask."
+   },
+   {
+    "prompt": "We need to do a decision today.",
+    "answers": [
+     "We need to make a decision today."
+    ],
+    "explain": "Decision va con make."
+   },
+   {
+    "prompt": "They rose the price of the service by 5%.",
+    "answers": [
+     "They raised the price of the service by 5%."
+    ],
+    "explain": "Hay objeto (the price) → raise."
+   },
+   {
+    "prompt": "Please put attention to the safety briefing.",
+    "answers": [
+     "Please pay attention to the safety briefing."
+    ],
+    "explain": "Pay attention, no put."
+   },
+   {
+    "prompt": "The contractor realized the inspection on Monday.",
+    "answers": [
+     "The contractor carried out the inspection on Monday.",
+     "The contractor conducted the inspection on Monday.",
+     "The contractor performed the inspection on Monday."
+    ],
+    "explain": "Realize = darse cuenta. Realizar = carry out (o conducted / performed)."
+   },
+   {
+    "prompt": "Inflation didn't rose last month.",
+    "answers": [
+     "Inflation didn't rise last month.",
+     "Inflation did not rise last month."
+    ],
+    "explain": "Después de didn't, forma base."
+   },
+   {
+    "prompt": "She said me the report was ready.",
+    "answers": [
+     "She told me the report was ready.",
+     "She said the report was ready."
+    ],
+    "explain": "Tell + persona. También vale She said the report was ready (sin me)."
+   },
+   {
+    "prompt": "There was strong rain during the lift, so we stopped.",
+    "answers": [
+     "There was heavy rain during the lift, so we stopped."
+    ],
+    "explain": "La lluvia intensa es heavy rain."
+   }
+  ],
+  "bonus": {
+   "prompt": "convierte a negativo y a pregunta: Prices rose last month.",
+   "answer": "Prices didn't rise last month. / Did prices rise last month?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo (8 puntos). Usa cada verbo una vez y conjúgalo si hace falta: carry out · raise · rise · take · make · do · meet · pay.",
+   "lines": [
+    {
+     "who": "Manager",
+     "text": "Did the crew [1] the radiographic test yesterday?"
+    },
+    {
+     "who": "You",
+     "text": "Yes. We found two defects, so I'll [2] the issue at today's meeting."
+    },
+    {
+     "who": "Manager",
+     "text": "Did the repair costs go up?"
+    },
+    {
+     "who": "You",
+     "text": "Yes, they [3] about 4%."
+    },
+    {
+     "who": "Manager",
+     "text": "OK, we need to [4] that into account in the budget."
+    },
+    {
+     "who": "You",
+     "text": "Agreed. I've already [5] some progress on the revised estimate."
+    },
+    {
+     "who": "Manager",
+     "text": "Great. Can you [6] me a favor and send it by noon?"
+    },
+    {
+     "who": "You",
+     "text": "Sure. Can we still [7] the deadline?"
+    },
+    {
+     "who": "Manager",
+     "text": "Yes, if the crew [8] close attention to the repair procedure."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "carry out"
+     ],
+     "explain": "Después de Did … va la forma base: carry out the test."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "raise"
+     ],
+     "explain": "Raise an issue = plantear un tema; tiene objeto."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "rose"
+     ],
+     "explain": "Los costos suben solos; pasado de rise = rose."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "take"
+     ],
+     "explain": "Take … into account = tener en cuenta."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "made"
+     ],
+     "explain": "Presente perfecto: I've + participio made; make progress."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "do"
+     ],
+     "explain": "Do someone a favor."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "meet"
+     ],
+     "explain": "Meet the deadline = cumplir el plazo."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "pays"
+     ],
+     "explain": "Pay attention; the crew = tercera persona singular en presente → pays."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo (7 puntos). Escribe a un cliente (Mr. Lee) un correo de 90 a 120 palabras para explicar una subida de precio. Debe incluir: (1) rise en cualquier forma, sin objeto; (2) raise con objeto; (3) una collocation con make; (4) una con do; (5) take … into account o take steps; (6) una collocation adjetivo + sustantivo (p. ej. rough estimate); (7) una collocation adverbio + adjetivo (p. ej. fully aware).",
+   "rubric": [
+    "(1) rise en cualquier forma, sin objeto",
+    "(2) raise con objeto",
+    "(3) una collocation con make",
+    "(4) una con do",
+    "(5) take … into account o take steps",
+    "(6) una collocation adjetivo + sustantivo (p. ej. rough estimate)",
+    "(7) una collocation adverbio + adjetivo (p. ej. fully aware)"
+   ],
+   "model": "Subject: Revised pricing for the T-210 piping package\nDear Mr. Lee,\nI am writing to let you know about a change in our pricing. Over the past three months, the cost of carbon steel pipe has risen by roughly 11%. As a result, we will need to raise the unit price of the spools by 6%, effective May 1.\nWe are fully aware that this affects your budget, so we have taken several steps to limit the impact. We have done extensive research on alternative mills and made some changes to our cutting plan to reduce waste.\nI have attached a rough estimate of the effect on the total contract value. Please let me know if you would like to discuss it on a short call.\nKind regards,\nEdwin Prieto"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Elegir entre make y do.",
+   "test": "Clasifica los 15 sustantivos de los bloques A y B (tapa el verbo) en 2 minutos; 14/15 o más."
+  },
+  {
+   "skill": "Usar rise/raise y lie/lay según haya objeto.",
+   "test": "Escribe 8 oraciones (2 por verbo) con pasado o participio; cero errores."
+  },
+  {
+   "skill": "Evitar los calcos de hacer, tomar, dar y realizar.",
+   "test": "Traduce en voz alta las 8 filas de la tabla \"traducción literal\" en 1 minuto, sin mirar."
+  },
+  {
+   "skill": "Elegir el adjetivo preciso en lugar de \"fuerte\".",
+   "test": "Di las 6 combinaciones de la Figura 30.4 en 30 segundos."
+  },
+  {
+   "skill": "Mover el acento en pares sustantivo/verbo.",
+   "test": "Grábate leyendo increase, record, advice/advise y use en sus dos formas; 8/8 correctas."
+  },
+  {
+   "skill": "Redactar un correo técnico con collocations precisas.",
+   "test": "Escribe un correo de 100 palabras con 6 collocations subrayadas y compáralo con el modelo C2."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What is the biggest mistake you have made at work, and what did you learn?",
+  "How do you make important decisions?",
+  "What tasks do you usually do on Monday mornings?",
+  "Have prices risen a lot in your country this year? Give an example.",
+  "What would you do if a supplier raised its prices?",
+  "How do you meet a tight deadline?"
+ ]
+}

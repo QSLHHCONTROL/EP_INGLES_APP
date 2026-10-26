@@ -1,0 +1,94 @@
+{
+ "id": 11,
+ "topic": "In, on, at",
+ "title": "Where and When I Work",
+ "practice": "Léela en voz alta 3 veces. Luego tapa la columna en inglés y di cada frase con la preposición correcta.",
+ "rows": [
+  {
+   "en": "I'm from {city}, a city **in** {country}.",
+   "es": "Soy de {city}, una ciudad en {country}."
+  },
+  {
+   "en": "I studied **at** {school} and finished **in** {gradYear}.",
+   "es": "Estudié en {school} y terminé en {gradYear}."
+  },
+  {
+   "en": "I work for {company}, a company **in** {companyPlace}.",
+   "es": "Trabajo para {company}, una empresa en {companyPlace}."
+  },
+  {
+   "en": "I started there **in** {startDate}.",
+   "es": "Empecé allí en {startDate}."
+  },
+  {
+   "en": "My workday starts **at** ____.",
+   "es": "Mi jornada empieza a las ____."
+  },
+  {
+   "en": "**In** the morning, I'm usually **at** my desk **in** the office.",
+   "es": "En la mañana normalmente estoy en mi escritorio, en la oficina."
+  },
+  {
+   "en": "We worked on {project} **in** {companyPlace}.",
+   "es": "Trabajamos en {project_es} en {companyPlace}."
+  },
+  {
+   "en": "**In** the office, I work **on** my computer with {tool}.",
+   "es": "En la oficina trabajo en mi computadora con {tool}."
+  },
+  {
+   "en": "I update the progress report **at** the end of the day.",
+   "es": "Actualizo el reporte de avance al final del día."
+  },
+  {
+   "en": "**In** the future, I want to work **in** {dreamCountry}.",
+   "es": "En el futuro quiero trabajar en {dreamCountry}."
+  }
+ ],
+ "dialogTitle": "Diálogo por teléfono con un cliente",
+ "dialog": [
+  {
+   "who": "Mike",
+   "text": "When is the meeting?"
+  },
+  {
+   "who": "{name}",
+   "text": "It's on Thursday at 9 a.m."
+  },
+  {
+   "who": "Mike",
+   "text": "Where do we meet? At the main entrance?"
+  },
+  {
+   "who": "{name}",
+   "text": "No, in the meeting room. It's on the second floor, next to my office."
+  },
+  {
+   "who": "Mike",
+   "text": "Great. See you on Thursday."
+  },
+  {
+   "who": "{name}",
+   "text": "See you then. I'll be there at 8:45."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I started there in {startDate}.",
+   "pron": ""
+  },
+  {
+   "en": "I work for {company}, a company in {companyPlace}.",
+   "pron": ""
+  },
+  {
+   "en": "It's on Thursday at 9 a.m.",
+   "pron": "its on THÉRZ-dei ət nain ei-ÉM"
+  },
+  {
+   "en": "See you on Thursday.",
+   "pron": "SI yu on THÉRZ-dei"
+  }
+ ],
+ "check": "Digo la página en menos de 1 minuto, sin leer, y elijo in / on / at sin un solo error (nada de \"in Monday\" ni \"in home\")."
+}

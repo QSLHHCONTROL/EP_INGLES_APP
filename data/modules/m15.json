@@ -1,0 +1,949 @@
+{
+ "id": 15,
+ "level": "B1",
+ "title": "Pasado continuo y pasado perfecto",
+ "goal": "Al terminar podrás contar una historia o redactar un reporte de incidente en orden claro: qué estaba pasando (was doing), qué lo interrumpió (did) y qué había ocurrido antes (had done), con when, while, before, after, by the time y already.",
+ "lesson": [
+  {
+   "title": "Las capas de una historia",
+   "html": "<p>Con el pasado simple (Módulo 9) cuentas hechos uno detrás de otro: <span class=\"en\">I arrived, I checked the tank, I called Mark.</span> Pero una buena historia, o un buen reporte de incidente, necesita <b>profundidad</b>: el fondo de la escena y lo que pasó antes. Para eso el inglés tiene dos tiempos más:</p><ul><li><b>Pasado continuo</b> (<i>was/were + -ing</i>): la acción que <b>estaba en proceso</b> en un momento del pasado. Es el <b>fondo</b> de la escena: <span class=\"en\">I was checking the tank…</span></li><li><b>Pasado perfecto</b> (<i>had + participio</i>): la acción que ocurrió <b>antes</b> de otro momento pasado. Es el \"pasado del pasado\": <span class=\"en\">…someone had left the valve open.</span></li></ul><p>El pasado simple sigue siendo el motor de la historia: los hechos principales, en orden. Los otros dos tiempos se apoyan en él.</p>",
+   "svg": "<svg viewBox=\"0 0 640 224\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"24\" font-size=\"13\" font-weight=\"800\" fill=\"#1570EF\">I was checking the tank when the alarm went off.</text>\n  <text x=\"20\" y=\"44\" font-size=\"12\" fill=\"#667085\">Estaba revisando el tanque cuando sonó la alarma.</text>\n  <line x1=\"30\" y1=\"132\" x2=\"560\" y2=\"132\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <polygon points=\"560,126 572,132 560,138\" fill=\"#667085\"/>\n  <line x1=\"590\" y1=\"90\" x2=\"590\" y2=\"170\" stroke=\"#1D2939\" stroke-width=\"3\"/>\n  <text x=\"590\" y=\"84\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#1D2939\">AHORA</text>\n  <rect x=\"80\" y=\"108\" width=\"320\" height=\"48\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <path d=\"M96 132 q 10 -14 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0\" fill=\"none\" stroke=\"#1570EF\" stroke-width=\"2.5\"/>\n  <text x=\"170\" y=\"100\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#1570EF\">was checking (fondo, en proceso)</text>\n  <line x1=\"300\" y1=\"80\" x2=\"300\" y2=\"170\" stroke=\"#E8590C\" stroke-width=\"3\"/>\n  <polygon points=\"292,80 308,80 300,92\" fill=\"#E8590C\"/>\n  <circle cx=\"300\" cy=\"132\" r=\"9\" fill=\"#E8590C\"/>\n  <text x=\"310\" y=\"76\" font-size=\"12\" font-weight=\"800\" fill=\"#E8590C\">went off (interrupción)</text>\n  <text x=\"310\" y=\"190\" font-size=\"12\" fill=\"#E8590C\">WHEN + pasado simple</text>\n  <text x=\"170\" y=\"190\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1570EF\">WHILE + pasado continuo</text>\n  <text x=\"20\" y=\"214\" font-size=\"11\" fill=\"#667085\">La barra empezó antes y quizá siguió después; el punto la corta en un instante.</text>\n</svg>",
+   "caption": "Figura 15.1 — Acción interrumpida: la barra larga (pasado continuo) es la escena; el punto (pasado simple) es el evento que la corta."
+  },
+  {
+   "title": "Forma 1 — Pasado continuo: was/were + verbo-ing",
+   "html": "<table><thead><tr><th>Sujeto</th><th>Afirmativo</th><th>Negativo</th><th>Pregunta</th></tr></thead><tbody><tr><td>I / he / she / it</td><td><span class=\"en\">I was working.</span></td><td>I wasn't working. <span class=\"pron\">WÁ-zənt</span></td><td>Was I working?</td></tr><tr><td>you / we / they</td><td><span class=\"en\">They were working.</span></td><td>They weren't working. <span class=\"pron\">wernt</span></td><td>Were they working?</td></tr><tr><td>Respuesta corta</td><td>Yes, I was. / No, I wasn't. · Yes, they were. / No, they weren't.</td></tr></tbody></table>"
+  },
+  {
+   "title": "Forma 2 — Pasado perfecto: had + participio",
+   "html": "<table><thead><tr><th>Sujeto</th><th>Afirmativo</th><th>Negativo</th><th>Pregunta</th></tr></thead><tbody><tr><td>Todos (I, you, he, she, it, we, they)</td><td><span class=\"en\">She had left. / She'd left. <span class=\"pron\">shid LEFT</span></span></td><td>She hadn't left. <span class=\"pron\">JÁ-dənt</span></td><td>Had she left?</td></tr><tr><td>Respuesta corta</td><td>Yes, she had. / No, she hadn't.</td></tr></tbody></table><p><b>Had</b> no cambia con el sujeto. El participio es el mismo del Módulo 13 (<i>gone, done, seen, written, broken…</i>). Y sí, existe <i>had had</i>: <span class=\"en\">We had had problems with that pump before.</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 186\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"16\" y=\"34\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">PAST CONT.</text>\n  <rect x=\"110\" y=\"12\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"155\" y=\"36\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">The crew</text>\n  <rect x=\"210\" y=\"12\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"250\" y=\"36\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">was</text>\n  <rect x=\"300\" y=\"12\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#1570EF\"/><text x=\"355\" y=\"36\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">lifting</text>\n  <rect x=\"420\" y=\"12\" width=\"210\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"525\" y=\"36\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">the plate at 10:15.</text>\n  <text x=\"16\" y=\"90\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">PAST PERFECT</text>\n  <rect x=\"110\" y=\"68\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"155\" y=\"92\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">Someone</text>\n  <rect x=\"210\" y=\"68\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#6941C6\"/><text x=\"250\" y=\"92\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">had</text>\n  <rect x=\"300\" y=\"68\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#1570EF\"/><text x=\"355\" y=\"92\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">removed</text>\n  <rect x=\"420\" y=\"68\" width=\"210\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"525\" y=\"92\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">the barrier.</text>\n  <text x=\"16\" y=\"146\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">PREGUNTA</text>\n  <rect x=\"110\" y=\"124\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#6941C6\"/><text x=\"155\" y=\"148\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">Had</text>\n  <rect x=\"210\" y=\"124\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"250\" y=\"148\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">they</text>\n  <rect x=\"300\" y=\"124\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#1570EF\"/><text x=\"355\" y=\"148\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">checked</text>\n  <rect x=\"420\" y=\"124\" width=\"210\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"525\" y=\"148\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">the slings?</text>\n  <text x=\"320\" y=\"180\" text-anchor=\"middle\" font-size=\"11\" fill=\"#6941C6\">was/were + -ING = en proceso · had + PARTICIPIO = antes de otro pasado</text>\n</svg>",
+   "caption": "Figura 15.2 — Construcción de los dos tiempos. Como siempre, el auxiliar (was/were, had) se niega y se mueve en la pregunta."
+  },
+  {
+   "title": "Usos del pasado continuo y reglas de oro",
+   "html": "<table><thead><tr><th>Uso</th><th>Ejemplo</th><th>Idea</th></tr></thead><tbody><tr><td><b>1. Acción interrumpida</b></td><td><span class=\"en\">I was driving to the site when you called.</span></td><td>barra + punto (<i>when</i>)</td></tr><tr><td><b>2. En proceso a una hora concreta</b></td><td><span class=\"en\">At 3 p.m. we were testing the line.</span></td><td>a esa hora ya había empezado y no había terminado</td></tr><tr><td><b>3. Dos acciones paralelas</b></td><td><span class=\"en\">While Ana was welding, Carlos was grinding.</span></td><td>dos barras al mismo tiempo (<i>while</i>)</td></tr><tr><td><b>4. Escenario de una historia</b></td><td><span class=\"en\">It was raining and the wind was blowing hard.</span></td><td>describe el fondo antes de la acción</td></tr></tbody></table><p><b>Regla de oro 1 — WHEN + punto · WHILE + barra</b></p><p><b>When</b> va normalmente con la acción corta (pasado simple); <b>while</b> va con la acción larga (pasado continuo). El orden de las cláusulas puede cambiar sin cambiar el significado; si empiezas con <i>when/while</i>, pon coma:</p><p><span class=\"ok\">I was welding when the power went out.</span> = <span class=\"ok\">While I was welding, the power went out.</span>   Nunca <span class=\"wrong\">When I welded, the power was going out.</span> (sentido absurdo)</p><p><b>Regla de oro 2 — Pasado perfecto = \"ya había …\" antes de otro pasado</b></p><p>Úsalo cuando ya estás en el pasado y quieres <b>retroceder</b> un paso más. Necesita una referencia pasada (dicha o clara por el contexto):</p><p><span class=\"es\">Cuando llegué, el camión ya se había ido</span> → <span class=\"ok\">When I arrived, the truck had already left.</span> Compara: <span class=\"en\">When I arrived, the truck left.</span> = llegué y <i>en ese momento</i> el camión se fue.</p><p><b>Regla de oro 3 — Verbos de estado: sin -ing también en pasado</b></p><p><i>Know, be, have</i> (poseer), <i>want, need, understand, believe</i> no van en pasado continuo: <span class=\"ok\">I knew the answer.</span> Nunca <span class=\"wrong\">I was knowing the answer.</span> · <span class=\"ok\">He had a red helmet.</span> Nunca <span class=\"wrong\">He was having a red helmet.</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 230\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"24\" font-size=\"13\" font-weight=\"800\" fill=\"#1D2939\">When I arrived at the site, the crew had already started.</text>\n  <text x=\"20\" y=\"44\" font-size=\"12\" fill=\"#667085\">Cuando llegué a la obra, la cuadrilla ya había empezado.</text>\n  <line x1=\"30\" y1=\"130\" x2=\"560\" y2=\"130\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <polygon points=\"560,124 572,130 560,136\" fill=\"#667085\"/>\n  <line x1=\"590\" y1=\"88\" x2=\"590\" y2=\"168\" stroke=\"#1D2939\" stroke-width=\"3\"/>\n  <text x=\"590\" y=\"82\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#1D2939\">AHORA</text>\n  <circle cx=\"160\" cy=\"130\" r=\"10\" fill=\"#6941C6\"/>\n  <text x=\"160\" y=\"94\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#6941C6\">1º had started</text>\n  <text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#6941C6\">pasado perfecto</text>\n  <circle cx=\"400\" cy=\"130\" r=\"10\" fill=\"#E8590C\"/>\n  <text x=\"400\" y=\"94\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">2º arrived</text>\n  <text x=\"400\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#E8590C\">pasado simple = referencia</text>\n  <path d=\"M390 154 C 330 196, 230 196, 172 154\" fill=\"none\" stroke=\"#6941C6\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/>\n  <polygon points=\"166,148 168,162 178,156\" fill=\"#6941C6\"/>\n  <text x=\"280\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#6941C6\">desde la referencia, miras un paso atrás</text>\n  <rect x=\"440\" y=\"152\" width=\"120\" height=\"56\" rx=\"8\" fill=\"#F2F4F7\"/>\n  <text x=\"500\" y=\"174\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">\"past before</text>\n  <text x=\"500\" y=\"192\" text-anchor=\"middle\" font-size=\"11\" fill=\"#344054\">the past\"</text>\n</svg>",
+   "caption": "Figura 15.3 — Pasado perfecto: el punto de referencia es un hecho pasado (arrived). Lo que ocurrió antes de él va con HAD + participio."
+  },
+  {
+   "title": "¿Cuándo es obligatorio el pasado perfecto?",
+   "html": "<table><thead><tr><th>Situación</th><th>Ejemplo</th><th>¿Pasado perfecto?</th></tr></thead><tbody><tr><td>El orden ya está claro por <i>before / after</i></td><td><span class=\"en\">I called him after I (had) finished the report.</span></td><td>Opcional: ambos son correctos.</td></tr><tr><td>Cuentas los hechos en el orden en que ocurrieron</td><td><span class=\"en\">I finished the report and then I called him.</span></td><td>No hace falta.</td></tr><tr><td>Cambias el orden (vas hacia atrás)</td><td><span class=\"en\">I called him. I had finished the report an hour earlier.</span></td><td>Sí: indica el salto atrás.</td></tr><tr><td>Con <i>when</i> cambia el significado</td><td><span class=\"en\">When I arrived, the meeting had started. / …the meeting started.</span></td><td>Sí: sin él, el sentido cambia.</td></tr><tr><td>Con <i>by the time</i> y <i>already</i></td><td><span class=\"en\">By the time the fire crew arrived, the operators had stopped the pump.</span></td><td>Sí, lo normal.</td></tr><tr><td>Experiencia hasta un momento pasado</td><td><span class=\"en\">It was the first time I had seen a crack like that.</span></td><td>Sí (versión pasada de <i>I've seen</i>).</td></tr></tbody></table>"
+  },
+  {
+   "title": "Comparación con el español",
+   "html": "<p>Buena noticia: el español tiene exactamente estos dos tiempos. <b>Estaba + gerundio</b> = <i>was/were + -ing</i>, y <b>había + participio</b> = <i>had + participio</i>. El problema real es otro: el <b>imperfecto</b> español (<i>trabajaba, llovía, tenía</i>) no tiene un único equivalente. Puede ser pasado continuo, pasado simple o <i>used to</i> (hábito pasado, Módulo 9).</p><table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>Llovía cuando salimos.</td><td><span class=\"en\">It was raining when we left.</span> (escena)</td></tr><tr><td>Trabajaba en Chile en 2024.</td><td><span class=\"en\">I worked in Chile in 2024.</span> (hecho)</td></tr><tr><td>De niño jugaba fútbol todos los días.</td><td><span class=\"en\">As a kid, I played / used to play soccer every day.</span></td></tr><tr><td>Tenía un casco rojo.</td><td><span class=\"en\">He had a red helmet.</span> (estado)</td></tr><tr><td>No sabía que el tanque estaba lleno.</td><td><span class=\"en\">I didn't know the tank was full.</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>Cuando llegué, ya se había ido.</td><td><span class=\"wrong\">When I arrived, he already went.</span></td><td><span class=\"ok\">When I arrived, he had already left.</span></td></tr><tr><td>Mientras soldaba, se fue la luz.</td><td><span class=\"wrong\">While I welded, the light went.</span></td><td><span class=\"ok\">While I was welding, the power went out.</span></td></tr><tr><td>Estaba durmiendo cuando sonó el teléfono.</td><td><span class=\"wrong\">I slept when the phone was ringing.</span></td><td><span class=\"ok\">I was sleeping when the phone rang.</span></td></tr><tr><td>Nunca había visto algo así.</td><td><span class=\"wrong\">Never I had seen something like that.</span></td><td><span class=\"ok\">I had never seen anything like that.</span></td></tr><tr><td>¿Qué hacías a las 9?</td><td><span class=\"wrong\">What did you do at 9?</span> (otro significado)</td><td><span class=\"ok\">What were you doing at 9?</span></td></tr><tr><td>Sabía que tenía razón.</td><td><span class=\"wrong\">I was knowing that he was having reason.</span></td><td><span class=\"ok\">I knew he was right.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Así piensa un nativo",
+   "html": "<p><b>Así piensa un nativo — una historia tiene capas</b></p><p>Un nativo construye la narración como una película:</p><ol><li><b>Escena</b> (pasado continuo): <span class=\"en\">It was 6 a.m. The crew was setting up the scaffolding.</span></li><li><b>Acción</b> (pasado simple, en orden): <span class=\"en\">Suddenly a pipe fell. Carlos shouted and everyone moved back.</span></li><li><b>Flashback</b> (pasado perfecto): <span class=\"en\">Someone had removed a clamp the night before.</span></li></ol><p>Si todo va en pasado simple, la historia es plana; si abusas del pasado perfecto, se vuelve pesada. Úsalo solo cuando retrocedes.</p><p><b>Así piensa un nativo — \"What were you doing?\" vs \"What did you do?\"</b></p><p><span class=\"en\">What were you doing when the alarm went off?</span> pide la actividad en proceso en ese instante (típica pregunta de investigación de incidentes). <span class=\"en\">What did you do when the alarm went off?</span> pide tu reacción: <span class=\"en\">I shut the valve and called the supervisor.</span></p><p><b>Detalles finos que marcan nivel B1</b></p><ul><li><b>Dos acciones con when y pasado simple</b> = una después de otra: <span class=\"en\">When the alarm went off, we left the building.</span> (primero la alarma, después salimos).</li><li><b>He'd</b> puede ser <i>he had</i> o <i>he would</i>. Si le sigue participio → <i>had</i>: <span class=\"en\">He'd finished.</span></li><li><b>Before / after</b> pueden ir con -ing: <span class=\"en\">After checking the slings, the rigger gave the signal.</span></li><li><b>By the time</b> = para cuando: <span class=\"en\">By the time I got there, they had left.</span></li><li>En reportes formales no se contrae: <span class=\"en\">The operator had not closed the valve.</span></li><li><b>Was going to / was about to</b> = iba a / estaba a punto de: <span class=\"en\">I was about to call you.</span></li></ul>"
+  },
+  {
+   "title": "Reporte de incidente",
+   "html": "<p><b>Registro: estructura de un reporte de incidente</b></p><p>Orden recomendado: <b>1)</b> cuándo y dónde; <b>2)</b> qué se estaba haciendo (pasado continuo); <b>3)</b> qué pasó, en orden (pasado simple); <b>4)</b> causa encontrada (pasado perfecto); <b>5)</b> acciones tomadas (pasado simple). Frases cortas, sin opiniones, voz activa, sin contracciones. La voz pasiva (<i>the valve was closed</i>) se ve en el Módulo 20.</p>",
+   "svg": "<svg viewBox=\"0 0 640 248\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"22\" font-size=\"13\" font-weight=\"800\" fill=\"#1D2939\">Reporte de incidente — tres capas en una línea de tiempo</text>\n  <line x1=\"30\" y1=\"120\" x2=\"610\" y2=\"120\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <polygon points=\"610,114 622,120 610,126\" fill=\"#667085\"/>\n  <g font-size=\"11\" fill=\"#667085\" text-anchor=\"middle\">\n    <text x=\"90\" y=\"150\">día anterior</text>\n    <text x=\"200\" y=\"150\">10:00</text>\n    <text x=\"400\" y=\"150\">10:15</text>\n    <text x=\"520\" y=\"150\">10:20</text>\n  </g>\n  <circle cx=\"90\" cy=\"120\" r=\"9\" fill=\"#6941C6\"/>\n  <rect x=\"190\" y=\"108\" width=\"210\" height=\"24\" rx=\"6\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\" fill-opacity=\"0.6\"/>\n  <circle cx=\"400\" cy=\"120\" r=\"9\" fill=\"#E8590C\"/>\n  <circle cx=\"520\" cy=\"120\" r=\"9\" fill=\"#E8590C\"/>\n  <rect x=\"20\" y=\"40\" width=\"150\" height=\"56\" rx=\"8\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <text x=\"95\" y=\"60\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#6941C6\">FLASHBACK</text>\n  <text x=\"95\" y=\"80\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">had removed a clamp</text>\n  <rect x=\"190\" y=\"40\" width=\"200\" height=\"56\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"290\" y=\"60\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#1570EF\">ESCENA</text>\n  <text x=\"290\" y=\"80\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">was lifting the spool</text>\n  <rect x=\"410\" y=\"40\" width=\"210\" height=\"56\" rx=\"8\" fill=\"#FFF2E8\" stroke=\"#E8590C\"/>\n  <text x=\"515\" y=\"60\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#E8590C\">ACCIÓN</text>\n  <text x=\"515\" y=\"80\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">fell · stopped · reported</text>\n  <text x=\"20\" y=\"172\" font-size=\"12\" fill=\"#1D2939\">At 10:15 the crew <tspan font-weight=\"800\" fill=\"#1570EF\">was lifting</tspan> a spool when it <tspan font-weight=\"800\" fill=\"#E8590C\">fell</tspan> 2 m. Nobody <tspan font-weight=\"800\" fill=\"#E8590C\">was</tspan> hurt.</text>\n  <text x=\"20\" y=\"194\" font-size=\"12\" fill=\"#1D2939\">The supervisor <tspan font-weight=\"800\" fill=\"#E8590C\">stopped</tspan> the work and <tspan font-weight=\"800\" fill=\"#E8590C\">reported</tspan> the incident at 10:20.</text>\n  <text x=\"20\" y=\"216\" font-size=\"12\" fill=\"#1D2939\">The investigation found that someone <tspan font-weight=\"800\" fill=\"#6941C6\">had removed</tspan> a clamp the day before.</text>\n  <text x=\"20\" y=\"240\" font-size=\"11\" fill=\"#667085\">Nota: aquí \"found\" (pasado simple) es la referencia; \"had removed\" va un paso atrás.</text>\n</svg>",
+   "caption": "Figura 15.4 — Las tres capas de un reporte: escena (pasado continuo), acción (pasado simple) y flashback (pasado perfecto)."
+  }
+ ],
+ "blocks": [
+  {
+   "en": "I was working on the night shift.",
+   "pron": "ai wəz WÉR-king on dhə NAIT shift",
+   "es": "Estaba trabajando en el turno de noche.",
+   "group": "A. Escena y acción en proceso"
+  },
+  {
+   "en": "We were testing the line.",
+   "pron": "wi wer TÉS-ting dhə LAIN",
+   "es": "Estábamos probando la línea.",
+   "group": "A. Escena y acción en proceso"
+  },
+  {
+   "en": "The crane was lifting a plate.",
+   "pron": "dhə KREIN wəz LÍF-ting ə PLEIT",
+   "es": "La grúa estaba levantando una plancha.",
+   "group": "A. Escena y acción en proceso"
+  },
+  {
+   "en": "It was raining heavily.",
+   "pron": "it wəz RÉI-ning JÉ-vi-li",
+   "es": "Llovía fuerte.",
+   "group": "A. Escena y acción en proceso"
+  },
+  {
+   "en": "The pump was running normally.",
+   "pron": "dhə PAMP wəz RÁ-ning NÓR-mə-li",
+   "es": "La bomba funcionaba con normalidad.",
+   "group": "A. Escena y acción en proceso"
+  },
+  {
+   "en": "Nobody was wearing gloves.",
+   "pron": "NÓU-ba-di wəz WÉ-ring GLAVZ",
+   "es": "Nadie llevaba guantes.",
+   "group": "A. Escena y acción en proceso"
+  },
+  {
+   "en": "What were you doing at the time?",
+   "pron": "WOT wer yu DÚ-ing ət dhə TAIM",
+   "es": "¿Qué estabas haciendo en ese momento?",
+   "group": "A. Escena y acción en proceso"
+  },
+  {
+   "en": "when the alarm went off",
+   "pron": "wen dhi ə-LÁRM went OF",
+   "es": "cuando sonó la alarma",
+   "group": "B. Interrupciones y eventos repentinos"
+  },
+  {
+   "en": "when the power went out",
+   "pron": "wen dhə PÁU-er went ÁUT",
+   "es": "cuando se fue la luz",
+   "group": "B. Interrupciones y eventos repentinos"
+  },
+  {
+   "en": "when a hose burst",
+   "pron": "wen ə JOUZ BERST",
+   "es": "cuando reventó una manguera",
+   "group": "B. Interrupciones y eventos repentinos"
+  },
+  {
+   "en": "Suddenly, …",
+   "pron": "SÁ-dən-li",
+   "es": "De repente, …",
+   "group": "B. Interrupciones y eventos repentinos"
+  },
+  {
+   "en": "The sling snapped.",
+   "pron": "dhə SLING SNAPT",
+   "es": "La eslinga se rompió de golpe.",
+   "group": "B. Interrupciones y eventos repentinos"
+  },
+  {
+   "en": "He slipped and fell.",
+   "pron": "ji SLIPT ənd FEL",
+   "es": "Se resbaló y se cayó.",
+   "group": "B. Interrupciones y eventos repentinos"
+  },
+  {
+   "en": "I got a call from the client.",
+   "pron": "ai GOT ə KOL frəm dhə KLÁI-ənt",
+   "es": "Recibí una llamada del cliente.",
+   "group": "B. Interrupciones y eventos repentinos"
+  },
+  {
+   "en": "had already left",
+   "pron": "jad ol-RÉ-di LEFT",
+   "es": "ya se había ido",
+   "group": "C. Antes del pasado"
+  },
+  {
+   "en": "had never seen",
+   "pron": "jad NÉ-ver SIN",
+   "es": "nunca había visto",
+   "group": "C. Antes del pasado"
+  },
+  {
+   "en": "hadn't checked",
+   "pron": "JÁ-dənt CHEKT",
+   "es": "no había revisado",
+   "group": "C. Antes del pasado"
+  },
+  {
+   "en": "had forgotten to…",
+   "pron": "jad fər-GÓ-tən tu",
+   "es": "se había olvidado de…",
+   "group": "C. Antes del pasado"
+  },
+  {
+   "en": "Someone had left the valve open.",
+   "pron": "SAM-wan jad LEFT dhə VALV ÓU-pən",
+   "es": "Alguien había dejado la válvula abierta.",
+   "group": "C. Antes del pasado"
+  },
+  {
+   "en": "I realized I had made a mistake.",
+   "pron": "ai RÍ-ə-laizd ai jad MEID ə mis-TÉIK",
+   "es": "Me di cuenta de que había cometido un error.",
+   "group": "C. Antes del pasado"
+  },
+  {
+   "en": "It was the first time I had…",
+   "pron": "it wəz dhə FERST taim ai jad",
+   "es": "Era la primera vez que había…",
+   "group": "C. Antes del pasado"
+  },
+  {
+   "en": "when",
+   "pron": "wen",
+   "es": "cuando",
+   "group": "D. Conectores de tiempo para narrar"
+  },
+  {
+   "en": "while / as",
+   "pron": "wail / az",
+   "es": "mientras",
+   "group": "D. Conectores de tiempo para narrar"
+  },
+  {
+   "en": "before / after",
+   "pron": "bi-FÓR / ÁF-ter",
+   "es": "antes de (que) / después de (que)",
+   "group": "D. Conectores de tiempo para narrar"
+  },
+  {
+   "en": "by the time",
+   "pron": "bai dhə TAIM",
+   "es": "para cuando",
+   "group": "D. Conectores de tiempo para narrar"
+  },
+  {
+   "en": "as soon as",
+   "pron": "əz SUN əz",
+   "es": "en cuanto",
+   "group": "D. Conectores de tiempo para narrar"
+  },
+  {
+   "en": "then / after that",
+   "pron": "dhen / ÁF-ter dhat",
+   "es": "luego / después de eso",
+   "group": "D. Conectores de tiempo para narrar"
+  },
+  {
+   "en": "earlier that day",
+   "pron": "ÉR-li-er dhat DEI",
+   "es": "más temprano ese día",
+   "group": "D. Conectores de tiempo para narrar"
+  },
+  {
+   "en": "the day before / the night before",
+   "pron": "dhə DEI bi-FÓR / dhə NAIT bi-FÓR",
+   "es": "el día anterior / la noche anterior",
+   "group": "D. Conectores de tiempo para narrar"
+  },
+  {
+   "en": "near miss",
+   "pron": "nir MIS",
+   "es": "casi accidente (incidente sin daño)",
+   "group": "E. Vocabulario de reportes de incidente"
+  },
+  {
+   "en": "Nobody was injured.",
+   "pron": "NÓU-ba-di wəz ÍN-yerd",
+   "es": "Nadie resultó herido.",
+   "group": "E. Vocabulario de reportes de incidente"
+  },
+  {
+   "en": "root cause",
+   "pron": "rut KOZ",
+   "es": "causa raíz",
+   "group": "E. Vocabulario de reportes de incidente"
+  },
+  {
+   "en": "The area was evacuated.",
+   "pron": "dhi É-ri-ə wəz i-VÁ-kyu-ei-tid",
+   "es": "Se evacuó el área.",
+   "group": "E. Vocabulario de reportes de incidente"
+  },
+  {
+   "en": "We stopped work immediately.",
+   "pron": "wi STOPT werk i-MÍ-di-ət-li",
+   "es": "Paramos el trabajo de inmediato.",
+   "group": "E. Vocabulario de reportes de incidente"
+  },
+  {
+   "en": "According to the operator, …",
+   "pron": "ə-KÓR-ding tə dhi Ó-pə-rei-ter",
+   "es": "Según el operador, …",
+   "group": "E. Vocabulario de reportes de incidente"
+  },
+  {
+   "en": "corrective actions",
+   "pron": "kə-RÉK-tiv ÁK-shənz",
+   "es": "acciones correctivas",
+   "group": "E. Vocabulario de reportes de incidente"
+  },
+  {
+   "en": "I was just about to call you.",
+   "pron": "ai wəz YAST ə-BÁUT tə KOL yu",
+   "es": "Estaba a punto de llamarte.",
+   "group": "F. Contar historias en la vida diaria"
+  },
+  {
+   "en": "I was on my way home when…",
+   "pron": "ai wəz on mai wei JOUM wen",
+   "es": "Iba camino a casa cuando…",
+   "group": "F. Contar historias en la vida diaria"
+  },
+  {
+   "en": "You'll never guess what happened.",
+   "pron": "yul NÉ-ver GUES wot JÁ-pənd",
+   "es": "No vas a creer lo que pasó.",
+   "group": "F. Contar historias en la vida diaria"
+  },
+  {
+   "en": "It turned out that…",
+   "pron": "it TERND aut dhat",
+   "es": "Resultó que…",
+   "group": "F. Contar historias en la vida diaria"
+  },
+  {
+   "en": "I didn't know he had already paid.",
+   "pron": "ai DÍ-dənt NOU ji jad ol-RÉ-di PEID",
+   "es": "No sabía que ya había pagado.",
+   "group": "F. Contar historias en la vida diaria"
+  },
+  {
+   "en": "Long story short, …",
+   "pron": "long STÓ-ri SHORT",
+   "es": "En resumen, …",
+   "group": "F. Contar historias en la vida diaria"
+  }
+ ],
+ "examples": [
+  {
+   "en": "At 10:15 the crew was lifting a spool when one of the slings snapped.",
+   "es": "A las 10:15 la cuadrilla estaba izando un spool cuando una de las eslingas se rompió.",
+   "situation": "Reporte de incidente"
+  },
+  {
+   "en": "The rigger had not checked the slings before the lift.",
+   "es": "El aparejador no había revisado las eslingas antes del izaje.",
+   "situation": "Reporte de incidente"
+  },
+  {
+   "en": "What were you doing when the fire started?",
+   "es": "¿Qué estabas haciendo cuando empezó el fuego?",
+   "situation": "Investigación"
+  },
+  {
+   "en": "While the welders were working inside the tank, the fan stopped.",
+   "es": "Mientras los soldadores trabajaban dentro del tanque, el ventilador se detuvo.",
+   "situation": "Obra"
+  },
+  {
+   "en": "By the time the inspector arrived, we had already cleaned the area.",
+   "es": "Para cuando llegó el inspector, ya habíamos limpiado el área.",
+   "situation": "Obra"
+  },
+  {
+   "en": "I was writing the report when my computer crashed.",
+   "es": "Estaba escribiendo el informe cuando se colgó mi computadora.",
+   "situation": "Oficina"
+  },
+  {
+   "en": "I realized I had sent the wrong revision to the client.",
+   "es": "Me di cuenta de que había enviado la revisión equivocada al cliente.",
+   "situation": "Oficina"
+  },
+  {
+   "en": "When I joined the call, they had already approved the budget.",
+   "es": "Cuando me uní a la llamada, ya habían aprobado el presupuesto.",
+   "situation": "Reunión"
+  },
+  {
+   "en": "We were waiting at the gate when they canceled the flight.",
+   "es": "Estábamos esperando en la puerta cuando cancelaron el vuelo.",
+   "situation": "Viajes"
+  },
+  {
+   "en": "It was my first time in Houston. I had never seen such big refineries.",
+   "es": "Era mi primera vez en Houston. Nunca había visto refinerías tan grandes.",
+   "situation": "Viajes"
+  },
+  {
+   "en": "I was driving home when a dog ran into the street.",
+   "es": "Iba manejando a casa cuando un perro cruzó la calle corriendo.",
+   "situation": "Vida diaria"
+  },
+  {
+   "en": "I hurt my back while I was carrying some boxes.",
+   "es": "Me lastimé la espalda mientras cargaba unas cajas.",
+   "situation": "Médico"
+  },
+  {
+   "en": "When I checked my account, the money still hadn't arrived.",
+   "es": "Cuando revisé mi cuenta, el dinero todavía no había llegado.",
+   "situation": "Banco"
+  },
+  {
+   "en": "When we got to the party, most people had left.",
+   "es": "Cuando llegamos a la fiesta, casi todos se habían ido.",
+   "situation": "Vida social"
+  },
+  {
+   "en": "The client didn't sign because we hadn't included the transport costs.",
+   "es": "El cliente no firmó porque no habíamos incluido los costos de transporte.",
+   "situation": "Negocios"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "I was sleeping.",
+     "I wasn't sleeping.",
+     "Were you sleeping?",
+     "Yes, I was. / No, I wasn't."
+    ],
+    [
+     "He was driving fast.",
+     "He wasn't driving fast.",
+     "Was he driving fast?",
+     "Yes, he was. / No, he wasn't."
+    ],
+    [
+     "They were wearing harnesses.",
+     "They weren't wearing harnesses.",
+     "Were they wearing harnesses?",
+     "Yes, they were. / No, they weren't."
+    ],
+    [
+     "The pump was running.",
+     "The pump wasn't running.",
+     "Was the pump running?",
+     "Yes, it was. / No, it wasn't."
+    ],
+    [
+     "We were using the old drawing.",
+     "We weren't using the old drawing.",
+     "Were we using the old drawing?",
+     "Yes, we were. / No, we weren't."
+    ],
+    [
+     "She had left.",
+     "She hadn't left.",
+     "Had she left?",
+     "Yes, she had. / No, she hadn't."
+    ],
+    [
+     "They had closed the valve.",
+     "They hadn't closed the valve.",
+     "Had they closed the valve?",
+     "Yes, they had. / No, they hadn't."
+    ],
+    [
+     "The test had failed.",
+     "The test hadn't failed.",
+     "Had the test failed?",
+     "Yes, it had. / No, it hadn't."
+    ],
+    [
+     "You had seen the crack.",
+     "You hadn't seen the crack.",
+     "Had you seen the crack?",
+     "Yes, I had. / No, I hadn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Sarah",
+   "text": "Thanks for coming, Carlos. Can you tell me what happened yesterday?"
+  },
+  {
+   "who": "Carlos",
+   "text": "Sure. We were lifting a pipe spool onto the rack at about 10:15."
+  },
+  {
+   "who": "Sarah",
+   "text": "What were you doing at that moment?"
+  },
+  {
+   "who": "Carlos",
+   "text": "I was guiding the load with a tag line, and Edwin was talking to the crane operator."
+  },
+  {
+   "who": "Sarah",
+   "text": "And then?"
+  },
+  {
+   "who": "Carlos",
+   "text": "Suddenly one of the slings snapped, and the spool dropped about two meters."
+  },
+  {
+   "who": "Sarah",
+   "text": "Was anyone standing under the load?"
+  },
+  {
+   "who": "Carlos",
+   "text": "No, luckily. We had cleared the area before the lift."
+  },
+  {
+   "who": "Sarah",
+   "text": "Good. Had anyone inspected the slings that morning?"
+  },
+  {
+   "who": "Carlos",
+   "text": "No, nobody had. And later we found out that someone had used that sling for a heavier load the day before."
+  },
+  {
+   "who": "Sarah",
+   "text": "OK. What did you do after the sling broke?"
+  },
+  {
+   "who": "Carlos",
+   "text": "We stopped the job, and Edwin called the HSE supervisor."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "I was watch TV when you called.",
+   "right": "I was watching TV when you called.",
+   "why": "Pasado continuo = was/were + -ing."
+  },
+  {
+   "wrong": "They was working outside.",
+   "right": "They were working outside.",
+   "why": "You/we/they → were."
+  },
+  {
+   "wrong": "While I welded, the power went out.",
+   "right": "While I was welding, the power went out.",
+   "why": "La acción larga con while va en pasado continuo."
+  },
+  {
+   "wrong": "I was sleeping when the phone was ringing.",
+   "right": "I was sleeping when the phone rang.",
+   "why": "La interrupción (punto) va en pasado simple."
+  },
+  {
+   "wrong": "I was knowing the answer.",
+   "right": "I knew the answer.",
+   "why": "Know es verbo de estado: sin -ing."
+  },
+  {
+   "wrong": "When I arrived, the bus already left.",
+   "right": "When I arrived, the bus had already left.",
+   "why": "Acción anterior a otro pasado → had + participio."
+  },
+  {
+   "wrong": "She had went home.",
+   "right": "She had gone home.",
+   "why": "Tras had va el participio (gone), no el pasado."
+  },
+  {
+   "wrong": "I had finished it yesterday. (sin otra referencia)",
+   "right": "I finished it yesterday.",
+   "why": "Sin otro momento pasado como referencia, basta el pasado simple."
+  },
+  {
+   "wrong": "Did you sleeping at 11?",
+   "right": "Were you sleeping at 11?",
+   "why": "La pregunta del pasado continuo usa was/were, no did."
+  },
+  {
+   "wrong": "— Had you seen it before? — Yes, I'd.",
+   "right": "Yes, I had.",
+   "why": "La respuesta corta afirmativa no se contrae."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "sound out / ring off",
+   "looks": "sonar (alarma)",
+   "means": "No se usa para «sonar (alarma)»",
+   "fix": "go off — The alarm went off at 3 a.m."
+  },
+  {
+   "en": "the light went",
+   "looks": "irse la luz",
+   "means": "No se usa para «irse la luz»",
+   "fix": "the power went out — The power went out during the test."
+  },
+  {
+   "en": "give account",
+   "looks": "darse cuenta",
+   "means": "No se usa para «darse cuenta»",
+   "fix": "realize / notice — I realized the gauge was broken."
+  },
+  {
+   "en": "realize",
+   "looks": "realizar (hacer)",
+   "means": "No se usa para «realizar (hacer)»",
+   "fix": "carry out / perform — We carried out the inspection."
+  },
+  {
+   "en": "accident",
+   "looks": "accidente leve / incidente",
+   "means": "No se usa para todo (un casi accidente es near miss)",
+   "fix": "incident / near miss — It was a near miss; nobody was hurt."
+  },
+  {
+   "en": "success",
+   "looks": "suceso (evento)",
+   "means": "éxito",
+   "fix": "event / incident — The event happened at 10:15."
+  },
+  {
+   "en": "at the end",
+   "looks": "al final (finalmente)",
+   "means": "en la parte final",
+   "fix": "in the end / eventually — In the end, we finished on time."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Estaba manejando cuando me llamaste.",
+    "answers": [
+     "I was driving when you called.",
+     "I was driving when you called me."
+    ],
+    "explain": "Barra (was driving) + punto (called)."
+   },
+   {
+    "prompt": "¿Qué estaban haciendo a las 9?",
+    "answers": [
+     "What were they doing at 9?",
+     "What were you doing at 9?",
+     "What were they doing at nine?",
+     "What were you doing at nine?"
+    ],
+    "explain": "Acción en proceso a una hora concreta. También vale you si se habla a \"ustedes\"."
+   },
+   {
+    "prompt": "Mientras Ana soldaba, Carlos limpiaba el área.",
+    "answers": [
+     "While Ana was welding, Carlos was cleaning the area."
+    ],
+    "explain": "Dos acciones paralelas → dos pasados continuos con while."
+   },
+   {
+    "prompt": "Cuando llegué, la reunión ya había empezado.",
+    "answers": [
+     "When I arrived, the meeting had already started."
+    ],
+    "explain": "Empezó antes de mi llegada → pasado perfecto; already entre had y participio."
+   },
+   {
+    "prompt": "Nunca había visto una grieta así.",
+    "answers": [
+     "I'd never seen a crack like that.",
+     "I had never seen a crack like that."
+    ],
+    "explain": "Experiencia hasta un momento pasado → had never + participio. También: I had never seen…"
+   },
+   {
+    "prompt": "Se fue la luz mientras estábamos probando la bomba.",
+    "answers": [
+     "The power went out while we were testing the pump."
+    ],
+    "explain": "\"Irse la luz\" = the power went out; acción larga con while."
+   },
+   {
+    "prompt": "No sabía que él ya había pagado.",
+    "answers": [
+     "I didn't know he'd already paid.",
+     "I did not know he had already paid.",
+     "I didn't know that he'd already paid.",
+     "I did not know that he had already paid."
+    ],
+    "explain": "Know sin -ing; pagar fue antes de \"no saber\" → had paid."
+   },
+   {
+    "prompt": "Para cuando llegó el inspector, ya habíamos terminado.",
+    "answers": [
+     "By the time the inspector arrived, we'd already finished.",
+     "By the time the inspector arrived, we had already finished."
+    ],
+    "explain": "By the time + pasado simple, y lo anterior en pasado perfecto."
+   },
+   {
+    "prompt": "Llovía y hacía frío.",
+    "answers": [
+     "It was raining and it was cold."
+    ],
+    "explain": "Escena: pasado continuo (raining); cold es estado con be → was."
+   },
+   {
+    "prompt": "El operador no había cerrado la válvula. (reporte formal)",
+    "answers": [
+     "The operator had not closed the valve."
+    ],
+    "explain": "Reporte formal: forma completa had not."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "The alarm went off while we were having lunch.",
+    "answers": [
+     "La alarma sonó mientras almorzábamos.",
+     "La alarma sonó mientras estábamos almorzando.",
+     "La alarma sonó mientras estábamos comiendo el almuerzo."
+    ],
+    "explain": "Go off = sonar (alarma); have lunch = almorzar."
+   },
+   {
+    "prompt": "I realized I had left my badge at home.",
+    "answers": [
+     "Me di cuenta de que había dejado mi credencial en casa.",
+     "Me percaté de que había dejado mi credencial en casa.",
+     "Me di cuenta de que había olvidado mi credencial en casa."
+    ],
+    "explain": "Realize = darse cuenta; dejarla fue antes."
+   },
+   {
+    "prompt": "Were you wearing your harness when you fell?",
+    "answers": [
+     "¿Llevabas puesto tu arnés cuando te caíste?",
+     "¿Tenías puesto tu arnés cuando te caíste?",
+     "¿Llevabas tu arnés cuando te caíste?"
+    ],
+    "explain": "Pregunta de pasado continuo con were."
+   },
+   {
+    "prompt": "By the time the fire crew arrived, the operators had stopped the pump.",
+    "answers": [
+     "Para cuando llegaron los bomberos, los operadores ya habían detenido la bomba.",
+     "Para cuando llegó la brigada contra incendios, los operadores ya habían detenido la bomba.",
+     "Cuando llegaron los bomberos, los operadores ya habían parado la bomba."
+    ],
+    "explain": "By the time = para cuando; fire crew = bomberos / brigada contra incendios."
+   },
+   {
+    "prompt": "I was just about to call you.",
+    "answers": [
+     "Estaba a punto de llamarte.",
+     "Justo estaba a punto de llamarte.",
+     "Justo iba a llamarte."
+    ],
+    "explain": "Be about to = estar a punto de."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "I was work in the office when the client called.",
+    "answers": [
+     "I was working in the office when the client called."
+    ],
+    "explain": "Tras was va -ing."
+   },
+   {
+    "prompt": "The welders was taking a break at 10.",
+    "answers": [
+     "The welders were taking a break at 10."
+    ],
+    "explain": "Sujeto plural → were."
+   },
+   {
+    "prompt": "While I driving to the site, I saw an accident.",
+    "answers": [
+     "While I was driving to the site, I saw an accident."
+    ],
+    "explain": "Falta el auxiliar: pasado continuo = was + -ing."
+   },
+   {
+    "prompt": "We were testing the line when a hose was bursting.",
+    "answers": [
+     "We were testing the line when a hose burst."
+    ],
+    "explain": "La interrupción va en pasado simple (burst – burst – burst)."
+   },
+   {
+    "prompt": "When I got to the station, the train already left.",
+    "answers": [
+     "When I got to the station, the train had already left."
+    ],
+    "explain": "Salió antes de mi llegada → pasado perfecto."
+   },
+   {
+    "prompt": "He had wrote the report before the meeting.",
+    "answers": [
+     "He had written the report before the meeting.",
+     "He'd written the report before the meeting."
+    ],
+    "explain": "Tras had va el participio written."
+   },
+   {
+    "prompt": "I was knowing that the tank was empty.",
+    "answers": [
+     "I knew that the tank was empty."
+    ],
+    "explain": "Know es verbo de estado."
+   },
+   {
+    "prompt": "Did they working when the power went out?",
+    "answers": [
+     "Were they working when the power went out?"
+    ],
+    "explain": "Pregunta de pasado continuo con were, no did."
+   },
+   {
+    "prompt": "— Had you met her before? — Yes, I'd.",
+    "answers": [
+     "Yes, I had.",
+     "— Had you met her before? — Yes, I had."
+    ],
+    "explain": "La respuesta corta afirmativa no se contrae."
+   },
+   {
+    "prompt": "By the time we arrived, the meeting has finished.",
+    "answers": [
+     "By the time we arrived, the meeting had finished."
+    ],
+    "explain": "Antes de otro pasado → had, no has."
+   }
+  ],
+  "bonus": {
+   "prompt": "une las dos oraciones con when y el tiempo correcto: I checked the gauge. Someone broke it earlier.",
+   "answer": "When I checked the gauge, someone had broken it. (o: …I found that someone had broken it.)"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con el verbo en pasado simple, pasado continuo o pasado perfecto.",
+   "lines": [
+    {
+     "who": "Mr. Lee",
+     "text": "What [1] (you / do) when the leak started?"
+    },
+    {
+     "who": "You",
+     "text": "I [2] (check) the flange bolts on Line 3."
+    },
+    {
+     "who": "Mr. Lee",
+     "text": "Who [3] (see) the leak first?"
+    },
+    {
+     "who": "You",
+     "text": "Priya. She [4] (walk) past the pump when she [5] (notice) the oil on the floor."
+    },
+    {
+     "who": "Mr. Lee",
+     "text": "Had anyone torqued that flange?"
+    },
+    {
+     "who": "You",
+     "text": "Yes, the mechanic [6] (torque) it the day before, but he [7] (not / replace) the gasket."
+    },
+    {
+     "who": "Mr. Lee",
+     "text": "I see. What did you do next?"
+    },
+    {
+     "who": "You",
+     "text": "We [8] (stop) the pump and isolated the line."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "were you doing"
+     ],
+     "explain": "Actividad en proceso cuando empezó la fuga."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "was checking"
+     ],
+     "explain": "Respuesta en pasado continuo (fondo)."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "saw"
+     ],
+     "explain": "Hecho puntual; pregunta con who como sujeto → sin did."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "was walking"
+     ],
+     "explain": "Acción larga interrumpida."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "noticed"
+     ],
+     "explain": "Evento corto con when."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "had torqued",
+      "torqued"
+     ],
+     "explain": "The day before = antes del incidente; responde a Had anyone torqued…? También vale: torqued (el orden ya está claro por the day before)."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "hadn't replaced",
+      "had not replaced",
+      "didn't replace",
+      "did not replace"
+     ],
+     "explain": "También anterior al incidente → pasado perfecto negativo. También vale: didn't replace."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "stopped"
+     ],
+     "explain": "Acción en orden, igual que isolated."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un reporte de incidente. Escribe un párrafo formal de 6 a 8 oraciones sobre un casi accidente (real o inventado) en tu trabajo. Incluye: (a) fecha, hora y lugar; (b) la actividad en curso con pasado continuo; (c) el evento con when o while; (d) dos acciones en pasado simple en orden; (e) la causa con pasado perfecto; (f) una oración con by the time o already; (g) formas completas, sin contracciones.",
+   "rubric": [
+    "(a) Fecha, hora y lugar",
+    "(b) Actividad en curso",
+    "(c) Evento con when/while",
+    "(d) Dos acciones en orden",
+    "(e) Causa en pasado perfecto",
+    "(f) By the time / already",
+    "(g) Sin contracciones"
+   ],
+   "model": "Incident report – near miss\n\nOn October 14, at approximately 10:15 a.m., a near miss occurred at the pipe rack in Area 2. The crew was lifting a 6-inch spool with the mobile crane. While the load was moving over the rack, one of the slings snapped. The spool dropped about two meters onto the rack. The supervisor stopped all lifting work and closed the area. By the time the HSE supervisor arrived, the crew had already secured the spool. The investigation found that the crew had not inspected the sling before the lift."
+  }
+ },
+ "cando": [
+  {
+   "skill": "Formar el pasado continuo y el pasado perfecto.",
+   "test": "Convierte 5 oraciones a negativo y pregunta en cada tiempo en menos de 2 minutos; 20 de 20."
+  },
+  {
+   "skill": "Contar una acción interrumpida con when y while.",
+   "test": "Escribe 4 oraciones (2 con when, 2 con while) sobre tu semana. Cero errores."
+  },
+  {
+   "skill": "Decir qué había pasado antes.",
+   "test": "Completa 5 frases que empiecen con When I arrived, … usando had already / hadn't … yet."
+  },
+  {
+   "skill": "Distinguir \"What were you doing?\" de \"What did you do?\".",
+   "test": "Responde ambas preguntas sobre un incidente real en voz alta, con el tiempo correcto en cada una."
+  },
+  {
+   "skill": "Narrar una historia con tres capas.",
+   "test": "Grábate 1 minuto contando una anécdota: escena, 3 acciones en orden y un flashback."
+  },
+  {
+   "skill": "Redactar un reporte de incidente formal.",
+   "test": "Escribe un reporte de 6–8 oraciones que cumpla los 7 criterios de C2 y compáralo con el modelo."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What were you doing at eight o'clock last night?",
+  "Where were you living when you finished school?",
+  "Tell me about a time something went wrong at work. What were you doing?",
+  "Had you studied English before you started this book?",
+  "What was happening when you arrived at work today?",
+  "Had you ever travelled abroad before you turned twenty?"
+ ]
+}

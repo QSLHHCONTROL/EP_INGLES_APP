@@ -1,0 +1,972 @@
+{
+ "id": 3,
+ "level": "A1",
+ "title": "Presente simple: rutinas y hechos",
+ "goal": "Al terminar podrás contar tu rutina diaria y la de otras personas, describir tu trabajo y explicar cómo funciona algo, en afirmativo y negativo, con la -s de la tercera persona siempre en su lugar.",
+ "lesson": [
+  {
+   "title": "¿Para qué se usa?",
+   "html": "<p>El presente simple (<span class=\"en\">I work, she works</span>) <b>no habla de este momento</b>. Habla de lo que pasa <b>siempre, normalmente o por regla</b>: rutinas, hábitos, hechos, horarios y gustos. Piensa en él como el tiempo de \"lo que es así\".</p><table><thead><tr><th>Uso</th><th>Ejemplo</th></tr></thead><tbody><tr><td>Rutinas y hábitos</td><td><span class=\"en\">I get up at 5:30. We have lunch at noon.</span></td></tr><tr><td>Trabajo y vida permanente</td><td><span class=\"en\">She works for an oil company. They live in Lima.</span></td></tr><tr><td>Hechos y verdades generales</td><td><span class=\"en\">Water boils at 100 °C. Steel expands with heat.</span></td></tr><tr><td>Cómo funciona algo (procesos)</td><td><span class=\"en\">The pump sends the water to the tank.</span></td></tr><tr><td>Horarios fijos</td><td><span class=\"en\">The bus leaves at 6:15. The office opens at 8.</span></td></tr><tr><td>Gustos, deseos y conocimiento</td><td><span class=\"en\">I like my job. He needs a new laptop. We know the client.</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 190\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <line x1=\"30\" y1=\"100\" x2=\"600\" y2=\"100\" stroke=\"#1D2939\" stroke-width=\"3\"/>\n  <polygon points=\"600,92 616,100 600,108\" fill=\"#1D2939\"/>\n  <text x=\"40\" y=\"132\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">PASADO</text>\n  <text x=\"560\" y=\"132\" text-anchor=\"end\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">FUTURO</text>\n  <line x1=\"320\" y1=\"40\" x2=\"320\" y2=\"150\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/>\n  <rect x=\"285\" y=\"150\" width=\"70\" height=\"26\" rx=\"6\" fill=\"#E8590C\"/>\n  <text x=\"320\" y=\"168\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#fff\">AHORA</text>\n  <g fill=\"#0E9384\">\n    <circle cx=\"80\" cy=\"100\" r=\"9\"/><circle cx=\"140\" cy=\"100\" r=\"9\"/><circle cx=\"200\" cy=\"100\" r=\"9\"/><circle cx=\"260\" cy=\"100\" r=\"9\"/>\n    <circle cx=\"380\" cy=\"100\" r=\"9\"/><circle cx=\"440\" cy=\"100\" r=\"9\"/><circle cx=\"500\" cy=\"100\" r=\"9\"/><circle cx=\"560\" cy=\"100\" r=\"9\"/>\n  </g>\n  <rect x=\"150\" y=\"18\" width=\"340\" height=\"40\" rx=\"10\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"44\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#0E9384\">I start work at 7 every day.</text>\n  <text x=\"200\" y=\"84\" text-anchor=\"middle\" font-size=\"11\" fill=\"#0E9384\">lunes</text>\n  <text x=\"260\" y=\"84\" text-anchor=\"middle\" font-size=\"11\" fill=\"#0E9384\">martes</text>\n  <text x=\"380\" y=\"84\" text-anchor=\"middle\" font-size=\"11\" fill=\"#0E9384\">jueves</text>\n  <text x=\"440\" y=\"84\" text-anchor=\"middle\" font-size=\"11\" fill=\"#0E9384\">viernes</text>\n</svg>",
+   "caption": "Figura 3.1 — Línea de tiempo del presente simple: una acción que se repite antes y después de ahora. No importa si la haces en este segundo."
+  },
+  {
+   "title": "La conjugación: solo un cambio",
+   "html": "<p>Buenas noticias: el español tiene seis terminaciones (<i>trabajo, trabajas, trabaja…</i>); el inglés solo tiene <b>dos formas</b>. El verbo queda igual en todas las personas, excepto con <span class=\"en\">he, she, it</span>, que agrega <b>-s</b>.</p><table><thead><tr><th>Sujeto</th><th>work (trabajar)</th><th>live (vivir)</th><th>have (tener)</th><th>go (ir)</th></tr></thead><tbody><tr><td>I</td><td><span class=\"en\">work</span></td><td><span class=\"en\">live</span></td><td><span class=\"en\">have</span></td><td><span class=\"en\">go</span></td></tr><tr><td>You</td><td><span class=\"en\">work</span></td><td><span class=\"en\">live</span></td><td><span class=\"en\">have</span></td><td><span class=\"en\">go</span></td></tr><tr><td><b>He / She / It</b></td><td><span class=\"en\"><span class=\"hl\">works</span></span></td><td><span class=\"en\"><span class=\"hl\">lives</span></span></td><td><span class=\"en\"><span class=\"hl\">has</span></span></td><td><span class=\"en\"><span class=\"hl\">goes</span></span></td></tr><tr><td>We</td><td><span class=\"en\">work</span></td><td><span class=\"en\">live</span></td><td><span class=\"en\">have</span></td><td><span class=\"en\">go</span></td></tr><tr><td>They</td><td><span class=\"en\">work</span></td><td><span class=\"en\">live</span></td><td><span class=\"en\">have</span></td><td><span class=\"en\">go</span></td></tr></tbody></table><p><b>Regla de oro 1 — He, she, it: el verbo lleva -S</b></p><p>Cualquier sujeto que puedas cambiar por <i>he, she</i> o <i>it</i> lleva -s: <span class=\"en\">my boss, Ana, the client, the valve, this machine</span>.</p><p><span class=\"ok\">My boss speaks English.</span> Nunca <span class=\"wrong\">My boss speak English.</span><br> Ojo: <span class=\"en\">people</span>, <span class=\"en\">the welders</span>, <span class=\"en\">Ana and Carlos</span> son plurales → sin -s: <span class=\"ok\">People work hard here.</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 200\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"20\" width=\"270\" height=\"160\" rx=\"14\" fill=\"#F2F4F7\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <text x=\"155\" y=\"56\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#1D2939\">I · you · we · they</text>\n  <text x=\"155\" y=\"84\" text-anchor=\"middle\" font-size=\"13\" fill=\"#344054\">verbo en forma base</text>\n  <text x=\"155\" y=\"118\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">I work in Freeport.</text>\n  <text x=\"155\" y=\"142\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">They check the welds.</text>\n  <text x=\"155\" y=\"166\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">The pumps need oil.</text>\n  <rect x=\"350\" y=\"20\" width=\"270\" height=\"160\" rx=\"14\" fill=\"#0E9384\"/>\n  <text x=\"485\" y=\"56\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#fff\">he · she · it</text>\n  <text x=\"485\" y=\"84\" text-anchor=\"middle\" font-size=\"13\" fill=\"#E6F7F5\">verbo + S</text>\n  <text x=\"485\" y=\"118\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#fff\">She work<tspan fill=\"#FFF8E1\" font-weight=\"800\">s</tspan> in Freeport.</text>\n  <text x=\"485\" y=\"142\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#fff\">Mark check<tspan fill=\"#FFF8E1\" font-weight=\"800\">s</tspan> the welds.</text>\n  <text x=\"485\" y=\"166\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#fff\">The pump need<tspan fill=\"#FFF8E1\" font-weight=\"800\">s</tspan> oil.</text>\n  <text x=\"320\" y=\"96\" text-anchor=\"middle\" font-size=\"26\" font-weight=\"800\" fill=\"#E8590C\">≠</text>\n</svg>",
+   "caption": "Figura 3.2 — Si el sujeto es una sola persona o cosa (que no sea I ni you), el verbo lleva -s."
+  },
+  {
+   "title": "Cómo se escribe la -s",
+   "html": "<table><thead><tr><th>Regla</th><th>Ejemplos</th></tr></thead><tbody><tr><td>General: + <b>s</b></td><td><span class=\"en\">work → works · start → starts · need → needs · play → plays</span></td></tr><tr><td>Termina en -s, -sh, -ch, -x, -o: + <b>es</b></td><td><span class=\"en\">miss → misses · finish → finishes · watch → watches · fix → fixes · go → goes · do → does</span></td></tr><tr><td>Consonante + y → <b>ies</b></td><td><span class=\"en\">study → studies · carry → carries · try → tries</span></td></tr><tr><td>Vocal + y → + <b>s</b></td><td><span class=\"en\">play → plays · stay → stays · pay → pays · say → says</span></td></tr><tr><td>Irregular</td><td><span class=\"en\">have → has</span></td></tr></tbody></table><p><b>Cómo suena la -s (igual que el plural del Módulo 2)</b></p><table><thead><tr><th>Sonido</th><th>Cuándo</th><th>Ejemplos</th></tr></thead><tbody><tr><td><span class=\"pron\">s</span></td><td>tras p, t, k, f</td><td><span class=\"en\">works</span> <span class=\"pron\">werks</span> · <span class=\"en\">starts</span> <span class=\"pron\">starts</span> · <span class=\"en\">checks</span> <span class=\"pron\">cheks</span></td></tr><tr><td><span class=\"pron\">z</span></td><td>tras vocal y sonidos sonoros</td><td><span class=\"en\">lives</span> <span class=\"pron\">livz</span> · <span class=\"en\">plays</span> <span class=\"pron\">pleiz</span> · <span class=\"en\">goes</span> <span class=\"pron\">gouz</span> · <span class=\"en\">needs</span> <span class=\"pron\">nidz</span></td></tr><tr><td><span class=\"pron\">iz</span></td><td>tras s, z, sh, ch, x, ge (sílaba extra)</td><td><span class=\"en\">watches</span> <span class=\"pron\">WÓ-chiz</span> · <span class=\"en\">fixes</span> <span class=\"pron\">FÍK-siz</span> · <span class=\"en\">uses</span> <span class=\"pron\">YÚ-ziz</span> · <span class=\"en\">manages</span> <span class=\"pron\">MÁ-ni-yiz</span></td></tr><tr><td>Tres formas especiales (<i>does</i> y <i>says</i> cambian la vocal; <i>have</i> pierde la v): <span class=\"en\">does</span> <span class=\"pron\">daz</span> · <span class=\"en\">says</span> <span class=\"pron\">sez</span> · <span class=\"en\">has</span> <span class=\"pron\">jaz</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Regla de oro 2 — Un verbo de acción NO lleva am / is / are",
+   "html": "<p>En español nadie dice \"yo soy trabajo\". Pero en inglés es un error muy común mezclar TO BE con otro verbo: <span class=\"wrong\">I am work</span>, <span class=\"wrong\">She is live in Lima</span>. Si hay un verbo de acción, ese verbo basta.</p><p><span class=\"ok\">I work in Freeport.</span> <span class=\"ok\">She lives in Lima.</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 220\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"200\" y=\"10\" width=\"240\" height=\"40\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"36\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#fff\">¿Hay un verbo de acción?</text>\n  <path d=\"M270 50 L 175 82\" fill=\"none\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <path d=\"M370 50 L 465 82\" fill=\"none\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <text x=\"214\" y=\"64\" text-anchor=\"end\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">NO</text>\n  <text x=\"426\" y=\"64\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">SÍ</text>\n  <rect x=\"20\" y=\"84\" width=\"290\" height=\"124\" rx=\"12\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"2\"/>\n  <text x=\"165\" y=\"112\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#7A5B00\">TO BE (Módulo 1)</text>\n  <text x=\"165\" y=\"134\" text-anchor=\"middle\" font-size=\"12\" fill=\"#7A5B00\">ser, estar, edad, lugar, estado</text>\n  <text x=\"165\" y=\"162\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">I'm an engineer.</text>\n  <text x=\"165\" y=\"186\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">She's at the office.</text>\n  <rect x=\"330\" y=\"84\" width=\"290\" height=\"124\" rx=\"12\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"475\" y=\"112\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#0E9384\">PRESENTE SIMPLE</text>\n  <text x=\"475\" y=\"134\" text-anchor=\"middle\" font-size=\"12\" fill=\"#0E9384\">trabajar, vivir, tener, ir, revisar…</text>\n  <text x=\"475\" y=\"162\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">I work as an engineer.</text>\n  <text x=\"475\" y=\"186\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1D2939\">She works at the office.</text>\n</svg>",
+   "caption": "Figura 3.3 — Mapa de decisión: TO BE o presente simple. Nunca los dos juntos (I am work)."
+  },
+  {
+   "title": "Negativo: DON'T / DOESN'T + verbo base",
+   "html": "<p>Los verbos normales no se niegan con <i>not</i> solo, ni con <i>no</i>. Necesitan un ayudante, el auxiliar <span class=\"en\">do</span>: <span class=\"en\">don't</span> (= do not) para I, you, we, they; <span class=\"en\">doesn't</span> (= does not) para he, she, it. El auxiliar <b>se lleva la -s</b> y el verbo queda en forma base.</p><p><b>Regla de oro 3 — Una sola -S por oración</b></p><p>Si usas <span class=\"en\">does</span> o <span class=\"en\">doesn't</span>, el verbo principal va sin -s. La marca de tercera persona ya está en el auxiliar.</p><p><span class=\"ok\">He doesn't speak Spanish.</span> Nunca <span class=\"wrong\">He doesn't speaks Spanish.</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 196\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"38\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">AFIRMATIVO</text>\n  <rect x=\"140\" y=\"14\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"190\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">She</text>\n  <rect x=\"252\" y=\"14\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"307\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">works</text>\n  <rect x=\"374\" y=\"14\" width=\"130\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"439\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">on site.</text>\n  <text x=\"20\" y=\"104\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">NEGATIVO</text>\n  <rect x=\"140\" y=\"80\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"190\" y=\"104\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">She</text>\n  <rect x=\"252\" y=\"80\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"307\" y=\"104\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#D92D20\">doesn't</text>\n  <rect x=\"374\" y=\"80\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"419\" y=\"104\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">work</text>\n  <rect x=\"476\" y=\"80\" width=\"130\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"541\" y=\"104\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">on site.</text>\n  <text x=\"20\" y=\"170\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">PREGUNTA</text>\n  <rect x=\"140\" y=\"146\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"190\" y=\"170\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">Does</text>\n  <rect x=\"252\" y=\"146\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"302\" y=\"170\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">she</text>\n  <rect x=\"364\" y=\"146\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"409\" y=\"170\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">work</text>\n  <rect x=\"466\" y=\"146\" width=\"140\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"536\" y=\"170\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">on site?</text>\n  <path d=\"M335 54 C 335 66, 300 70, 300 78\" fill=\"none\" stroke=\"#D92D20\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/>\n  <text x=\"370\" y=\"68\" font-size=\"11\" fill=\"#D92D20\">la -s pasa a does</text>\n</svg>",
+   "caption": "Figura 3.4 — Cuando aparece does (o doesn't), la -s se muda al auxiliar y el verbo queda limpio."
+  },
+  {
+   "title": "Afirmativo, negativo, pregunta y respuesta corta",
+   "html": "<table><thead><tr><th></th><th>I / you / we / they</th><th>He / she / it</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td><span class=\"en\">They work on Saturdays.</span></td><td><span class=\"en\">He works on Saturdays.</span></td></tr><tr><td><b>Negativo</b></td><td><span class=\"en\">They don't work on Saturdays.</span></td><td><span class=\"en\">He doesn't work on Saturdays.</span></td></tr><tr><td><b>Pregunta</b></td><td><span class=\"en\">Do they work on Saturdays?</span></td><td><span class=\"en\">Does he work on Saturdays?</span></td></tr><tr><td><b>Respuesta corta</b></td><td><span class=\"en\">Yes, they do. / No, they don't.</span></td><td><span class=\"en\">Yes, he does. / No, he doesn't.</span></td></tr></tbody></table><p>Las preguntas con <i>do/does</i> se presentan aquí para que veas el sistema completo. Se estudian a fondo, con palabras WH-, en el Módulo 4.</p>"
+  },
+  {
+   "title": "Así piensa un nativo — presente simple no es \"ahora mismo\"",
+   "html": "<p><span class=\"en\">I work in Freeport</span> = es mi trabajo, es permanente. Si un amigo te llama y te pregunta qué estás haciendo <b>en este momento</b>, el nativo no usa este tiempo: dice <span class=\"en\">I'm working</span> (presente continuo, Módulo 5). Regla práctica: si puedes agregar <i>every day, usually</i> o <i>on Mondays</i>, es presente simple.</p>"
+  },
+  {
+   "title": "Traducción literal (mal) vs inglés real",
+   "html": "<table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>Vivo en Talara.</td><td><span class=\"wrong\">I am live in Talara.</span></td><td><span class=\"ok\">I live in Talara.</span></td></tr><tr><td>Ella trabaja en una oficina.</td><td><span class=\"wrong\">She work in an office.</span></td><td><span class=\"ok\">She works in an office.</span></td></tr><tr><td>No me gusta el café.</td><td><span class=\"wrong\">I no like the coffee.</span></td><td><span class=\"ok\">I don't like coffee.</span></td></tr><tr><td>Él no tiene auto.</td><td><span class=\"wrong\">He doesn't has car.</span></td><td><span class=\"ok\">He doesn't have a car.</span></td></tr><tr><td>Estoy de acuerdo.</td><td><span class=\"wrong\">I am agree.</span></td><td><span class=\"ok\">I agree.</span></td></tr><tr><td>Mi hija estudia ingeniería.</td><td><span class=\"wrong\">My daughter studys engineering.</span></td><td><span class=\"ok\">My daughter studies engineering.</span></td></tr><tr><td>La planta cierra a las 6.</td><td><span class=\"wrong\">The plant close at 6.</span></td><td><span class=\"ok\">The plant closes at 6.</span></td></tr></tbody></table><table><thead><tr><th>Español: el verbo dice quién</th><th>Inglés: sujeto + verbo siempre</th></tr></thead><tbody><tr><td>Trabajo los sábados.</td><td><span class=\"en\">I work on Saturdays.</span></td></tr><tr><td>Tiene dos hijos.</td><td><span class=\"en\">She has two children.</span></td></tr><tr><td>Empieza a las siete.</td><td><span class=\"en\">It starts at seven.</span></td></tr><tr><td>Necesitamos más tubos.</td><td><span class=\"en\">We need more pipes.</span></td></tr><tr><td>Funciona bien.</td><td><span class=\"en\">It works well.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<ul><li><span class=\"en\">work</span> también significa \"funcionar\": <span class=\"en\">The pump doesn't work.</span> = La bomba no funciona.</li><li>Con <span class=\"en\">have</span> en negativo, la forma base vuelve: <span class=\"en\">She has</span> → <span class=\"en\">She doesn't have</span>. Nunca <span class=\"wrong\">doesn't has</span>.</li><li>Gustos en general sin artículo (Módulo 2): <span class=\"en\">I like coffee</span>, <span class=\"en\">She hates meetings</span>.</li><li><span class=\"en\">want / need / like</span> + <b>to</b> + verbo: <span class=\"en\">I want to learn English.</span> <span class=\"en\">He needs to sign the report.</span> (Más en el Módulo 22.)</li></ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "I get up at 5:30.",
+   "pron": "ai gue-TÁP ət faiv THÉR-ti",
+   "es": "Me levanto a las 5:30.",
+   "group": "A. Rutina diaria"
+  },
+  {
+   "en": "I take a shower.",
+   "pron": "ai teik ə SHÁU-er",
+   "es": "Me ducho.",
+   "group": "A. Rutina diaria"
+  },
+  {
+   "en": "I have breakfast.",
+   "pron": "ai jav BRÉK-fəst",
+   "es": "Tomo desayuno.",
+   "group": "A. Rutina diaria"
+  },
+  {
+   "en": "I go to work by bus.",
+   "pron": "ai gou tə WERK bai BAS",
+   "es": "Voy al trabajo en bus.",
+   "group": "A. Rutina diaria"
+  },
+  {
+   "en": "I start work at seven.",
+   "pron": "ai start werk ət SÉ-ven",
+   "es": "Empiezo a trabajar a las siete.",
+   "group": "A. Rutina diaria"
+  },
+  {
+   "en": "I have lunch at noon.",
+   "pron": "ai jav LANCH ət NUN",
+   "es": "Almuerzo al mediodía.",
+   "group": "A. Rutina diaria"
+  },
+  {
+   "en": "I finish work at five.",
+   "pron": "ai FÍ-nish werk ət FAIV",
+   "es": "Termino de trabajar a las cinco.",
+   "group": "A. Rutina diaria"
+  },
+  {
+   "en": "I get home at six.",
+   "pron": "ai guet JOUM ət SIKS",
+   "es": "Llego a casa a las seis.",
+   "group": "A. Rutina diaria"
+  },
+  {
+   "en": "I go to bed at ten.",
+   "pron": "ai gou tə BED ət TEN",
+   "es": "Me acuesto a las diez.",
+   "group": "A. Rutina diaria"
+  },
+  {
+   "en": "I check the drawings.",
+   "pron": "ai CHEK dhə DRÓ-ingz",
+   "es": "Reviso los planos.",
+   "group": "B. Trabajo técnico y de oficina"
+  },
+  {
+   "en": "She inspects the welds.",
+   "pron": "shi in-SPÉKTS dhə WELDZ",
+   "es": "Ella inspecciona las soldaduras.",
+   "group": "B. Trabajo técnico y de oficina"
+  },
+  {
+   "en": "He orders the materials.",
+   "pron": "ji ÓR-derz dhə mə-TÍ-ri-əlz",
+   "es": "Él pide los materiales.",
+   "group": "B. Trabajo técnico y de oficina"
+  },
+  {
+   "en": "We write daily reports.",
+   "pron": "wi rait DÉI-li ri-PÓRTS",
+   "es": "Escribimos reportes diarios.",
+   "group": "B. Trabajo técnico y de oficina"
+  },
+  {
+   "en": "He supervises the crew.",
+   "pron": "ji SÚ-per-vai-ziz dhə KRU",
+   "es": "Él supervisa a la cuadrilla.",
+   "group": "B. Trabajo técnico y de oficina"
+  },
+  {
+   "en": "They work the night shift.",
+   "pron": "dhei werk dhə NAIT shift",
+   "es": "Trabajan el turno de noche.",
+   "group": "B. Trabajo técnico y de oficina"
+  },
+  {
+   "en": "I answer emails.",
+   "pron": "ai ÁN-ser Í-meilz",
+   "es": "Respondo correos.",
+   "group": "B. Trabajo técnico y de oficina"
+  },
+  {
+   "en": "She manages the budget.",
+   "pron": "shi MÁ-ni-yiz dhə BÁ-yit",
+   "es": "Ella maneja el presupuesto.",
+   "group": "B. Trabajo técnico y de oficina"
+  },
+  {
+   "en": "I live in Talara.",
+   "pron": "ai LIV in ta-LÁ-ra",
+   "es": "Vivo en Talara.",
+   "group": "C. Vida, gustos y necesidades"
+  },
+  {
+   "en": "I work for a construction company.",
+   "pron": "ai werk for ə kən-STRÁK-shən KÁM-pə-ni",
+   "es": "Trabajo para una constructora.",
+   "group": "C. Vida, gustos y necesidades"
+  },
+  {
+   "en": "I like my job.",
+   "pron": "ai laik mai YOB",
+   "es": "Me gusta mi trabajo.",
+   "group": "C. Vida, gustos y necesidades"
+  },
+  {
+   "en": "I don't like traffic.",
+   "pron": "ai dount laik TRÁ-fik",
+   "es": "No me gusta el tráfico.",
+   "group": "C. Vida, gustos y necesidades"
+  },
+  {
+   "en": "I need a day off.",
+   "pron": "ai nid ə dei ÓF",
+   "es": "Necesito un día libre.",
+   "group": "C. Vida, gustos y necesidades"
+  },
+  {
+   "en": "I want to learn English.",
+   "pron": "ai wont tə lern ÍN-glish",
+   "es": "Quiero aprender inglés.",
+   "group": "C. Vida, gustos y necesidades"
+  },
+  {
+   "en": "She speaks three languages.",
+   "pron": "shi spiks thri LÁN-gui-yiz",
+   "es": "Ella habla tres idiomas.",
+   "group": "C. Vida, gustos y necesidades"
+  },
+  {
+   "en": "I know. / I don't know.",
+   "pron": "ai NOU / ai dount NOU",
+   "es": "Lo sé. / No sé.",
+   "group": "C. Vida, gustos y necesidades"
+  },
+  {
+   "en": "I agree. / I don't agree.",
+   "pron": "ai ə-GRÍ / ai dount ə-GRÍ",
+   "es": "Estoy de acuerdo. / No estoy de acuerdo.",
+   "group": "C. Vida, gustos y necesidades"
+  },
+  {
+   "en": "every day",
+   "pron": "É-vri DEI",
+   "es": "todos los días",
+   "group": "D. Expresiones de tiempo"
+  },
+  {
+   "en": "every morning",
+   "pron": "É-vri MÓR-ning",
+   "es": "todas las mañanas",
+   "group": "D. Expresiones de tiempo"
+  },
+  {
+   "en": "on Mondays",
+   "pron": "on MÁN-deiz",
+   "es": "los lunes",
+   "group": "D. Expresiones de tiempo"
+  },
+  {
+   "en": "on weekends",
+   "pron": "on UÍK-endz",
+   "es": "los fines de semana",
+   "group": "D. Expresiones de tiempo"
+  },
+  {
+   "en": "in the morning / afternoon",
+   "pron": "in dhə MÓR-ning / af-ter-NÚN",
+   "es": "en la mañana / tarde",
+   "group": "D. Expresiones de tiempo"
+  },
+  {
+   "en": "at night",
+   "pron": "ət NAIT",
+   "es": "en la noche",
+   "group": "D. Expresiones de tiempo"
+  },
+  {
+   "en": "once a week",
+   "pron": "UÁNS ə uik",
+   "es": "una vez por semana",
+   "group": "D. Expresiones de tiempo"
+  },
+  {
+   "en": "twice a month",
+   "pron": "TUÁIS ə manth",
+   "es": "dos veces al mes",
+   "group": "D. Expresiones de tiempo"
+  },
+  {
+   "en": "always",
+   "pron": "ÓL-weiz",
+   "es": "siempre",
+   "group": "E. Cuatro palabras de frecuencia (avance del Módulo 12)",
+   "example": "I always wear my helmet."
+  },
+  {
+   "en": "usually",
+   "pron": "YÚ-zhu-ə-li",
+   "es": "normalmente",
+   "group": "E. Cuatro palabras de frecuencia (avance del Módulo 12)",
+   "example": "She usually starts at seven."
+  },
+  {
+   "en": "sometimes",
+   "pron": "SÁM-taimz",
+   "es": "a veces",
+   "group": "E. Cuatro palabras de frecuencia (avance del Módulo 12)",
+   "example": "We sometimes work on Sundays."
+  },
+  {
+   "en": "never",
+   "pron": "NÉ-ver",
+   "es": "nunca",
+   "group": "E. Cuatro palabras de frecuencia (avance del Módulo 12)",
+   "example": "He never drinks coffee."
+  },
+  {
+   "en": "have → has",
+   "pron": "jaz",
+   "es": "tener → (él/ella) tiene",
+   "group": "F. Verbos con tercera persona especial",
+   "example": "She has a meeting at 3."
+  },
+  {
+   "en": "go → goes",
+   "pron": "gouz",
+   "es": "ir → (él/ella) va",
+   "group": "F. Verbos con tercera persona especial",
+   "example": "He goes to the site every day."
+  },
+  {
+   "en": "do → does",
+   "pron": "daz",
+   "es": "hacer → (él/ella) hace",
+   "group": "F. Verbos con tercera persona especial",
+   "example": "She does the inspections."
+  },
+  {
+   "en": "study → studies",
+   "pron": "STÁ-diz",
+   "es": "estudiar → (él/ella) estudia",
+   "group": "F. Verbos con tercera persona especial",
+   "example": "My son studies at night."
+  },
+  {
+   "en": "watch → watches",
+   "pron": "WÓ-chiz",
+   "es": "mirar, ver → (él/ella) mira",
+   "group": "F. Verbos con tercera persona especial",
+   "example": "He watches the news."
+  },
+  {
+   "en": "fix → fixes",
+   "pron": "FÍK-siz",
+   "es": "arreglar → (él/ella) arregla",
+   "group": "F. Verbos con tercera persona especial",
+   "example": "Carlos fixes the pumps."
+  },
+  {
+   "en": "say → says",
+   "pron": "sez",
+   "es": "decir → (él/ella) dice",
+   "group": "F. Verbos con tercera persona especial",
+   "example": "The manual says 50 psi."
+  }
+ ],
+ "examples": [
+  {
+   "en": "I work as a piping designer for a company in Freeport.",
+   "es": "Trabajo como diseñador de tuberías para una empresa en Freeport.",
+   "situation": "Presentarse"
+  },
+  {
+   "en": "The crew starts at 6 a.m. and finishes at 4 p.m.",
+   "es": "La cuadrilla empieza a las 6 a. m. y termina a las 4 p. m.",
+   "situation": "Horario de obra"
+  },
+  {
+   "en": "The inspector checks every weld before the hydrotest.",
+   "es": "El inspector revisa cada soldadura antes de la prueba hidrostática.",
+   "situation": "Inspección"
+  },
+  {
+   "en": "The pump sends the crude oil to Tank 2.",
+   "es": "La bomba envía el crudo al Tanque 2.",
+   "situation": "Proceso"
+  },
+  {
+   "en": "The crane doesn't work. It needs a new cable.",
+   "es": "La grúa no funciona. Necesita un cable nuevo.",
+   "situation": "Falla"
+  },
+  {
+   "en": "Priya answers emails from clients and prepares the quotes.",
+   "es": "Priya responde los correos de los clientes y prepara las cotizaciones.",
+   "situation": "Oficina"
+  },
+  {
+   "en": "Mr. Lee doesn't speak Spanish, but he understands a little.",
+   "es": "El Sr. Lee no habla español, pero entiende un poco.",
+   "situation": "Idiomas"
+  },
+  {
+   "en": "My wife teaches math, and our son studies at the university.",
+   "es": "Mi esposa enseña matemáticas y nuestro hijo estudia en la universidad.",
+   "situation": "Familia"
+  },
+  {
+   "en": "Steel expands when the temperature goes up.",
+   "es": "El acero se dilata cuando sube la temperatura.",
+   "situation": "Hecho técnico"
+  },
+  {
+   "en": "The warehouse opens at 7 and closes at 5.",
+   "es": "El almacén abre a las 7 y cierra a las 5.",
+   "situation": "Horario fijo"
+  },
+  {
+   "en": "I like spicy food, but my boss hates it.",
+   "es": "Me gusta la comida picante, pero mi jefe la odia.",
+   "situation": "Gustos"
+  },
+  {
+   "en": "I don't smoke, and I go to the gym twice a week.",
+   "es": "No fumo y voy al gimnasio dos veces por semana.",
+   "situation": "Salud"
+  },
+  {
+   "en": "The bank doesn't open on Sundays.",
+   "es": "El banco no abre los domingos.",
+   "situation": "Banco"
+  },
+  {
+   "en": "We always wear gloves and safety glasses on site.",
+   "es": "Siempre usamos guantes y lentes de seguridad en obra.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "Our team inspects and repairs storage tanks in the Caribbean.",
+   "es": "Nuestro equipo inspecciona y repara tanques de almacenamiento en el Caribe.",
+   "situation": "Correo formal"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "I work on Saturdays.",
+     "I don't work on Saturdays.",
+     "Do you work on Saturdays?",
+     "Yes, I do. / No, I don't."
+    ],
+    [
+     "You know the client.",
+     "You don't know the client.",
+     "Do you know the client?",
+     "Yes, I do. / No, I don't."
+    ],
+    [
+     "He lives near the plant.",
+     "He doesn't live near the plant.",
+     "Does he live near the plant?",
+     "Yes, he does. / No, he doesn't."
+    ],
+    [
+     "She has a car.",
+     "She doesn't have a car.",
+     "Does she have a car?",
+     "Yes, she does. / No, she doesn't."
+    ],
+    [
+     "It works well.",
+     "It doesn't work well.",
+     "Does it work well?",
+     "Yes, it does. / No, it doesn't."
+    ],
+    [
+     "We need more bolts.",
+     "We don't need more bolts.",
+     "Do we need more bolts?",
+     "Yes, we do. / No, we don't."
+    ],
+    [
+     "They speak English.",
+     "They don't speak English.",
+     "Do they speak English?",
+     "Yes, they do. / No, they don't."
+    ],
+    [
+     "The bus goes downtown.",
+     "The bus doesn't go downtown.",
+     "Does the bus go downtown?",
+     "Yes, it does. / No, it doesn't."
+    ],
+    [
+     "Ana studies at night.",
+     "Ana doesn't study at night.",
+     "Does Ana study at night?",
+     "Yes, she does. / No, she doesn't."
+    ],
+    [
+     "The welders start at 6.",
+     "The welders don't start at 6.",
+     "Do the welders start at 6?",
+     "Yes, they do. / No, they don't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Sarah",
+   "text": "So, Edwin, you're the new design engineer. Do you work in the office or on site?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Both. I usually work in the office in the morning, and I go to the site after lunch."
+  },
+  {
+   "who": "Sarah",
+   "text": "What time does your day start?"
+  },
+  {
+   "who": "Edwin",
+   "text": "I start at seven. I get up at five-thirty because I live far from the plant."
+  },
+  {
+   "who": "Sarah",
+   "text": "Wow, that's early. Does the company bus pick you up?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, it does. It stops near my apartment at six-fifteen."
+  },
+  {
+   "who": "Sarah",
+   "text": "Good. And Mark? Does he work with you?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes. He supervises the welders and checks the fit-ups. I check the drawings and write the reports."
+  },
+  {
+   "who": "Sarah",
+   "text": "Do you work on weekends?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Sometimes on Saturdays, but I never work on Sundays. That's family time. I call my wife and kids in Peru."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "She work in Lima.",
+   "right": "She works in Lima.",
+   "why": "He, she, it → verbo + s."
+  },
+  {
+   "wrong": "I am work here.",
+   "right": "I work here.",
+   "why": "Verbo de acción sin am/is/are."
+  },
+  {
+   "wrong": "I no like it.",
+   "right": "I don't like it.",
+   "why": "Los verbos se niegan con don't/doesn't."
+  },
+  {
+   "wrong": "He don't know.",
+   "right": "He doesn't know.",
+   "why": "He, she, it → doesn't."
+  },
+  {
+   "wrong": "She doesn't speaks English.",
+   "right": "She doesn't speak English.",
+   "why": "Una sola -s: ya está en doesn't."
+  },
+  {
+   "wrong": "He haves two kids.",
+   "right": "He has two kids.",
+   "why": "Have es irregular: has."
+  },
+  {
+   "wrong": "My son studys a lot.",
+   "right": "My son studies a lot.",
+   "why": "Consonante + y → ies."
+  },
+  {
+   "wrong": "The people works hard.",
+   "right": "The people work hard.",
+   "why": "People es plural → sin -s."
+  },
+  {
+   "wrong": "I'm agree.",
+   "right": "I agree.",
+   "why": "Agree es un verbo, no un adjetivo."
+  },
+  {
+   "wrong": "Starts at 7.",
+   "right": "It starts at 7.",
+   "why": "Siempre hace falta sujeto (Módulo 1)."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "assist",
+   "looks": "asistir (ir a)",
+   "means": "ayudar",
+   "fix": "attend (a meeting)"
+  },
+  {
+   "en": "attend",
+   "looks": "atender",
+   "means": "asistir a",
+   "fix": "serve / help (a customer)"
+  },
+  {
+   "en": "realize",
+   "looks": "realizar",
+   "means": "darse cuenta",
+   "fix": "carry out / do"
+  },
+  {
+   "en": "pretend",
+   "looks": "pretender",
+   "means": "fingir",
+   "fix": "intend / plan"
+  },
+  {
+   "en": "support",
+   "looks": "soportar (aguantar)",
+   "means": "apoyar, sostener",
+   "fix": "stand / tolerate"
+  },
+  {
+   "en": "record",
+   "looks": "recordar",
+   "means": "grabar, registrar",
+   "fix": "remember / remind"
+  },
+  {
+   "en": "molest",
+   "looks": "molestar",
+   "means": "abusar sexualmente (¡grave!)",
+   "fix": "bother / annoy"
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Trabajo para una empresa de tanques.",
+    "answers": [
+     "I work for a tank company.",
+     "I work for a company that builds tanks."
+    ],
+    "explain": "Work for + empresa. I → verbo sin -s. También vale a company that builds tanks."
+   },
+   {
+    "prompt": "Ella vive en Lima.",
+    "answers": [
+     "She lives in Lima."
+    ],
+    "explain": "She → lives. Sin is."
+   },
+   {
+    "prompt": "Mi jefe no habla español.",
+    "answers": [
+     "My boss doesn't speak Spanish.",
+     "My boss does not speak Spanish."
+    ],
+    "explain": "My boss = he → doesn't + verbo base."
+   },
+   {
+    "prompt": "No me gusta el café.",
+    "answers": [
+     "I don't like coffee.",
+     "I do not like coffee."
+    ],
+    "explain": "Negativo con don't. Gusto general → sin the (Módulo 2)."
+   },
+   {
+    "prompt": "El soldador empieza a las 7.",
+    "answers": [
+     "The welder starts at 7.",
+     "The welder starts at seven."
+    ],
+    "explain": "The welder = he → starts."
+   },
+   {
+    "prompt": "¿Trabajas los sábados? — Sí.",
+    "answers": [
+     "Do you work on Saturdays? — Yes, I do.",
+     "Do you work on Saturdays? Yes, I do."
+    ],
+    "explain": "Pregunta con Do + you; respuesta corta con do."
+   },
+   {
+    "prompt": "No trabajamos los domingos.",
+    "answers": [
+     "We don't work on Sundays.",
+     "We do not work on Sundays."
+    ],
+    "explain": "Hay que poner el sujeto we. Días repetidos: on + plural."
+   },
+   {
+    "prompt": "Él estudia inglés todas las noches.",
+    "answers": [
+     "He studies English every night."
+    ],
+    "explain": "Study → studies (consonante + y). \"Todas las noches\" = every night (singular)."
+   },
+   {
+    "prompt": "La bomba no funciona.",
+    "answers": [
+     "The pump doesn't work.",
+     "The pump does not work."
+    ],
+    "explain": "Work = funcionar. The pump = it → doesn't."
+   },
+   {
+    "prompt": "Carlos tiene dos hijos.",
+    "answers": [
+     "Carlos has two children.",
+     "Carlos has two kids.",
+     "Carlos has two sons."
+    ],
+    "explain": "Have → has. \"Hijos\" en general = children (o kids); sons solo si son varones."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "She goes to the gym on Mondays and Wednesdays.",
+    "answers": [
+     "Ella va al gimnasio los lunes y miércoles.",
+     "Ella va al gimnasio los lunes y los miércoles.",
+     "Va al gimnasio los lunes y miércoles."
+    ],
+    "explain": "On Mondays = los lunes (hábito). Goes = va."
+   },
+   {
+    "prompt": "The inspector doesn't work on weekends.",
+    "answers": [
+     "El inspector no trabaja los fines de semana.",
+     "El inspector no trabaja en fines de semana."
+    ],
+    "explain": "Doesn't work = no trabaja. On weekends = los fines de semana."
+   },
+   {
+    "prompt": "Does this bus stop at the airport?",
+    "answers": [
+     "¿Este bus para en el aeropuerto?",
+     "¿Este autobús para en el aeropuerto?",
+     "¿Este bus se detiene en el aeropuerto?",
+     "¿Este bus pasa por el aeropuerto?"
+    ],
+    "explain": "Does no se traduce; solo marca la pregunta."
+   },
+   {
+    "prompt": "My children watch TV after dinner.",
+    "answers": [
+     "Mis hijos ven televisión después de la cena.",
+     "Mis hijos ven televisión después de cenar.",
+     "Mis hijos ven la tele después de cenar.",
+     "Mis niños ven televisión después de la cena."
+    ],
+    "explain": "Watch TV = ver televisión. Children → sin -s en el verbo."
+   },
+   {
+    "prompt": "We usually have lunch at 12:30.",
+    "answers": [
+     "Normalmente almorzamos a las 12:30.",
+     "Por lo general almorzamos a las 12:30.",
+     "Usualmente almorzamos a las 12:30.",
+     "Normalmente comemos a las 12:30."
+    ],
+    "explain": "Usually = normalmente. Have lunch = almorzar."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "She work in the office.",
+    "answers": [
+     "She works in the office."
+    ],
+    "explain": "She → verbo + s."
+   },
+   {
+    "prompt": "He doesn't speaks English.",
+    "answers": [
+     "He doesn't speak English.",
+     "He does not speak English."
+    ],
+    "explain": "Tras doesn't, verbo base: una sola -s."
+   },
+   {
+    "prompt": "I am live in Talara.",
+    "answers": [
+     "I live in Talara."
+    ],
+    "explain": "Verbo de acción sin am."
+   },
+   {
+    "prompt": "They no like the new schedule.",
+    "answers": [
+     "They don't like the new schedule.",
+     "They do not like the new schedule."
+    ],
+    "explain": "Negativo con don't, no con no."
+   },
+   {
+    "prompt": "My brother don't drink coffee.",
+    "answers": [
+     "My brother doesn't drink coffee.",
+     "My brother does not drink coffee."
+    ],
+    "explain": "My brother = he → doesn't."
+   },
+   {
+    "prompt": "Mark haves a meeting every Monday.",
+    "answers": [
+     "Mark has a meeting every Monday."
+    ],
+    "explain": "Have → has."
+   },
+   {
+    "prompt": "The welder finish work at 5 p.m.",
+    "answers": [
+     "The welder finishes work at 5 p.m."
+    ],
+    "explain": "Termina en -sh → -es."
+   },
+   {
+    "prompt": "Ana studys English at night.",
+    "answers": [
+     "Ana studies English at night."
+    ],
+    "explain": "Consonante + y → ies."
+   },
+   {
+    "prompt": "Does she works on Saturdays?",
+    "answers": [
+     "Does she work on Saturdays?"
+    ],
+    "explain": "Con does, verbo sin -s."
+   },
+   {
+    "prompt": "I'm agree with you.",
+    "answers": [
+     "I agree with you."
+    ],
+    "explain": "Agree es verbo: sin am."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte a negativo y a pregunta: He checks the valves every morning.",
+   "answer": "He doesn't check the valves every morning. / Does he check the valves every morning?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con la forma correcta del verbo entre paréntesis, o con do, does, don't o doesn't.",
+   "lines": [
+    {
+     "who": "Mark",
+     "text": "Edwin, I hear you [1] (start) work very early."
+    },
+    {
+     "who": "Edwin",
+     "text": "Yes. My shift [2] (start) at 6 a.m., so I [3] (get) up at 4:30."
+    },
+    {
+     "who": "Mark",
+     "text": "Wow! [4] your wife live here too?"
+    },
+    {
+     "who": "Edwin",
+     "text": "No, she [5] live here. She [6] (stay) in Peru with our children."
+    },
+    {
+     "who": "Mark",
+     "text": "[7] you call them every day?"
+    },
+    {
+     "who": "Edwin",
+     "text": "Yes, I [8]. We talk every night after dinner."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "start"
+     ],
+     "explain": "You → verbo base."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "starts"
+     ],
+     "explain": "My shift = it → -s."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "get"
+     ],
+     "explain": "I → verbo base. Get up = levantarse."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "Does"
+     ],
+     "explain": "Pregunta con your wife (= she) → Does; el verbo live ya va sin -s."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "doesn't",
+      "does not"
+     ],
+     "explain": "Negativo con she → doesn't + live."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "stays"
+     ],
+     "explain": "Vocal + y → solo -s."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "Do"
+     ],
+     "explain": "Pregunta con you → Do."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "do"
+     ],
+     "explain": "Respuesta corta: Yes, I do."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un texto. Escribe 6 a 8 oraciones sobre un día normal de trabajo para tu nuevo jefe. Incluye: (a) tres acciones de tu rutina con hora, (b) una oración sobre otra persona (he/she) con -s, (c) un negativo con don't, (d) un negativo con doesn't, (e) una expresión de tiempo (every day, on Mondays, at night…).",
+   "rubric": [
+    "(a) Tres acciones de tu rutina con hora",
+    "(b) Una oración sobre otra persona (he/she) con -s",
+    "(c) Un negativo con don't",
+    "(d) Un negativo con doesn't",
+    "(e) Una expresión de tiempo (every day, on Mondays, at night…)",
+    "Escribes bien una -es o -ies (finishes, goes, studies…)",
+    "No mezclas am / is / are con verbos de acción"
+   ],
+   "model": "I get up at 5:30 every day. I take the company bus at 6:15, and I start work at 7. In the morning, I check the drawings and answer emails. Mark supervises the welders and finishes the fit-up reports. We have lunch at noon. I don't work on Sundays, and the office doesn't open on holidays."
+  }
+ },
+ "cando": [
+  {
+   "skill": "Contar mi rutina diaria.",
+   "test": "Grábate 60 segundos sin leer: mínimo 8 acciones con hora o expresión de tiempo."
+  },
+  {
+   "skill": "Poner la -s de he / she / it sin olvidarla.",
+   "test": "Cuenta en voz alta la rutina de un compañero (8 oraciones con he/she). Escucha la grabación: 8 de 8 con -s."
+  },
+  {
+   "skill": "Escribir bien -s, -es, -ies y has.",
+   "test": "Escribe en 1 minuto la forma de he: go, do, have, study, watch, fix, play, finish, carry, say. 10 de 10."
+  },
+  {
+   "skill": "Negar con don't / doesn't.",
+   "test": "Convierte 8 oraciones afirmativas a negativo en 1 minuto; cero \"doesn't + verbo con -s\"."
+  },
+  {
+   "skill": "Separar TO BE de los verbos de acción.",
+   "test": "Traduce: vivo en Lima, soy de Piura, estoy de acuerdo, trabajo aquí, estoy cansado. Cero \"I am live / I am agree\"."
+  },
+  {
+   "skill": "Explicar cómo funciona algo en mi trabajo.",
+   "test": "Describe un proceso (bomba, inspección, compra) en 5 oraciones con presente simple, sin errores de -s."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What time do you get up?",
+  "What do you do at work?",
+  "Where do you live?",
+  "What does your best friend do?",
+  "What do you do on weekends?",
+  "Do you drink coffee in the morning?"
+ ]
+}

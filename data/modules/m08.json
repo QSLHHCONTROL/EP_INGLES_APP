@@ -1,0 +1,959 @@
+{
+ "id": 8,
+ "level": "A2",
+ "title": "Pasado simple con TO BE (was / were)",
+ "goal": "Al terminar podrás contar dónde estuviste, cómo estuvo tu día, tu fin de semana o una inspección, decir dónde y cuándo naciste y reportar qué problemas hubo, en afirmativo, negativo y pregunta, sin confundir was con were.",
+ "lesson": [
+  {
+   "title": "Dos formas para el pasado: was y were",
+   "html": "<p>En el Módulo 1 usaste <span class=\"en\">am, is, are</span> para hablar del presente. Para el pasado, TO BE tiene solo <b>dos formas</b>: <span class=\"en\">was</span> y <span class=\"en\">were</span>. Con ellas dices dónde estabas, cómo era algo, cómo estuvo un día o qué edad tenías.</p>",
+   "svg": "<svg viewBox=\"0 0 640 220\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"30\" y=\"14\" width=\"390\" height=\"98\" rx=\"12\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"50\" y=\"38\" font-size=\"14\" font-weight=\"800\" fill=\"#0B6B60\">PASADO TERMINADO → was / were</text>\n  <text x=\"50\" y=\"62\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I was in Chile in 2019.</text>\n  <text x=\"50\" y=\"81\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">We were busy last week.</text>\n  <text x=\"50\" y=\"100\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">It was cold yesterday.</text>\n  <rect x=\"440\" y=\"14\" width=\"180\" height=\"98\" rx=\"12\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"530\" y=\"38\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#E8590C\">AHORA</text>\n  <text x=\"530\" y=\"60\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#E8590C\">am / is / are</text>\n  <text x=\"530\" y=\"90\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I'm in Freeport now.</text>\n  <line x1=\"30\" y1=\"150\" x2=\"605\" y2=\"150\" stroke=\"#667085\" stroke-width=\"3\"/>\n  <polygon points=\"605,143 620,150 605,157\" fill=\"#667085\"/>\n  <line x1=\"90\" y1=\"112\" x2=\"90\" y2=\"142\" stroke=\"#0E9384\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/>\n  <line x1=\"220\" y1=\"112\" x2=\"220\" y2=\"142\" stroke=\"#0E9384\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/>\n  <line x1=\"350\" y1=\"112\" x2=\"350\" y2=\"142\" stroke=\"#0E9384\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/>\n  <circle cx=\"90\" cy=\"150\" r=\"8\" fill=\"#0E9384\"/>\n  <circle cx=\"220\" cy=\"150\" r=\"8\" fill=\"#0E9384\"/>\n  <circle cx=\"350\" cy=\"150\" r=\"8\" fill=\"#0E9384\"/>\n  <line x1=\"530\" y1=\"112\" x2=\"530\" y2=\"160\" stroke=\"#E8590C\" stroke-width=\"3\"/>\n  <circle cx=\"530\" cy=\"150\" r=\"9\" fill=\"#E8590C\"/>\n  <text x=\"90\" y=\"176\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">2019</text>\n  <text x=\"220\" y=\"176\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">la semana pasada</text>\n  <text x=\"350\" y=\"176\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">ayer</text>\n  <text x=\"530\" y=\"178\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#E8590C\">AHORA</text>\n  <text x=\"595\" y=\"176\" text-anchor=\"middle\" font-size=\"11\" fill=\"#98A2B3\">futuro</text>\n  <text x=\"320\" y=\"208\" text-anchor=\"middle\" font-size=\"12\" fill=\"#667085\">Si el estado terminó y pertenece a un momento pasado, usa was / were.</text>\n</svg>",
+   "caption": "Figura 8.1 — Línea de tiempo: was / were para el pasado terminado; am / is / are para ahora."
+  },
+  {
+   "title": "Las formas del pasado",
+   "html": "<table>\n<thead><tr><th>Sujeto</th><th>Presente (Módulo 1)</th><th>Pasado</th><th>Negativo (contracción)</th><th>Pronunciación</th></tr></thead>\n<tbody>\n<tr><td>I (yo)</td><td>I am</td><td><span class=\"en\">I was</span></td><td><span class=\"en\">I wasn't</span></td><td><span class=\"pron\">ai wəz · ai WÁ-zənt</span></td></tr>\n<tr><td>You (tú / usted / ustedes)</td><td>you are</td><td><span class=\"en\">you were</span></td><td><span class=\"en\">you weren't</span></td><td><span class=\"pron\">yu wer · yu WERNT</span></td></tr>\n<tr><td>He (él)</td><td>he is</td><td><span class=\"en\">he was</span></td><td><span class=\"en\">he wasn't</span></td><td><span class=\"pron\">ji wəz · ji WÁ-zənt</span></td></tr>\n<tr><td>She (ella)</td><td>she is</td><td><span class=\"en\">she was</span></td><td><span class=\"en\">she wasn't</span></td><td><span class=\"pron\">shi wəz · shi WÁ-zənt</span></td></tr>\n<tr><td>It (cosa, clima, hora)</td><td>it is</td><td><span class=\"en\">it was</span></td><td><span class=\"en\">it wasn't</span></td><td><span class=\"pron\">it wəz · it WÁ-zənt</span></td></tr>\n<tr><td>We (nosotros)</td><td>we are</td><td><span class=\"en\">we were</span></td><td><span class=\"en\">we weren't</span></td><td><span class=\"pron\">wi wer · wi WERNT</span></td></tr>\n<tr><td>They (ellos / ellas / cosas)</td><td>they are</td><td><span class=\"en\">they were</span></td><td><span class=\"en\">they weren't</span></td><td><span class=\"pron\">dhei wer · dhei WERNT</span></td></tr>\n</tbody></table><p>El pasado no se contrae con el sujeto: no existe <span class=\"wrong\">I's</span> ni <span class=\"wrong\">we're</span> para el pasado. Solo se contrae el negativo: <i>was not</i> → <b>wasn't</b>, <i>were not</i> → <b>weren't</b>.</p>",
+   "svg": "<svg viewBox=\"0 0 640 180\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"280\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">PRESENTE</text>\n  <text x=\"460\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">PASADO</text>\n  <text x=\"30\" y=\"64\" font-size=\"16\" font-weight=\"800\" fill=\"#1D2939\">I</text>\n  <text x=\"30\" y=\"109\" font-size=\"16\" font-weight=\"800\" fill=\"#1D2939\">he · she · it</text>\n  <text x=\"30\" y=\"154\" font-size=\"16\" font-weight=\"800\" fill=\"#1D2939\">you · we · they</text>\n  <rect x=\"230\" y=\"40\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"280\" y=\"64\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#344054\">am</text>\n  <rect x=\"230\" y=\"85\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"280\" y=\"109\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#344054\">is</text>\n  <rect x=\"230\" y=\"130\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"280\" y=\"154\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#344054\">are</text>\n  <line x1=\"338\" y1=\"58\" x2=\"394\" y2=\"58\" stroke=\"#0E9384\" stroke-width=\"3\"/><polygon points=\"394,51 408,58 394,65\" fill=\"#0E9384\"/>\n  <line x1=\"338\" y1=\"103\" x2=\"394\" y2=\"103\" stroke=\"#0E9384\" stroke-width=\"3\"/><polygon points=\"394,96 408,103 394,110\" fill=\"#0E9384\"/>\n  <line x1=\"338\" y1=\"148\" x2=\"394\" y2=\"148\" stroke=\"#0E9384\" stroke-width=\"3\"/><polygon points=\"394,141 408,148 394,155\" fill=\"#0E9384\"/>\n  <rect x=\"410\" y=\"40\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"460\" y=\"64\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#fff\">was</text>\n  <rect x=\"410\" y=\"85\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"460\" y=\"109\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#fff\">was</text>\n  <rect x=\"410\" y=\"130\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"460\" y=\"154\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"800\" fill=\"#fff\">were</text>\n  <text x=\"525\" y=\"63\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I was late.</text>\n  <text x=\"525\" y=\"108\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">It was OK.</text>\n  <text x=\"525\" y=\"153\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">We were late.</text>\n</svg>",
+   "caption": "Figura 8.2 — De presente a pasado: am e is se vuelven was; are se vuelve were."
+  },
+  {
+   "title": "Las tres reglas de oro",
+   "html": "<p><b>Regla de oro 1 — WAS para uno, WERE para you y plurales</b></p>\n<p><b>I, he, she, it</b> + <span class=\"en\">was</span>. <b>You, we, they</b> + <span class=\"en\">were</span>. <i>You</i> siempre lleva <b>were</b>, aunque hables con una sola persona.</p>\n<p><span class=\"es\">¿Estabas cansado?</span> → <span class=\"ok\">Were you tired?</span>   Nunca <span class=\"wrong\">Was you tired?</span></p>\n<p><b>Regla de oro 2 — TO BE en pasado no usa DID</b></p>\n<p>Igual que en presente (no usa <i>do/does</i>), en pasado TO BE no usa <i>did</i>. Para negar se añade <b>not</b>; para preguntar se invierte el orden.</p>\n<p><span class=\"ok\">Were you at the meeting?</span>   Nunca <span class=\"wrong\">Did you be at the meeting?</span></p>\n<p><b>Regla de oro 3 — \"Hace + tiempo\" = tiempo + AGO</b></p>\n<p><span class=\"es\">hace dos días</span> → <span class=\"en\">two days ago</span>. La cantidad va primero y <b>ago</b> al final. Nunca <span class=\"wrong\">before two days</span> ni <span class=\"wrong\">ago two days</span>.</p>"
+  },
+  {
+   "title": "Así piensa un nativo — was suave, WAS fuerte",
+   "html": "<p>En una oración normal, <i>was</i> y <i>were</i> se dicen rápido y débiles: <span class=\"en\">I was late</span> <span class=\"pron\">ai wəz LEIT</span>. Se pronuncian fuertes en la respuesta corta, en el negativo y para dar énfasis: <span class=\"en\">Yes, I was.</span> <span class=\"pron\">yes ai WAZ</span> · <span class=\"en\">It wasn't me!</span> <span class=\"pron\">it WÁ-zənt MI</span>.</p>"
+  },
+  {
+   "title": "Expresiones de tiempo pasado",
+   "html": "<table>\n<thead><tr><th>Español</th><th>Inglés</th><th>Ejemplo</th></tr></thead>\n<tbody>\n<tr><td>ayer</td><td><span class=\"en\">yesterday</span></td><td><span class=\"en\">I was at the site yesterday.</span></td></tr>\n<tr><td>anoche</td><td><span class=\"en\">last night</span></td><td><span class=\"en\">Where were you last night?</span></td></tr>\n<tr><td>la semana / el mes / el año pasado</td><td><span class=\"en\">last week / last month / last year</span></td><td><span class=\"en\">She was in Houston last month.</span></td></tr>\n<tr><td>hace dos horas / tres años</td><td><span class=\"en\">two hours ago / three years ago</span></td><td><span class=\"en\">The test was two hours ago.</span></td></tr>\n<tr><td>en 2019</td><td><span class=\"en\">in 2019</span></td><td><span class=\"en\">We were in Chile in 2019.</span></td></tr>\n<tr><td>el lunes (pasado)</td><td><span class=\"en\">on Monday / last Monday</span></td><td><span class=\"en\">The office was closed on Monday.</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Traducción directa vs interpretación real",
+   "html": "<p>El español tiene muchas formas para el pasado de <i>ser</i> y <i>estar</i> (era, fue, estaba, estuve). El inglés las junta todas en <b>was / were</b>. Además, donde el español usa <i>tener</i>, <i>hacer</i> o <i>haber</i>, el inglés vuelve a usar TO BE.</p><table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>Tenía 25 años</td><td><span class=\"en\">I was 25. I had 25 years</span></td></tr><tr><td>Tuve frío</td><td><span class=\"en\">I was cold. I had cold</span></td></tr><tr><td>Hacía calor</td><td><span class=\"en\">It was hot. Made heat</span></td></tr><tr><td>Había mucha gente</td><td><span class=\"en\">There were a lot of people. Was many people</span></td></tr><tr><td>Nací en Talara</td><td><span class=\"en\">I was born in Talara. I born</span></td></tr><tr><td>Fue hace dos años</td><td><span class=\"en\">It was two years ago. Was before two years</span></td></tr></tbody></table><table>\n<thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead>\n<tbody>\n<tr><td>¿Cómo estuvo tu fin de semana?</td><td><span class=\"wrong\">How was been your weekend?</span></td><td><span class=\"ok\">How was your weekend?</span></td></tr>\n<tr><td>Estuve enfermo la semana pasada.</td><td><span class=\"wrong\">I was sick the past week.</span></td><td><span class=\"ok\">I was sick last week.</span></td></tr>\n<tr><td>No hubo problemas.</td><td><span class=\"wrong\">There wasn't problems.</span></td><td><span class=\"ok\">There weren't any problems.</span></td></tr>\n<tr><td>¿Dónde naciste?</td><td><span class=\"wrong\">Where did you born?</span></td><td><span class=\"ok\">Where were you born?</span></td></tr>\n<tr><td>Fue fácil.</td><td><span class=\"wrong\">Was easy.</span></td><td><span class=\"ok\">It was easy.</span></td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 230\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"16\" width=\"190\" height=\"28\" rx=\"8\" fill=\"#FFF8E1\" stroke=\"#E9B949\"/><text x=\"115\" y=\"35\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#7A5B00\">era / fue</text>\n  <rect x=\"20\" y=\"50\" width=\"190\" height=\"28\" rx=\"8\" fill=\"#FFF8E1\" stroke=\"#E9B949\"/><text x=\"115\" y=\"69\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#7A5B00\">estaba / estuve</text>\n  <rect x=\"20\" y=\"84\" width=\"190\" height=\"28\" rx=\"8\" fill=\"#FFF8E1\" stroke=\"#E9B949\"/><text x=\"115\" y=\"103\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#7A5B00\">tenía 25 años</text>\n  <rect x=\"20\" y=\"118\" width=\"190\" height=\"28\" rx=\"8\" fill=\"#FFF8E1\" stroke=\"#E9B949\"/><text x=\"115\" y=\"137\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#7A5B00\">hacía frío</text>\n  <rect x=\"20\" y=\"152\" width=\"190\" height=\"28\" rx=\"8\" fill=\"#FFF8E1\" stroke=\"#E9B949\"/><text x=\"115\" y=\"171\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#7A5B00\">había / hubo</text>\n  <rect x=\"20\" y=\"186\" width=\"190\" height=\"28\" rx=\"8\" fill=\"#FFF8E1\" stroke=\"#E9B949\"/><text x=\"115\" y=\"205\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#7A5B00\">nací</text>\n  <g fill=\"none\" stroke=\"#0E9384\" stroke-width=\"2\">\n    <path d=\"M210 30 C 245 30, 245 100, 270 108\"/>\n    <path d=\"M210 64 C 240 64, 245 104, 270 110\"/>\n    <path d=\"M210 98 C 235 98, 250 112, 270 113\"/>\n    <path d=\"M210 132 C 235 132, 250 118, 270 117\"/>\n    <path d=\"M210 166 C 240 166, 245 126, 270 120\"/>\n    <path d=\"M210 200 C 245 200, 245 130, 270 122\"/>\n    <path d=\"M400 108 C 410 60, 412 30, 425 30\"/>\n    <path d=\"M400 110 C 410 80, 412 64, 425 64\"/>\n    <path d=\"M400 113 C 410 100, 412 98, 425 98\"/>\n    <path d=\"M400 117 C 410 128, 412 132, 425 132\"/>\n    <path d=\"M400 120 C 410 150, 412 166, 425 166\"/>\n    <path d=\"M400 122 C 410 170, 412 200, 425 200\"/>\n  </g>\n  <rect x=\"270\" y=\"80\" width=\"130\" height=\"70\" rx=\"14\" fill=\"#0E9384\"/>\n  <text x=\"335\" y=\"114\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"800\" fill=\"#fff\">was / were</text>\n  <text x=\"335\" y=\"136\" text-anchor=\"middle\" font-size=\"12\" fill=\"#E6F7F5\">un solo verbo</text>\n  <text x=\"432\" y=\"35\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">It was easy.</text>\n  <text x=\"432\" y=\"69\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I was at home.</text>\n  <text x=\"432\" y=\"103\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I was 25.</text>\n  <text x=\"432\" y=\"137\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">It was cold.</text>\n  <text x=\"432\" y=\"171\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">There was a leak.</text>\n  <text x=\"432\" y=\"205\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I was born in 1994.</text>\n</svg>",
+   "caption": "Figura 8.3 — Seis formas del español, una sola idea en inglés: was / were."
+  },
+  {
+   "title": "Negativo y pregunta: el mismo mecanismo del Módulo 1",
+   "html": "<p>Nada nuevo en la mecánica: <b>not</b> después del verbo para negar, y el verbo <b>antes</b> del sujeto para preguntar. Solo cambia la forma del verbo.</p><table>\n<thead><tr><th></th><th>Estructura</th><th>Ejemplo con WAS</th><th>Ejemplo con WERE</th></tr></thead>\n<tbody>\n<tr><td><b>Afirmativo</b></td><td>Sujeto + was/were + …</td><td><span class=\"en\">He was at home.</span></td><td><span class=\"en\">They were at the site.</span></td></tr>\n<tr><td><b>Negativo</b></td><td>Sujeto + wasn't/weren't + …</td><td><span class=\"en\">He wasn't at home.</span></td><td><span class=\"en\">They weren't at the site.</span></td></tr>\n<tr><td><b>Pregunta</b></td><td>Was/Were + sujeto + … ?</td><td><span class=\"en\">Was he at home?</span></td><td><span class=\"en\">Were they at the site?</span></td></tr>\n<tr><td><b>Respuesta corta</b></td><td>Yes, + sujeto + was/were. / No, + sujeto + wasn't/weren't.</td><td><span class=\"en\">Yes, he was. / No, he wasn't.</span></td><td><span class=\"en\">Yes, they were. / No, they weren't.</span></td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 190\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"36\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">AFIRMATIVO</text>\n  <rect x=\"140\" y=\"14\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"190\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">They</text>\n  <rect x=\"252\" y=\"14\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"297\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">were</text>\n  <rect x=\"354\" y=\"14\" width=\"140\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"424\" y=\"38\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">at the site.</text>\n  <text x=\"20\" y=\"96\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">NEGATIVO</text>\n  <rect x=\"140\" y=\"74\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"190\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">They</text>\n  <rect x=\"252\" y=\"74\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"297\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">were</text>\n  <rect x=\"354\" y=\"74\" width=\"70\" height=\"36\" rx=\"8\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"389\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#D92D20\">not</text>\n  <rect x=\"436\" y=\"74\" width=\"140\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"506\" y=\"98\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">at the site.</text>\n  <text x=\"20\" y=\"160\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">PREGUNTA</text>\n  <rect x=\"140\" y=\"138\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#0E9384\"/><text x=\"185\" y=\"162\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">Were</text>\n  <rect x=\"242\" y=\"138\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"292\" y=\"162\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">they</text>\n  <rect x=\"354\" y=\"138\" width=\"140\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"424\" y=\"162\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"700\" fill=\"#1D2939\">at the site?</text>\n  <path d=\"M500 32 C 624 32, 624 156, 500 156\" fill=\"none\" stroke=\"#0E9384\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/>\n  <text x=\"565\" y=\"183\" text-anchor=\"middle\" font-size=\"11\" fill=\"#0E9384\">were pasa adelante</text>\n</svg>",
+   "caption": "Figura 8.4 — Negar = were + not (weren't). Preguntar = mover were antes del sujeto."
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<ul>\n<li><b>Nacer</b> en inglés se dice con TO BE: <span class=\"en\">I was born in 1994.</span> Es un bloque fijo; memorízalo entero. Nunca <span class=\"wrong\">I born</span> ni <span class=\"wrong\">I am born in 1994</span>.</li>\n<li><b>Había / hubo</b> = <span class=\"en\">there was</span> (singular) / <span class=\"en\">there were</span> (plural), el pasado de <i>there is / there are</i> (Módulo 2): <span class=\"en\">There was a leak. There were two leaks.</span></li>\n<li>Con <b>yesterday, last, ago</b> no se usa <i>the</i>: <span class=\"ok\">last week</span>, no <span class=\"wrong\">the last week</span>.</li>\n<li>Respuesta corta: <span class=\"ok\">Yes, I was.</span> Nunca <span class=\"wrong\">Yes, I were.</span> La forma depende del sujeto de la respuesta: <i>Were you…?</i> → <b>Yes, I was.</b></li>\n</ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "yesterday",
+   "pron": "YÉS-ter-dei",
+   "es": "ayer",
+   "group": "A. Marcadores de tiempo pasado"
+  },
+  {
+   "en": "the day before yesterday",
+   "pron": "dhə DEI bi-FÓR YÉS-ter-dei",
+   "es": "anteayer",
+   "group": "A. Marcadores de tiempo pasado"
+  },
+  {
+   "en": "last night",
+   "pron": "last NAIT",
+   "es": "anoche",
+   "group": "A. Marcadores de tiempo pasado"
+  },
+  {
+   "en": "last week",
+   "pron": "last WIK",
+   "es": "la semana pasada",
+   "group": "A. Marcadores de tiempo pasado"
+  },
+  {
+   "en": "last month / last year",
+   "pron": "last MANTH / last YIR",
+   "es": "el mes pasado / el año pasado",
+   "group": "A. Marcadores de tiempo pasado"
+  },
+  {
+   "en": "two days ago",
+   "pron": "tu DEIZ ə-GÓU",
+   "es": "hace dos días",
+   "group": "A. Marcadores de tiempo pasado"
+  },
+  {
+   "en": "a long time ago",
+   "pron": "ə LONG taim ə-GÓU",
+   "es": "hace mucho tiempo",
+   "group": "A. Marcadores de tiempo pasado"
+  },
+  {
+   "en": "in 2019",
+   "pron": "in TWÉN-ti nain-TÍN",
+   "es": "en 2019",
+   "group": "A. Marcadores de tiempo pasado"
+  },
+  {
+   "en": "this morning",
+   "pron": "dhis MÓR-ning",
+   "es": "esta mañana (si ya pasó)",
+   "group": "A. Marcadores de tiempo pasado"
+  },
+  {
+   "en": "at that time",
+   "pron": "ət DHAT taim",
+   "es": "en ese momento / en esa época",
+   "group": "A. Marcadores de tiempo pasado"
+  },
+  {
+   "en": "I was tired.",
+   "pron": "ai wəz TÁI-erd",
+   "es": "Estaba cansado.",
+   "group": "B. Estados y sensaciones en pasado"
+  },
+  {
+   "en": "I was sick.",
+   "pron": "ai wəz SIK",
+   "es": "Estuve enfermo.",
+   "group": "B. Estados y sensaciones en pasado"
+  },
+  {
+   "en": "I was busy all day.",
+   "pron": "ai wəz BÍ-zi ol DEI",
+   "es": "Estuve ocupado todo el día.",
+   "group": "B. Estados y sensaciones en pasado"
+  },
+  {
+   "en": "I was at home.",
+   "pron": "ai wəz ət JOUM",
+   "es": "Estuve en casa.",
+   "group": "B. Estados y sensaciones en pasado"
+  },
+  {
+   "en": "I was hungry.",
+   "pron": "ai wəz JÁN-gri",
+   "es": "Tenía hambre.",
+   "group": "B. Estados y sensaciones en pasado"
+  },
+  {
+   "en": "We were on time.",
+   "pron": "wi wer on TAIM",
+   "es": "Llegamos a tiempo. (Estábamos a tiempo.)",
+   "group": "B. Estados y sensaciones en pasado"
+  },
+  {
+   "en": "It was hard.",
+   "pron": "it wəz JARD",
+   "es": "Fue difícil.",
+   "group": "B. Estados y sensaciones en pasado"
+  },
+  {
+   "en": "It was a long day.",
+   "pron": "it wəz ə long DEI",
+   "es": "Fue un día largo.",
+   "group": "B. Estados y sensaciones en pasado"
+  },
+  {
+   "en": "It was fun.",
+   "pron": "it wəz FAN",
+   "es": "Fue divertido.",
+   "group": "B. Estados y sensaciones en pasado"
+  },
+  {
+   "en": "The tank was empty.",
+   "pron": "dhə TANK wəz ÉMP-ti",
+   "es": "El tanque estaba vacío.",
+   "group": "C. Reportes de trabajo y obra"
+  },
+  {
+   "en": "The test was OK.",
+   "pron": "dhə TEST wəz ou-KÉI",
+   "es": "La prueba salió bien.",
+   "group": "C. Reportes de trabajo y obra"
+  },
+  {
+   "en": "The welds were good.",
+   "pron": "dhə WELDZ wer GUD",
+   "es": "Las soldaduras estaban bien.",
+   "group": "C. Reportes de trabajo y obra"
+  },
+  {
+   "en": "The drawings were wrong.",
+   "pron": "dhə DRÓ-ingz wer RONG",
+   "es": "Los planos estaban mal.",
+   "group": "C. Reportes de trabajo y obra"
+  },
+  {
+   "en": "The material wasn't ready.",
+   "pron": "dhə mə-TÍ-ri-əl WÁ-zənt RÉ-di",
+   "es": "El material no estaba listo.",
+   "group": "C. Reportes de trabajo y obra"
+  },
+  {
+   "en": "The meeting was long.",
+   "pron": "dhə MÍ-ting wəz LONG",
+   "es": "La reunión fue larga.",
+   "group": "C. Reportes de trabajo y obra"
+  },
+  {
+   "en": "The site was closed.",
+   "pron": "dhə SAIT wəz KLOUZD",
+   "es": "La obra estaba cerrada.",
+   "group": "C. Reportes de trabajo y obra"
+  },
+  {
+   "en": "The weather was bad.",
+   "pron": "dhə WÉ-dher wəz BAD",
+   "es": "El clima estuvo malo.",
+   "group": "C. Reportes de trabajo y obra"
+  },
+  {
+   "en": "The inspector was happy with it.",
+   "pron": "dhi in-SPÉK-ter wəz JÁ-pi widh it",
+   "es": "El inspector quedó conforme.",
+   "group": "C. Reportes de trabajo y obra"
+  },
+  {
+   "en": "I was born in Talara.",
+   "pron": "ai wəz BORN in ta-LÁ-ra",
+   "es": "Nací en Talara.",
+   "group": "D. Nacimiento, vida y recuerdos"
+  },
+  {
+   "en": "When were you born?",
+   "pron": "wen wer yu BORN",
+   "es": "¿Cuándo naciste?",
+   "group": "D. Nacimiento, vida y recuerdos"
+  },
+  {
+   "en": "I was a student then.",
+   "pron": "ai wəz ə STÚ-dənt DHEN",
+   "es": "En ese entonces era estudiante.",
+   "group": "D. Nacimiento, vida y recuerdos"
+  },
+  {
+   "en": "My first job was in Lima.",
+   "pron": "mai ferst YOB wəz in LÍ-ma",
+   "es": "Mi primer trabajo fue en Lima.",
+   "group": "D. Nacimiento, vida y recuerdos"
+  },
+  {
+   "en": "We were classmates.",
+   "pron": "wi wer KLÁS-meits",
+   "es": "Éramos compañeros de clase.",
+   "group": "D. Nacimiento, vida y recuerdos"
+  },
+  {
+   "en": "It was a long time ago.",
+   "pron": "it wəz ə long TAIM ə-GÓU",
+   "es": "Fue hace mucho tiempo.",
+   "group": "D. Nacimiento, vida y recuerdos"
+  },
+  {
+   "en": "How was your weekend?",
+   "pron": "jau wəz yor WÍK-end",
+   "es": "¿Cómo estuvo tu fin de semana?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "How was the trip?",
+   "pron": "jau wəz dhə TRIP",
+   "es": "¿Cómo estuvo el viaje?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "Where were you?",
+   "pron": "WER wer yu",
+   "es": "¿Dónde estabas?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "Were you at the meeting?",
+   "pron": "wer yu ət dhə MÍ-ting",
+   "es": "¿Estuviste en la reunión?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "Was it expensive?",
+   "pron": "wəz it ek-SPÉN-siv",
+   "es": "¿Fue caro?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "Who was there?",
+   "pron": "JU wəz dher",
+   "es": "¿Quién estuvo ahí?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "Why were you late?",
+   "pron": "WAI wer yu LEIT",
+   "es": "¿Por qué llegaste tarde?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "What was the problem?",
+   "pron": "WOT wəz dhə PRÓ-bləm",
+   "es": "¿Cuál fue el problema?",
+   "group": "E. Preguntas de alta frecuencia"
+  },
+  {
+   "en": "There was a leak.",
+   "pron": "dher wəz ə LIK",
+   "es": "Había / hubo una fuga.",
+   "group": "F. Había / hubo: THERE WAS / THERE WERE"
+  },
+  {
+   "en": "There were two problems.",
+   "pron": "dher wer tu PRÓ-bləmz",
+   "es": "Hubo dos problemas.",
+   "group": "F. Había / hubo: THERE WAS / THERE WERE"
+  },
+  {
+   "en": "Was there a problem?",
+   "pron": "wəz dher ə PRÓ-bləm",
+   "es": "¿Hubo algún problema?",
+   "group": "F. Había / hubo: THERE WAS / THERE WERE"
+  },
+  {
+   "en": "There wasn't time.",
+   "pron": "dher WÁ-zənt TAIM",
+   "es": "No hubo tiempo.",
+   "group": "F. Había / hubo: THERE WAS / THERE WERE"
+  },
+  {
+   "en": "There weren't any delays.",
+   "pron": "dher WERNT e-ni di-LÉIZ",
+   "es": "No hubo retrasos.",
+   "group": "F. Había / hubo: THERE WAS / THERE WERE"
+  }
+ ],
+ "examples": [
+  {
+   "en": "How was your weekend? — It was great, thanks.",
+   "es": "¿Cómo estuvo tu fin de semana? — Estuvo genial, gracias.",
+   "situation": "Lunes en la oficina"
+  },
+  {
+   "en": "The tank was empty and clean yesterday.",
+   "es": "Ayer el tanque estaba vacío y limpio.",
+   "situation": "Reporte de obra"
+  },
+  {
+   "en": "The welds were OK, but two supports weren't level.",
+   "es": "Las soldaduras estaban bien, pero dos soportes no estaban nivelados.",
+   "situation": "Inspección"
+  },
+  {
+   "en": "Sorry, I was in a meeting. Is it urgent?",
+   "es": "Perdón, estaba en una reunión. ¿Es urgente?",
+   "situation": "Llamada perdida"
+  },
+  {
+   "en": "We were late because the road was closed.",
+   "es": "Llegamos tarde porque la carretera estaba cerrada.",
+   "situation": "Retraso"
+  },
+  {
+   "en": "It was very windy, so the crane wasn't safe.",
+   "es": "Hacía mucho viento, así que la grúa no era segura.",
+   "situation": "Clima y seguridad"
+  },
+  {
+   "en": "I was sick last week. I was in bed for three days.",
+   "es": "Estuve enfermo la semana pasada. Estuve en cama tres días.",
+   "situation": "Médico"
+  },
+  {
+   "en": "The flight was long, but the hotel was very nice.",
+   "es": "El vuelo fue largo, pero el hotel era muy bonito.",
+   "situation": "Viaje"
+  },
+  {
+   "en": "I was born in Talara, in the north of Peru.",
+   "es": "Nací en Talara, en el norte del Perú.",
+   "situation": "Origen"
+  },
+  {
+   "en": "When I was a student, I was always tired.",
+   "es": "Cuando era estudiante, siempre estaba cansado.",
+   "situation": "Recuerdo"
+  },
+  {
+   "en": "The tickets were 80 dollars each. It wasn't cheap.",
+   "es": "Los boletos costaron 80 dólares cada uno. No fue barato.",
+   "situation": "Precio"
+  },
+  {
+   "en": "Who was at the meeting? — Mark and the client were there.",
+   "es": "¿Quién estuvo en la reunión? — Mark y el cliente estuvieron ahí.",
+   "situation": "Reunión"
+  },
+  {
+   "en": "There was a small leak at the flange.",
+   "es": "Hubo una pequeña fuga en la brida.",
+   "situation": "Fuga en brida"
+  },
+  {
+   "en": "The food was delicious, but the service was slow.",
+   "es": "La comida estuvo deliciosa, pero el servicio fue lento.",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "The inspection was successful. There were no major findings.",
+   "es": "La inspección fue exitosa. No hubo hallazgos importantes.",
+   "situation": "Correo formal"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "I was right.",
+     "I wasn't right.",
+     "Was I right?",
+     "Yes, you were. / No, you weren't."
+    ],
+    [
+     "You were busy.",
+     "You weren't busy.",
+     "Were you busy?",
+     "Yes, I was. / No, I wasn't."
+    ],
+    [
+     "He was at the site.",
+     "He wasn't at the site.",
+     "Was he at the site?",
+     "Yes, he was. / No, he wasn't."
+    ],
+    [
+     "She was angry.",
+     "She wasn't angry.",
+     "Was she angry?",
+     "Yes, she was. / No, she wasn't."
+    ],
+    [
+     "It was expensive.",
+     "It wasn't expensive.",
+     "Was it expensive?",
+     "Yes, it was. / No, it wasn't."
+    ],
+    [
+     "We were on time.",
+     "We weren't on time.",
+     "Were we on time?",
+     "Yes, we were. / No, we weren't."
+    ],
+    [
+     "They were in Lima.",
+     "They weren't in Lima.",
+     "Were they in Lima?",
+     "Yes, they were. / No, they weren't."
+    ],
+    [
+     "The test was OK.",
+     "The test wasn't OK.",
+     "Was the test OK?",
+     "Yes, it was. / No, it wasn't."
+    ],
+    [
+     "The drawings were correct.",
+     "The drawings weren't correct.",
+     "Were the drawings correct?",
+     "Yes, they were. / No, they weren't."
+    ],
+    [
+     "There was a problem.",
+     "There wasn't a problem.",
+     "Was there a problem?",
+     "Yes, there was. / No, there wasn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Mark",
+   "text": "Morning, Edwin! How was your weekend?"
+  },
+  {
+   "who": "Edwin",
+   "text": "It was great, thanks. I was at the beach with my family. And yours?"
+  },
+  {
+   "who": "Mark",
+   "text": "It was quiet. I was at home. Hey, were you at the site on Friday afternoon?"
+  },
+  {
+   "who": "Edwin",
+   "text": "No, I wasn't. I was at the client's office. Why?"
+  },
+  {
+   "who": "Mark",
+   "text": "The inspector was there, and he wasn't happy."
+  },
+  {
+   "who": "Edwin",
+   "text": "Really? What was the problem?"
+  },
+  {
+   "who": "Mark",
+   "text": "There were two welds with porosity, and the report wasn't ready."
+  },
+  {
+   "who": "Edwin",
+   "text": "Were the welders there?"
+  },
+  {
+   "who": "Mark",
+   "text": "Yes, they were, but it was very late."
+  },
+  {
+   "who": "Edwin",
+   "text": "OK, I'm on it. I can check the welds this morning."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "I were tired.",
+   "right": "I was tired.",
+   "why": "I va con was."
+  },
+  {
+   "wrong": "You was late.",
+   "right": "You were late.",
+   "why": "You siempre va con were, aunque sea una persona."
+  },
+  {
+   "wrong": "Did you were at the meeting?",
+   "right": "Were you at the meeting?",
+   "why": "TO BE no usa did; se invierte el orden."
+  },
+  {
+   "wrong": "I born in 1994.",
+   "right": "I was born in 1994.",
+   "why": "\"Nacer\" = be born; falta was."
+  },
+  {
+   "wrong": "I had 20 years.",
+   "right": "I was 20.",
+   "why": "La edad se dice con TO BE también en pasado."
+  },
+  {
+   "wrong": "Was cold yesterday.",
+   "right": "It was cold yesterday.",
+   "why": "El clima necesita el sujeto it."
+  },
+  {
+   "wrong": "before two days",
+   "right": "two days ago",
+   "why": "\"Hace + tiempo\" = tiempo + ago."
+  },
+  {
+   "wrong": "Yesterday I am sick.",
+   "right": "Yesterday I was sick.",
+   "why": "Con yesterday el verbo va en pasado."
+  },
+  {
+   "wrong": "I was in Lima the last week.",
+   "right": "I was in Lima last week.",
+   "why": "Last week / last year no llevan the."
+  },
+  {
+   "wrong": "There was two inspectors.",
+   "right": "There were two inspectors.",
+   "why": "Sustantivo plural → there were."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "the past week",
+   "looks": "la semana pasada",
+   "means": "The past week = los últimos 7 días, hasta hoy.",
+   "fix": "last week"
+  },
+  {
+   "en": "yesterday night",
+   "looks": "anoche",
+   "means": "Yesterday night suena extraño a un nativo.",
+   "fix": "last night"
+  },
+  {
+   "en": "since two days",
+   "looks": "hace dos días",
+   "means": "Since se ve en el Módulo 13.",
+   "fix": "two days ago"
+  },
+  {
+   "en": "I was there ago.",
+   "looks": "antes",
+   "means": "Ago necesita una cantidad delante; sin cantidad, before.",
+   "fix": "I was there before."
+  },
+  {
+   "en": "I was to Lima.",
+   "looks": "fui a Lima",
+   "means": "\"Fui\" de ir = went (Módulo 9). \"Estuve en Lima\" = I was in Lima.",
+   "fix": "I went to Lima."
+  },
+  {
+   "en": "I borned.",
+   "looks": "nací",
+   "means": "Born no cambia; el pasado lo marca was.",
+   "fix": "I was born."
+  },
+  {
+   "en": "I had cold / fear.",
+   "looks": "tuve frío / miedo",
+   "means": "Sensaciones = TO BE + adjetivo, igual que en el Módulo 1.",
+   "fix": "I was cold / scared."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Ayer estuve muy cansado.",
+    "answers": [
+     "I was very tired yesterday.",
+     "Yesterday I was very tired."
+    ],
+    "explain": "I + was. También vale Yesterday I was very tired."
+   },
+   {
+    "prompt": "¿Dónde estabas anoche?",
+    "answers": [
+     "Where were you last night?"
+    ],
+    "explain": "WH- + were + you. \"Anoche\" = last night, no yesterday night."
+   },
+   {
+    "prompt": "La reunión no fue larga.",
+    "answers": [
+     "The meeting wasn't long.",
+     "The meeting was not long."
+    ],
+    "explain": "The meeting = it → wasn't."
+   },
+   {
+    "prompt": "Nací en Piura en 1994.",
+    "answers": [
+     "I was born in Piura in 1994."
+    ],
+    "explain": "\"Nacer\" = be born; ciudad y año con in."
+   },
+   {
+    "prompt": "Hacía mucho calor en la obra.",
+    "answers": [
+     "It was very hot at the site.",
+     "It was very hot on the site."
+    ],
+    "explain": "Clima = it was; \"hacía\" no se traduce con make."
+   },
+   {
+    "prompt": "¿Estuvieron ellos en la inspección?",
+    "answers": [
+     "Were they at the inspection?"
+    ],
+    "explain": "Pregunta: Were antes de they; sin did."
+   },
+   {
+    "prompt": "Había dos fugas en la tubería.",
+    "answers": [
+     "There were two leaks in the pipe."
+    ],
+    "explain": "\"Había\" + plural = there were."
+   },
+   {
+    "prompt": "Mi primer jefe era de Chile.",
+    "answers": [
+     "My first boss was from Chile."
+    ],
+    "explain": "My first boss = he/she → was; origen con from."
+   },
+   {
+    "prompt": "Estuve en Lima hace dos semanas.",
+    "answers": [
+     "I was in Lima two weeks ago.",
+     "Two weeks ago I was in Lima."
+    ],
+    "explain": "\"Hace dos semanas\" = two weeks ago, al final."
+   },
+   {
+    "prompt": "¿Cómo estuvo tu fin de semana?",
+    "answers": [
+     "How was your weekend?"
+    ],
+    "explain": "\"¿Cómo estuvo…?\" = How was…?"
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "The welds weren't OK, so the inspector wasn't happy.",
+    "answers": [
+     "Las soldaduras no estaban bien, así que el inspector no estaba contento.",
+     "Las soldaduras no estaban bien, por eso el inspector no estaba contento.",
+     "Las soldaduras no estaban bien, así que el inspector no estaba feliz."
+    ],
+    "explain": "Weren't (plural) y wasn't (singular); so = así que."
+   },
+   {
+    "prompt": "Was there a problem with the crane yesterday?",
+    "answers": [
+     "¿Hubo algún problema con la grúa ayer?",
+     "¿Hubo un problema con la grúa ayer?",
+     "¿Había algún problema con la grúa ayer?"
+    ],
+    "explain": "Was there…? = ¿Hubo / había…?"
+   },
+   {
+    "prompt": "We were at the office until 9 p.m. last night.",
+    "answers": [
+     "Anoche estuvimos en la oficina hasta las 9 p. m.",
+     "Estuvimos en la oficina hasta las 9 p. m. anoche.",
+     "Anoche estuvimos en la oficina hasta las 9 de la noche."
+    ],
+    "explain": "Until = hasta; last night = anoche."
+   },
+   {
+    "prompt": "When were you born?",
+    "answers": [
+     "¿Cuándo naciste?",
+     "¿Cuándo nació usted?",
+     "¿Cuándo nació?"
+    ],
+    "explain": "Be born = nacer."
+   },
+   {
+    "prompt": "It was a long day, but the test was a success.",
+    "answers": [
+     "Fue un día largo, pero la prueba fue un éxito.",
+     "Fue un día largo, pero la prueba fue exitosa."
+    ],
+    "explain": "El it no se traduce; success = éxito (no \"suceso\")."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "I were at home last night.",
+    "answers": [
+     "I was at home last night."
+    ],
+    "explain": "I va con was."
+   },
+   {
+    "prompt": "You was right about the measurement.",
+    "answers": [
+     "You were right about the measurement."
+    ],
+    "explain": "You siempre con were."
+   },
+   {
+    "prompt": "Did you were at the meeting on Monday?",
+    "answers": [
+     "Were you at the meeting on Monday?"
+    ],
+    "explain": "TO BE no usa did."
+   },
+   {
+    "prompt": "My son born in 2018.",
+    "answers": [
+     "My son was born in 2018."
+    ],
+    "explain": "\"Nacer\" = be born; faltaba was."
+   },
+   {
+    "prompt": "The pressure test was before two days.",
+    "answers": [
+     "The pressure test was two days ago."
+    ],
+    "explain": "\"Hace dos días\" = two days ago."
+   },
+   {
+    "prompt": "Was very cold yesterday morning.",
+    "answers": [
+     "It was very cold yesterday morning."
+    ],
+    "explain": "Faltaba el sujeto it."
+   },
+   {
+    "prompt": "The pipes wasn't ready on Monday.",
+    "answers": [
+     "The pipes weren't ready on Monday.",
+     "The pipes were not ready on Monday."
+    ],
+    "explain": "The pipes es plural → weren't."
+   },
+   {
+    "prompt": "— Were they late? — Yes, they was.",
+    "answers": [
+     "— Were they late? — Yes, they were.",
+     "Were they late? Yes, they were."
+    ],
+    "explain": "They → were."
+   },
+   {
+    "prompt": "I was in Houston the last week.",
+    "answers": [
+     "I was in Houston last week."
+    ],
+    "explain": "Last week sin the."
+   },
+   {
+    "prompt": "There was two inspectors at the site.",
+    "answers": [
+     "There were two inspectors at the site."
+    ],
+    "explain": "Plural → there were."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte a negativo y a pregunta: The drawings were correct.",
+   "answer": "The drawings weren't correct. / Were the drawings correct?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con was, were, wasn't o weren't.",
+   "lines": [
+    {
+     "who": "Mark",
+     "text": "How [1] your weekend, Edwin?"
+    },
+    {
+     "who": "Edwin",
+     "text": "It [2] great, thanks. I [3] at the beach with my kids."
+    },
+    {
+     "who": "Mark",
+     "text": "Nice! [4] you at the site on Saturday morning?"
+    },
+    {
+     "who": "Edwin",
+     "text": "No, I [5]. But Carlos and Ana [6] there."
+    },
+    {
+     "who": "Mark",
+     "text": "OK. [7] there a problem with the hydrotest?"
+    },
+    {
+     "who": "Edwin",
+     "text": "No, there [8] any big problems. Just one small leak, and it's fixed now."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "was"
+     ],
+     "explain": "Your weekend = it → was."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "was"
+     ],
+     "explain": "It → was."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "was"
+     ],
+     "explain": "I → was."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "Were"
+     ],
+     "explain": "Pregunta con you → Were al inicio."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "wasn't"
+     ],
+     "explain": "Respuesta corta negativa con I."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "were"
+     ],
+     "explain": "Carlos and Ana = they → were."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "Was"
+     ],
+     "explain": "A problem es singular → Was there…?"
+    },
+    {
+     "n": 8,
+     "answers": [
+      "weren't"
+     ],
+     "explain": "Respuesta \"No\" + any big problems (plural) → there weren't."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un mensaje. Escribe un correo corto de 5 a 7 oraciones a tu supervisor sobre el día de ayer: (a) dónde estuviste, (b) cómo estuvo el clima o el trabajo, (c) quién estuvo contigo, (d) un problema con there was / there were, (e) una pregunta. Usa was / were al menos 6 veces, con un negativo y una pregunta.",
+   "rubric": [
+    "(a) Dónde estuviste",
+    "(b) Cómo estuvo el clima o el trabajo",
+    "(c) Quién estuvo contigo",
+    "(d) Un problema con there was / there were",
+    "(e) Una pregunta",
+    "Un negativo correcto (wasn't / weren't)",
+    "Was / were al menos 6 veces sin errores"
+   ],
+   "model": "Hi Mr. Lee,\nYesterday I was at the tank farm with Carlos and two welders. It was very hot, but the team was fast. The new valves were ready on time. There was a small problem: the crane wasn't available in the afternoon. Was it at the other site?"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Elegir was o were sin dudar.",
+   "test": "Escribe 10 oraciones en pasado con sujetos distintos en 2 minutos; 10 de 10 correctas."
+  },
+  {
+   "skill": "Contar cómo estuvo mi fin de semana.",
+   "test": "Grábate 30 segundos sin leer: dónde estuviste, con quién y cómo estuvo. Al menos 4 was / were."
+  },
+  {
+   "skill": "Decir dónde y cuándo nací y qué edad tenía.",
+   "test": "Di en voz alta 3 frases con I was born… e I was … years old. Cero \"born\" sin was, cero \"had\"."
+  },
+  {
+   "skill": "Usar yesterday, last y ago correctamente.",
+   "test": "Traduce 6 expresiones (anoche, hace 3 días, el año pasado…) en 30 segundos; 6 de 6 sin the ni before."
+  },
+  {
+   "skill": "Negar, preguntar y responder en corto.",
+   "test": "Convierte 5 oraciones a negativo y pregunta y responde cada una en corto, en menos de 2 minutos. Cero did."
+  },
+  {
+   "skill": "Reportar problemas con there was / there were.",
+   "test": "Escribe 4 frases sobre una inspección pasada (2 singulares, 2 plurales); 4 de 4 correctas."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "Where were you last weekend?",
+  "Where were you born?",
+  "What was your first job?",
+  "How was your day yesterday?",
+  "Were you a good student at school?",
+  "Where were you two years ago?"
+ ]
+}

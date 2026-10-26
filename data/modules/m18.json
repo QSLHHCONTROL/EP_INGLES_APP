@@ -1,0 +1,912 @@
+{
+ "id": 18,
+ "level": "B1",
+ "title": "Condicionales 0, 1 y 2",
+ "goal": "Al terminar podrás explicar procesos y verdades técnicas (condicional 0), advertir y negociar consecuencias reales (condicional 1), imaginar situaciones hipotéticas y dar consejos con \"If I were you\" (condicional 2), y elegir el tipo correcto según qué tan real es la situación.",
+ "lesson": [
+  {
+   "title": "Condición y resultado",
+   "html": "<p>Una oración condicional tiene dos partes: la <b>condición</b> (con <span class=\"en\">if</span>, \"si\") y el <b>resultado</b>. En español cambias el tiempo verbal según lo real que sea la situación: \"si llueve, <i>paramos</i>\" no es lo mismo que \"si lloviera, <i>pararíamos</i>\". El inglés hace exactamente lo mismo, pero con reglas más fijas. La pregunta que se hace un nativo antes de hablar es: <b>¿qué tan real es esto?</b></p><ul><li><b>Siempre pasa</b> (una ley, un proceso, un hecho general) → <b>condicional 0</b>.</li><li><b>Puede pasar de verdad</b> (una situación futura posible) → <b>condicional 1</b>.</li><li><b>Es imaginario o poco probable</b> (no es real ahora, o casi no hay posibilidad) → <b>condicional 2</b>.</li></ul>",
+   "svg": "<svg viewBox=\"0 0 640 250\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs>\n    <linearGradient id=\"m18g1\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"0\">\n      <stop offset=\"0\" stop-color=\"#079455\"/>\n      <stop offset=\"0.5\" stop-color=\"#1570EF\"/>\n      <stop offset=\"1\" stop-color=\"#6941C6\"/>\n    </linearGradient>\n  </defs>\n  <text x=\"30\" y=\"24\" font-size=\"12\" font-weight=\"800\" fill=\"#079455\">100 % REAL</text>\n  <text x=\"610\" y=\"24\" text-anchor=\"end\" font-size=\"12\" font-weight=\"800\" fill=\"#6941C6\">IMAGINARIO</text>\n  <rect x=\"30\" y=\"34\" width=\"580\" height=\"16\" rx=\"8\" fill=\"url(#m18g1)\"/>\n  <rect x=\"20\" y=\"66\" width=\"190\" height=\"168\" rx=\"12\" fill=\"#E8F7EF\" stroke=\"#079455\" stroke-width=\"2\"/>\n  <text x=\"115\" y=\"92\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#079455\">CONDICIONAL 0</text>\n  <text x=\"115\" y=\"112\" text-anchor=\"middle\" font-size=\"12\" fill=\"#079455\">siempre pasa</text>\n  <text x=\"115\" y=\"140\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">If + presente,</text>\n  <text x=\"115\" y=\"158\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">presente</text>\n  <text x=\"115\" y=\"188\" text-anchor=\"middle\" font-size=\"11.5\" fill=\"#344054\">If you heat steel,</text>\n  <text x=\"115\" y=\"204\" text-anchor=\"middle\" font-size=\"11.5\" fill=\"#344054\">it expands.</text>\n  <text x=\"115\" y=\"224\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">Si calientas…, se dilata.</text>\n  <rect x=\"225\" y=\"66\" width=\"190\" height=\"168\" rx=\"12\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"92\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#1570EF\">CONDICIONAL 1</text>\n  <text x=\"320\" y=\"112\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1570EF\">futuro posible y real</text>\n  <text x=\"320\" y=\"140\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">If + presente,</text>\n  <text x=\"320\" y=\"158\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">will + verbo</text>\n  <text x=\"320\" y=\"188\" text-anchor=\"middle\" font-size=\"11.5\" fill=\"#344054\">If it rains tomorrow,</text>\n  <text x=\"320\" y=\"204\" text-anchor=\"middle\" font-size=\"11.5\" fill=\"#344054\">we'll stop the job.</text>\n  <text x=\"320\" y=\"224\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">Si llueve…, pararemos.</text>\n  <rect x=\"430\" y=\"66\" width=\"190\" height=\"168\" rx=\"12\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"525\" y=\"92\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"800\" fill=\"#6941C6\">CONDICIONAL 2</text>\n  <text x=\"525\" y=\"112\" text-anchor=\"middle\" font-size=\"12\" fill=\"#6941C6\">imaginario / improbable</text>\n  <text x=\"525\" y=\"140\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">If + pasado,</text>\n  <text x=\"525\" y=\"158\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">would + verbo</text>\n  <text x=\"525\" y=\"188\" text-anchor=\"middle\" font-size=\"11.5\" fill=\"#344054\">If I had more time,</text>\n  <text x=\"525\" y=\"204\" text-anchor=\"middle\" font-size=\"11.5\" fill=\"#344054\">I'd study more.</text>\n  <text x=\"525\" y=\"224\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">Si tuviera…, estudiaría.</text>\n</svg>",
+   "caption": "Figura 18.1 — Escala de realidad. Cuanto más te alejas de la realidad, más \"atrás\" va el verbo después de IF."
+  },
+  {
+   "title": "Condicional 0: verdades, procesos y reglas",
+   "html": "<p>Se usa para cosas que <b>siempre</b> ocurren cuando se cumple la condición: leyes físicas, procedimientos, reglas de la empresa, costumbres. Las dos partes van en <b>presente simple</b> (Módulo 3). Aquí <span class=\"en\">if</span> equivale casi a <span class=\"en\">when</span> (cuando / cada vez que).</p><p><span class=\"en\">If the pressure exceeds 150 psi, the relief valve opens.</span> → Si la presión supera los 150 psi, la válvula de alivio se abre.</p>"
+  },
+  {
+   "title": "Condicional 1: consecuencias reales del futuro",
+   "html": "<p>Se usa para una situación <b>concreta y posible</b> en el futuro: advertencias, promesas, planes B, negociación. La condición va en <b>presente</b> (aunque hable del futuro) y el resultado con <span class=\"en\">will</span> (Módulo 10). En el resultado también puedes usar <span class=\"en\">might, may, can, should</span> o un imperativo.</p><p><span class=\"en\">If the client approves the quote, we'll start on Monday.</span> → Si el cliente aprueba la cotización, empezaremos el lunes.</p>"
+  },
+  {
+   "title": "Condicional 2: lo imaginario y lo improbable",
+   "html": "<p>Se usa para situaciones <b>irreales en el presente</b> (lo que no es así ahora) o <b>muy poco probables en el futuro</b>. La condición va en <b>pasado simple</b> (Módulo 9) y el resultado con <span class=\"en\">would</span> + verbo base. El pasado aquí <b>no habla del pasado</b>: es una señal de \"esto no es real\". El español hace lo mismo con el subjuntivo: <i>si tuviera</i>.</p><p><span class=\"en\">If we had a bigger crane, we would finish in two days.</span> → Si tuviéramos una grúa más grande, terminaríamos en dos días. (No la tenemos.)</p><table><thead><tr><th>Tipo</th><th>Condición (if…)</th><th>Resultado</th><th>Uso</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>0</b></td><td>presente simple</td><td>presente simple</td><td>siempre es verdad</td><td><span class=\"en\">If you mix water and cement, you get concrete.</span></td></tr><tr><td><b>1</b></td><td>presente simple</td><td>will / might / can + verbo · imperativo</td><td>futuro posible</td><td><span class=\"en\">If you see Mark, tell him to call me.</span></td></tr><tr><td><b>2</b></td><td>pasado simple (were)</td><td>would / could / might + verbo</td><td>irreal o improbable</td><td><span class=\"en\">If I were rich, I would buy a boat.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Las reglas de oro",
+   "html": "<p><b>Regla de oro 1 — Nunca WILL después de IF</b></p><p>Aunque hables del futuro, la parte con <i>if</i> va en presente: <span class=\"ok\">If it rains tomorrow, we'll stop.</span> Nunca <span class=\"wrong\">If it will rain tomorrow</span>. Lo mismo con <i>would</i>: <span class=\"ok\">If I had time…</span>, nunca <span class=\"wrong\">If I would have time…</span>. El <i>will</i> y el <i>would</i> viven solo en el resultado.</p><p><b>Regla de oro 2 — IF I WERE YOU para aconsejar</b></p><p>En el condicional 2, el verbo <b>be</b> usa <span class=\"en\">were</span> con todos los sujetos en el inglés cuidado: <span class=\"en\">If I were you, I'd call the client.</span> = Yo que tú, llamaría al cliente. En el habla informal se oye <i>If I was…</i>, pero en el examen, en correos y en la fórmula de consejo usa siempre <b>were</b>.</p><p><b>Regla de oro 3 — El orden se puede invertir; la coma, no siempre</b></p><p>Si empiezas con <i>if</i>, pon coma: <span class=\"ok\">If you need help, call me.</span> Si empiezas con el resultado, sin coma: <span class=\"ok\">Call me if you need help.</span> El significado es el mismo.</p>",
+   "svg": "<svg viewBox=\"0 0 640 210\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs><marker id=\"m18a1\" markerWidth=\"10\" markerHeight=\"10\" refX=\"8\" refY=\"5\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#E8590C\"/></marker></defs>\n  <text x=\"20\" y=\"22\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">ORDEN 1 · IF PRIMERO (CON COMA)</text>\n  <rect x=\"20\" y=\"32\" width=\"56\" height=\"38\" rx=\"8\" fill=\"#1570EF\"/><text x=\"48\" y=\"57\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#FFFFFF\">If</text>\n  <rect x=\"84\" y=\"32\" width=\"196\" height=\"38\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"182\" y=\"57\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">the test fails</text>\n  <text x=\"290\" y=\"60\" font-size=\"24\" font-weight=\"800\" fill=\"#E8590C\">,</text>\n  <rect x=\"306\" y=\"32\" width=\"314\" height=\"38\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"463\" y=\"57\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">we'll repair the weld.</text>\n  <text x=\"182\" y=\"88\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1570EF\">CONDICIÓN · presente</text>\n  <text x=\"463\" y=\"88\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">RESULTADO · will + verbo</text>\n  <path d=\"M182 96 C 182 118, 463 112, 463 134\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"5 4\" marker-end=\"url(#m18a1)\"/>\n  <path d=\"M463 96 C 463 118, 182 112, 182 134\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"5 4\" marker-end=\"url(#m18a1)\"/>\n  <text x=\"20\" y=\"128\" font-size=\"12\" font-weight=\"700\" fill=\"#667085\">ORDEN 2</text>\n  <rect x=\"20\" y=\"140\" width=\"250\" height=\"38\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"145\" y=\"165\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">We'll repair the weld</text>\n  <rect x=\"280\" y=\"140\" width=\"56\" height=\"38\" rx=\"8\" fill=\"#1570EF\"/><text x=\"308\" y=\"165\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#FFFFFF\">if</text>\n  <rect x=\"344\" y=\"140\" width=\"196\" height=\"38\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"442\" y=\"165\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">the test fails.</text>\n  <text x=\"560\" y=\"164\" font-size=\"12\" font-weight=\"700\" fill=\"#E8590C\">sin coma</text>\n  <text x=\"320\" y=\"202\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">Las dos partes cambian de lugar; los tiempos verbales no cambian.</text>\n</svg>",
+   "caption": "Figura 18.2 — Construcción de la oración condicional y sus dos órdenes posibles."
+  },
+  {
+   "title": "Así piensa un nativo",
+   "html": "<p><b>Así piensa un nativo — el condicional 2 es la herramienta de la cortesía</b></p><p>El nativo usa el condicional 2 no solo para soñar (<span class=\"en\">If I won the lottery…</span>), sino para <b>suavizar</b>: proponer sin presionar y rechazar sin ofender. <span class=\"en\">It would be great if you could send it today.</span> suena mucho más amable que <span class=\"en\">Send it today.</span> Y en una negociación, el condicional 2 marca una oferta hipotética: <span class=\"en\">If we ordered 500 units, would you give us a discount?</span> (todavía no nos comprometemos).</p><p>El condicional 1, en cambio, suena a compromiso real: <span class=\"en\">If you give us a 10% discount, we'll sign today.</span> Elegir entre 1 y 2 en una negociación cambia el mensaje.</p>"
+  },
+  {
+   "title": "Afirmativo, negativo, pregunta y respuesta corta",
+   "html": "<table><thead><tr><th></th><th>Condicional 1</th><th>Condicional 2</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td><span class=\"en\">If it rains, we'll stop.</span></td><td><span class=\"en\">If it rained, we'd stop.</span></td></tr><tr><td><b>Negativo (resultado)</b></td><td><span class=\"en\">If it rains, we won't work.</span></td><td><span class=\"en\">If it rained, we wouldn't work.</span></td></tr><tr><td><b>Negativo (condición)</b></td><td><span class=\"en\">If it doesn't rain, we'll finish.</span></td><td><span class=\"en\">If it didn't rain so much, we'd finish.</span></td></tr><tr><td><b>Pregunta</b></td><td><span class=\"en\">What will you do if it rains?</span></td><td><span class=\"en\">What would you do if it rained?</span></td></tr><tr><td><b>Pregunta sí/no</b></td><td><span class=\"en\">Will you stop if it rains?</span></td><td><span class=\"en\">Would you stop if it rained?</span></td></tr><tr><td><b>Respuesta corta</b></td><td><span class=\"en\">Yes, we will. / No, we won't.</span></td><td><span class=\"en\">Yes, we would. / No, we wouldn't.</span></td></tr></tbody></table><p>La pregunta se forma en la parte del resultado (con <i>will</i> o <i>would</i>); la parte con <i>if</i> no cambia. En el condicional 0, la pregunta usa <i>do/does</i>: <span class=\"en\">What do you do if the pump fails?</span></p>"
+  },
+  {
+   "title": "Traducción directa vs interpretación real",
+   "html": "<p>Tres trampas típicas: (1) poner futuro después de <i>si</i> porque \"se siente futuro\"; (2) traducir el subjuntivo \"si tuviera\" con <i>would</i>; (3) confundir <i>if</i> con <i>when</i> cuando algo es seguro.</p><table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>Si llueve mañana, no iremos.</td><td><span class=\"en\">If it rains tomorrow, we won't go.</span> <span class=\"wrong\">If it will rain</span></td></tr><tr><td>Si tuviera tiempo, te ayudaría.</td><td><span class=\"en\">If I had time, I'd help you.</span> <span class=\"wrong\">If I would have</span></td></tr><tr><td>Yo que tú, no firmaría.</td><td><span class=\"en\">If I were you, I wouldn't sign.</span></td></tr><tr><td>Cuando llegue, te llamo.</td><td><span class=\"en\">When I arrive, I'll call you.</span> <span class=\"wrong\">When I will arrive</span></td></tr><tr><td>Si no estudias, no aprobarás.</td><td><span class=\"en\">If you don't study, you won't pass.</span></td></tr><tr><td>Si fuera más barato, lo compraría.</td><td><span class=\"en\">If it were cheaper, I'd buy it.</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>Si tienes dudas, llámame.</td><td><span class=\"wrong\">If you have doubts, call to me.</span></td><td><span class=\"ok\">If you have any questions, call me.</span></td></tr><tr><td>Si el cliente acepta, empezaremos.</td><td><span class=\"wrong\">If the client will accept, we start.</span></td><td><span class=\"ok\">If the client accepts, we'll start.</span></td></tr><tr><td>Si yo fuera el jefe, cambiaría eso.</td><td><span class=\"wrong\">If I would be the boss, I change that.</span></td><td><span class=\"ok\">If I were the boss, I'd change that.</span></td></tr><tr><td>Si no, tendremos un problema.</td><td><span class=\"wrong\">If not, we will have problem.</span></td><td><span class=\"ok\">Otherwise, we'll have a problem. / If not, we'll have a problem.</span></td></tr><tr><td>A menos que llueva, terminaremos hoy.</td><td><span class=\"wrong\">Unless it doesn't rain, we finish today.</span></td><td><span class=\"ok\">Unless it rains, we'll finish today.</span></td></tr><tr><td>En caso de que haya una fuga, cierra la válvula.</td><td><span class=\"wrong\">In case there will be a leak, close the valve.</span></td><td><span class=\"ok\">If there's a leak, close the valve.</span></td></tr></tbody></table><p>\"Tener dudas\" sobre algo práctico se dice <b>have questions</b>; <i>doubts</i> expresa desconfianza.</p>"
+  },
+  {
+   "title": "Detalles finos y mapa de decisión",
+   "html": "<p><b>Detalles finos que marcan la diferencia</b></p><ul><li><b>If vs when:</b> <span class=\"en\">when</span> = es seguro que pasará; <span class=\"en\">if</span> = quizás pase. <span class=\"en\">When I finish the report, I'll send it.</span> (lo voy a terminar) vs <span class=\"en\">If I finish the report today, I'll send it.</span> (no sé si lo terminaré hoy). Después de <i>when, as soon as, before, after, until</i> también va presente, nunca <i>will</i>.</li><li><b>Unless</b> = <i>if … not</i> (a menos que). No lleva negación: <span class=\"ok\">Unless you hurry, you'll miss the bus.</span> = <span class=\"en\">If you don't hurry…</span></li><li><b>Would</b> se contrae como <i>'d</i>: <span class=\"en\">I'd, you'd, we'd</span>. Ojo: <i>'d</i> también es <i>had</i> (Módulo 16: <i>you'd better</i>). El verbo que sigue te lo dice: <i>'d</i> + verbo base = <i>would</i>.</li><li><b>Could / might</b> en el condicional 2: <span class=\"en\">If we had more welders, we could finish faster</span> (podríamos, habilidad); <span class=\"en\">…we might finish faster</span> (quizás).</li><li>Para lamentar el pasado (\"si hubiera…\") se usa el condicional 3, que se ve en el Módulo 19.</li></ul>",
+   "svg": "<svg viewBox=\"0 0 640 330\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <defs><marker id=\"m18a2\" markerWidth=\"10\" markerHeight=\"10\" refX=\"8\" refY=\"5\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#1570EF\"/></marker></defs>\n  <rect x=\"190\" y=\"12\" width=\"260\" height=\"44\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"31\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#FFFFFF\">¿La situación es siempre verdad</text>\n  <text x=\"320\" y=\"48\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#FFFFFF\">(ley, proceso, regla)?</text>\n  <line x1=\"190\" y1=\"34\" x2=\"140\" y2=\"34\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <line x1=\"140\" y1=\"34\" x2=\"140\" y2=\"78\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m18a2)\"/>\n  <text x=\"165\" y=\"28\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#079455\">SÍ</text>\n  <rect x=\"30\" y=\"82\" width=\"220\" height=\"64\" rx=\"10\" fill=\"#079455\"/>\n  <text x=\"140\" y=\"106\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#FFFFFF\">CONDICIONAL 0</text>\n  <text x=\"140\" y=\"126\" text-anchor=\"middle\" font-size=\"12\" fill=\"#E8F7EF\">If + presente, presente</text>\n  <text x=\"140\" y=\"140\" text-anchor=\"middle\" font-size=\"11\" fill=\"#E8F7EF\">If water boils, it turns to steam.</text>\n  <line x1=\"320\" y1=\"56\" x2=\"320\" y2=\"162\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m18a2)\"/>\n  <text x=\"336\" y=\"110\" font-size=\"12\" font-weight=\"800\" fill=\"#D92D20\">NO</text>\n  <rect x=\"190\" y=\"166\" width=\"260\" height=\"44\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"185\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#FFFFFF\">¿Es una posibilidad real</text>\n  <text x=\"320\" y=\"202\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#FFFFFF\">en el futuro?</text>\n  <line x1=\"190\" y1=\"188\" x2=\"140\" y2=\"188\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <line x1=\"140\" y1=\"188\" x2=\"140\" y2=\"236\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m18a2)\"/>\n  <text x=\"165\" y=\"182\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#079455\">SÍ</text>\n  <line x1=\"450\" y1=\"188\" x2=\"500\" y2=\"188\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <line x1=\"500\" y1=\"188\" x2=\"500\" y2=\"236\" stroke=\"#1570EF\" stroke-width=\"2\" marker-end=\"url(#m18a2)\"/>\n  <text x=\"475\" y=\"182\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#D92D20\">NO</text>\n  <rect x=\"30\" y=\"240\" width=\"220\" height=\"76\" rx=\"10\" fill=\"#1570EF\"/>\n  <text x=\"140\" y=\"264\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#FFFFFF\">CONDICIONAL 1</text>\n  <text x=\"140\" y=\"284\" text-anchor=\"middle\" font-size=\"12\" fill=\"#EAF2FF\">If + presente, will + verbo</text>\n  <text x=\"140\" y=\"304\" text-anchor=\"middle\" font-size=\"11\" fill=\"#EAF2FF\">If it rains, we'll stop the job.</text>\n  <rect x=\"390\" y=\"240\" width=\"220\" height=\"76\" rx=\"10\" fill=\"#6941C6\"/>\n  <text x=\"500\" y=\"260\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#FFFFFF\">CONDICIONAL 2</text>\n  <text x=\"500\" y=\"276\" text-anchor=\"middle\" font-size=\"11\" fill=\"#F2EEFC\">imaginario o muy improbable</text>\n  <text x=\"500\" y=\"293\" text-anchor=\"middle\" font-size=\"12\" fill=\"#F2EEFC\">If + pasado, would + verbo</text>\n  <text x=\"500\" y=\"309\" text-anchor=\"middle\" font-size=\"11\" fill=\"#F2EEFC\">If I were you, I'd call him.</text>\n  <text x=\"320\" y=\"270\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">¿Consejo?</text>\n  <text x=\"320\" y=\"285\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">→ If I were you</text>\n</svg>",
+   "caption": "Figura 18.3 — Mapa de decisión. Dos preguntas bastan para elegir el condicional correcto."
+  }
+ ],
+ "blocks": [
+  {
+   "en": "If you heat steel, it expands.",
+   "pron": "if yu JIT stil, it ek-SPÁNDZ",
+   "es": "Si calientas el acero, se dilata.",
+   "group": "A. Condicional 0: procesos y reglas"
+  },
+  {
+   "en": "If the pressure gets too high, the valve opens.",
+   "pron": "if dhə PRÉ-shər guets tu JAI, dhə VALV OU-pənz",
+   "es": "Si la presión sube demasiado, la válvula se abre.",
+   "group": "A. Condicional 0: procesos y reglas"
+  },
+  {
+   "en": "If a weld fails the test, we repair it.",
+   "pron": "if ə WELD feilz dhə TEST, wi ri-PÉR it",
+   "es": "Si una soldadura falla la prueba, la reparamos.",
+   "group": "A. Condicional 0: procesos y reglas"
+  },
+  {
+   "en": "If you press this button, the pump stops.",
+   "pron": "if yu PRES dhis BÁ-tən, dhə PAMP stops",
+   "es": "Si presionas este botón, la bomba se detiene.",
+   "group": "A. Condicional 0: procesos y reglas"
+  },
+  {
+   "en": "If you don't paint steel, it rusts.",
+   "pron": "if yu dount PEINT stil, it RASTS",
+   "es": "Si no pintas el acero, se oxida.",
+   "group": "A. Condicional 0: procesos y reglas"
+  },
+  {
+   "en": "If I drink coffee at night, I can't sleep.",
+   "pron": "if ai drink KÓ-fi ət NAIT, ai KANT slip",
+   "es": "Si tomo café en la noche, no puedo dormir.",
+   "group": "A. Condicional 0: procesos y reglas"
+  },
+  {
+   "en": "If it rains, we'll stop the job.",
+   "pron": "if it REINZ, wil STOP dhə YOB",
+   "es": "Si llueve, pararemos el trabajo.",
+   "group": "B. Condicional 1: advertencias y planes"
+  },
+  {
+   "en": "If you don't hurry, you'll miss the bus.",
+   "pron": "if yu dount JÉ-ri, yul MIS dhə BAS",
+   "es": "Si no te apuras, perderás el bus.",
+   "group": "B. Condicional 1: advertencias y planes"
+  },
+  {
+   "en": "If the parts arrive today, we'll start tomorrow.",
+   "pron": "if dhə PARTS ə-RÁIV tə-DÉI, wil START tə-MÓ-rou",
+   "es": "Si las piezas llegan hoy, empezaremos mañana.",
+   "group": "B. Condicional 1: advertencias y planes"
+  },
+  {
+   "en": "If I finish early, I'll call you.",
+   "pron": "if ai FÍ-nish ÉR-li, ail KOL yu",
+   "es": "Si termino temprano, te llamo.",
+   "group": "B. Condicional 1: advertencias y planes"
+  },
+  {
+   "en": "If we don't fix it now, it'll get worse.",
+   "pron": "if wi dount FIKS it NAU, ÍT-əl guet WERS",
+   "es": "Si no lo arreglamos ahora, empeorará.",
+   "group": "B. Condicional 1: advertencias y planes"
+  },
+  {
+   "en": "If the client agrees, we might start earlier.",
+   "pron": "if dhə KLÁI-ənt ə-GRÍZ, wi mait START ÉR-li-ər",
+   "es": "Si el cliente acepta, quizás empecemos antes.",
+   "group": "B. Condicional 1: advertencias y planes"
+  },
+  {
+   "en": "If you need help, call me.",
+   "pron": "if yu NID JELP, KOL mi",
+   "es": "Si necesitas ayuda, llámame.",
+   "group": "C. Condicional 1 con imperativo y modales"
+  },
+  {
+   "en": "If you have any questions, let me know.",
+   "pron": "if yu jav É-ni KWÉS-chənz, let mi NOU",
+   "es": "Si tienes alguna duda, avísame.",
+   "group": "C. Condicional 1 con imperativo y modales"
+  },
+  {
+   "en": "If you see a leak, close the valve.",
+   "pron": "if yu SI ə LIK, KLOUZ dhə VALV",
+   "es": "Si ves una fuga, cierra la válvula.",
+   "group": "C. Condicional 1 con imperativo y modales"
+  },
+  {
+   "en": "If you feel dizzy, you should stop.",
+   "pron": "if yu fil DÍ-zi, yu shud STOP",
+   "es": "Si te sientes mareado, deberías parar.",
+   "group": "C. Condicional 1 con imperativo y modales"
+  },
+  {
+   "en": "If you're free tomorrow, we can meet.",
+   "pron": "if yur FRI tə-MÓ-rou, wi kən MIT",
+   "es": "Si estás libre mañana, podemos reunirnos.",
+   "group": "C. Condicional 1 con imperativo y modales"
+  },
+  {
+   "en": "If I had more time, I'd learn Italian.",
+   "pron": "if ai jad mor TAIM, aid lern i-TÁL-yən",
+   "es": "Si tuviera más tiempo, aprendería italiano.",
+   "group": "D. Condicional 2: situaciones imaginarias"
+  },
+  {
+   "en": "If I won the lottery, I'd buy a house.",
+   "pron": "if ai WAN dhə LÓ-tə-ri, aid bai ə JAUS",
+   "es": "Si ganara la lotería, compraría una casa.",
+   "group": "D. Condicional 2: situaciones imaginarias"
+  },
+  {
+   "en": "If we had a bigger crane, we'd finish faster.",
+   "pron": "if wi jad ə BÍ-guər KREIN, wid FÍ-nish FÁS-tər",
+   "es": "Si tuviéramos una grúa más grande, terminaríamos más rápido.",
+   "group": "D. Condicional 2: situaciones imaginarias"
+  },
+  {
+   "en": "If she lived closer, she wouldn't be late.",
+   "pron": "if shi livd KLÓU-sər, shi WÚ-dənt bi LEIT",
+   "es": "Si viviera más cerca, no llegaría tarde.",
+   "group": "D. Condicional 2: situaciones imaginarias"
+  },
+  {
+   "en": "If it were cheaper, I'd buy it.",
+   "pron": "if it wer CHÍ-pər, aid BAI it",
+   "es": "Si fuera más barato, lo compraría.",
+   "group": "D. Condicional 2: situaciones imaginarias"
+  },
+  {
+   "en": "What would you do if you lost your job?",
+   "pron": "wot wud yu DU if yu lost yor YOB",
+   "es": "¿Qué harías si perdieras tu trabajo?",
+   "group": "D. Condicional 2: situaciones imaginarias"
+  },
+  {
+   "en": "If I were you, I'd call the client.",
+   "pron": "if ai wer YU, aid KOL dhə KLÁI-ənt",
+   "es": "Yo que tú, llamaría al cliente.",
+   "group": "E. Consejo y cortesía con el condicional 2"
+  },
+  {
+   "en": "If I were you, I wouldn't sign it.",
+   "pron": "if ai wer YU, ai WÚ-dənt SAIN it",
+   "es": "Yo que tú, no lo firmaría.",
+   "group": "E. Consejo y cortesía con el condicional 2"
+  },
+  {
+   "en": "It would be great if you could help.",
+   "pron": "it wud bi GREIT if yu kud JELP",
+   "es": "Sería genial si pudieras ayudar.",
+   "group": "E. Consejo y cortesía con el condicional 2"
+  },
+  {
+   "en": "Would it be OK if I left early?",
+   "pron": "wud it bi ou-KÉI if ai left ÉR-li",
+   "es": "¿Estaría bien si me fuera temprano?",
+   "group": "E. Consejo y cortesía con el condicional 2"
+  },
+  {
+   "en": "If we ordered more, would you give us a discount?",
+   "pron": "if wi ÓR-dərd MOR, wud yu GUIV əs ə DÍS-kaunt",
+   "es": "Si pidiéramos más, ¿nos daría un descuento?",
+   "group": "E. Consejo y cortesía con el condicional 2"
+  },
+  {
+   "en": "unless",
+   "pron": "ən-LÉS",
+   "es": "a menos que",
+   "group": "F. Conectores de condición"
+  },
+  {
+   "en": "as long as",
+   "pron": "əz LONG əz",
+   "es": "siempre que, con tal de que",
+   "group": "F. Conectores de condición"
+  },
+  {
+   "en": "in case",
+   "pron": "in KEIS",
+   "es": "por si acaso",
+   "group": "F. Conectores de condición"
+  },
+  {
+   "en": "otherwise",
+   "pron": "Á-dhər-waiz",
+   "es": "si no, de lo contrario",
+   "group": "F. Conectores de condición"
+  },
+  {
+   "en": "as soon as",
+   "pron": "əz SUN əz",
+   "es": "en cuanto",
+   "group": "F. Conectores de condición"
+  },
+  {
+   "en": "provided (that)",
+   "pron": "prə-VÁI-did dhat",
+   "es": "siempre y cuando (formal)",
+   "group": "F. Conectores de condición"
+  },
+  {
+   "en": "What if…?",
+   "pron": "wot IF",
+   "es": "¿Y si…?",
+   "group": "F. Conectores de condición"
+  }
+ ],
+ "examples": [
+  {
+   "en": "If the tank pressure drops below 5 psi, the alarm goes off.",
+   "es": "Si la presión del tanque baja de 5 psi, suena la alarma.",
+   "situation": "Proceso técnico (0)"
+  },
+  {
+   "en": "If the electrodes get wet, we don't use them.",
+   "es": "Si los electrodos se mojan, no los usamos.",
+   "situation": "Regla de soldadura (0)"
+  },
+  {
+   "en": "If an inspector rejects a weld, the welder grinds it out and repairs it.",
+   "es": "Si un inspector rechaza una soldadura, el soldador la esmerila y la repara.",
+   "situation": "Procedimiento (0)"
+  },
+  {
+   "en": "If the crane arrives on time, we'll install the roof on Thursday.",
+   "es": "Si la grúa llega a tiempo, instalaremos el techo el jueves.",
+   "situation": "Planificación (1)"
+  },
+  {
+   "en": "If you don't wear a harness, the supervisor will stop you.",
+   "es": "Si no usas arnés, el supervisor te detendrá.",
+   "situation": "Advertencia de seguridad (1)"
+  },
+  {
+   "en": "If I finish the drawings today, I'll send them to you tonight.",
+   "es": "Si termino los planos hoy, te los envío esta noche.",
+   "situation": "Oficina (1)"
+  },
+  {
+   "en": "If you sign the contract this week, we'll give you a 5% discount.",
+   "es": "Si firma el contrato esta semana, le daremos un 5 % de descuento.",
+   "situation": "Negocios (1)"
+  },
+  {
+   "en": "If you pay late, the bank will charge you a fee.",
+   "es": "Si paga tarde, el banco le cobrará una comisión.",
+   "situation": "Banco (1)"
+  },
+  {
+   "en": "If the pain doesn't go away in three days, come back.",
+   "es": "Si el dolor no se va en tres días, regrese.",
+   "situation": "Médico (1)"
+  },
+  {
+   "en": "We'll miss the connection unless the flight lands on time.",
+   "es": "Perderemos la conexión a menos que el vuelo aterrice a tiempo.",
+   "situation": "Viaje (1)"
+  },
+  {
+   "en": "If I were you, I'd ask for a written confirmation.",
+   "es": "Yo que tú, pediría una confirmación por escrito.",
+   "situation": "Consejo (2)"
+  },
+  {
+   "en": "If we had two more welders, we could finish a week earlier.",
+   "es": "Si tuviéramos dos soldadores más, podríamos terminar una semana antes.",
+   "situation": "Hipótesis de obra (2)"
+  },
+  {
+   "en": "If I lived near the beach, I'd go surfing every weekend.",
+   "es": "Si viviera cerca de la playa, iría a surfear todos los fines de semana.",
+   "situation": "Vida social (2)"
+  },
+  {
+   "en": "If we ordered 300 meters of pipe, what price would you offer?",
+   "es": "Si pidiéramos 300 metros de tubería, ¿qué precio nos ofrecería?",
+   "situation": "Negociación (2)"
+  },
+  {
+   "en": "It would be very helpful if you could send the updated drawings by Friday.",
+   "es": "Sería de gran ayuda si pudiera enviar los planos actualizados a más tardar el viernes.",
+   "situation": "Correo formal (2)"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "If it rains, we'll stop.",
+     "If it rains, we won't stop.",
+     "Will you stop if it rains?",
+     "Yes, we will. / No, we won't."
+    ],
+    [
+     "If he calls, I'll answer.",
+     "If he calls, I won't answer.",
+     "Will you answer if he calls?",
+     "Yes, I will. / No, I won't."
+    ],
+    [
+     "If the test fails, they'll repair it.",
+     "If the test fails, they won't repair it.",
+     "Will they repair it if the test fails?",
+     "Yes, they will. / No, they won't."
+    ],
+    [
+     "If you heat it, it melts.",
+     "If you heat it, it doesn't melt.",
+     "Does it melt if you heat it?",
+     "Yes, it does. / No, it doesn't."
+    ],
+    [
+     "If I had time, I'd help.",
+     "If I had time, I wouldn't help.",
+     "Would you help if you had time?",
+     "Yes, I would. / No, I wouldn't."
+    ],
+    [
+     "If she knew, she'd tell us.",
+     "If she knew, she wouldn't tell us.",
+     "Would she tell us if she knew?",
+     "Yes, she would. / No, she wouldn't."
+    ],
+    [
+     "If it were cheaper, they'd buy it.",
+     "If it were cheaper, they wouldn't buy it.",
+     "Would they buy it if it were cheaper?",
+     "Yes, they would. / No, they wouldn't."
+    ],
+    [
+     "If you lived here, you'd love it.",
+     "If you lived here, you wouldn't love it.",
+     "Would you love it if you lived here?",
+     "Yes, I would. / No, I wouldn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Mr. Lee",
+   "text": "Edwin, what's the plan for the shutdown next week?"
+  },
+  {
+   "who": "Edwin",
+   "text": "If the scaffolding is ready on Monday, we'll start the inspection on Tuesday."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "And what happens if the inspectors find corrosion on the floor?"
+  },
+  {
+   "who": "Edwin",
+   "text": "If the plates are below the minimum thickness, we replace them. That's the procedure."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "How long will that take?"
+  },
+  {
+   "who": "Edwin",
+   "text": "If we have to replace more than ten plates, we'll need three extra days."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "The client won't be happy. Is there any way to go faster?"
+  },
+  {
+   "who": "Edwin",
+   "text": "If we had a second welding crew, we could work at night. But we don't have one."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "What would you do if you were me?"
+  },
+  {
+   "who": "Edwin",
+   "text": "If I were you, I'd call the client today. If we warn them now, they'll have time to plan."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Good idea. Send me a short summary, and I'll call them this afternoon."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "If it will rain, we'll stop.",
+   "right": "If it rains, we'll stop.",
+   "why": "Nunca will después de if."
+  },
+  {
+   "wrong": "If I would have money, I'd travel.",
+   "right": "If I had money, I'd travel.",
+   "why": "Condición del condicional 2 = pasado simple."
+  },
+  {
+   "wrong": "If I am you, I'd call him.",
+   "right": "If I were you, I'd call him.",
+   "why": "Fórmula fija de consejo: If I were you."
+  },
+  {
+   "wrong": "If I had time, I will help you.",
+   "right": "If I had time, I would help you.",
+   "why": "No mezcles: pasado en la condición → would en el resultado."
+  },
+  {
+   "wrong": "If you need help, you call me. (instrucción)",
+   "right": "If you need help, call me.",
+   "why": "Para instrucciones, el resultado va en imperativo."
+  },
+  {
+   "wrong": "Unless you don't hurry, you'll be late.",
+   "right": "Unless you hurry, you'll be late.",
+   "why": "Unless ya es negativo: no lleva don't."
+  },
+  {
+   "wrong": "When I will arrive, I'll call you.",
+   "right": "When I arrive, I'll call you.",
+   "why": "Después de when, presente (igual que con if)."
+  },
+  {
+   "wrong": "If she would know, she would tell us.",
+   "right": "If she knew, she would tell us.",
+   "why": "Would solo en el resultado."
+  },
+  {
+   "wrong": "If I win the lottery, I'll buy an island. (fantasía)",
+   "right": "If I won the lottery, I'd buy an island.",
+   "why": "Algo casi imposible → condicional 2."
+  },
+  {
+   "wrong": "If he doesn't comes, we'll start.",
+   "right": "If he doesn't come, we'll start.",
+   "why": "Después de doesn't, verbo base."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "In case it rains, we'll stop.",
+   "looks": "en caso de que (= si pasa)",
+   "means": "In case = por si acaso (prevención), no \"si ocurre\".",
+   "fix": "If it rains, we'll stop."
+  },
+  {
+   "en": "If no, we'll be late.",
+   "looks": "si no (de lo contrario)",
+   "means": "Se dice if not u otherwise.",
+   "fix": "Otherwise, we'll be late. / If not, …"
+  },
+  {
+   "en": "at least that",
+   "looks": "a menos que",
+   "means": "At least = al menos.",
+   "fix": "unless"
+  },
+  {
+   "en": "If you have doubts, ask me.",
+   "looks": "tener dudas",
+   "means": "Doubts = desconfianza; para consultas: questions.",
+   "fix": "If you have any questions, ask me."
+  },
+  {
+   "en": "If there's a problem, advise me.",
+   "looks": "avisar",
+   "means": "Advise = aconsejar; \"avisar\" = let me know / tell me.",
+   "fix": "If there's a problem, let me know."
+  },
+  {
+   "en": "If, I agree.",
+   "looks": "si (afirmación)",
+   "means": "If = si condicional; \"sí\" = yes.",
+   "fix": "Yes, I agree."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Si calientas el agua a 100 °C, hierve.",
+    "answers": [
+     "If you heat water to 100 °C, it boils.",
+     "If you heat water to 100 degrees, it boils.",
+     "If you heat water to 100°C, it boils."
+    ],
+    "explain": "Ley física → condicional 0: presente + presente."
+   },
+   {
+    "prompt": "Si llueve mañana, no trabajaremos.",
+    "answers": [
+     "If it rains tomorrow, we won't work.",
+     "If it rains tomorrow, we will not work."
+    ],
+    "explain": "Futuro posible → condicional 1; nunca will tras if."
+   },
+   {
+    "prompt": "Si necesitas ayuda, llámame.",
+    "answers": [
+     "If you need help, call me."
+    ],
+    "explain": "Instrucción → condicional 1 con imperativo."
+   },
+   {
+    "prompt": "Si tuviera más tiempo, aprendería a tocar guitarra.",
+    "answers": [
+     "If I had more time, I'd learn to play the guitar.",
+     "If I had more time, I would learn to play the guitar.",
+     "If I had more time, I'd learn to play guitar.",
+     "If I had more time, I would learn to play guitar.",
+     "If I had more time, I'd learn guitar.",
+     "If I had more time, I would learn guitar."
+    ],
+    "explain": "Irreal ahora → condicional 2: pasado + would. También learn (to play) guitar."
+   },
+   {
+    "prompt": "Yo que tú, no firmaría ese contrato.",
+    "answers": [
+     "If I were you, I wouldn't sign that contract.",
+     "If I were you, I would not sign that contract."
+    ],
+    "explain": "Consejo → If I were you + wouldn't."
+   },
+   {
+    "prompt": "Si el cliente aprueba el presupuesto, empezaremos el lunes.",
+    "answers": [
+     "If the client approves the budget, we'll start on Monday.",
+     "If the client approves the budget, we will start on Monday.",
+     "If the client approves the quote, we'll start on Monday.",
+     "If the client approves the quote, we will start on Monday.",
+     "If the client approves the estimate, we'll start on Monday.",
+     "If the client approves the estimate, we will start on Monday."
+    ],
+    "explain": "Plan real → condicional 1. También quote / estimate."
+   },
+   {
+    "prompt": "Si no te apuras, perderás el vuelo.",
+    "answers": [
+     "If you don't hurry, you'll miss the flight.",
+     "If you do not hurry, you will miss the flight."
+    ],
+    "explain": "Advertencia → condicional 1 con condición negativa."
+   },
+   {
+    "prompt": "¿Qué harías si perdieras tu trabajo?",
+    "answers": [
+     "What would you do if you lost your job?"
+    ],
+    "explain": "Hipótesis → condicional 2; la pregunta se forma con would."
+   },
+   {
+    "prompt": "A menos que llegue la grúa, no podremos instalar el techo.",
+    "answers": [
+     "Unless the crane arrives, we won't be able to install the roof.",
+     "Unless the crane arrives, we will not be able to install the roof.",
+     "Unless the crane arrives, we can't install the roof.",
+     "Unless the crane arrives, we cannot install the roof."
+    ],
+    "explain": "Unless + afirmativo. Won't be able to = no podremos (también we can't install)."
+   },
+   {
+    "prompt": "Si fuera más barato, lo compraríamos.",
+    "answers": [
+     "If it were cheaper, we'd buy it.",
+     "If it were cheaper, we would buy it.",
+     "If it was cheaper, we'd buy it.",
+     "If it was cheaper, we would buy it."
+    ],
+    "explain": "Irreal → were + would. If it was cheaper se oye en el habla informal."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "If the pressure gets too high, the relief valve opens.",
+    "answers": [
+     "Si la presión sube demasiado, la válvula de alivio se abre.",
+     "Si la presión aumenta demasiado, se abre la válvula de alivio."
+    ],
+    "explain": "Condicional 0: proceso que siempre ocurre."
+   },
+   {
+    "prompt": "If you have any questions, let me know.",
+    "answers": [
+     "Si tienes alguna duda, avísame.",
+     "Si tienes alguna pregunta, avísame.",
+     "Si tiene alguna duda, avíseme."
+    ],
+    "explain": "Questions = dudas (consultas); let me know = avísame."
+   },
+   {
+    "prompt": "If we had two more welders, we could finish next week.",
+    "answers": [
+     "Si tuviéramos dos soldadores más, podríamos terminar la próxima semana.",
+     "Si tuviéramos dos soldadores más, podríamos terminar la semana que viene."
+    ],
+    "explain": "Condicional 2 con could = podríamos."
+   },
+   {
+    "prompt": "I'll call you as soon as I land.",
+    "answers": [
+     "Te llamo en cuanto aterrice.",
+     "Te llamaré en cuanto aterrice.",
+     "Te llamo apenas aterrice."
+    ],
+    "explain": "As soon as + presente; en español, subjuntivo."
+   },
+   {
+    "prompt": "It would be great if you could send the report today.",
+    "answers": [
+     "Sería genial si pudieras enviar el informe hoy.",
+     "Sería genial que pudieras enviar el informe hoy.",
+     "Sería excelente si pudieras mandar el reporte hoy."
+    ],
+    "explain": "Petición cortés con condicional 2."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "If it will rain tomorrow, we'll cancel the lift.",
+    "answers": [
+     "If it rains tomorrow, we'll cancel the lift.",
+     "If it rains tomorrow, we will cancel the lift."
+    ],
+    "explain": "Nunca will después de if."
+   },
+   {
+    "prompt": "If I would have a car, I'd drive to work.",
+    "answers": [
+     "If I had a car, I'd drive to work.",
+     "If I had a car, I would drive to work."
+    ],
+    "explain": "Condición del condicional 2 = pasado simple, no would have."
+   },
+   {
+    "prompt": "If I am you, I'd talk to the manager.",
+    "answers": [
+     "If I were you, I'd talk to the manager.",
+     "If I were you, I would talk to the manager."
+    ],
+    "explain": "Fórmula fija: If I were you."
+   },
+   {
+    "prompt": "If we had more time, we will check every weld.",
+    "answers": [
+     "If we had more time, we would check every weld.",
+     "If we had more time, we'd check every weld."
+    ],
+    "explain": "Pasado en la condición → would, no will."
+   },
+   {
+    "prompt": "Unless you don't wear a harness, you can't go up.",
+    "answers": [
+     "Unless you wear a harness, you can't go up.",
+     "Unless you wear a harness, you cannot go up."
+    ],
+    "explain": "Unless ya incluye la negación."
+   },
+   {
+    "prompt": "When the parts will arrive, I'll tell you.",
+    "answers": [
+     "When the parts arrive, I'll tell you.",
+     "When the parts arrive, I will tell you."
+    ],
+    "explain": "Después de when, presente."
+   },
+   {
+    "prompt": "If he doesn't calls today, we'll find another supplier.",
+    "answers": [
+     "If he doesn't call today, we'll find another supplier.",
+     "If he does not call today, we will find another supplier."
+    ],
+    "explain": "Tras doesn't, verbo base."
+   },
+   {
+    "prompt": "If she knew the answer, she will tell us.",
+    "answers": [
+     "If she knew the answer, she would tell us.",
+     "If she knew the answer, she'd tell us."
+    ],
+    "explain": "Condicional 2: knew → would."
+   },
+   {
+    "prompt": "If you heat steel, it expand.",
+    "answers": [
+     "If you heat steel, it expands."
+    ],
+    "explain": "Condicional 0, presente: it → expands."
+   },
+   {
+    "prompt": "What you would do if you lived in another country?",
+    "answers": [
+     "What would you do if you lived in another country?"
+    ],
+    "explain": "En la pregunta, would va antes del sujeto."
+   }
+  ],
+  "bonus": {
+   "prompt": "convierte del condicional 1 al 2: If I get the job, I'll move to Canada.",
+   "answer": "If I got the job, I'd move to Canada."
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con la forma correcta del verbo entre paréntesis.",
+   "lines": [
+    {
+     "who": "Ana",
+     "text": "Carlos, the hydrotest is tomorrow. What happens if the tank [1] (leak)?"
+    },
+    {
+     "who": "Carlos",
+     "text": "If there's a leak, we always [2] (drain) the tank first. That's the procedure."
+    },
+    {
+     "who": "Ana",
+     "text": "And if the test [3] (not / pass), when will we know?"
+    },
+    {
+     "who": "Carlos",
+     "text": "If it fails, the inspector [4] (send) us a report the same day."
+    },
+    {
+     "who": "Ana",
+     "text": "I'm worried about the schedule. If we [5] (have) more people, we could test two tanks at once."
+    },
+    {
+     "who": "Carlos",
+     "text": "True, but we don't. If I [6] (be) you, I'd focus on this tank."
+    },
+    {
+     "who": "Ana",
+     "text": "You're right. Call me [7] (unless / if) you see any problems tonight."
+    },
+    {
+     "who": "Carlos",
+     "text": "Sure. And if everything goes well, we [8] (start) painting on Friday."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "leaks"
+     ],
+     "explain": "Condición con if → presente; the tank → -s."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "drain"
+     ],
+     "explain": "Always + procedimiento → condicional 0, presente."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "doesn't pass",
+      "does not pass"
+     ],
+     "explain": "Condición negativa en presente; the test → doesn't."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "will send",
+      "'ll send"
+     ],
+     "explain": "Futuro real → condicional 1. También 'll send."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "had"
+     ],
+     "explain": "Resultado con could + \"but we don't\" → condicional 2, pasado."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "were"
+     ],
+     "explain": "Fórmula de consejo: If I were you."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "if"
+     ],
+     "explain": "\"Llámame si ves algún problema\". Unless cambiaría el sentido (llámame a menos que veas un problema)."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "will start",
+      "'ll start"
+     ],
+     "explain": "Plan real → condicional 1. También 'll start."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo. Escribe un correo de 6 a 8 oraciones a un cliente sobre un trabajo con riesgo de retraso. Incluye: (a) saludo y situación, (b) una regla o procedimiento con condicional 0, (c) un plan real con condicional 1 (will), (d) un condicional 1 negativo o con unless, (e) una hipótesis con condicional 2 (would o could), (f) una petición cortés con It would be… if you could…, (g) despedida profesional.",
+   "rubric": [
+    "(a) Saludo y situación",
+    "(b) Condicional 0",
+    "(c) Condicional 1",
+    "(d) Negativo / unless",
+    "(e) Condicional 2",
+    "(f) Petición cortés",
+    "(g) Despedida"
+   ],
+   "model": "Subject: T-301 floor replacement – possible delay\nDear Ms. Johnson,\nI'm writing to update you on the T-301 floor replacement. Our procedure is clear: if a plate is below the minimum thickness, we replace it. The inspection showed corrosion on 14 plates, so if the new steel arrives on Monday, we'll finish by May 20. Unless the steel arrives this week, we won't be able to start welding. If we had a second crew, we could recover two days, but none is available right now. It would be very helpful if you could confirm the extra cost approval by Thursday.\nBest regards,\nEdwin Prieto"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Elegir el condicional según qué tan real es la situación.",
+   "test": "Clasifica 10 oraciones del módulo como 0, 1 o 2 en 2 minutos; 10 de 10 correctas."
+  },
+  {
+   "skill": "Explicar un proceso técnico con el condicional 0.",
+   "test": "Grábate 45 segundos explicando 4 pasos de un procedimiento de tu trabajo con if + presente."
+  },
+  {
+   "skill": "Advertir y planificar con el condicional 1.",
+   "test": "Di 5 advertencias o planes reales en 1 minuto; cero will después de if."
+  },
+  {
+   "skill": "Imaginar situaciones con el condicional 2.",
+   "test": "Responde en voz alta 3 preguntas \"What would you do if…?\" con oraciones completas, sin pausas largas."
+  },
+  {
+   "skill": "Dar consejo con \"If I were you\".",
+   "test": "Da 3 consejos a un compañero con If I were you, I'd / I wouldn't…; los 3 con were."
+  },
+  {
+   "skill": "Usar unless, as soon as y when sin futuro.",
+   "test": "Escribe 4 oraciones (una con cada conector + if) en 3 minutos; 4 de 4 correctas."
+  },
+  {
+   "skill": "Escribir un correo de riesgo de retraso a un cliente.",
+   "test": "Redacta 6–8 oraciones que cumplan los 7 criterios de C2; compáralo con el modelo."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What happens if you don't sleep enough?",
+  "What will you do if it rains this weekend?",
+  "If you had more free time, what would you do?",
+  "What would you do if you won a lot of money?",
+  "If you could live in any country, where would you live?",
+  "What will you do if you finish this book?"
+ ]
+}

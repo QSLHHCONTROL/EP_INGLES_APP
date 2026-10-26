@@ -1,0 +1,94 @@
+{
+ "id": 24,
+ "topic": "Oraciones relativas",
+ "title": "The Places and Projects That Shaped Me",
+ "practice": "Léela 3 veces con una pausa breve en cada coma. Luego grábate 1 minuto sin mirar.",
+ "rows": [
+  {
+   "en": "I'm from {city}, a place **where** people work hard.",
+   "es": "Soy de {city}, un lugar donde la gente trabaja duro."
+  },
+  {
+   "en": "I studied at {school}, the university **where** I got my degree.",
+   "es": "Estudié en {school}, la universidad donde me titulé."
+  },
+  {
+   "en": "{gradYear} was the year **when** I got my degree.",
+   "es": "{gradYear} fue el año en que me titulé."
+  },
+  {
+   "en": "Now I work for {company}, **which** is based in {companyPlace}.",
+   "es": "Ahora trabajo para {company}, que tiene su sede en {companyPlace}."
+  },
+  {
+   "en": "I'm {a_jobTitle} **who** works with {work}.",
+   "es": "Soy un {jobTitle_es} que trabaja con {work_es}."
+  },
+  {
+   "en": "One project **I've worked on** is {project}.",
+   "es": "Un proyecto en el que he trabajado es {project_es}."
+  },
+  {
+   "en": "I create {tool} trackers **that** save my team a lot of time.",
+   "es": "Creo controles en {tool} que le ahorran mucho tiempo a mi equipo."
+  },
+  {
+   "en": "Before {company}, I worked at {prevJob}, **which** taught me a lot.",
+   "es": "Antes de {company}, trabajé en {prevJob}, que me enseñó mucho."
+  },
+  {
+   "en": "{dreamCountry} is a country **where** I'd like to work.",
+   "es": "{dreamCountry} es un país donde me gustaría trabajar."
+  },
+  {
+   "en": "**What** I need now is better English, **which** is why I study with this book.",
+   "es": "Lo que necesito ahora es mejor inglés; por eso estudio con este libro."
+  }
+ ],
+ "dialogTitle": "Diálogo con una reclutadora",
+ "dialog": [
+  {
+   "who": "Priya",
+   "text": "So, what kind of work do you do?"
+  },
+  {
+   "who": "{name}",
+   "text": "I'm {a_profession} who works with {work}."
+  },
+  {
+   "who": "Priya",
+   "text": "Is there a project that you're proud of?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, {project}, where I set up a daily progress tracker."
+  },
+  {
+   "who": "Priya",
+   "text": "Do you have any other plans?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes. I'd like to work in {dreamCountry}, a country where I can keep growing."
+  }
+ ],
+ "pron": [
+  {
+   "en": "the university where I got my degree",
+   "pron": "dhə yu-ni-VÉR-si-ti wer ai GOT mai di-GRÍ"
+  },
+  {
+   "en": "the year when I got my degree",
+   "pron": "dhə YIR wen ai GOT mai di-GRÍ"
+  },
+  {
+   "en": "a country where I'd like to work",
+   "pron": "ə KÁN-tri wer aid LAIK tə WERK"
+  },
+  {
+   "en": "What I need now is better English.",
+   "pron": "wo-TAI NID NAU iz BÉ-tər ÍNG-glish"
+  }
+ ],
+ "check": "Me presento en 90 segundos sin leer, elijo bien who / which / that / where / when y nunca pongo that tras coma."
+}

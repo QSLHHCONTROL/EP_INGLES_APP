@@ -1,0 +1,955 @@
+{
+ "id": 19,
+ "level": "B1",
+ "title": "Condicional 3 y mixtos (should have, would have)",
+ "goal": "Al terminar podrás hablar de un pasado que no ocurrió: explicar qué habría pasado si…, reconocer errores (we should have…), señalar riesgos evitados (someone could have been hurt), conectar decisiones pasadas con tu presente (if I had…, I would be…) y redactar un correo de lecciones aprendidas sin errores.",
+ "lesson": [
+  {
+   "title": "Introducción",
+   "html": "<p>En el Módulo 18 viste los condicionales 1 y 2: hablan del presente y del futuro. El <b>condicional 3</b> mira hacia atrás. Sirve para imaginar un pasado distinto del real: <i>si hubiéramos revisado el torque, la brida no habría fugado</i>. El hecho real es lo contrario: no revisamos y sí fugó.</p><p>¿Por qué importa tanto en el trabajo? Porque es el idioma de las <b>lecciones aprendidas</b>, los reportes de incidentes, los reclamos de clientes y las disculpas profesionales. Cuando algo sale mal, todos preguntan lo mismo: qué pasó, qué habría pasado si…, y qué debimos hacer. En inglés eso se dice con <span class=\"en\">would have</span>, <span class=\"en\">should have</span>, <span class=\"en\">could have</span> y <span class=\"en\">might have</span>.</p>",
+   "svg": "<svg viewBox=\"0 0 640 230\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"60\" y=\"12\" width=\"560\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"1.5\"/>\n  <text x=\"340\" y=\"35\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">If we had checked the torque, the flange wouldn't have leaked.</text>\n  <path d=\"M150 170 C 200 80, 260 75, 330 80\" fill=\"none\" stroke=\"#079455\" stroke-width=\"3\" stroke-dasharray=\"7 5\"/>\n  <circle cx=\"330\" cy=\"80\" r=\"8\" fill=\"#E8F7EF\" stroke=\"#079455\" stroke-width=\"2.5\"/>\n  <text x=\"346\" y=\"78\" font-size=\"13\" font-weight=\"800\" fill=\"#079455\">No leak</text>\n  <text x=\"346\" y=\"95\" font-size=\"11\" fill=\"#667085\">(nunca ocurrió)</text>\n  <text x=\"250\" y=\"132\" font-size=\"12\" font-weight=\"700\" fill=\"#079455\">pasado imaginado</text>\n  <line x1=\"30\" y1=\"170\" x2=\"600\" y2=\"170\" stroke=\"#1570EF\" stroke-width=\"4\"/>\n  <polygon points=\"600,162 616,170 600,178\" fill=\"#1570EF\"/>\n  <text x=\"420\" y=\"160\" font-size=\"12\" font-weight=\"700\" fill=\"#1570EF\">pasado real</text>\n  <circle cx=\"150\" cy=\"170\" r=\"8\" fill=\"#1D2939\"/>\n  <circle cx=\"330\" cy=\"170\" r=\"8\" fill=\"#D92D20\"/>\n  <text x=\"150\" y=\"194\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">We didn't check</text>\n  <text x=\"150\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">the torque.</text>\n  <text x=\"330\" y=\"194\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#D92D20\">The flange</text>\n  <text x=\"330\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#D92D20\">leaked.</text>\n  <line x1=\"520\" y1=\"152\" x2=\"520\" y2=\"188\" stroke=\"#1D2939\" stroke-width=\"2\"/>\n  <text x=\"520\" y=\"208\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1D2939\">AHORA</text>\n  <text x=\"34\" y=\"208\" font-size=\"11\" font-weight=\"700\" fill=\"#667085\">PASADO</text>\n</svg>",
+   "caption": "Figura 19.1 — El condicional 3 abre una rama imaginaria en el pasado. La línea azul es lo que pasó; la verde punteada, lo que habría pasado."
+  },
+  {
+   "title": "La forma del condicional 3",
+   "html": "<table><thead><tr><th>Parte</th><th>Estructura</th><th>Ejemplo</th><th>En español</th></tr></thead><tbody><tr><td><b>Condición</b> (irreal, pasada)</td><td>If + sujeto + <b>had</b> + participio</td><td><span class=\"en\">If we had checked the torque,</span></td><td>Si hubiéramos revisado el torque,</td></tr><tr><td><b>Resultado</b> (irreal, pasado)</td><td>sujeto + <b>would have</b> + participio</td><td><span class=\"en\">we would have found the leak.</span></td><td>habríamos encontrado la fuga.</td></tr><tr><td>Resultado posible</td><td>sujeto + <b>could have</b> + participio</td><td><span class=\"en\">we could have fixed it.</span></td><td>habríamos podido arreglarlo.</td></tr><tr><td>Resultado incierto</td><td>sujeto + <b>might have</b> + participio</td><td><span class=\"en\">we might have saved a day.</span></td><td>quizás habríamos ahorrado un día.</td></tr></tbody></table><p>La parte del <i>if</i> usa el <b>pasado perfecto</b> (Módulo 15). La otra parte usa un modal + <b>have</b> + participio. Puedes invertir el orden; sin coma cuando el <i>if</i> va al final: <span class=\"en\">We would have found the leak if we had checked the torque.</span></p>",
+   "svg": "<svg viewBox=\"0 0 640 215\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"34\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">CONDICIÓN</text>\n  <text x=\"20\" y=\"49\" font-size=\"11\" fill=\"#98A2B3\">(pasado irreal)</text>\n  <rect x=\"160\" y=\"16\" width=\"50\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"185\" y=\"40\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">If</text>\n  <rect x=\"218\" y=\"16\" width=\"60\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"248\" y=\"40\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">we</text>\n  <rect x=\"286\" y=\"16\" width=\"70\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"321\" y=\"40\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">had</text>\n  <rect x=\"364\" y=\"16\" width=\"110\" height=\"36\" rx=\"8\" fill=\"#1570EF\"/><text x=\"419\" y=\"40\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">checked</text>\n  <rect x=\"482\" y=\"16\" width=\"138\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"551\" y=\"40\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">the torque,</text>\n  <text x=\"380\" y=\"72\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#E8590C\">had + participio (pasado perfecto, Módulo 15)</text>\n  <text x=\"20\" y=\"108\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">RESULTADO</text>\n  <text x=\"20\" y=\"123\" font-size=\"11\" fill=\"#98A2B3\">(pasado irreal)</text>\n  <rect x=\"160\" y=\"90\" width=\"60\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"190\" y=\"114\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">we</text>\n  <rect x=\"228\" y=\"90\" width=\"134\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"295\" y=\"114\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">would have</text>\n  <rect x=\"370\" y=\"90\" width=\"90\" height=\"36\" rx=\"8\" fill=\"#1570EF\"/><text x=\"415\" y=\"114\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">found</text>\n  <rect x=\"468\" y=\"90\" width=\"120\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"528\" y=\"114\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">the leak.</text>\n  <text x=\"360\" y=\"146\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#E8590C\">would / could / might + have + participio</text>\n  <rect x=\"20\" y=\"162\" width=\"190\" height=\"40\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"115\" y=\"187\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">would have = habría</text>\n  <rect x=\"225\" y=\"162\" width=\"190\" height=\"40\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"320\" y=\"187\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">could have = podría haber</text>\n  <rect x=\"430\" y=\"162\" width=\"190\" height=\"40\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"525\" y=\"187\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">might have = quizás habría</text>\n</svg>",
+   "caption": "Figura 19.2 — Construcción del condicional 3: HAD en la condición, modal + HAVE en el resultado, y participio en ambas partes."
+  },
+  {
+   "title": "Reglas de oro",
+   "html": "<p><b>Regla de oro 1 — Nunca WOULD en la parte del IF</b></p><p>El <i>would</i> vive solo en el resultado. En la condición va <b>had</b> + participio.</p><p><span class=\"ok\">If I had known, I would have called you.</span> Nunca <span class=\"wrong\">If I would have known…</span></p><p>Algunos nativos dicen <i>if I would have known</i> en conversación, pero en el examen, en un correo o en un reporte es un error claro.</p><p><b>Regla de oro 2 — Después de modal + HAVE siempre va PARTICIPIO</b></p><p><i>would have, should have, could have, might have</i> + <b>participio</b> (3.ª columna): <span class=\"en\">gone, seen, done, taken, written, known, been</span>.</p><p><span class=\"ok\">We would have gone.</span> Nunca <span class=\"wrong\">We would have went.</span> <span class=\"ok\">You should have told me.</span> Nunca <span class=\"wrong\">You should have tell me.</span></p><p><b>Regla de oro 3 — 'D tiene dos significados</b></p><p>En la condición, <b>'d = had</b>. En el resultado, <b>'d = would</b>. La pista es la palabra que sigue: <i>'d + participio</i> = had; <i>'d + have</i> = would.</p><p><span class=\"en\">If I'd (= had) known, I'd (= would) have helped you.</span></p>"
+  },
+  {
+   "title": "Los cuatro modales del pasado irreal",
+   "html": "<p>Fuera del condicional, estos modales + <b>have</b> + participio se usan solos, todo el día, para opinar sobre el pasado. Son el corazón de las reuniones de revisión.</p><table><thead><tr><th>Forma</th><th>Qué expresa</th><th>Ejemplo</th><th>En español</th></tr></thead><tbody><tr><td><span class=\"en\">should have + part.</span></td><td>Crítica o arrepentimiento: era lo correcto y no se hizo.</td><td><span class=\"en\">We should have tested the line.</span></td><td>Debimos probar la línea.</td></tr><tr><td><span class=\"en\">shouldn't have + part.</span></td><td>Se hizo algo que no convenía.</td><td><span class=\"en\">You shouldn't have skipped the check.</span></td><td>No debiste saltarte la revisión.</td></tr><tr><td><span class=\"en\">could have + part.</span></td><td>Posibilidad que no se usó, o riesgo que no ocurrió.</td><td><span class=\"en\">Someone could have been hurt.</span></td><td>Alguien pudo haber salido herido.</td></tr><tr><td><span class=\"en\">couldn't have + part.</span></td><td>Imposible en el pasado.</td><td><span class=\"en\">I couldn't have done it without you.</span></td><td>No lo habría podido hacer sin ti.</td></tr><tr><td><span class=\"en\">would have + part.</span></td><td>Resultado imaginado o disposición (yo lo habría hecho).</td><td><span class=\"en\">I would have helped you.</span></td><td>Te habría ayudado.</td></tr><tr><td><span class=\"en\">might have + part.</span></td><td>Posibilidad dudosa (quizás pasó, quizás habría pasado).</td><td><span class=\"en\">It might have been the gasket.</span></td><td>Quizás fue el empaque.</td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 200\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"170\" y=\"10\" width=\"300\" height=\"40\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"35\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">¿Qué quieres decir del pasado?</text>\n  <path d=\"M320 50 L320 66 M88 66 L552 66 M88 66 L88 82 M243 66 L243 82 M397 66 L397 82 M552 66 L552 82\" stroke=\"#98A2B3\" stroke-width=\"2\" fill=\"none\"/>\n  <rect x=\"15\" y=\"84\" width=\"146\" height=\"104\" rx=\"10\" fill=\"#FEF0EF\" stroke=\"#D92D20\" stroke-width=\"1.5\"/>\n  <text x=\"88\" y=\"106\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#D92D20\">Era lo correcto</text>\n  <text x=\"88\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#D92D20\">y no se hizo</text>\n  <text x=\"88\" y=\"150\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#1D2939\">should have</text>\n  <text x=\"88\" y=\"172\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">debió / debimos</text>\n  <rect x=\"170\" y=\"84\" width=\"146\" height=\"104\" rx=\"10\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"1.5\"/>\n  <text x=\"243\" y=\"106\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#7A5B00\">Era posible,</text>\n  <text x=\"243\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#7A5B00\">o hubo un riesgo</text>\n  <text x=\"243\" y=\"150\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#1D2939\">could have</text>\n  <text x=\"243\" y=\"172\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">pudo haber</text>\n  <rect x=\"324\" y=\"84\" width=\"146\" height=\"104\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"1.5\"/>\n  <text x=\"397\" y=\"106\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1570EF\">Resultado de</text>\n  <text x=\"397\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1570EF\">un pasado distinto</text>\n  <text x=\"397\" y=\"150\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#1D2939\">would have</text>\n  <text x=\"397\" y=\"172\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">habría</text>\n  <rect x=\"479\" y=\"84\" width=\"146\" height=\"104\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"1.5\"/>\n  <text x=\"552\" y=\"106\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#6941C6\">Quizás pasó;</text>\n  <text x=\"552\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#6941C6\">no estoy seguro</text>\n  <text x=\"552\" y=\"150\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#1D2939\">might have</text>\n  <text x=\"552\" y=\"172\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">quizás / tal vez</text>\n</svg>",
+   "caption": "Figura 19.3 — Mapa de decisión: elige el modal según lo que quieres decir del pasado."
+  },
+  {
+   "title": "Así piensa un nativo — would've, should've, could've",
+   "html": "<p>Al hablar, <i>have</i> casi desaparece: <span class=\"en\">should have</span> suena <span class=\"pron\">SHÚ-dəv</span>, <span class=\"en\">would have</span> suena <span class=\"pron\">WÚ-dəv</span>, <span class=\"en\">could have</span> suena <span class=\"pron\">KÚ-dəv</span>. Por eso muchos nativos escriben mal <span class=\"wrong\">should of</span>. Tú escribe siempre <b>should have</b> o <b>should've</b>.</p><p>Además, el nativo usa estas formas para <b>suavizar la culpa</b>. En vez de <i>You made a mistake</i>, dice <span class=\"en\">It would have been better to check the drawings first.</span> o <span class=\"en\">Maybe we should have asked the client.</span> Con <i>we</i> la crítica se comparte y nadie se pone a la defensiva.</p>"
+  },
+  {
+   "title": "Traducción directa vs interpretación real",
+   "html": "<p>El español tiene equivalentes muy parecidos (<i>si hubiera…, habría…</i>), y eso ayuda. El problema está en el español coloquial y en <i>debí</i>, que no se traduce con <i>must</i> ni con <i>had to</i>.</p><table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td><span class=\"es\">Si lo sabía, te avisaba.</span></td><td><span class=\"en\">If I'd known, I would have told you.</span></td></tr><tr><td><span class=\"es\">Debí llamarte.</span></td><td><span class=\"en\">I should have called you.</span></td></tr><tr><td><span class=\"es\">Pudiste haberte lastimado.</span></td><td><span class=\"en\">You could have hurt yourself.</span></td></tr><tr><td><span class=\"es\">Me hubieras dicho.</span></td><td><span class=\"en\">You should have told me.</span></td></tr><tr><td><span class=\"es\">Hubiera sido mejor esperar.</span></td><td><span class=\"en\">It would have been better to wait.</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>Si lo sabía, te avisaba.</td><td><span class=\"wrong\">If I knew, I told you.</span></td><td><span class=\"en\">If I had known, I would have told you.</span></td></tr><tr><td>Debí revisar los planos.</td><td><span class=\"wrong\">I must check the drawings.</span></td><td><span class=\"en\">I should have checked the drawings.</span></td></tr><tr><td>Pudiste haberte lastimado.</td><td><span class=\"wrong\">You could hurt yourself.</span></td><td><span class=\"en\">You could have hurt yourself.</span></td></tr><tr><td>Me hubieras dicho.</td><td><span class=\"wrong\">You had told me.</span></td><td><span class=\"en\">You should have told me.</span></td></tr><tr><td>Hubiera sido mejor esperar.</td><td><span class=\"wrong\">It had been better to wait.</span></td><td><span class=\"en\">It would have been better to wait.</span></td></tr><tr><td>Si no fuera por ti, no habría terminado.</td><td><span class=\"wrong\">If not was for you, I don't finish.</span></td><td><span class=\"en\">If it weren't for you, I wouldn't have finished.</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Condicionales mixtos: cuando los tiempos se cruzan",
+   "html": "<p>A veces la causa y el resultado no están en el mismo tiempo. Una decisión del pasado cambia tu presente, o una característica permanente cambia lo que pasó ayer. Para eso se mezclan las partes del condicional 2 y del 3.</p><table><thead><tr><th>Tipo</th><th>Condición</th><th>Resultado</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>A</b> pasado → presente</td><td>If + had + participio</td><td>would + verbo base (+ now / today)</td><td><span class=\"en\">If we had ordered the flanges in May, we would have them now.</span></td></tr><tr><td><b>B</b> presente → pasado</td><td>If + pasado simple (were)</td><td>would have + participio</td><td><span class=\"en\">If Carlos weren't so careful, he would have missed that crack.</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 235\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"8\" y=\"8\" width=\"306\" height=\"220\" rx=\"12\" fill=\"#ffffff\" stroke=\"#98A2B3\"/>\n  <text x=\"161\" y=\"32\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1570EF\">TIPO A: pasado → presente</text>\n  <rect x=\"24\" y=\"44\" width=\"274\" height=\"52\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/>\n  <text x=\"161\" y=\"62\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#667085\">PASADO</text>\n  <text x=\"161\" y=\"84\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">If I had taken that job in 2020,</text>\n  <path d=\"M161 98 L161 120\" stroke=\"#1570EF\" stroke-width=\"3\"/>\n  <polygon points=\"153,118 161,130 169,118\" fill=\"#1570EF\"/>\n  <rect x=\"24\" y=\"132\" width=\"274\" height=\"52\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"161\" y=\"150\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#1570EF\">AHORA</text>\n  <text x=\"161\" y=\"172\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">I would live in Chile now.</text>\n  <text x=\"161\" y=\"210\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#E8590C\">If + had + participio → would + base</text>\n  <rect x=\"326\" y=\"8\" width=\"306\" height=\"220\" rx=\"12\" fill=\"#ffffff\" stroke=\"#98A2B3\"/>\n  <text x=\"479\" y=\"32\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1570EF\">TIPO B: presente → pasado</text>\n  <rect x=\"342\" y=\"44\" width=\"274\" height=\"52\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/>\n  <text x=\"479\" y=\"62\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#1570EF\">SIEMPRE / AHORA</text>\n  <text x=\"479\" y=\"84\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">If I weren't afraid of heights,</text>\n  <path d=\"M479 98 L479 120\" stroke=\"#1570EF\" stroke-width=\"3\"/>\n  <polygon points=\"471,118 479,130 487,118\" fill=\"#1570EF\"/>\n  <rect x=\"342\" y=\"132\" width=\"274\" height=\"52\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/>\n  <text x=\"479\" y=\"150\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#667085\">PASADO</text>\n  <text x=\"479\" y=\"172\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">I would have climbed the tank.</text>\n  <text x=\"479\" y=\"210\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#E8590C\">If + pasado → would have + participio</text>\n</svg>",
+   "caption": "Figura 19.4 — Condicionales mixtos. A: una decisión pasada cambia el presente. B: algo permanente o actual cambia lo que pasó."
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<ul><li>Las palabras <b>now, today, still</b> en el resultado suelen indicar un mixto tipo A: <span class=\"en\">If I hadn't learned AutoCAD, I wouldn't be here today.</span></li><li>En el tipo B, <span class=\"en\">If I were</span> es la forma más correcta; <span class=\"en\">If I was</span> es común al hablar (Módulo 18).</li><li>Condicionales \"escondidos\": <span class=\"en\">Without your help, we wouldn't have finished.</span> · <span class=\"en\">We left early; otherwise, we would have missed the flight.</span> Aquí <i>without</i> y <i>otherwise</i> reemplazan al <i>if</i>.</li><li>Para lamentar algo también existe <span class=\"en\">I wish I had…</span> / <span class=\"en\">If only I had…</span> = ojalá hubiera…: <span class=\"en\">I wish I had studied English earlier.</span></li></ul>"
+  },
+  {
+   "title": "Afirmativo, negativo, pregunta y respuesta corta",
+   "html": "<table><thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td>If + had + part., sujeto + would have + part.</td><td><span class=\"en\">If you had called, I would have come.</span></td></tr><tr><td><b>Negativo</b></td><td>If + hadn't + part., sujeto + wouldn't have + part.</td><td><span class=\"en\">If it hadn't rained, we wouldn't have stopped.</span></td></tr><tr><td><b>Pregunta</b></td><td>(WH-) + would + sujeto + have + part. + if…?</td><td><span class=\"en\">What would you have done if the crane had failed?</span></td></tr><tr><td><b>Respuesta corta</b></td><td>Yes, sujeto + would (have). / No, sujeto + wouldn't (have).</td><td><span class=\"en\">Would you have stopped the test? — Yes, I would (have).</span></td></tr><tr><td><b>Should have: pregunta</b></td><td>Should + sujeto + have + part.?</td><td><span class=\"en\">Should I have called the client? — Yes, you should have.</span></td></tr></tbody></table>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "If I had known…",
+   "pron": "if ai jəd NOUN",
+   "es": "Si hubiera sabido…",
+   "group": "A. El condicional 3 en piezas"
+  },
+  {
+   "en": "If I'd known…",
+   "pron": "if aid NOUN",
+   "es": "Si hubiera sabido… (contraído)",
+   "group": "A. El condicional 3 en piezas"
+  },
+  {
+   "en": "If we had checked…",
+   "pron": "if wi jəd CHEKT",
+   "es": "Si hubiéramos revisado…",
+   "group": "A. El condicional 3 en piezas"
+  },
+  {
+   "en": "…I would have told you.",
+   "pron": "ai WÚ-dəv TOULD yu",
+   "es": "…te lo habría dicho.",
+   "group": "A. El condicional 3 en piezas"
+  },
+  {
+   "en": "…we would have finished on time.",
+   "pron": "wi WÚ-dəv FÍ-nisht on TAIM",
+   "es": "…habríamos terminado a tiempo.",
+   "group": "A. El condicional 3 en piezas"
+  },
+  {
+   "en": "It wouldn't have happened.",
+   "pron": "it WÚ-dən-təv JÁ-pənd",
+   "es": "No habría pasado.",
+   "group": "A. El condicional 3 en piezas"
+  },
+  {
+   "en": "What would you have done?",
+   "pron": "wot WUD-yu-əv DAN",
+   "es": "¿Qué habrías hecho tú?",
+   "group": "A. El condicional 3 en piezas"
+  },
+  {
+   "en": "If it hadn't been for…",
+   "pron": "if it JÁ-dənt bin for",
+   "es": "Si no hubiera sido por…",
+   "group": "A. El condicional 3 en piezas"
+  },
+  {
+   "en": "We should have checked the drawings.",
+   "pron": "wi SHÚ-dəv CHEKT dhə DRÓ-ingz",
+   "es": "Debimos revisar los planos.",
+   "group": "B. Should have: arrepentimiento y crítica"
+  },
+  {
+   "en": "I should have asked.",
+   "pron": "ai SHÚ-dəv ASKT",
+   "es": "Debí preguntar.",
+   "group": "B. Should have: arrepentimiento y crítica"
+  },
+  {
+   "en": "He should have told us.",
+   "pron": "ji SHÚ-dəv TOULD əs",
+   "es": "Él debió decirnos.",
+   "group": "B. Should have: arrepentimiento y crítica"
+  },
+  {
+   "en": "They should have tested it first.",
+   "pron": "dhei SHÚ-dəv TÉS-tid it FERST",
+   "es": "Debieron probarlo primero.",
+   "group": "B. Should have: arrepentimiento y crítica"
+  },
+  {
+   "en": "We should have ordered more material.",
+   "pron": "wi SHÚ-dəv ÓR-derd mor mə-TÍ-ri-əl",
+   "es": "Debimos pedir más material.",
+   "group": "B. Should have: arrepentimiento y crítica"
+  },
+  {
+   "en": "You shouldn't have worried.",
+   "pron": "yu SHÚ-dən-təv WÉ-rid",
+   "es": "No debiste preocuparte.",
+   "group": "B. Should have: arrepentimiento y crítica"
+  },
+  {
+   "en": "You should have seen it!",
+   "pron": "yu SHÚ-dəv SIN it",
+   "es": "¡Hubieras visto!",
+   "group": "B. Should have: arrepentimiento y crítica"
+  },
+  {
+   "en": "It could have been worse.",
+   "pron": "it KÚ-dəv bin WERS",
+   "es": "Pudo ser peor.",
+   "group": "C. Could have y might have: posibilidad y riesgo"
+  },
+  {
+   "en": "Someone could have been hurt.",
+   "pron": "SAM-wan KÚ-dəv bin JERT",
+   "es": "Alguien pudo salir herido.",
+   "group": "C. Could have y might have: posibilidad y riesgo"
+  },
+  {
+   "en": "We could have finished earlier.",
+   "pron": "wi KÚ-dəv FÍ-nisht ÉR-li-er",
+   "es": "Pudimos terminar antes.",
+   "group": "C. Could have y might have: posibilidad y riesgo"
+  },
+  {
+   "en": "You could have told me.",
+   "pron": "yu KÚ-dəv TOULD mi",
+   "es": "Me podrías haber dicho.",
+   "group": "C. Could have y might have: posibilidad y riesgo"
+  },
+  {
+   "en": "It might have been the gasket.",
+   "pron": "it MÁI-təv bin dhə GÁS-kit",
+   "es": "Quizás fue el empaque.",
+   "group": "C. Could have y might have: posibilidad y riesgo"
+  },
+  {
+   "en": "I couldn't have done it without you.",
+   "pron": "ai KÚ-dən-təv DAN it wi-DHÁUT yu",
+   "es": "No lo habría podido hacer sin ti.",
+   "group": "C. Could have y might have: posibilidad y riesgo"
+  },
+  {
+   "en": "If I had studied English earlier, I would be…",
+   "pron": "if ai jəd STÁ-did ÍN-glish ÉR-li-er, ai wud BI",
+   "es": "Si hubiera estudiado inglés antes, ahora sería / estaría…",
+   "group": "D. Condicionales mixtos de alta frecuencia"
+  },
+  {
+   "en": "…we would have them now.",
+   "pron": "wi wud JAV dhəm NÁU",
+   "es": "…ahora los tendríamos.",
+   "group": "D. Condicionales mixtos de alta frecuencia"
+  },
+  {
+   "en": "If I had taken that job, I would live in…",
+   "pron": "if ai jəd TÉI-kən dhat YOB, ai wud LIV in",
+   "es": "Si hubiera aceptado ese trabajo, viviría en…",
+   "group": "D. Condicionales mixtos de alta frecuencia"
+  },
+  {
+   "en": "I wouldn't be here today.",
+   "pron": "ai WÚ-dənt bi jir tə-DÉI",
+   "es": "Hoy no estaría aquí.",
+   "group": "D. Condicionales mixtos de alta frecuencia"
+  },
+  {
+   "en": "If I weren't so busy, I would have come.",
+   "pron": "if ai WERNT sou BÍ-zi, ai WÚ-dəv KAM",
+   "es": "Si no estuviera tan ocupado, habría venido.",
+   "group": "D. Condicionales mixtos de alta frecuencia"
+  },
+  {
+   "en": "If he spoke English, he would have gotten the job.",
+   "pron": "if ji SPOUK ÍN-glish, ji WÚ-dəv GÁ-tən dhə YOB",
+   "es": "Si hablara inglés, habría conseguido el puesto.",
+   "group": "D. Condicionales mixtos de alta frecuencia"
+  },
+  {
+   "en": "I wish I had known.",
+   "pron": "ai WISH ai jəd NOUN",
+   "es": "Ojalá lo hubiera sabido.",
+   "group": "E. Lamentar y aprender del pasado"
+  },
+  {
+   "en": "If only we had listened.",
+   "pron": "if ÓUN-li wi jəd LÍ-sənd",
+   "es": "Si tan solo hubiéramos escuchado.",
+   "group": "E. Lamentar y aprender del pasado"
+  },
+  {
+   "en": "Looking back, …",
+   "pron": "LÚ-king BAK",
+   "es": "Mirando hacia atrás, …",
+   "group": "E. Lamentar y aprender del pasado"
+  },
+  {
+   "en": "In hindsight, …",
+   "pron": "in JÁIND-sait",
+   "es": "En retrospectiva, …",
+   "group": "E. Lamentar y aprender del pasado"
+  },
+  {
+   "en": "Lessons learned",
+   "pron": "LÉ-sənz LERND",
+   "es": "Lecciones aprendidas",
+   "group": "E. Lamentar y aprender del pasado"
+  },
+  {
+   "en": "That was a close call.",
+   "pron": "dhat wəz ə KLOUS KOL",
+   "es": "Eso estuvo cerca (casi pasa algo grave).",
+   "group": "E. Lamentar y aprender del pasado"
+  },
+  {
+   "en": "It's too late now.",
+   "pron": "its tu LEIT NÁU",
+   "es": "Ya es demasiado tarde.",
+   "group": "E. Lamentar y aprender del pasado"
+  },
+  {
+   "en": "Without…",
+   "pron": "wi-DHÁUT",
+   "es": "sin…",
+   "example": "Without the spare pump, we would have stopped.",
+   "group": "F. Conectores que reemplazan al IF"
+  },
+  {
+   "en": "Otherwise, …",
+   "pron": "Á-dher-waiz",
+   "es": "de lo contrario…",
+   "example": "We left early; otherwise, we'd have missed it.",
+   "group": "F. Conectores que reemplazan al IF"
+  },
+  {
+   "en": "Thanks to…",
+   "pron": "THANKS tu",
+   "es": "gracias a…",
+   "example": "Thanks to Ana, we found the error.",
+   "group": "F. Conectores que reemplazan al IF"
+  },
+  {
+   "en": "But for the rain, …",
+   "pron": "bat for dhə REIN",
+   "es": "de no ser por la lluvia… (formal)",
+   "example": "But for the rain, we would have finished.",
+   "group": "F. Conectores que reemplazan al IF"
+  },
+  {
+   "en": "Even if…",
+   "pron": "Í-vən if",
+   "es": "aun si…",
+   "example": "Even if we had run, we would have missed it.",
+   "group": "F. Conectores que reemplazan al IF"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "We would have finished.",
+     "We wouldn't have finished.",
+     "Would we have finished?",
+     "Yes, we would have. / No, we wouldn't have."
+    ],
+    [
+     "She should have called.",
+     "She shouldn't have called.",
+     "Should she have called?",
+     "Yes, she should have. / No, she shouldn't have."
+    ],
+    [
+     "They could have won.",
+     "They couldn't have won.",
+     "Could they have won?",
+     "Yes, they could have. / No, they couldn't have."
+    ],
+    [
+     "He would have seen the leak.",
+     "He wouldn't have seen the leak.",
+     "Would he have seen the leak?",
+     "Yes, he would have. / No, he wouldn't have."
+    ],
+    [
+     "I should have asked Mark.",
+     "I shouldn't have asked Mark.",
+     "Should I have asked Mark?",
+     "Yes, you should have. / No, you shouldn't have."
+    ],
+    [
+     "You would have liked the hotel.",
+     "You wouldn't have liked the hotel.",
+     "Would I have liked the hotel?",
+     "Yes, you would have. / No, you wouldn't have."
+    ],
+    [
+     "It would have cost more.",
+     "It wouldn't have cost more.",
+     "Would it have cost more?",
+     "Yes, it would have. / No, it wouldn't have."
+    ],
+    [
+     "The inspector would have rejected the weld.",
+     "The inspector wouldn't have rejected the weld.",
+     "Would the inspector have rejected the weld?",
+     "Yes, he would have. / No, he wouldn't have."
+    ],
+    [
+     "We should have used a bigger crane.",
+     "We shouldn't have used a bigger crane.",
+     "Should we have used a bigger crane?",
+     "Yes, we should have. / No, we shouldn't have."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Mr. Lee",
+   "text": "OK, let's review last week's hydrotest. What went wrong?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Two flanges leaked at 80 percent of the test pressure. If we had checked the torque on every flange, we would have found the problem earlier."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Why didn't we?"
+  },
+  {
+   "who": "Edwin",
+   "text": "We were behind schedule, so we skipped the final check. Looking back, we shouldn't have done that."
+  },
+  {
+   "who": "Ana",
+   "text": "To be fair, the gaskets were the wrong type too. Even with the right torque, they might have leaked."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Could we have detected that before the test?"
+  },
+  {
+   "who": "Ana",
+   "text": "Yes. If someone had compared the gaskets with the data sheet, we would have seen the mistake."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Was anyone at risk?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Not really, but it could have been much worse at full pressure."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "All right. If we had a QC checklist for this, we wouldn't have lost two days. Let's create one."
+  },
+  {
+   "who": "Ana",
+   "text": "Agreed. I'll draft it today."
+  }
+ ],
+ "examples": [
+  {
+   "en": "If we had checked the bolt torque, the flange wouldn't have leaked.",
+   "es": "Si hubiéramos revisado el torque de los pernos, la brida no habría fugado.",
+   "situation": "Lecciones aprendidas"
+  },
+  {
+   "en": "The welder should have cleaned the joint before the root pass.",
+   "es": "El soldador debió limpiar la junta antes del pase de raíz.",
+   "situation": "Inspección de soldadura"
+  },
+  {
+   "en": "Someone could have been seriously hurt.",
+   "es": "Alguien pudo haber salido gravemente herido.",
+   "situation": "Seguridad"
+  },
+  {
+   "en": "I'm sorry. I should have sent you the drawings yesterday.",
+   "es": "Lo siento. Debí enviarte los planos ayer.",
+   "situation": "Oficina"
+  },
+  {
+   "en": "If we had ordered the flanges in May, we would have them now.",
+   "es": "Si hubiéramos pedido las bridas en mayo, ahora las tendríamos.",
+   "situation": "Compras (mixto A)"
+  },
+  {
+   "en": "If we hadn't missed the connection, we would have arrived before midnight.",
+   "es": "Si no hubiéramos perdido la conexión, habríamos llegado antes de medianoche.",
+   "situation": "Viaje"
+  },
+  {
+   "en": "You shouldn't have bought so much food.",
+   "es": "No debiste comprar tanta comida.",
+   "situation": "Vida diaria"
+  },
+  {
+   "en": "If you had come earlier, the treatment would have been easier.",
+   "es": "Si hubiera venido antes, el tratamiento habría sido más fácil.",
+   "situation": "Médico"
+  },
+  {
+   "en": "We might have won the contract if our price had been lower.",
+   "es": "Quizás habríamos ganado el contrato si nuestro precio hubiera sido más bajo.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "If I hadn't learned AutoCAD, I wouldn't be working here today.",
+   "es": "Si no hubiera aprendido AutoCAD, hoy no estaría trabajando aquí.",
+   "situation": "Carrera (mixto A)"
+  },
+  {
+   "en": "You should have come to the barbecue! It was great.",
+   "es": "¡Debiste venir a la parrillada! Estuvo genial.",
+   "situation": "Social"
+  },
+  {
+   "en": "Thanks for your help. I couldn't have done it without you.",
+   "es": "Gracias por tu ayuda. No lo habría podido hacer sin ti.",
+   "situation": "Agradecimiento"
+  },
+  {
+   "en": "If I had read the contract, I wouldn't have paid that fee.",
+   "es": "Si hubiera leído el contrato, no habría pagado esa comisión.",
+   "situation": "Banco"
+  },
+  {
+   "en": "If Carlos weren't so careful, he would have missed that crack.",
+   "es": "Si Carlos no fuera tan cuidadoso, se le habría pasado esa grieta.",
+   "situation": "Control de calidad (mixto B)"
+  },
+  {
+   "en": "The failure would not have occurred if the contractor had replaced the gasket.",
+   "es": "La falla no habría ocurrido si el contratista hubiera reemplazado el empaque.",
+   "situation": "Reporte formal"
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "If I would have known, I would have called.",
+   "right": "If I had known, I would have called.",
+   "why": "En la parte del if va had + participio, nunca would."
+  },
+  {
+   "wrong": "If I had know…",
+   "right": "If I had known…",
+   "why": "Después de had va el participio: know → knew → known."
+  },
+  {
+   "wrong": "I would have went.",
+   "right": "I would have gone.",
+   "why": "Went es pasado simple; después de have va el participio gone."
+  },
+  {
+   "wrong": "We should checked it.",
+   "right": "We should have checked it.",
+   "why": "Para el pasado, el modal necesita have + participio."
+  },
+  {
+   "wrong": "You should of told me.",
+   "right": "You should have told me.",
+   "why": "Of solo suena parecido a 've. Se escribe have."
+  },
+  {
+   "wrong": "If I knew, I would have told you. (hablando de ayer)",
+   "right": "If I had known, I would have told you.",
+   "why": "Para el pasado irreal la condición va en pasado perfecto."
+  },
+  {
+   "wrong": "I must have called you. (= debí llamarte)",
+   "right": "I should have called you.",
+   "why": "Must have es deducción (seguro que te llamé). Arrepentimiento = should have."
+  },
+  {
+   "wrong": "You could fall! (ya pasó; no se cayó)",
+   "right": "You could have fallen!",
+   "why": "Riesgo pasado que no ocurrió = could have + participio."
+  },
+  {
+   "wrong": "If I had studied engineering, I would have been an engineer now.",
+   "right": "…, I would be an engineer now.",
+   "why": "Con now el resultado es presente: mixto A con would + base."
+  },
+  {
+   "wrong": "I wish I would have known.",
+   "right": "I wish I had known.",
+   "why": "Después de wish sobre el pasado va had + participio."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "If I had realized…",
+   "looks": "realizar",
+   "means": "darse cuenta",
+   "fix": "If we had carried out the test… (realizar)"
+  },
+  {
+   "en": "If I had assisted…",
+   "looks": "asistir (ir)",
+   "means": "ayudar",
+   "fix": "If I had attended the meeting…"
+  },
+  {
+   "en": "You should have advised me.",
+   "looks": "avisar",
+   "means": "aconsejar",
+   "fix": "You should have let me know / warned me."
+  },
+  {
+   "en": "You should have remembered.",
+   "looks": "recordarme",
+   "means": "acordarte tú",
+   "fix": "You should have reminded me."
+  },
+  {
+   "en": "I lament it.",
+   "looks": "lo lamento",
+   "means": "me duele (muy formal, literario)",
+   "fix": "I regret it. / I'm sorry."
+  },
+  {
+   "en": "There could have been casualties.",
+   "looks": "casualidad",
+   "means": "víctimas (heridos o muertos)",
+   "fix": "by chance / by coincidence"
+  },
+  {
+   "en": "Eventually, it failed.",
+   "looks": "eventualmente",
+   "means": "al final, con el tiempo",
+   "fix": "It might have failed at some point."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Si hubiera sabido, te habría llamado.",
+    "answers": [
+     "If I had known, I would have called you.",
+     "If I'd known, I'd have called you."
+    ],
+    "explain": "Condicional 3: had + known / would have + called. También: If I'd known, I'd have called you."
+   },
+   {
+    "prompt": "Debimos revisar los planos.",
+    "answers": [
+     "We should have checked the drawings.",
+     "We should have reviewed the drawings."
+    ],
+    "explain": "\"Debimos\" (arrepentimiento) = should have + participio, no must ni had to."
+   },
+   {
+    "prompt": "No debiste trabajar sin arnés.",
+    "answers": [
+     "You shouldn't have worked without a harness.",
+     "You should not have worked without a harness."
+    ],
+    "explain": "Algo que se hizo y no convenía = shouldn't have. Harness = arnés."
+   },
+   {
+    "prompt": "Si la válvula no hubiera fallado, no habríamos parado la planta.",
+    "answers": [
+     "If the valve hadn't failed, we wouldn't have stopped the plant.",
+     "If the valve had not failed, we would not have stopped the plant.",
+     "If the valve hadn't failed, we wouldn't have shut down the plant.",
+     "If the valve had not failed, we would not have shut down the plant."
+    ],
+    "explain": "Doble negativo irreal: hadn't failed / wouldn't have stopped. También vale shut down the plant."
+   },
+   {
+    "prompt": "¿Qué habrías hecho tú?",
+    "answers": [
+     "What would you have done?"
+    ],
+    "explain": "WH- + would + sujeto + have + participio."
+   },
+   {
+    "prompt": "Pudo haber sido peor.",
+    "answers": [
+     "It could have been worse."
+    ],
+    "explain": "Posibilidad pasada que no ocurrió = could have been. Sujeto it obligatorio."
+   },
+   {
+    "prompt": "Si hubiera estudiado inglés antes, ahora tendría un mejor trabajo.",
+    "answers": [
+     "If I had studied English earlier, I would have a better job now.",
+     "If I had studied English before, I would have a better job now."
+    ],
+    "explain": "Mixto A: causa pasada (had studied) → resultado presente (would have = tendría, verbo have base) + now."
+   },
+   {
+    "prompt": "Si no fuera tan tímido, habría hablado en la reunión.",
+    "answers": [
+     "If I weren't so shy, I would have spoken at the meeting.",
+     "If I were not so shy, I would have spoken at the meeting.",
+     "If I wasn't so shy, I would have spoken at the meeting.",
+     "If I was not so shy, I would have spoken at the meeting."
+    ],
+    "explain": "Mixto B: rasgo permanente (weren't) → resultado pasado (would have spoken). If I wasn't también se acepta."
+   },
+   {
+    "prompt": "Me podrías haber avisado.",
+    "answers": [
+     "You could have told me.",
+     "You could have let me know.",
+     "You could have warned me."
+    ],
+    "explain": "Reproche suave = could have. \"Avisar\" = let know / tell / warn, no advise."
+   },
+   {
+    "prompt": "Si hubiéramos pedido las bridas la semana pasada, ahora las tendríamos.",
+    "answers": [
+     "If we had ordered the flanges last week, we would have them now.",
+     "If we had ordered the flanges last week, we would already have them."
+    ],
+    "explain": "Mixto A: had ordered → would have them now (tendríamos). También: we would already have them."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "I wouldn't have finished without your help.",
+    "answers": [
+     "No habría terminado sin tu ayuda.",
+     "No hubiera terminado sin tu ayuda.",
+     "No habría terminado sin su ayuda."
+    ],
+    "explain": "Without reemplaza al if: condicional escondido."
+   },
+   {
+    "prompt": "They might have used the wrong electrode.",
+    "answers": [
+     "Puede que hayan usado el electrodo equivocado.",
+     "Quizás usaron el electrodo equivocado.",
+     "Tal vez usaron el electrodo equivocado.",
+     "Quizás hayan usado el electrodo equivocado."
+    ],
+    "explain": "Might have = posibilidad dudosa sobre el pasado."
+   },
+   {
+    "prompt": "If it hadn't rained, we would have poured the concrete.",
+    "answers": [
+     "Si no hubiera llovido, habríamos vaciado el concreto.",
+     "Si no hubiera llovido, habríamos colado el concreto.",
+     "Si no hubiera llovido, hubiéramos vaciado el concreto.",
+     "Si no hubiese llovido, habríamos vaciado el hormigón."
+    ],
+    "explain": "Condicional 3 negativo. Pour concrete = vaciar (colar) concreto."
+   },
+   {
+    "prompt": "He should have worn his safety glasses.",
+    "answers": [
+     "Él debió usar sus lentes de seguridad.",
+     "Debió usar sus lentes de seguridad.",
+     "Él debería haber usado sus lentes de seguridad.",
+     "Debió ponerse sus gafas de seguridad."
+    ],
+    "explain": "Should have worn = debió usar (crítica). Wear → wore → worn."
+   },
+   {
+    "prompt": "If I lived closer, I would have come earlier.",
+    "answers": [
+     "Si viviera más cerca, habría venido más temprano.",
+     "Si viviera más cerca, habría venido antes.",
+     "Si viviera más cerca, hubiera venido más temprano."
+    ],
+    "explain": "Mixto B: situación actual (lived = viviera) → resultado pasado (would have come)."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "If I would have seen the crack, I would have reported it.",
+    "answers": [
+     "If I had seen the crack, I would have reported it."
+    ],
+    "explain": "Would no va en la parte del if: had seen."
+   },
+   {
+    "prompt": "We would have finish yesterday if the crane had arrived.",
+    "answers": [
+     "We would have finished yesterday if the crane had arrived."
+    ],
+    "explain": "Después de would have va participio: finished."
+   },
+   {
+    "prompt": "You should have tell me about the change.",
+    "answers": [
+     "You should have told me about the change."
+    ],
+    "explain": "Tell → told → told; después de have, participio."
+   },
+   {
+    "prompt": "If she had took the job, she would live in Canada now.",
+    "answers": [
+     "If she had taken the job, she would live in Canada now."
+    ],
+    "explain": "Participio de take = taken. El resto (mixto A) está bien."
+   },
+   {
+    "prompt": "They should of tested the line before the inspection.",
+    "answers": [
+     "They should have tested the line before the inspection."
+    ],
+    "explain": "Se escribe have, no of."
+   },
+   {
+    "prompt": "If we had left earlier, we wouldn't miss the flight yesterday.",
+    "answers": [
+     "If we had left earlier, we wouldn't have missed the flight yesterday.",
+     "If we had left earlier, we would not have missed the flight yesterday."
+    ],
+    "explain": "Yesterday = resultado pasado → wouldn't have missed."
+   },
+   {
+    "prompt": "I would have went to the party, but I was sick.",
+    "answers": [
+     "I would have gone to the party, but I was sick."
+    ],
+    "explain": "Participio de go = gone."
+   },
+   {
+    "prompt": "If he had known the answer, he will have told us.",
+    "answers": [
+     "If he had known the answer, he would have told us."
+    ],
+    "explain": "Resultado irreal = would have, no will have."
+   },
+   {
+    "prompt": "If I knew about the meeting yesterday, I would have gone.",
+    "answers": [
+     "If I had known about the meeting yesterday, I would have gone."
+    ],
+    "explain": "Pasado irreal → condición en pasado perfecto: had known."
+   },
+   {
+    "prompt": "I wish I have checked the welds before the inspection.",
+    "answers": [
+     "I wish I had checked the welds before the inspection."
+    ],
+    "explain": "Wish sobre el pasado = had + participio."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte en condicional 3: The pump failed because nobody changed the seal.",
+   "answer": "If someone had changed the seal, the pump wouldn't have failed. (La realidad es negativa —nadie lo cambió—, así que la condición irreal va en afirmativo: had changed.)"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con estas palabras; usa cada una una sola vez: had, should, could, known, would, been, didn't, have.",
+   "lines": [
+    {
+     "who": "Manager",
+     "text": "The hydrotest failed yesterday. What happened?"
+    },
+    {
+     "who": "You",
+     "text": "A gasket leaked. If we [1] checked the bolt torque, it wouldn't have leaked."
+    },
+    {
+     "who": "Manager",
+     "text": "Who was responsible for the torque check?"
+    },
+    {
+     "who": "You",
+     "text": "The fitter. But I [2] have supervised him. That was my mistake."
+    },
+    {
+     "who": "Manager",
+     "text": "Was anyone hurt?"
+    },
+    {
+     "who": "You",
+     "text": "No, but someone [3] have been hurt. The pressure was high."
+    },
+    {
+     "who": "Manager",
+     "text": "If you had [4] about the torque problem, would you have stopped the test?"
+    },
+    {
+     "who": "You",
+     "text": "Yes, I [5]."
+    },
+    {
+     "who": "Manager",
+     "text": "OK. Luckily, there was a spare gasket. If it hadn't [6] in the warehouse, we would still be waiting."
+    },
+    {
+     "who": "You",
+     "text": "True. If we [7] keep spares on site, we would have lost two days."
+    },
+    {
+     "who": "Manager",
+     "text": "Right. Lesson learned: we should [8] checked every flange."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "had"
+     ],
+     "explain": "Condición del condicional 3: if we had checked."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "should"
+     ],
+     "explain": "Reconocer un error propio: I should have supervised him."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "could"
+     ],
+     "explain": "Riesgo que no ocurrió: someone could have been hurt."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "known"
+     ],
+     "explain": "Participio después de had: if you had known."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "would"
+     ],
+     "explain": "Respuesta corta a would you have…? → Yes, I would."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "been"
+     ],
+     "explain": "If it hadn't been: participio de be. Mixto A (would still be waiting = ahora)."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "didn't",
+      "did not"
+     ],
+     "explain": "Mixto B: hábito actual (if we didn't keep spares) → resultado pasado (would have lost)."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "have"
+     ],
+     "explain": "Modal + have + participio: we should have checked."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo de lecciones aprendidas (7 puntos). Escribe a tu jefe un correo de 6 a 8 oraciones sobre un problema real o inventado en un trabajo (retraso, fuga, error en un plano, compra tardía). Debe incluir: (a) qué pasó, en pasado simple; (b) una oración en condicional 3; (c) una con should have o shouldn't have; (d) una con could have sobre un riesgo; (e) un condicional mixto; (f) una acción para el futuro; (g) saludo y cierre profesionales.",
+   "rubric": [
+    "(a) qué pasó, en pasado simple",
+    "(b) una oración en condicional 3",
+    "(c) una con should have o shouldn't have",
+    "(d) una con could have sobre un riesgo",
+    "(e) un condicional mixto",
+    "(f) una acción para el futuro",
+    "(g) saludo y cierre profesionales"
+   ],
+   "model": "Subject: Lessons learned – T-204 nozzle delay\nDear Mr. Lee,\nLast week, the new nozzle for Tank T-204 arrived five days late. We ordered it only after the design review. If we had ordered it with the shell plates, it would have arrived on time. Looking back, I should have checked the supplier's lead time earlier. The crew also worked near an open manhole while waiting, and someone could have fallen. If we had ordered it in March, the tank would be in service now. From now on, I will confirm lead times for all long-delivery items in the first week of each project.\nBest regards,\nEdwin Prieto"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Formar el condicional 3 sin poner WOULD en la parte del IF.",
+   "test": "Escribe 8 oraciones sobre problemas pasados de tu trabajo en 4 minutos; 8 de 8 con had + participio en la condición."
+  },
+  {
+   "skill": "Usar el participio correcto después de HAVE.",
+   "test": "Di el participio de 15 verbos irregulares (go, see, take, write, know, wear…) en 1 minuto, cero errores."
+  },
+  {
+   "skill": "Reconocer errores con should have / shouldn't have.",
+   "test": "Grábate 45 segundos describiendo 3 cosas que debiste hacer distinto en un proyecto."
+  },
+  {
+   "skill": "Señalar riesgos y posibilidades con could have / might have.",
+   "test": "Escribe 5 oraciones sobre un incidente (real o inventado) y compáralas con los bloques C; 5 de 5 correctas."
+  },
+  {
+   "skill": "Construir condicionales mixtos A y B.",
+   "test": "Traduce 4 frases tipo \"si hubiera…, ahora…\" y 2 tipo \"si no fuera…, habría…\" sin errores."
+  },
+  {
+   "skill": "Pronunciar would've / should've / could've reducidos.",
+   "test": "Lee el diálogo modelo en voz alta en menos de 70 segundos, grabado, reduciendo have a əv en cada caso."
+  },
+  {
+   "skill": "Redactar un correo de lecciones aprendidas.",
+   "test": "Escribe un correo de 6–8 oraciones que cumpla los 7 criterios de la C2."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What would you have done differently in your last project?",
+  "If you had chosen a different career, what would you be doing now?",
+  "What should you have learned earlier in your life?",
+  "Can you remember a time when something could have gone wrong at work?",
+  "If you had studied English earlier, how would your life be different now?",
+  "What is one decision you regret, and what should you have done instead?"
+ ]
+}

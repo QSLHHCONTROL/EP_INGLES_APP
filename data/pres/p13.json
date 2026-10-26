@@ -1,0 +1,98 @@
+{
+ "id": 13,
+ "topic": "Presente perfecto vs pasado",
+ "title": "My Career So Far",
+ "practice": "Léela en voz alta 3 veces. Luego grábate 1 minuto contándola sin mirar.",
+ "rows": [
+  {
+   "en": "**I've worked** on many different projects in my career.",
+   "es": "He trabajado en muchos proyectos distintos en mi carrera."
+  },
+  {
+   "en": "I **worked** for {prevJob} in {prevPlace}.",
+   "es": "Trabajé en {prevJob}, en {prevPlace}."
+  },
+  {
+   "en": "I **learned** a lot there.",
+   "es": "Aprendí mucho allí."
+  },
+  {
+   "en": "**I've been** at {company} **since** {startDate}.",
+   "es": "Estoy en {company} desde {startDate}."
+  },
+  {
+   "en": "Since then, **I've done** a bit of everything.",
+   "es": "Desde entonces he hecho un poco de todo."
+  },
+  {
+   "en": "At {company}, **I've worked** on {project}.",
+   "es": "En {company} he trabajado en {project_es}."
+  },
+  {
+   "en": "**I've** also **worked** with {work}.",
+   "es": "También he trabajado con {work_es}."
+  },
+  {
+   "en": "I **got** my degree from {school} in {gradYear}.",
+   "es": "Obtuve mi título de {school} en {gradYear}."
+  },
+  {
+   "en": "**I've already created** several {tool} files for my team.",
+   "es": "Ya he creado varios archivos de {tool} para mi equipo."
+  },
+  {
+   "en": "**I haven't finished** {project} **yet**.",
+   "es": "Todavía no he terminado {project_es}."
+  },
+  {
+   "en": "**I've never worked** in {dreamCountry}, but it's my next goal.",
+   "es": "Nunca he trabajado en {dreamCountry}, pero es mi próxima meta."
+  }
+ ],
+ "dialogTitle": "Diálogo en una entrevista",
+ "dialog": [
+  {
+   "who": "Linda",
+   "text": "How long have you worked at {company}?"
+  },
+  {
+   "who": "{name}",
+   "text": "I've worked there since {startDate}."
+  },
+  {
+   "who": "Linda",
+   "text": "Have you ever worked with {work}?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, I have. I've worked on {project}."
+  },
+  {
+   "who": "Linda",
+   "text": "When did you get your degree?"
+  },
+  {
+   "who": "{name}",
+   "text": "I got it in {gradYear}, from {school}."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I've been at {company} since {startDate}.",
+   "pron": ""
+  },
+  {
+   "en": "Since then, I've done a bit of everything.",
+   "pron": "SINS dhen, aiv DAN ə BIT əv É-vri-thing"
+  },
+  {
+   "en": "When did you get your degree?",
+   "pron": "WEN did yu guet yor di-GRÍ"
+  },
+  {
+   "en": "I've never worked in {dreamCountry}.",
+   "pron": ""
+  }
+ ],
+ "check": "Digo la página en menos de 1 minuto, sin leer, nunca uso el presente perfecto con una fecha terminada (in 2024, in February) y uso since / for sin errores."
+}

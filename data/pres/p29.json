@@ -1,0 +1,94 @@
+{
+ "id": 29,
+ "topic": "Idioms",
+ "title": "My Journey, in Idioms",
+ "practice": "Léela 3 veces sin cambiar ni una palabra de cada idiom. Luego grábate 1 minuto sin mirar.",
+ "rows": [
+  {
+   "en": "When I joined {company}, I had to **learn the ropes** fast.",
+   "es": "Cuando entré a {company}, tuve que aprender rápido cómo funcionaba todo."
+  },
+  {
+   "en": "I tried to **hit the ground running** and **go the extra mile**.",
+   "es": "Traté de rendir desde el primer día y de esforzarme más de lo esperado."
+  },
+  {
+   "en": "In my job, you sometimes **hit a snag**, but you should never **cut corners** on quality.",
+   "es": "En mi trabajo a veces surge un contratiempo, pero nunca hay que tomar atajos en la calidad."
+  },
+  {
+   "en": "My {tool} files help the team stay **on the same page**.",
+   "es": "Mis archivos en {tool} ayudan a que el equipo esté alineado."
+  },
+  {
+   "en": "I **keep** everyone **in the loop** with my daily reports.",
+   "es": "Mantengo a todos informados con mis reportes diarios."
+  },
+  {
+   "en": "My new control system won't **break the bank**: it only needs {tool}.",
+   "es": "Mi nuevo sistema de control no costará una fortuna: solo necesita {tool}."
+  },
+  {
+   "en": "Now **the ball is in my court**: I have to present it to {company}.",
+   "es": "Ahora me toca a mí: tengo que presentarlo a {company}."
+  },
+  {
+   "en": "My English **has come a long way** since Module 1.",
+   "es": "Mi inglés ha progresado mucho desde el Módulo 1."
+  },
+  {
+   "en": "**In the long run**, I'd like to work in {dreamCountry}.",
+   "es": "A la larga, me gustaría trabajar en {dreamCountry}."
+  },
+  {
+   "en": "**Sooner or later**, I also want to **get the ball rolling** on a business of my own.",
+   "es": "Tarde o temprano también quiero poner en marcha un negocio propio."
+  },
+  {
+   "en": "All this hard work will **pay off**.",
+   "es": "Todo este esfuerzo dará fruto."
+  }
+ ],
+ "dialogTitle": "Diálogo al final del día",
+ "dialog": [
+  {
+   "who": "Mark",
+   "text": "It's six. Let's call it a day."
+  },
+  {
+   "who": "{name}",
+   "text": "Good idea. Can you give me a heads-up if the meeting date changes?"
+  },
+  {
+   "who": "Mark",
+   "text": "Sure, I'll keep you posted. How's your new control system going?"
+  },
+  {
+   "who": "{name}",
+   "text": "Almost ready. The presentation date is still up in the air, though."
+  },
+  {
+   "who": "Mark",
+   "text": "You knocked it out of the park with {project}. You'll pull it off."
+  }
+ ],
+ "pron": [
+  {
+   "en": "I had to learn the ropes fast.",
+   "pron": "ai JAD tə LERN dhə RÓUPS FAST"
+  },
+  {
+   "en": "The ball is in my court.",
+   "pron": "dhə BOL iz in mai KORT"
+  },
+  {
+   "en": "My English has come a long way.",
+   "pron": "mai ÍNG-glish jaz KAM ə LONG WEI"
+  },
+  {
+   "en": "All this hard work will pay off.",
+   "pron": "OL dhis JARD WERK wil PEI OF"
+  }
+ ],
+ "check": "Cuento mi historia en 90 segundos sin leer, con al menos 8 idioms y sin tocar su parte fija (nunca the ball is on my court)."
+}

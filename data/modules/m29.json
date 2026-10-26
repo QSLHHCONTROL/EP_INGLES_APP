@@ -1,0 +1,1159 @@
+{
+ "id": 29,
+ "level": "C1",
+ "title": "Modismos e idioms de alta frecuencia",
+ "goal": "Al terminar podrás entender y usar con naturalidad 66 idioms frecuentes del inglés estadounidense sobre trabajo, tiempo, dinero, problemas, éxito y comunicación: sabrás qué significan de verdad, en qué registro van, cómo se conjugan y cuándo es mejor no usarlos.",
+ "lesson": [
+  {
+   "title": "¿Qué es un idiom?",
+   "html": "<p>Un <b>idiom</b> (modismo) es una expresión cuyo significado <b>no se deduce de sus palabras</b>. Si traduces <span class=\"en\">It's a piece of cake</span> palabra por palabra obtienes \"es un pedazo de torta\", pero un nativo quiere decir <i>es facilísimo</i>, igual que nuestro <i>es pan comido</i>. El español tiene cientos de estos (<i>meter la pata, costar un ojo de la cara, tomar el pelo</i>) y el inglés también.</p><p>¿Por qué importan en C1? Porque los nativos los usan <b>sin darse cuenta</b>, en reuniones, correos internos, llamadas y conversaciones de pasillo. Si no los entiendes, pierdes la idea central de la frase; si los usas bien, suenas cercano y seguro. La meta de este módulo es doble: <b>entender</b> los 66 al instante y <b>usar</b> con seguridad al menos 30.</p>",
+   "svg": "<svg viewBox=\"0 0 640 360\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <line x1=\"320\" y1=\"180\" x2=\"110\" y2=\"55\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <line x1=\"320\" y1=\"180\" x2=\"530\" y2=\"55\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <line x1=\"320\" y1=\"180\" x2=\"110\" y2=\"180\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <line x1=\"320\" y1=\"180\" x2=\"530\" y2=\"180\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <line x1=\"320\" y1=\"180\" x2=\"110\" y2=\"305\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <line x1=\"320\" y1=\"180\" x2=\"530\" y2=\"305\" stroke=\"#98A2B3\" stroke-width=\"2\"/>\n  <circle cx=\"320\" cy=\"180\" r=\"62\" fill=\"#6941C6\"/>\n  <text x=\"320\" y=\"176\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"800\" fill=\"#fff\">66</text>\n  <text x=\"320\" y=\"198\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">IDIOMS</text>\n  <rect x=\"20\" y=\"18\" width=\"190\" height=\"74\" rx=\"12\" fill=\"#F2EEFC\" stroke=\"#6941C6\" stroke-width=\"2\"/>\n  <text x=\"115\" y=\"40\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#4A2B91\">A · TRABAJO</text>\n  <text x=\"115\" y=\"60\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">touch base</text>\n  <text x=\"115\" y=\"78\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">on the same page</text>\n  <rect x=\"430\" y=\"18\" width=\"190\" height=\"74\" rx=\"12\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"525\" y=\"40\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#1570EF\">B · TIEMPO</text>\n  <text x=\"525\" y=\"60\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">in the nick of time</text>\n  <text x=\"525\" y=\"78\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">around the clock</text>\n  <rect x=\"20\" y=\"143\" width=\"190\" height=\"74\" rx=\"12\" fill=\"#E8F7EF\" stroke=\"#079455\" stroke-width=\"2\"/>\n  <text x=\"115\" y=\"165\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#079455\">C · DINERO</text>\n  <text x=\"115\" y=\"185\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">cost an arm and a leg</text>\n  <text x=\"115\" y=\"203\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">make ends meet</text>\n  <rect x=\"430\" y=\"143\" width=\"190\" height=\"74\" rx=\"12\" fill=\"#FEF0EF\" stroke=\"#D92D20\" stroke-width=\"2\"/>\n  <text x=\"525\" y=\"165\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#D92D20\">D · PROBLEMAS</text>\n  <text x=\"525\" y=\"185\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">hit a snag</text>\n  <text x=\"525\" y=\"203\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">the last straw</text>\n  <rect x=\"20\" y=\"268\" width=\"190\" height=\"74\" rx=\"12\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"2\"/>\n  <text x=\"115\" y=\"290\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#7A5B00\">E · ÉXITO</text>\n  <text x=\"115\" y=\"310\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">pull it off</text>\n  <text x=\"115\" y=\"328\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">go the extra mile</text>\n  <rect x=\"430\" y=\"268\" width=\"190\" height=\"74\" rx=\"12\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"525\" y=\"290\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#0E9384\">F · COMUNICACIÓN</text>\n  <text x=\"525\" y=\"310\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">beat around the bush</text>\n  <text x=\"525\" y=\"328\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">give someone a heads-up</text>\n</svg>",
+   "caption": "Figura 29.1 — Mapa temático: los 66 idioms del módulo agrupados en seis familias, con dos ejemplos de cada una."
+  },
+  {
+   "title": "Lo literal vs lo real",
+   "html": "<p>El cerebro hispanohablante intenta \"ver\" la imagen de las palabras. Con los idioms hay que saltarse esa imagen y conectar directamente con el significado, igual que haces con <i>pan comido</i> sin pensar en pan.</p><p><b>Regla de oro 1 — La parte fija no se toca</b></p><p>Un idiom es un bloque congelado: no cambies el orden, los artículos ni el número. <span class=\"ok\">It cost an arm and a leg.</span> Nunca <span class=\"wrong\">It cost a leg and an arm.</span> <span class=\"ok\">on the same page</span>, nunca <span class=\"wrong\">in the same page</span>.</p>",
+   "svg": "<svg viewBox=\"0 0 640 350\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"110\" y=\"22\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">IDIOM</text>\n  <text x=\"310\" y=\"22\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#D92D20\">LO QUE IMAGINAS ✗</text>\n  <text x=\"530\" y=\"22\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#079455\">LO QUE SIGNIFICA ✓</text>\n  <rect x=\"20\" y=\"36\" width=\"180\" height=\"86\" rx=\"12\" fill=\"#6941C6\"/>\n  <text x=\"110\" y=\"76\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">a piece of cake</text>\n  <text x=\"110\" y=\"98\" text-anchor=\"middle\" font-size=\"11\" fill=\"#F2EEFC\">pis əv KEIK</text>\n  <rect x=\"220\" y=\"36\" width=\"180\" height=\"86\" rx=\"12\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/>\n  <polygon points=\"262,104 358,104 358,78 262,92\" fill=\"#FFF8E1\" stroke=\"#E9B949\" stroke-width=\"2\"/>\n  <rect x=\"262\" y=\"92\" width=\"96\" height=\"12\" fill=\"#FFF2E8\"/>\n  <line x1=\"262\" y1=\"92\" x2=\"358\" y2=\"78\" stroke=\"#E8590C\" stroke-width=\"3\"/>\n  <circle cx=\"340\" cy=\"70\" r=\"6\" fill=\"#D92D20\"/>\n  <text x=\"310\" y=\"58\" text-anchor=\"middle\" font-size=\"11\" fill=\"#D92D20\">un pedazo de torta</text>\n  <path d=\"M405 79 L 435 79\" stroke=\"#98A2B3\" stroke-width=\"3\"/><polygon points=\"433,72 445,79 433,86\" fill=\"#98A2B3\"/>\n  <rect x=\"450\" y=\"36\" width=\"170\" height=\"86\" rx=\"12\" fill=\"#E8F7EF\" stroke=\"#079455\"/>\n  <text x=\"535\" y=\"72\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#079455\">muy fácil</text>\n  <text x=\"535\" y=\"94\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1D2939\">= pan comido</text>\n  <rect x=\"20\" y=\"138\" width=\"180\" height=\"86\" rx=\"12\" fill=\"#6941C6\"/>\n  <text x=\"110\" y=\"178\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">break the ice</text>\n  <text x=\"110\" y=\"200\" text-anchor=\"middle\" font-size=\"11\" fill=\"#F2EEFC\">breik dhi AIS</text>\n  <rect x=\"220\" y=\"138\" width=\"180\" height=\"86\" rx=\"12\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/>\n  <rect x=\"270\" y=\"168\" width=\"80\" height=\"44\" rx=\"4\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <path d=\"M300 168 L 312 184 L 302 196 L 316 212\" fill=\"none\" stroke=\"#1D2939\" stroke-width=\"2\"/>\n  <text x=\"310\" y=\"158\" text-anchor=\"middle\" font-size=\"11\" fill=\"#D92D20\">romper hielo</text>\n  <path d=\"M405 181 L 435 181\" stroke=\"#98A2B3\" stroke-width=\"3\"/><polygon points=\"433,174 445,181 433,188\" fill=\"#98A2B3\"/>\n  <rect x=\"450\" y=\"138\" width=\"170\" height=\"86\" rx=\"12\" fill=\"#E8F7EF\" stroke=\"#079455\"/>\n  <circle cx=\"490\" cy=\"166\" r=\"11\" fill=\"#0E9384\"/><rect x=\"479\" y=\"179\" width=\"22\" height=\"18\" rx=\"6\" fill=\"#0E9384\"/>\n  <circle cx=\"580\" cy=\"166\" r=\"11\" fill=\"#E8590C\"/><rect x=\"569\" y=\"179\" width=\"22\" height=\"18\" rx=\"6\" fill=\"#E8590C\"/>\n  <rect x=\"512\" y=\"154\" width=\"46\" height=\"20\" rx=\"8\" fill=\"#fff\" stroke=\"#079455\"/>\n  <text x=\"535\" y=\"168\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#079455\">Hi!</text>\n  <text x=\"535\" y=\"214\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1D2939\">romper la tensión inicial</text>\n  <rect x=\"20\" y=\"240\" width=\"180\" height=\"86\" rx=\"12\" fill=\"#6941C6\"/>\n  <text x=\"110\" y=\"272\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">the ball is in</text>\n  <text x=\"110\" y=\"290\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">your court</text>\n  <text x=\"110\" y=\"310\" text-anchor=\"middle\" font-size=\"11\" fill=\"#F2EEFC\">dhə BOL iz in yor KORT</text>\n  <rect x=\"220\" y=\"240\" width=\"180\" height=\"86\" rx=\"12\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/>\n  <rect x=\"250\" y=\"268\" width=\"120\" height=\"48\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <line x1=\"310\" y1=\"268\" x2=\"310\" y2=\"316\" stroke=\"#0E9384\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/>\n  <circle cx=\"345\" cy=\"292\" r=\"7\" fill=\"#E9B949\" stroke=\"#7A5B00\"/>\n  <text x=\"310\" y=\"260\" text-anchor=\"middle\" font-size=\"11\" fill=\"#D92D20\">una pelota en tu cancha</text>\n  <path d=\"M405 283 L 435 283\" stroke=\"#98A2B3\" stroke-width=\"3\"/><polygon points=\"433,276 445,283 433,290\" fill=\"#98A2B3\"/>\n  <rect x=\"450\" y=\"240\" width=\"170\" height=\"86\" rx=\"12\" fill=\"#E8F7EF\" stroke=\"#079455\"/>\n  <text x=\"535\" y=\"276\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#079455\">te toca a ti</text>\n  <text x=\"535\" y=\"298\" text-anchor=\"middle\" font-size=\"12\" fill=\"#1D2939\">(decidir o responder)</text>\n</svg>",
+   "caption": "Figura 29.2 — Literal vs real: la imagen de las palabras engaña; aprende el idiom como una sola unidad de significado."
+  },
+  {
+   "title": "La gramática dentro del idiom",
+   "html": "<p>Aunque la parte central es fija, el <b>verbo se conjuga</b> normalmente y los <b>pronombres o posesivos</b> se adaptan al sujeto. Ahí aplicas todo lo que sabes de tiempos verbales.</p><table>\n<thead><tr><th></th><th>Estructura</th><th>Ejemplo con <i>hit a snag</i> (tener un contratiempo)</th></tr></thead>\n<tbody>\n<tr><td><b>Afirmativo</b></td><td>Sujeto + verbo conjugado + núcleo</td><td><span class=\"en\">We hit a snag with the permits.</span></td></tr>\n<tr><td><b>Negativo</b></td><td>Sujeto + auxiliar + not + verbo base + núcleo</td><td><span class=\"en\">We didn't hit any snags this time.</span></td></tr>\n<tr><td><b>Pregunta</b></td><td>Auxiliar + sujeto + verbo base + núcleo?</td><td><span class=\"en\">Did you hit a snag?</span></td></tr>\n<tr><td><b>Respuesta corta</b></td><td>Yes / No + sujeto + auxiliar</td><td><span class=\"en\">Yes, we did. / No, we didn't.</span></td></tr>\n</tbody></table><p><b>Regla de oro 2 — El verbo se conjuga; el núcleo se respeta</b></p><p>Trata el idiom como un phrasal verb largo: <span class=\"en\">We're getting the hang of it</span>, <span class=\"en\">She got the hang of it in a week</span>, <span class=\"en\">Have you gotten the hang of it yet?</span> En negativo, a veces <i>a</i> pasa a <i>any</i> de forma natural (<i>hit any snags</i>), como en el Módulo 2.</p>",
+   "svg": "<svg viewBox=\"0 0 640 260\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"16\" width=\"60\" height=\"40\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"50\" y=\"42\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">It</text>\n  <rect x=\"90\" y=\"16\" width=\"100\" height=\"40\" rx=\"8\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><text x=\"140\" y=\"42\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#E8590C\">cost</text>\n  <rect x=\"200\" y=\"16\" width=\"60\" height=\"40\" rx=\"8\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><text x=\"230\" y=\"42\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#E8590C\">us</text>\n  <rect x=\"270\" y=\"16\" width=\"200\" height=\"40\" rx=\"8\" fill=\"#6941C6\"/><text x=\"370\" y=\"42\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">an arm and a leg</text>\n  <text x=\"140\" y=\"76\" text-anchor=\"middle\" font-size=\"11\" fill=\"#E8590C\">costs / will cost / has cost</text>\n  <text x=\"230\" y=\"92\" text-anchor=\"middle\" font-size=\"11\" fill=\"#E8590C\">me / them / the client</text>\n  <text x=\"370\" y=\"76\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#6941C6\">fijo</text>\n  <rect x=\"20\" y=\"114\" width=\"60\" height=\"40\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"50\" y=\"140\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"700\" fill=\"#1D2939\">He</text>\n  <rect x=\"90\" y=\"114\" width=\"140\" height=\"40\" rx=\"8\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><text x=\"160\" y=\"140\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#E8590C\">isn't pulling</text>\n  <rect x=\"240\" y=\"114\" width=\"60\" height=\"40\" rx=\"8\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><text x=\"270\" y=\"140\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#E8590C\">his</text>\n  <rect x=\"310\" y=\"114\" width=\"90\" height=\"40\" rx=\"8\" fill=\"#6941C6\"/><text x=\"355\" y=\"140\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#fff\">weight</text>\n  <text x=\"160\" y=\"174\" text-anchor=\"middle\" font-size=\"11\" fill=\"#E8590C\">pulls / didn't pull</text>\n  <text x=\"270\" y=\"190\" text-anchor=\"middle\" font-size=\"11\" fill=\"#E8590C\">my / her / their</text>\n  <text x=\"355\" y=\"174\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#6941C6\">fijo</text>\n  <rect x=\"420\" y=\"104\" width=\"200\" height=\"70\" rx=\"10\" fill=\"#F2EEFC\" stroke=\"#6941C6\"/>\n  <text x=\"520\" y=\"128\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#4A2B91\">Leyenda</text>\n  <rect x=\"432\" y=\"140\" width=\"18\" height=\"14\" rx=\"3\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-dasharray=\"3 2\"/><text x=\"456\" y=\"152\" font-size=\"11\" fill=\"#1D2939\">se adapta</text>\n  <rect x=\"522\" y=\"140\" width=\"18\" height=\"14\" rx=\"3\" fill=\"#6941C6\"/><text x=\"546\" y=\"152\" font-size=\"11\" fill=\"#1D2939\">no cambia</text>\n  <rect x=\"20\" y=\"210\" width=\"600\" height=\"38\" rx=\"10\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/>\n  <text x=\"320\" y=\"234\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#D92D20\">✗ It cost us a leg and an arm. · ✗ He isn't pulling his weights.</text>\n</svg>",
+   "caption": "Figura 29.3 — Partes flexibles (verbo y pronombre) y partes fijas (el núcleo del idiom)."
+  },
+  {
+   "title": "Traducción directa vs inglés real",
+   "html": "<p><b>Lo que piensas en español</b><br>Me costó un ojo de la cara.<br/>Es pan comido.<br/>Me estás tomando el pelo.<br/>No te andes con rodeos.<br/>Estoy en la luna.<br/>Metí la pata.<br/>Terminemos por hoy.</p><p><b>Lo que dice un nativo</b><br><span class=\"en\">It cost me an arm and a leg.</span><br/>\n<span class=\"en\">It's a piece of cake.</span><br/>\n<span class=\"en\">You're pulling my leg.</span><br/>\n<span class=\"en\">Don't beat around the bush.</span><br/>\n<span class=\"en\">My head is in the clouds.</span><br/>\n<span class=\"en\">I put my foot in my mouth.</span><br/>\n<span class=\"en\">Let's call it a day.</span></p><table>\n<thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead>\n<tbody>\n<tr><td>Costar un ojo de la cara</td><td><span class=\"wrong\">It cost an eye of the face.</span></td><td><span class=\"ok\">It cost an arm and a leg.</span></td></tr>\n<tr><td>Tomar el pelo</td><td><span class=\"wrong\">You're taking my hair.</span></td><td><span class=\"ok\">You're pulling my leg.</span></td></tr>\n<tr><td>Ser pan comido</td><td><span class=\"wrong\">It's eaten bread.</span></td><td><span class=\"ok\">It's a piece of cake.</span></td></tr>\n<tr><td>Andarse con rodeos</td><td><span class=\"wrong\">Don't walk with detours.</span></td><td><span class=\"ok\">Don't beat around the bush.</span></td></tr>\n<tr><td>Estar en la luna</td><td><span class=\"wrong\">I'm in the moon.</span></td><td><span class=\"ok\">My head is in the clouds. / I was miles away.</span></td></tr>\n<tr><td>Meter la pata (al hablar)</td><td><span class=\"wrong\">I put the leg.</span></td><td><span class=\"ok\">I put my foot in my mouth.</span></td></tr>\n<tr><td>No hay mal que por bien no venga</td><td><span class=\"wrong\">There's no bad that doesn't come for good.</span></td><td><span class=\"ok\">It's a blessing in disguise.</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Así piensa un nativo",
+   "html": "<p><b>Así piensa un nativo — idioms con medida</b></p><p>Un nativo usa idioms como sal en la comida: uno o dos por mensaje dan naturalidad; diez seguidos suenan a parodia. Además, cada idiom tiene un <b>registro</b>. En una reunión o un correo interno, <span class=\"en\">Let's touch base on Monday</span> es perfecto. En un contrato, una especificación o un informe al cliente, se prefiere el lenguaje directo: <span class=\"en\">The schedule has not been confirmed</span>, no <span class=\"en\">The schedule is up in the air</span>.</p><p>Prioridad para el hispanohablante: primero <b>entender</b> (los oirás en cada llamada) y luego <b>usar</b> los de registro neutro. Los muy informales déjalos para cuando tengas confianza con el interlocutor.</p>"
+  },
+  {
+   "title": "Regla de oro 3: el registro",
+   "html": "<p><b>Regla de oro 3 — Registro: neutro en el trabajo, informal con confianza, nunca en contratos</b></p><p>En este módulo cada idiom lleva una etiqueta: <b>Neutro</b> (reuniones, correos internos, clientes conocidos), <b>Informal</b> (colegas, amigos, conversación relajada). Ninguno de los 66 va en un contrato, una especificación técnica o un informe formal.</p>"
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<p><b>Detalles que marcan la diferencia</b></p><ul>\n<li><b>Variantes reales:</b> algunos idioms tienen dos formas válidas: <span class=\"en\">keep me in the loop</span> = <span class=\"en\">keep me posted</span>; <span class=\"en\">at the last minute</span> = <span class=\"en\">at the eleventh hour</span> (más dramático).</li>\n<li><b>Inglés estadounidense vs británico:</b> este módulo usa variantes de EE. UU. Por ejemplo, en EE. UU. se dice <span class=\"en\">a ballpark figure</span> (del béisbol); en el Reino Unido es menos común.</li>\n<li><b>Idioms con objeto:</b> <span class=\"en\">give <i>someone</i> a heads-up</span>, <span class=\"en\">keep <i>someone</i> posted</span>: el objeto va en medio. <span class=\"en\">Give me a heads-up.</span></li>\n<li><b>Sustantivos compuestos:</b> varios idioms funcionan como sustantivo: <span class=\"en\">a win-win</span>, <span class=\"en\">a rip-off</span>, <span class=\"en\">a heads-up</span>. Se escriben con guion.</li>\n</ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "touch base",
+   "pron": "TACH BEIS",
+   "es": "ponerse en contacto brevemente (neutro)",
+   "group": "A. Trabajo y equipo (11)",
+   "example": "Let's touch base on Monday."
+  },
+  {
+   "en": "be on the same page",
+   "pron": "bi on dhə seim PEICH",
+   "es": "estar de acuerdo, alineados (neutro)",
+   "group": "A. Trabajo y equipo (11)",
+   "example": "Are we all on the same page?"
+  },
+  {
+   "en": "get the ball rolling",
+   "pron": "guet dhə BOL RÓU-ling",
+   "es": "poner algo en marcha (neutro)",
+   "group": "A. Trabajo y equipo (11)",
+   "example": "Let's get the ball rolling on the design."
+  },
+  {
+   "en": "call it a day",
+   "pron": "KOL it ə DEI",
+   "es": "dar por terminada la jornada (neutro)",
+   "group": "A. Trabajo y equipo (11)",
+   "example": "It's six. Let's call it a day."
+  },
+  {
+   "en": "back to the drawing board",
+   "pron": "BAK tə dhə DRÓ-ing bord",
+   "es": "volver a empezar desde cero (neutro)",
+   "group": "A. Trabajo y equipo (11)",
+   "example": "The client rejected it, so it's back to the drawing board."
+  },
+  {
+   "en": "keep someone in the loop",
+   "pron": "KIP … in dhə LUP",
+   "es": "mantener informado a alguien (neutro)",
+   "group": "A. Trabajo y equipo (11)",
+   "example": "Please keep me in the loop."
+  },
+  {
+   "en": "learn the ropes",
+   "pron": "LERN dhə RÓUPS",
+   "es": "aprender cómo funciona algo (neutro)",
+   "group": "A. Trabajo y equipo (11)",
+   "example": "Ana is still learning the ropes."
+  },
+  {
+   "en": "pull one's weight",
+   "pron": "PUL … WEIT",
+   "es": "hacer la parte que te toca (neutro)",
+   "group": "A. Trabajo y equipo (11)",
+   "example": "Everyone has to pull their weight."
+  },
+  {
+   "en": "cut corners",
+   "pron": "KAT KÓR-nerz",
+   "es": "hacer algo mal para ahorrar tiempo o dinero (neutro)",
+   "group": "A. Trabajo y equipo (11)",
+   "example": "Never cut corners on safety."
+  },
+  {
+   "en": "hit the ground running",
+   "pron": "JIT dhə GRAUND RÁ-ning",
+   "es": "empezar con todo, rindiendo desde el día uno (neutro)",
+   "group": "A. Trabajo y equipo (11)",
+   "example": "The new welder hit the ground running."
+  },
+  {
+   "en": "a ballpark figure",
+   "pron": "ə BÓL-park FÍ-gyer",
+   "es": "una cifra aproximada (neutro)",
+   "group": "A. Trabajo y equipo (11)",
+   "example": "Can you give me a ballpark figure?"
+  },
+  {
+   "en": "in the nick of time",
+   "pron": "in dhə NIK əv TAIM",
+   "es": "justo a tiempo, en el último momento (neutro)",
+   "group": "B. Tiempo y plazos (11)",
+   "example": "The parts arrived in the nick of time."
+  },
+  {
+   "en": "around the clock",
+   "pron": "ə-RÁUND dhə KLOK",
+   "es": "día y noche, sin parar (neutro)",
+   "group": "B. Tiempo y plazos (11)",
+   "example": "Crews are working around the clock."
+  },
+  {
+   "en": "down to the wire",
+   "pron": "DAUN tə dhə WÁI-er",
+   "es": "hasta el último momento (neutro)",
+   "group": "B. Tiempo y plazos (11)",
+   "example": "The bid went down to the wire."
+  },
+  {
+   "en": "at the eleventh hour",
+   "pron": "ət dhi i-LÉ-vənth ÁU-er",
+   "es": "a última hora (neutro)",
+   "group": "B. Tiempo y plazos (11)",
+   "example": "They changed the scope at the eleventh hour."
+  },
+  {
+   "en": "time flies",
+   "pron": "TAIM FLAIZ",
+   "es": "el tiempo vuela (informal)",
+   "group": "B. Tiempo y plazos (11)",
+   "example": "Time flies! It's already December."
+  },
+  {
+   "en": "in the long run",
+   "pron": "in dhə LONG RAN",
+   "es": "a la larga (neutro)",
+   "group": "B. Tiempo y plazos (11)",
+   "example": "Stainless steel is cheaper in the long run."
+  },
+  {
+   "en": "once in a blue moon",
+   "pron": "WANS in ə BLU MUN",
+   "es": "muy de vez en cuando (informal)",
+   "group": "B. Tiempo y plazos (11)",
+   "example": "We see a failure like this once in a blue moon."
+  },
+  {
+   "en": "kill time",
+   "pron": "KIL TAIM",
+   "es": "matar el tiempo (informal)",
+   "group": "B. Tiempo y plazos (11)",
+   "example": "I killed time at the airport reading."
+  },
+  {
+   "en": "sooner or later",
+   "pron": "SÚ-ner or LÉI-ter",
+   "es": "tarde o temprano (neutro)",
+   "group": "B. Tiempo y plazos (11)",
+   "example": "Sooner or later, that valve will fail."
+  },
+  {
+   "en": "buy time",
+   "pron": "BAI TAIM",
+   "es": "ganar tiempo (neutro)",
+   "group": "B. Tiempo y plazos (11)",
+   "example": "The temporary clamp will buy us time."
+  },
+  {
+   "en": "on the dot",
+   "pron": "on dhə DOT",
+   "es": "en punto, puntual (neutro)",
+   "group": "B. Tiempo y plazos (11)",
+   "example": "The meeting starts at 8 on the dot."
+  },
+  {
+   "en": "cost an arm and a leg",
+   "pron": "KOST ən ARM ən ə LEG",
+   "es": "costar un ojo de la cara (informal)",
+   "group": "C. Dinero y costos (11)",
+   "example": "That crane costs an arm and a leg."
+  },
+  {
+   "en": "break the bank",
+   "pron": "BREIK dhə BANK",
+   "es": "arruinar, costar demasiado (casi siempre en negativo) (neutro)",
+   "group": "C. Dinero y costos (11)",
+   "example": "This option won't break the bank."
+  },
+  {
+   "en": "tighten one's belt",
+   "pron": "TÁI-tən … BELT",
+   "es": "apretarse el cinturón, gastar menos (neutro)",
+   "group": "C. Dinero y costos (11)",
+   "example": "We need to tighten our belts this quarter."
+  },
+  {
+   "en": "make ends meet",
+   "pron": "MEIK ENDZ MIT",
+   "es": "llegar a fin de mes (neutro)",
+   "group": "C. Dinero y costos (11)",
+   "example": "Many families struggle to make ends meet."
+  },
+  {
+   "en": "a steal",
+   "pron": "ə STIL",
+   "es": "una ganga (informal)",
+   "group": "C. Dinero y costos (11)",
+   "example": "At that price, the laptop is a steal."
+  },
+  {
+   "en": "a rip-off",
+   "pron": "ə RÍP-of",
+   "es": "un robo, una estafa (precio abusivo) (informal)",
+   "group": "C. Dinero y costos (11)",
+   "example": "Fifty dollars for parking? What a rip-off!"
+  },
+  {
+   "en": "on a shoestring (budget)",
+   "pron": "on ə SHÚ-string",
+   "es": "con muy poco presupuesto (neutro)",
+   "group": "C. Dinero y costos (11)",
+   "example": "They started the company on a shoestring."
+  },
+  {
+   "en": "break even",
+   "pron": "BREIK Í-vən",
+   "es": "cubrir costos, ni ganar ni perder (neutro)",
+   "group": "C. Dinero y costos (11)",
+   "example": "We'll break even after the second job."
+  },
+  {
+   "en": "in the red / in the black",
+   "pron": "in dhə RED / in dhə BLAK",
+   "es": "en pérdidas / con ganancias (neutro)",
+   "group": "C. Dinero y costos (11)",
+   "example": "The project is in the red."
+  },
+  {
+   "en": "foot the bill",
+   "pron": "FUT dhə BIL",
+   "es": "pagar la cuenta, asumir el gasto (neutro)",
+   "group": "C. Dinero y costos (11)",
+   "example": "Who will foot the bill for the rework?"
+  },
+  {
+   "en": "pay through the nose",
+   "pron": "PEI thru dhə NOUZ",
+   "es": "pagar un precio excesivo (informal)",
+   "group": "C. Dinero y costos (11)",
+   "example": "We paid through the nose for air freight."
+  },
+  {
+   "en": "open a can of worms",
+   "pron": "ÓU-pən ə KAN əv WERMZ",
+   "es": "destapar un problema que trae más problemas (neutro)",
+   "group": "D. Problemas y dificultades (11)",
+   "example": "Changing the contract now would open a can of worms."
+  },
+  {
+   "en": "the elephant in the room",
+   "pron": "dhi É-lə-fənt in dhə RUM",
+   "es": "el problema obvio que nadie menciona (neutro)",
+   "group": "D. Problemas y dificultades (11)",
+   "example": "The budget is the elephant in the room."
+  },
+  {
+   "en": "hit a snag",
+   "pron": "JIT ə SNAG",
+   "es": "tener un contratiempo (neutro)",
+   "group": "D. Problemas y dificultades (11)",
+   "example": "We hit a snag with the permits."
+  },
+  {
+   "en": "up in the air",
+   "pron": "AP in dhi ER",
+   "es": "sin decidir, en el aire (neutro)",
+   "group": "D. Problemas y dificultades (11)",
+   "example": "The start date is still up in the air."
+  },
+  {
+   "en": "a blessing in disguise",
+   "pron": "ə BLÉ-sing in dis-GÁIZ",
+   "es": "no hay mal que por bien no venga (neutro)",
+   "group": "D. Problemas y dificultades (11)",
+   "example": "The delay was a blessing in disguise."
+  },
+  {
+   "en": "the last straw",
+   "pron": "dhə LAST STRO",
+   "es": "la gota que colmó el vaso (neutro)",
+   "group": "D. Problemas y dificultades (11)",
+   "example": "The third late delivery was the last straw."
+  },
+  {
+   "en": "bite the bullet",
+   "pron": "BAIT dhə BÚ-lit",
+   "es": "hacer de tripas corazón, aceptar algo duro (neutro)",
+   "group": "D. Problemas y dificultades (11)",
+   "example": "We bit the bullet and replaced the pump."
+  },
+  {
+   "en": "in hot water",
+   "pron": "in JOT WÓ-ter",
+   "es": "en problemas, en aprietos (informal)",
+   "group": "D. Problemas y dificultades (11)",
+   "example": "He's in hot water with the client."
+  },
+  {
+   "en": "get out of hand",
+   "pron": "guet AUT əv JAND",
+   "es": "salirse de control (neutro)",
+   "group": "D. Problemas y dificultades (11)",
+   "example": "The overtime is getting out of hand."
+  },
+  {
+   "en": "cross that bridge when we come to it",
+   "pron": "KROS dhat BRICH wen wi KAM tu it",
+   "es": "ocuparse del problema cuando llegue (neutro)",
+   "group": "D. Problemas y dificultades (11)",
+   "example": "If it rains, we'll cross that bridge when we come to it."
+  },
+  {
+   "en": "the tip of the iceberg",
+   "pron": "dhə TIP əv dhi ÁIS-berg",
+   "es": "la punta del iceberg (neutro)",
+   "group": "D. Problemas y dificultades (11)",
+   "example": "These cracks are just the tip of the iceberg."
+  },
+  {
+   "en": "hit the nail on the head",
+   "pron": "JIT dhə NEIL on dhə JED",
+   "es": "dar en el clavo (neutro)",
+   "group": "E. Éxito y logros (11)",
+   "example": "You hit the nail on the head."
+  },
+  {
+   "en": "a piece of cake",
+   "pron": "ə PIS əv KEIK",
+   "es": "pan comido, muy fácil (informal)",
+   "group": "E. Éxito y logros (11)",
+   "example": "The fit-up was a piece of cake."
+  },
+  {
+   "en": "pull it off",
+   "pron": "PUL it OF",
+   "es": "lograrlo (algo difícil) (neutro)",
+   "group": "E. Éxito y logros (11)",
+   "example": "Nobody thought we could finish in May, but we pulled it off."
+  },
+  {
+   "en": "go the extra mile",
+   "pron": "GOU dhi EKS-trə MAIL",
+   "es": "esforzarse más de lo esperado (neutro)",
+   "group": "E. Éxito y logros (11)",
+   "example": "Our team always goes the extra mile."
+  },
+  {
+   "en": "raise the bar",
+   "pron": "REIZ dhə BAR",
+   "es": "subir el nivel de exigencia (neutro)",
+   "group": "E. Éxito y logros (11)",
+   "example": "This project raised the bar for quality."
+  },
+  {
+   "en": "a win-win (situation)",
+   "pron": "ə WIN-WIN",
+   "es": "una situación en que ambos ganan (neutro)",
+   "group": "E. Éxito y logros (11)",
+   "example": "A longer warranty is a win-win."
+  },
+  {
+   "en": "the ball is in someone's court",
+   "pron": "dhə BOL iz in … KORT",
+   "es": "le toca decidir o actuar a alguien (neutro)",
+   "group": "E. Éxito y logros (11)",
+   "example": "We sent the quote. The ball is in their court."
+  },
+  {
+   "en": "come a long way",
+   "pron": "KAM ə LONG WEI",
+   "es": "progresar mucho (neutro)",
+   "group": "E. Éxito y logros (11)",
+   "example": "Your English has come a long way."
+  },
+  {
+   "en": "get the hang of something",
+   "pron": "guet dhə JANG əv …",
+   "es": "agarrarle la mano a algo (informal)",
+   "group": "E. Éxito y logros (11)",
+   "example": "I'm getting the hang of the new software."
+  },
+  {
+   "en": "up and running",
+   "pron": "AP ən RÁ-ning",
+   "es": "funcionando, operativo (neutro)",
+   "group": "E. Éxito y logros (11)",
+   "example": "The pump is up and running again."
+  },
+  {
+   "en": "pay off",
+   "pron": "PEI OF",
+   "es": "dar fruto, valer la pena (neutro)",
+   "group": "E. Éxito y logros (11)",
+   "example": "All that training paid off."
+  },
+  {
+   "en": "beat around the bush",
+   "pron": "BIT ə-raund dhə BUSH",
+   "es": "andarse con rodeos (neutro)",
+   "group": "F. Comunicación (11)",
+   "example": "Don't beat around the bush. Is it approved?"
+  },
+  {
+   "en": "get to the point",
+   "pron": "GUET tə dhə POINT",
+   "es": "ir al grano (neutro)",
+   "group": "F. Comunicación (11)",
+   "example": "Let me get to the point."
+  },
+  {
+   "en": "speak one's mind",
+   "pron": "SPIK … MAIND",
+   "es": "decir lo que uno piensa (neutro)",
+   "group": "F. Comunicación (11)",
+   "example": "Mr. Lee always speaks his mind."
+  },
+  {
+   "en": "break the ice",
+   "pron": "BREIK dhi AIS",
+   "es": "romper el hielo (neutro)",
+   "group": "F. Comunicación (11)",
+   "example": "A quick joke helped break the ice."
+  },
+  {
+   "en": "give someone a heads-up",
+   "pron": "GUIV … ə JÉDZ-ap",
+   "es": "avisar con anticipación (neutro)",
+   "group": "F. Comunicación (11)",
+   "example": "Thanks for the heads-up."
+  },
+  {
+   "en": "by word of mouth",
+   "pron": "bai WERD əv MAUTH",
+   "es": "de boca en boca (neutro)",
+   "group": "F. Comunicación (11)",
+   "example": "Most of our clients find us by word of mouth."
+  },
+  {
+   "en": "read between the lines",
+   "pron": "RID bi-TWÍN dhə LAINZ",
+   "es": "leer entre líneas (neutro)",
+   "group": "F. Comunicación (11)",
+   "example": "Read between the lines: they want a discount."
+  },
+  {
+   "en": "food for thought",
+   "pron": "FUD fər THOT",
+   "es": "algo para reflexionar (neutro)",
+   "group": "F. Comunicación (11)",
+   "example": "Your presentation gave us food for thought."
+  },
+  {
+   "en": "keep someone posted",
+   "pron": "KIP … PÓUS-tid",
+   "es": "mantener al tanto (neutro)",
+   "group": "F. Comunicación (11)",
+   "example": "I'll keep you posted."
+  },
+  {
+   "en": "hear something through the grapevine",
+   "pron": "JIR … thru dhə GRÉIP-vain",
+   "es": "enterarse por rumores (informal)",
+   "group": "F. Comunicación (11)",
+   "example": "I heard it through the grapevine."
+  },
+  {
+   "en": "see eye to eye",
+   "pron": "SI AI tu AI",
+   "es": "estar totalmente de acuerdo (neutro)",
+   "group": "F. Comunicación (11)",
+   "example": "We don't always see eye to eye."
+  }
+ ],
+ "examples": [
+  {
+   "en": "Before we get the ball rolling, let's make sure we're all on the same page about the scope.",
+   "es": "Antes de poner esto en marcha, asegurémonos de que todos estemos de acuerdo sobre el alcance.",
+   "situation": "Reunión de arranque"
+  },
+  {
+   "en": "We hit a snag during the fit-up: two spools were cut too short.",
+   "es": "Tuvimos un contratiempo en el armado: dos spools se cortaron demasiado cortos.",
+   "situation": "Obra"
+  },
+  {
+   "en": "The crews worked around the clock and finished the repair in the nick of time.",
+   "es": "Las cuadrillas trabajaron día y noche y terminaron la reparación justo a tiempo.",
+   "situation": "Parada de planta"
+  },
+  {
+   "en": "Duplex steel costs an arm and a leg, but it pays off in the long run.",
+   "es": "El acero dúplex cuesta un ojo de la cara, pero a la larga vale la pena.",
+   "situation": "Presupuesto"
+  },
+  {
+   "en": "If we cut corners on the hydrotest, we'll be in hot water with the client.",
+   "es": "Si hacemos mal la prueba hidrostática para ahorrar tiempo, tendremos problemas con el cliente.",
+   "situation": "Calidad"
+  },
+  {
+   "en": "Thanks for the heads-up. Please keep me in the loop if the delivery date changes.",
+   "es": "Gracias por el aviso. Mantenme informado si cambia la fecha de entrega.",
+   "situation": "Correo interno"
+  },
+  {
+   "en": "We've sent our final offer, so the ball is in their court now.",
+   "es": "Enviamos nuestra oferta final, así que ahora les toca a ellos.",
+   "situation": "Negociación"
+  },
+  {
+   "en": "I don't need an exact price yet. Just give me a ballpark figure.",
+   "es": "Todavía no necesito un precio exacto. Solo dame una cifra aproximada.",
+   "situation": "Llamada con proveedor"
+  },
+  {
+   "en": "Priya is still learning the ropes, but she hit the ground running.",
+   "es": "Priya todavía está aprendiendo cómo funciona todo, pero empezó con todo.",
+   "situation": "Nuevo empleado"
+  },
+  {
+   "en": "Rent here is a rip-off. We're barely making ends meet.",
+   "es": "El alquiler aquí es un robo. Apenas llegamos a fin de mes.",
+   "situation": "Vida diaria"
+  },
+  {
+   "en": "Carlos told a funny story about his first weld, and that really broke the ice.",
+   "es": "Carlos contó una anécdota graciosa de su primera soldadura, y eso realmente rompió el hielo.",
+   "situation": "Social"
+  },
+  {
+   "en": "The leak we found is just the tip of the iceberg; the whole bottom is corroded.",
+   "es": "La fuga que encontramos es solo la punta del iceberg; todo el fondo está corroído.",
+   "situation": "Problema grave"
+  },
+  {
+   "en": "Let's not beat around the bush. The schedule is the elephant in the room.",
+   "es": "No andemos con rodeos. El cronograma es el problema que nadie quiere mencionar.",
+   "situation": "Reunión tensa"
+  },
+  {
+   "en": "You really went the extra mile on this report. It raised the bar for the whole team.",
+   "es": "Realmente te esforzaste más de lo esperado en este informe. Subió el nivel de todo el equipo.",
+   "situation": "Felicitación"
+  },
+  {
+   "en": "We've come a long way today. Let's call it a day and touch base tomorrow at 8 on the dot.",
+   "es": "Avanzamos mucho hoy. Terminemos por hoy y hablemos mañana a las 8 en punto.",
+   "situation": "Fin de jornada"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "We pulled it off.",
+     "We didn't pull it off.",
+     "Did you pull it off?",
+     "Yes, we did. / No, we didn't."
+    ],
+    [
+     "They're on the same page.",
+     "They aren't on the same page.",
+     "Are they on the same page?",
+     "Yes, they are. / No, they aren't."
+    ],
+    [
+     "He pulls his weight.",
+     "He doesn't pull his weight.",
+     "Does he pull his weight?",
+     "Yes, he does. / No, he doesn't."
+    ],
+    [
+     "The pump is up and running.",
+     "The pump isn't up and running.",
+     "Is the pump up and running?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "She's gotten the hang of it.",
+     "She hasn't gotten the hang of it.",
+     "Has she gotten the hang of it?",
+     "Yes, she has. / No, she hasn't."
+    ],
+    [
+     "It'll break the bank.",
+     "It won't break the bank.",
+     "Will it break the bank?",
+     "Yes, it will. / No, it won't."
+    ],
+    [
+     "We see eye to eye.",
+     "We don't see eye to eye.",
+     "Do you see eye to eye?",
+     "Yes, we do. / No, we don't."
+    ],
+    [
+     "They cut corners.",
+     "They didn't cut corners.",
+     "Did they cut corners?",
+     "Yes, they did. / No, they didn't."
+    ],
+    [
+     "The date is up in the air.",
+     "The date isn't up in the air.",
+     "Is the date up in the air?",
+     "Yes, it is. / No, it isn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Sarah",
+   "text": "OK, let's get the ball rolling. Edwin, how's the T-305 repair going?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Mostly good. We hit a snag on Tuesday when the crane failed its inspection, but the rental company sent a new one in the nick of time."
+  },
+  {
+   "who": "Sarah",
+   "text": "Great. Are we still on schedule?"
+  },
+  {
+   "who": "Edwin",
+   "text": "We're one day behind, but the crew is working around the clock, so we should catch up by Friday."
+  },
+  {
+   "who": "Mark",
+   "text": "I'll be honest: the overtime is getting out of hand. It's costing us an arm and a leg."
+  },
+  {
+   "who": "Sarah",
+   "text": "That's the elephant in the room. Mark, can you give me a ballpark figure?"
+  },
+  {
+   "who": "Mark",
+   "text": "Around twelve thousand dollars so far."
+  },
+  {
+   "who": "Edwin",
+   "text": "I understand, but if we miss the deadline, the penalty is five times that. I think we have to bite the bullet."
+  },
+  {
+   "who": "Sarah",
+   "text": "You hit the nail on the head. Let's keep the overtime until Friday and then call it a day."
+  },
+  {
+   "who": "Mark",
+   "text": "Fine. Just keep me in the loop if anything changes."
+  },
+  {
+   "who": "Edwin",
+   "text": "Will do. I'll give you a heads-up before we start the hydrotest."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "It cost an eye of the face.",
+   "right": "It cost an arm and a leg.",
+   "why": "Calco del español; el idiom inglés usa otra imagen."
+  },
+  {
+   "wrong": "You're taking my hair.",
+   "right": "You're pulling my leg.",
+   "why": "\"Tomar el pelo\" = pull someone's leg."
+  },
+  {
+   "wrong": "We're in the same page.",
+   "right": "We're on the same page.",
+   "why": "Preposición fija: on."
+  },
+  {
+   "wrong": "Let's make the ball rolling.",
+   "right": "Let's get the ball rolling.",
+   "why": "Verbo fijo: get."
+  },
+  {
+   "wrong": "I was killing the time.",
+   "right": "I was killing time.",
+   "why": "Kill time no lleva artículo."
+  },
+  {
+   "wrong": "It's piece of cake.",
+   "right": "It's a piece of cake.",
+   "why": "El artículo a forma parte del idiom."
+  },
+  {
+   "wrong": "Let's touch the base tomorrow.",
+   "right": "Let's touch base tomorrow.",
+   "why": "Touch base no lleva artículo."
+  },
+  {
+   "wrong": "At that price, it's a robbery! (= es carísimo)",
+   "right": "At that price, it's a rip-off!",
+   "why": "Precio abusivo = rip-off. Ojo: a steal significa lo contrario, una ganga."
+  },
+  {
+   "wrong": "I'm in the moon today.",
+   "right": "My head is in the clouds today.",
+   "why": "\"Estar en la luna\" no existe en inglés."
+  },
+  {
+   "wrong": "The Contractor shall not cut corners. (en un contrato)",
+   "right": "The Contractor shall comply with all specified procedures.",
+   "why": "Error de registro: los idioms no van en contratos ni especificaciones."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "It's a steal.",
+   "looks": "es un robo (carísimo)",
+   "means": "es una ganga",
+   "fix": "It's a rip-off."
+  },
+  {
+   "en": "Break a leg!",
+   "looks": "¡rómpete una pierna!",
+   "means": "¡mucha suerte! (antes de una presentación)",
+   "fix": "(nadie lo dice en sentido literal)"
+  },
+  {
+   "en": "I'm under the weather.",
+   "looks": "estoy bajo el clima",
+   "means": "me siento un poco mal",
+   "fix": "The weather is bad."
+  },
+  {
+   "en": "I'm fed up.",
+   "looks": "estoy alimentado",
+   "means": "estoy harto",
+   "fix": "I'm full."
+  },
+  {
+   "en": "We had a ball.",
+   "looks": "tuvimos una pelota",
+   "means": "la pasamos genial",
+   "fix": "We had a ball to play with."
+  },
+  {
+   "en": "He's in the red.",
+   "looks": "está rojo (avergonzado)",
+   "means": "tiene pérdidas, está endeudado",
+   "fix": "He's blushing."
+  },
+  {
+   "en": "It's not my cup of tea.",
+   "looks": "no es mi taza de té",
+   "means": "no es lo mío, no me gusta",
+   "fix": "That isn't my cup."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Asegurémonos de estar de acuerdo antes de la reunión.",
+    "answers": [
+     "Let's make sure we're on the same page before the meeting.",
+     "Let's make sure we are on the same page before the meeting."
+    ],
+    "explain": "Be on the same page = estar de acuerdo, alineados. También see eye to eye, aunque es más \"pensar igual\" que \"alinearse\"."
+   },
+   {
+    "prompt": "Ese reloj me costó un ojo de la cara.",
+    "answers": [
+     "That watch cost me an arm and a leg.",
+     "That watch cost an arm and a leg."
+    ],
+    "explain": "Cost an arm and a leg; cost es irregular: pasado = cost."
+   },
+   {
+    "prompt": "Terminamos justo a tiempo.",
+    "answers": [
+     "We finished in the nick of time.",
+     "We finished just in the nick of time."
+    ],
+    "explain": "In the nick of time = justo a tiempo, en el último momento."
+   },
+   {
+    "prompt": "Deja de andarte con rodeos.",
+    "answers": [
+     "Stop beating around the bush."
+    ],
+    "explain": "Stop + gerundio (Módulo 22) + beat around the bush."
+   },
+   {
+    "prompt": "Tuvimos un contratiempo con la grúa.",
+    "answers": [
+     "We hit a snag with the crane."
+    ],
+    "explain": "Hit a snag; hit es irregular: pasado = hit."
+   },
+   {
+    "prompt": "Por favor, mantenme informado.",
+    "answers": [
+     "Please keep me in the loop.",
+     "Please keep me posted.",
+     "Keep me in the loop, please.",
+     "Keep me posted, please."
+    ],
+    "explain": "Ambas formas significan mantener informado; el objeto va en medio."
+   },
+   {
+    "prompt": "El cliente rechazó el diseño; hay que volver a empezar desde cero.",
+    "answers": [
+     "The client rejected the design, so it's back to the drawing board.",
+     "The client rejected the design; it's back to the drawing board.",
+     "The client rejected the design, so we're back to the drawing board.",
+     "The client rejected the design, so we have to go back to the drawing board.",
+     "The client rejected the design, so it is back to the drawing board.",
+     "The client rejected the design; it is back to the drawing board.",
+     "The client rejected the design, so we are back to the drawing board."
+    ],
+    "explain": "Back to the drawing board = empezar de nuevo."
+   },
+   {
+    "prompt": "El examen fue pan comido.",
+    "answers": [
+     "The exam was a piece of cake."
+    ],
+    "explain": "A piece of cake, con el artículo a."
+   },
+   {
+    "prompt": "Avísame con anticipación si el cliente llama.",
+    "answers": [
+     "Give me a heads-up if the client calls.",
+     "Please give me a heads-up if the client calls."
+    ],
+    "explain": "Give someone a heads-up = avisar con anticipación."
+   },
+   {
+    "prompt": "Ya le estoy agarrando la mano al nuevo software.",
+    "answers": [
+     "I'm getting the hang of the new software.",
+     "I am getting the hang of the new software."
+    ],
+    "explain": "Get the hang of something, en presente continuo: proceso en curso."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "The whole schedule is still up in the air.",
+    "answers": [
+     "Todo el cronograma sigue en el aire.",
+     "Todo el cronograma sigue sin definir.",
+     "Todo el cronograma todavía está en el aire.",
+     "Todo el cronograma aún no está definido."
+    ],
+    "explain": "Up in the air = sin decidir."
+   },
+   {
+    "prompt": "Losing that contract was a blessing in disguise.",
+    "answers": [
+     "Perder ese contrato fue una bendición disfrazada.",
+     "Perder ese contrato fue un mal que por bien vino.",
+     "Perder ese contrato fue, en el fondo, algo bueno."
+    ],
+    "explain": "A blessing in disguise: algo malo que resultó bueno."
+   },
+   {
+    "prompt": "We're working around the clock to finish the tank.",
+    "answers": [
+     "Estamos trabajando día y noche para terminar el tanque.",
+     "Estamos trabajando las 24 horas para terminar el tanque.",
+     "Estamos trabajando sin parar para terminar el tanque."
+    ],
+    "explain": "Around the clock = las 24 horas, sin parar."
+   },
+   {
+    "prompt": "That's just the tip of the iceberg.",
+    "answers": [
+     "Eso es solo la punta del iceberg.",
+     "Eso es apenas la punta del iceberg."
+    ],
+    "explain": "Idiom igual en ambos idiomas."
+   },
+   {
+    "prompt": "We've sent the revised quote, so the ball is in their court.",
+    "answers": [
+     "Enviamos la cotización revisada, así que ahora les toca a ellos.",
+     "Enviamos la cotización revisada, así que ahora les toca a ellos decidir.",
+     "Hemos enviado la cotización revisada, así que la pelota está en su cancha.",
+     "Enviamos la cotización revisada, así que la decisión es de ellos."
+    ],
+    "explain": "The ball is in their court = la decisión es de ellos."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "That hotel cost a leg and an arm.",
+    "answers": [
+     "That hotel cost an arm and a leg."
+    ],
+    "explain": "Orden fijo: an arm and a leg."
+   },
+   {
+    "prompt": "It's late. Let's call it the day.",
+    "answers": [
+     "It's late. Let's call it a day.",
+     "It is late. Let's call it a day."
+    ],
+    "explain": "Artículo fijo: a day."
+   },
+   {
+    "prompt": "We need to be in the same page before we call the client.",
+    "answers": [
+     "We need to be on the same page before we call the client."
+    ],
+    "explain": "Preposición fija: on."
+   },
+   {
+    "prompt": "You hit the nail in the head with that comment.",
+    "answers": [
+     "You hit the nail on the head with that comment."
+    ],
+    "explain": "Preposición fija: on the head."
+   },
+   {
+    "prompt": "For an experienced welder, this joint is a cake piece.",
+    "answers": [
+     "For an experienced welder, this joint is a piece of cake."
+    ],
+    "explain": "Forma fija: a piece of cake."
+   },
+   {
+    "prompt": "Please stop beating around the bushes and tell me the price.",
+    "answers": [
+     "Please stop beating around the bush and tell me the price."
+    ],
+    "explain": "Singular fijo: bush."
+   },
+   {
+    "prompt": "The spare parts arrived in the nick of the time.",
+    "answers": [
+     "The spare parts arrived in the nick of time."
+    ],
+    "explain": "Sin artículo: of time."
+   },
+   {
+    "prompt": "Carlos always goes the extra miles for his clients.",
+    "answers": [
+     "Carlos always goes the extra mile for his clients."
+    ],
+    "explain": "Singular fijo: mile."
+   },
+   {
+    "prompt": "Let's make the ball rolling on the new project.",
+    "answers": [
+     "Let's get the ball rolling on the new project."
+    ],
+    "explain": "Verbo fijo: get."
+   },
+   {
+    "prompt": "I heard it through the grapevines that the plant is closing.",
+    "answers": [
+     "I heard it through the grapevine that the plant is closing."
+    ],
+    "explain": "Singular fijo: grapevine."
+   }
+  ],
+  "bonus": {
+   "prompt": "reescribe con un idiom: We will deal with that problem if it happens.",
+   "answer": "We'll cross that bridge when we come to it."
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con snag, wire, arm, ballpark, bullet, page, loop, heads-up. Usa cada palabra una sola vez (8 puntos).",
+   "lines": [
+    {
+     "who": "Mark",
+     "text": "Any news on the pump replacement?"
+    },
+    {
+     "who": "You",
+     "text": "We hit a [1]. The motor won't arrive until Friday."
+    },
+    {
+     "who": "Mark",
+     "text": "Friday? The shutdown ends Saturday. This is going down to the [2]."
+    },
+    {
+     "who": "You",
+     "text": "I know. We could fly it in, but it'll cost an [3] and a leg."
+    },
+    {
+     "who": "Mark",
+     "text": "How much, more or less? Give me a [4] figure."
+    },
+    {
+     "who": "You",
+     "text": "Around eight thousand dollars. I think we should bite the [5] and pay it."
+    },
+    {
+     "who": "Mark",
+     "text": "OK. But first let's make sure we're on the same [6] as the client."
+    },
+    {
+     "who": "You",
+     "text": "I'll call them now and keep you in the [7]."
+    },
+    {
+     "who": "Mark",
+     "text": "Thanks. And give me a [8] if anything changes."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "snag"
+     ],
+     "explain": "hit a snag = tener un contratiempo."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "wire"
+     ],
+     "explain": "go down to the wire = llegar al último momento."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "arm"
+     ],
+     "explain": "cost an arm and a leg = costar muchísimo."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "ballpark"
+     ],
+     "explain": "a ballpark figure = cifra aproximada (\"more or less\")."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "bullet"
+     ],
+     "explain": "bite the bullet = aceptar algo desagradable pero necesario."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "page"
+     ],
+     "explain": "be on the same page as = estar alineado con."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "loop"
+     ],
+     "explain": "keep someone in the loop = mantener informado."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "heads-up",
+      "heads up"
+     ],
+     "explain": "give someone a heads-up = avisar con anticipación."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un mensaje de equipo (7 puntos). Escribe un correo interno de 6 a 8 oraciones a tu equipo con la actualización semanal de un trabajo. Usa 6 idioms del módulo de al menos 4 temas distintos, bien formados y con su significado correcto, más un saludo, una petición concreta y un cierre en registro neutro.",
+   "rubric": [
+    "Idiom 1: bien formado y con su significado correcto",
+    "Idiom 2: bien formado y con su significado correcto",
+    "Idiom 3: bien formado y con su significado correcto",
+    "Idiom 4: bien formado y con su significado correcto",
+    "Idiom 5: bien formado y con su significado correcto",
+    "Idiom 6: bien formado y con su significado correcto",
+    "Saludo, petición concreta y cierre en registro neutro; los idioms cubren al menos 4 temas"
+   ],
+   "model": "Hi team,\nHere's a quick update on the T-305 repair. We hit a snag on Tuesday when the crane failed its inspection, but the rental company sent a replacement in the nick of time. Since then, the crew has been working around the clock to make up the lost day. The new roof seal cost an arm and a leg, but it should pay off in the long run because it lasts twice as long. Carlos, please give me a heads-up before you start the hydrotest so that I can keep the client in the loop. Thanks to everyone for going the extra mile this week.\nBest,\nEdwin"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Entender al instante los 66 idioms del módulo.",
+   "test": "Tapa la columna \"Significado real\" y explica los 66 en menos de 10 minutos; 60 o más correctos."
+  },
+  {
+   "skill": "Decir cada idiom con su forma fija exacta.",
+   "test": "Escribe de memoria 20 idioms al azar; cero errores de artículo, preposición u orden."
+  },
+  {
+   "skill": "Conjugar el verbo dentro del idiom.",
+   "test": "Pon 8 idioms en pasado, negativo y pregunta (como la Parte 2) en 4 minutos, sin errores."
+  },
+  {
+   "skill": "Pronunciar los idioms con el acento correcto.",
+   "test": "Grábate leyendo los 11 idioms de un tema; compara con la columna de pronunciación."
+  },
+  {
+   "skill": "Elegir el registro adecuado.",
+   "test": "Clasifica 10 frases como \"reunión/correo interno\" o \"contrato/informe\"; 10 de 10 correctas."
+  },
+  {
+   "skill": "Evitar calcos del español.",
+   "test": "Traduce en voz alta: ojo de la cara, tomar el pelo, pan comido, andarse con rodeos, dar en el clavo. Cero calcos."
+  },
+  {
+   "skill": "Usar idioms en una reunión real o simulada.",
+   "test": "Habla 2 minutos sobre el estado de tu trabajo usando al menos 5 idioms neutros; grábate."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "Have you ever hit a snag on a project? What happened?",
+  "What part of your job is a piece of cake for you?",
+  "When did you last finish something in the nick of time?",
+  "How do you keep your boss in the loop?",
+  "What do you do when someone beats around the bush?",
+  "What new skill are you getting the hang of right now?"
+ ]
+}

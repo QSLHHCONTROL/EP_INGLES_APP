@@ -1,0 +1,198 @@
+{
+ "modules": [
+  {
+   "id": 1,
+   "level": "A1",
+   "title": "El verbo TO BE: ser, estar y existir"
+  },
+  {
+   "id": 2,
+   "level": "A1",
+   "title": "Artículos, plurales y THERE IS / THERE ARE"
+  },
+  {
+   "id": 3,
+   "level": "A1",
+   "title": "Presente simple: rutinas y hechos"
+  },
+  {
+   "id": 4,
+   "level": "A1",
+   "title": "Preguntas con DO / DOES y palabras WH-"
+  },
+  {
+   "id": 5,
+   "level": "A1",
+   "title": "Presente continuo: lo que pasa ahora"
+  },
+  {
+   "id": 6,
+   "level": "A1",
+   "title": "Posesivos, demostrativos y objeto (my, this, me)"
+  },
+  {
+   "id": 7,
+   "level": "A2",
+   "title": "CAN / CAN'T y pedir cosas con cortesía"
+  },
+  {
+   "id": 8,
+   "level": "A2",
+   "title": "Pasado simple con TO BE (was / were)"
+  },
+  {
+   "id": 9,
+   "level": "A2",
+   "title": "Pasado simple: verbos regulares e irregulares"
+  },
+  {
+   "id": 10,
+   "level": "A2",
+   "title": "Futuro: GOING TO y WILL"
+  },
+  {
+   "id": 11,
+   "level": "A2",
+   "title": "Preposiciones de tiempo y lugar (in, on, at)"
+  },
+  {
+   "id": 12,
+   "level": "A2",
+   "title": "Comparativos, superlativos y adverbios de frecuencia"
+  },
+  {
+   "id": 13,
+   "level": "B1",
+   "title": "Presente perfecto (have done) vs pasado simple"
+  },
+  {
+   "id": 14,
+   "level": "B1",
+   "title": "Presente perfecto continuo (have been doing)"
+  },
+  {
+   "id": 15,
+   "level": "B1",
+   "title": "Pasado continuo y pasado perfecto"
+  },
+  {
+   "id": 16,
+   "level": "B1",
+   "title": "Modales de obligación y consejo (must, have to, should)"
+  },
+  {
+   "id": 17,
+   "level": "B1",
+   "title": "Modales de probabilidad (might, may, could, must be)"
+  },
+  {
+   "id": 18,
+   "level": "B1",
+   "title": "Condicionales 0, 1 y 2"
+  },
+  {
+   "id": 19,
+   "level": "B1",
+   "title": "Condicional 3 y mixtos (should have, would have)"
+  },
+  {
+   "id": 20,
+   "level": "B2",
+   "title": "Voz pasiva (is made, was installed, will be tested)"
+  },
+  {
+   "id": 21,
+   "level": "B2",
+   "title": "Estilo indirecto (he said that…)"
+  },
+  {
+   "id": 22,
+   "level": "B2",
+   "title": "Verbos + gerundio o infinitivo"
+  },
+  {
+   "id": 23,
+   "level": "B2",
+   "title": "Phrasal verbs esenciales"
+  },
+  {
+   "id": 24,
+   "level": "B2",
+   "title": "Oraciones relativas (who, which, that, where)"
+  },
+  {
+   "id": 25,
+   "level": "B2",
+   "title": "Conectores y redacción profesional (however, therefore)"
+  },
+  {
+   "id": 26,
+   "level": "B2",
+   "title": "Inglés en el trabajo: reuniones, llamadas y negociación"
+  },
+  {
+   "id": 27,
+   "level": "C1",
+   "title": "Inversión y énfasis (Not only…, What I need is…)"
+  },
+  {
+   "id": 28,
+   "level": "C1",
+   "title": "Subjuntivo y estructuras formales (I suggest that he be…)"
+  },
+  {
+   "id": 29,
+   "level": "C1",
+   "title": "Modismos e idioms de alta frecuencia"
+  },
+  {
+   "id": 30,
+   "level": "C1",
+   "title": "Collocations avanzadas y precisión léxica (make vs do, rise vs raise)"
+  },
+  {
+   "id": 31,
+   "level": "C1",
+   "title": "Entonación, ritmo y connected speech"
+  },
+  {
+   "id": 32,
+   "level": "C1",
+   "title": "Hedging y diplomacia"
+  },
+  {
+   "id": 33,
+   "level": "C1",
+   "title": "Inglés técnico: especificaciones, normas y reportes (API, ASME, AWS)"
+  },
+  {
+   "id": 34,
+   "level": "C1",
+   "title": "Presentaciones y storytelling profesional"
+  },
+  {
+   "id": 35,
+   "level": "C1",
+   "title": "Escritura avanzada: propuestas, informes y CV"
+  },
+  {
+   "id": 36,
+   "level": "C1",
+   "title": "Entrevistas de trabajo y networking en inglés"
+  }
+ ],
+ "exams": [
+  {
+   "id": "A",
+   "title": "Examen integrador A1–A2"
+  },
+  {
+   "id": "B",
+   "title": "Examen integrador B1–B2"
+  },
+  {
+   "id": "C",
+   "title": "Examen final C1"
+  }
+ ]
+}

@@ -1,0 +1,991 @@
+{
+ "id": 11,
+ "level": "A2",
+ "title": "Preposiciones de tiempo y lugar (in, on, at)",
+ "goal": "Al terminar podrás decir cuándo pasa algo (hora, día, fecha, mes, año) y dónde está algo o alguien (ciudad, calle, piso, oficina, mesa, puerta), dar tu dirección y acordar una cita sin confundir in, on y at.",
+ "lesson": [
+  {
+   "title": "Tres imágenes: IN, ON y AT",
+   "html": "<p>El español resuelve casi todo con una sola palabra: <i>en</i> (en mayo, en la mesa, en casa, en la puerta). El inglés reparte ese trabajo entre tres preposiciones: <span class=\"en\">IN</span>, <span class=\"en\">ON</span> y <span class=\"en\">AT</span>. No es caprichoso: cada una tiene una <b>imagen</b> fija. Si aprendes la imagen, eliges bien sin memorizar listas infinitas.</p><ul>\n<li><span class=\"en\">IN</span> = <b>dentro</b> de algo grande o con límites: un mes, un año, una ciudad, un tanque, un cuarto.</li>\n<li><span class=\"en\">ON</span> = <b>sobre</b> una superficie o una línea: una mesa, una pared, una calle, un piso del edificio; y en el tiempo, un <b>día</b> concreto.</li>\n<li><span class=\"en\">AT</span> = <b>un punto</b> exacto: una hora, una puerta, una dirección con número, un lugar donde pasa una actividad (work, school, the airport).</li>\n</ul>"
+  },
+  {
+   "title": "Tiempo: de lo grande a lo preciso",
+   "html": "<p>Piensa en cajas, una dentro de otra. La caja más grande (IN) contiene meses y años; dentro hay días (ON); y dentro de cada día hay horas exactas (AT).</p><table>\n<thead><tr><th>Preposición</th><th>Se usa con…</th><th>Ejemplos</th></tr></thead>\n<tbody>\n<tr><td><span class=\"en\">IN</span></td><td>Meses, años, estaciones, siglos, partes del día (excepto <i>night</i>), plazos (\"dentro de\")</td><td><span class=\"en\">in October · in 1994 · in the winter · in the 21st century · in the afternoon · in two weeks</span></td></tr>\n<tr><td><span class=\"en\">ON</span></td><td>Días de la semana, fechas, días especiales, el fin de semana (inglés de EE. UU.)</td><td><span class=\"en\">on Friday · on March 3 · on Christmas Day · on my birthday · on the weekend</span></td></tr>\n<tr><td><span class=\"en\">AT</span></td><td>Horas, momentos puntuales, <i>night</i>, comidas y festividades de varios días</td><td><span class=\"en\">at 6:30 · at noon · at midnight · at night · at lunchtime · at Christmas</span></td></tr>\n<tr><td><b>Sin preposición</b></td><td>Con <i>next, last, this, every, today, tomorrow, yesterday</i></td><td><span class=\"en\">next Monday · last year · this morning · every day · tomorrow</span></td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 300\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"20\" width=\"600\" height=\"260\" rx=\"16\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2.5\"/>\n  <text x=\"40\" y=\"56\" font-size=\"26\" font-weight=\"800\" fill=\"#0E9384\">IN</text>\n  <text x=\"92\" y=\"52\" font-size=\"13\" fill=\"#0B6B60\">mes · año · estación · parte del día · siglo</text>\n  <text x=\"40\" y=\"80\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">in May · in 2026 · in the summer · in the morning</text>\n  <text x=\"600\" y=\"44\" text-anchor=\"end\" font-size=\"11\" font-weight=\"700\" fill=\"#0E9384\">MÁS GENERAL</text>\n  <rect x=\"60\" y=\"96\" width=\"520\" height=\"168\" rx=\"14\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2.5\"/>\n  <text x=\"80\" y=\"130\" font-size=\"26\" font-weight=\"800\" fill=\"#1570EF\">ON</text>\n  <text x=\"136\" y=\"126\" font-size=\"13\" fill=\"#0F4FA8\">día · fecha · día especial</text>\n  <text x=\"80\" y=\"154\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">on Monday · on May 5 · on my birthday · on the weekend</text>\n  <rect x=\"100\" y=\"168\" width=\"440\" height=\"84\" rx=\"12\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2.5\"/>\n  <text x=\"120\" y=\"202\" font-size=\"26\" font-weight=\"800\" fill=\"#E8590C\">AT</text>\n  <text x=\"172\" y=\"198\" font-size=\"13\" fill=\"#B54708\">hora exacta · momento puntual</text>\n  <text x=\"120\" y=\"230\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">at 7:00 · at noon · at night · at midnight</text>\n  <text x=\"525\" y=\"240\" text-anchor=\"end\" font-size=\"11\" font-weight=\"700\" fill=\"#E8590C\">MÁS PRECISO</text>\n</svg>",
+   "caption": "Figura 11.1 — Cajas del tiempo: IN (mes, año) contiene ON (día, fecha), que contiene AT (hora exacta)."
+  },
+  {
+   "title": "Lugar: contenedor, superficie o punto",
+   "html": "<table>\n<thead><tr><th>Preposición</th><th>Se usa con…</th><th>Ejemplos</th></tr></thead>\n<tbody>\n<tr><td><span class=\"en\">IN</span></td><td>Países, ciudades, barrios, cuartos, edificios (dentro), contenedores, autos y taxis, fotos y documentos</td><td><span class=\"en\">in Canada · in Lima · in the meeting room · in the tank · in a taxi · in the report</span></td></tr>\n<tr><td><span class=\"en\">ON</span></td><td>Superficies, paredes, pisos de un edificio, calles (sin número), transporte público, lados</td><td><span class=\"en\">on the desk · on the wall · on the third floor · on Bay Street · on the plane · on the left</span></td></tr>\n<tr><td><span class=\"en\">AT</span></td><td>Direcciones con número, puntos (puerta, portón, esquina), lugares de actividad, eventos</td><td><span class=\"en\">at 45 Bay Street · at the door · at work · at school · at the airport · at a meeting</span></td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 200\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"10\" width=\"196\" height=\"180\" rx=\"12\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"118\" y=\"44\" text-anchor=\"middle\" font-size=\"24\" font-weight=\"800\" fill=\"#0E9384\">IN</text>\n  <rect x=\"73\" y=\"62\" width=\"90\" height=\"62\" rx=\"4\" fill=\"#FFFFFF\" stroke=\"#0E9384\" stroke-width=\"2.5\"/>\n  <circle cx=\"118\" cy=\"96\" r=\"11\" fill=\"#E8590C\"/>\n  <text x=\"118\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">dentro de un espacio</text>\n  <text x=\"118\" y=\"172\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">in the tank · in Peru</text>\n  <rect x=\"222\" y=\"10\" width=\"196\" height=\"180\" rx=\"12\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"320\" y=\"44\" text-anchor=\"middle\" font-size=\"24\" font-weight=\"800\" fill=\"#1570EF\">ON</text>\n  <rect x=\"270\" y=\"110\" width=\"100\" height=\"8\" rx=\"2\" fill=\"#1570EF\"/>\n  <rect x=\"278\" y=\"118\" width=\"6\" height=\"12\" fill=\"#1570EF\"/>\n  <rect x=\"356\" y=\"118\" width=\"6\" height=\"12\" fill=\"#1570EF\"/>\n  <circle cx=\"320\" cy=\"98\" r=\"12\" fill=\"#E8590C\"/>\n  <text x=\"320\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">sobre una superficie o línea</text>\n  <text x=\"320\" y=\"172\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">on the wall · on the bus</text>\n  <rect x=\"424\" y=\"10\" width=\"196\" height=\"180\" rx=\"12\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"522\" y=\"44\" text-anchor=\"middle\" font-size=\"24\" font-weight=\"800\" fill=\"#E8590C\">AT</text>\n  <path d=\"M444 122 C 480 100, 510 132, 600 104\" fill=\"none\" stroke=\"#98A2B3\" stroke-width=\"8\" stroke-linecap=\"round\"/>\n  <circle cx=\"522\" cy=\"84\" r=\"12\" fill=\"#E8590C\"/>\n  <polygon points=\"512,90 532,90 522,112\" fill=\"#E8590C\"/>\n  <circle cx=\"522\" cy=\"84\" r=\"5\" fill=\"#FFFFFF\"/>\n  <text x=\"522\" y=\"150\" text-anchor=\"middle\" font-size=\"12\" fill=\"#344054\">en un punto concreto</text>\n  <text x=\"522\" y=\"172\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">at the gate · at work</text>\n</svg>",
+   "caption": "Figura 11.2 — Las tres imágenes de lugar: contenedor (IN), superficie (ON) y punto en el mapa (AT)."
+  },
+  {
+   "title": "Las tres reglas de oro",
+   "html": "<p><b>Regla de oro 1 — Del tamaño a la precisión</b></p>\n<p>Grande o con límites → <b>IN</b>. Superficie, línea o día → <b>ON</b>. Punto exacto u hora → <b>AT</b>.</p>\n<p>La dirección lo muestra perfecto: <span class=\"en\">I live in Lima.</span> → <span class=\"en\">I live on Grau Avenue.</span> → <span class=\"en\">I live at 250 Grau Avenue.</span> (ciudad → calle → dirección con número).</p>\n<p><b>Regla de oro 2 — next, last, this, every: sin preposición</b></p>\n<p>Estas palabras ya hacen el trabajo de la preposición. Nunca pongas in/on/at delante:</p>\n<p><span class=\"ok\">See you next Monday.</span>   Nunca <span class=\"wrong\">See you on next Monday.</span></p>\n<p><span class=\"ok\">I started last year.</span>   Nunca <span class=\"wrong\">I started in last year.</span></p>\n<p><b>Regla de oro 3 — AT home, AT work, AT school (sin \"the\")</b></p>\n<p>Estos lugares de actividad van con <b>at</b> y sin artículo: <span class=\"en\">at home, at work, at school</span>. Con <i>go</i>: <span class=\"en\">go home</span> (sin preposición), <span class=\"en\">go to work</span>, <span class=\"en\">go to school</span>.</p>"
+  },
+  {
+   "title": "Así piensa un nativo — ¿estás haciendo algo ahí o solo estás dentro?",
+   "html": "<p><span class=\"en\">I'm at the office</span> = estoy en mi lugar de trabajo (la actividad). <span class=\"en\">I'm in the office</span> = estoy dentro del cuarto/edificio, no afuera. Las dos son correctas; el nativo elige según lo que quiere destacar. Lo mismo con <span class=\"en\">at the hospital</span> (visita, trabajo) e <span class=\"en\">in the hospital</span> (internado, en EE. UU.).</p>"
+  },
+  {
+   "title": "Traducción directa vs interpretación real",
+   "html": "<p>Cuando traduces \"en\" palabra por palabra, casi siempre sale <i>in</i>. Esa es la causa de la mayoría de errores de este módulo.</p><table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>La reunión es el lunes</td><td><span class=\"en\">The meeting is on Monday. is the Monday</span></td></tr><tr><td>Estoy en casa</td><td><span class=\"en\">I'm at home. I'm in home</span></td></tr><tr><td>Mi oficina está en el tercer piso</td><td><span class=\"en\">My office is on the third floor. in the third floor</span></td></tr><tr><td>Trabajo de noche</td><td><span class=\"en\">I work at night. in the night</span></td></tr><tr><td>Llegué a Lima</td><td><span class=\"en\">I arrived in Lima. arrived to Lima</span></td></tr></tbody></table><table>\n<thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead>\n<tbody>\n<tr><td>Nací en 1994.</td><td><span class=\"wrong\">I was born on 1994.</span></td><td><span class=\"ok\">I was born in 1994.</span></td></tr>\n<tr><td>El examen es el 5 de mayo.</td><td><span class=\"wrong\">The exam is the 5 of May.</span></td><td><span class=\"ok\">The exam is on May 5.</span></td></tr>\n<tr><td>Nos vemos a las 3.</td><td><span class=\"wrong\">See you to the 3.</span></td><td><span class=\"ok\">See you at 3.</span></td></tr>\n<tr><td>Está en la pared.</td><td><span class=\"wrong\">It's in the wall.</span></td><td><span class=\"ok\">It's on the wall.</span></td></tr>\n<tr><td>Estoy en el bus.</td><td><span class=\"wrong\">I'm in the bus.</span></td><td><span class=\"ok\">I'm on the bus.</span></td></tr>\n<tr><td>Vivo en la calle Bolívar 120.</td><td><span class=\"wrong\">I live in Bolívar Street 120.</span></td><td><span class=\"ok\">I live at 120 Bolívar Street.</span></td></tr>\n</tbody></table>"
+  },
+  {
+   "title": "Transporte: ¿puedes caminar dentro?",
+   "html": "<p><b>Las preposiciones en afirmativo, negativo y pregunta</b></p><p>La preposición no cambia de lugar: va pegada a su sustantivo. Lo que cambia es el verbo (be, do/does, did, can…), como ya viste en los módulos anteriores.</p><table>\n<thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead>\n<tbody>\n<tr><td><b>Afirmativo</b></td><td>Sujeto + verbo + preposición + lugar/tiempo</td><td><span class=\"en\">The meeting is on Monday at 9.</span></td></tr>\n<tr><td><b>Negativo</b></td><td>Sujeto + verbo + not + preposición + …</td><td><span class=\"en\">The meeting isn't on Monday.</span></td></tr>\n<tr><td><b>Pregunta sí/no</b></td><td>Verbo/auxiliar + sujeto + preposición + …?</td><td><span class=\"en\">Is the meeting on Monday?</span></td></tr>\n<tr><td><b>Respuesta corta</b></td><td>Yes/No + sujeto + verbo</td><td><span class=\"en\">Yes, it is. / No, it isn't.</span></td></tr>\n<tr><td><b>Pregunta WH-</b></td><td>When / What time / Where + verbo + sujeto…?</td><td><span class=\"en\">When is the meeting? — On Monday. At 9.</span></td></tr>\n</tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 180\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"20\" y=\"10\" width=\"290\" height=\"160\" rx=\"12\" fill=\"#E6F7F5\" stroke=\"#0E9384\" stroke-width=\"2\"/>\n  <text x=\"40\" y=\"42\" font-size=\"24\" font-weight=\"800\" fill=\"#0E9384\">IN</text>\n  <text x=\"84\" y=\"40\" font-size=\"12\" fill=\"#0B6B60\">no puedes caminar dentro</text>\n  <path d=\"M60 110 L80 82 L150 82 L172 110 Z\" fill=\"#FFFFFF\" stroke=\"#0E9384\" stroke-width=\"2.5\"/>\n  <rect x=\"44\" y=\"108\" width=\"150\" height=\"26\" rx=\"8\" fill=\"#0E9384\"/>\n  <circle cx=\"78\" cy=\"136\" r=\"11\" fill=\"#1D2939\"/>\n  <circle cx=\"160\" cy=\"136\" r=\"11\" fill=\"#1D2939\"/>\n  <text x=\"215\" y=\"104\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">in a car</text>\n  <text x=\"215\" y=\"124\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">in a taxi</text>\n  <text x=\"215\" y=\"144\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">in a truck</text>\n  <rect x=\"330\" y=\"10\" width=\"290\" height=\"160\" rx=\"12\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"350\" y=\"42\" font-size=\"24\" font-weight=\"800\" fill=\"#1570EF\">ON</text>\n  <text x=\"398\" y=\"40\" font-size=\"12\" fill=\"#0F4FA8\">puedes caminar dentro</text>\n  <rect x=\"350\" y=\"66\" width=\"150\" height=\"66\" rx=\"10\" fill=\"#1570EF\"/>\n  <rect x=\"360\" y=\"76\" width=\"26\" height=\"22\" rx=\"3\" fill=\"#FFFFFF\"/>\n  <rect x=\"394\" y=\"76\" width=\"26\" height=\"22\" rx=\"3\" fill=\"#FFFFFF\"/>\n  <rect x=\"428\" y=\"76\" width=\"26\" height=\"22\" rx=\"3\" fill=\"#FFFFFF\"/>\n  <rect x=\"462\" y=\"76\" width=\"26\" height=\"22\" rx=\"3\" fill=\"#FFFFFF\"/>\n  <circle cx=\"380\" cy=\"136\" r=\"11\" fill=\"#1D2939\"/>\n  <circle cx=\"470\" cy=\"136\" r=\"11\" fill=\"#1D2939\"/>\n  <text x=\"515\" y=\"94\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">on the bus</text>\n  <text x=\"515\" y=\"114\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">on the train</text>\n  <text x=\"515\" y=\"134\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">on the plane</text>\n  <text x=\"515\" y=\"154\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">on the ship</text>\n</svg>",
+   "caption": "Figura 11.3 — Auto, taxi o camión: IN. Bus, tren, avión o barco (puedes caminar dentro): ON."
+  },
+  {
+   "title": "Detalles que marcan la diferencia",
+   "html": "<ul>\n<li><b>Fechas en EE. UU.:</b> se escribe <span class=\"en\">on May 5</span> y se dice <span class=\"pron\">on mei FÍFTH</span> (\"May fifth\"). En números va primero el mes: 5/14 = 14 de mayo.</li>\n<li><b>Pisos en EE. UU.:</b> <span class=\"en\">the first floor</span> es la planta baja; <span class=\"en\">the second floor</span> es el primer piso de arriba.</li>\n<li><span class=\"en\">at night</span> pero <span class=\"en\">in the morning / in the afternoon / in the evening</span>. Con un día concreto pasa a ON: <span class=\"en\">on Monday morning, on Friday night</span>.</li>\n<li><span class=\"en\">on the weekend</span> es el uso de EE. UU.; en el Reino Unido se dice <span class=\"en\">at the weekend</span>. En este libro usamos <i>on</i>.</li>\n<li>En preguntas, la preposición puede ir al final: <span class=\"en\">What floor is your office on?</span> <span class=\"en\">Where are you from?</span></li>\n</ul>"
+  }
+ ],
+ "blocks": [
+  {
+   "en": "in the morning",
+   "pron": "in dhə MÓR-ning",
+   "es": "en la mañana / por la mañana",
+   "group": "A. IN para tiempo"
+  },
+  {
+   "en": "in the afternoon",
+   "pron": "in dhi af-ter-NÚN",
+   "es": "en la tarde",
+   "group": "A. IN para tiempo"
+  },
+  {
+   "en": "in the evening",
+   "pron": "in dhi ÍV-ning",
+   "es": "al anochecer / en la noche (antes de dormir)",
+   "group": "A. IN para tiempo"
+  },
+  {
+   "en": "in July",
+   "pron": "in yu-LÁI",
+   "es": "en julio",
+   "group": "A. IN para tiempo"
+  },
+  {
+   "en": "in 2026",
+   "pron": "in TWÉN-ti TWÉN-ti SIKS",
+   "es": "en 2026",
+   "group": "A. IN para tiempo"
+  },
+  {
+   "en": "in the summer",
+   "pron": "in dhə SÁ-mer",
+   "es": "en verano",
+   "group": "A. IN para tiempo"
+  },
+  {
+   "en": "in two weeks",
+   "pron": "in tu WIKS",
+   "es": "dentro de dos semanas",
+   "group": "A. IN para tiempo"
+  },
+  {
+   "en": "in a minute",
+   "pron": "in ə MÍ-nit",
+   "es": "en un minuto / ahorita",
+   "group": "A. IN para tiempo"
+  },
+  {
+   "en": "on Monday",
+   "pron": "on MÁN-dei",
+   "es": "el lunes",
+   "group": "B. ON para tiempo"
+  },
+  {
+   "en": "on Mondays",
+   "pron": "on MÁN-deiz",
+   "es": "los lunes (cada lunes)",
+   "group": "B. ON para tiempo"
+  },
+  {
+   "en": "on May 5",
+   "pron": "on mei FÍFTH",
+   "es": "el 5 de mayo",
+   "group": "B. ON para tiempo"
+  },
+  {
+   "en": "on my birthday",
+   "pron": "on mai BÉRTH-dei",
+   "es": "en mi cumpleaños",
+   "group": "B. ON para tiempo"
+  },
+  {
+   "en": "on the weekend",
+   "pron": "on dhə WÍK-end",
+   "es": "el fin de semana",
+   "group": "B. ON para tiempo"
+  },
+  {
+   "en": "on Friday night",
+   "pron": "on FRÁI-dei NAIT",
+   "es": "el viernes en la noche",
+   "group": "B. ON para tiempo"
+  },
+  {
+   "en": "on time",
+   "pron": "on TAIM",
+   "es": "a tiempo, puntual",
+   "group": "B. ON para tiempo"
+  },
+  {
+   "en": "at 7 a.m.",
+   "pron": "ət SÉ-ven ei-ÉM",
+   "es": "a las 7 de la mañana",
+   "group": "C. AT para tiempo"
+  },
+  {
+   "en": "at noon",
+   "pron": "ət NUN",
+   "es": "al mediodía",
+   "group": "C. AT para tiempo"
+  },
+  {
+   "en": "at night",
+   "pron": "ət NAIT",
+   "es": "de noche / en la noche",
+   "group": "C. AT para tiempo"
+  },
+  {
+   "en": "at midnight",
+   "pron": "ət MÍD-nait",
+   "es": "a medianoche",
+   "group": "C. AT para tiempo"
+  },
+  {
+   "en": "at lunchtime",
+   "pron": "ət LÁNCH-taim",
+   "es": "a la hora del almuerzo",
+   "group": "C. AT para tiempo"
+  },
+  {
+   "en": "at the moment",
+   "pron": "ət dhə MÓU-mənt",
+   "es": "en este momento",
+   "group": "C. AT para tiempo"
+  },
+  {
+   "en": "at the end of the month",
+   "pron": "ət dhi END əv dhə MANTH",
+   "es": "a fin de mes",
+   "group": "C. AT para tiempo"
+  },
+  {
+   "en": "in the office",
+   "pron": "in dhi Ó-fis",
+   "es": "en (dentro de) la oficina",
+   "group": "D. IN para lugar"
+  },
+  {
+   "en": "in the tank",
+   "pron": "in dhə TANK",
+   "es": "dentro del tanque",
+   "group": "D. IN para lugar"
+  },
+  {
+   "en": "in Peru",
+   "pron": "in pə-RÚ",
+   "es": "en Perú",
+   "group": "D. IN para lugar"
+  },
+  {
+   "en": "in the car",
+   "pron": "in dhə KAR",
+   "es": "en el auto",
+   "group": "D. IN para lugar"
+  },
+  {
+   "en": "in the meeting room",
+   "pron": "in dhə MÍ-ting rum",
+   "es": "en la sala de reuniones",
+   "group": "D. IN para lugar"
+  },
+  {
+   "en": "in the box",
+   "pron": "in dhə BOKS",
+   "es": "en la caja",
+   "group": "D. IN para lugar"
+  },
+  {
+   "en": "in the picture",
+   "pron": "in dhə PÍK-cher",
+   "es": "en la foto / en la imagen",
+   "group": "D. IN para lugar"
+  },
+  {
+   "en": "on the table",
+   "pron": "on dhə TÉI-bol",
+   "es": "sobre la mesa",
+   "group": "E. ON para lugar"
+  },
+  {
+   "en": "on the wall",
+   "pron": "on dhə WOL",
+   "es": "en la pared",
+   "group": "E. ON para lugar"
+  },
+  {
+   "en": "on the second floor",
+   "pron": "on dhə SÉ-kənd FLOR",
+   "es": "en el segundo piso",
+   "group": "E. ON para lugar"
+  },
+  {
+   "en": "on Main Street",
+   "pron": "on MEIN strit",
+   "es": "en la calle Main",
+   "group": "E. ON para lugar"
+  },
+  {
+   "en": "on the bus",
+   "pron": "on dhə BAS",
+   "es": "en el bus",
+   "group": "E. ON para lugar"
+  },
+  {
+   "en": "on the left / on the right",
+   "pron": "on dhə LEFT / on dhə RAIT",
+   "es": "a la izquierda / a la derecha",
+   "group": "E. ON para lugar"
+  },
+  {
+   "en": "on the drawing",
+   "pron": "on dhə DRÓ-ing",
+   "es": "en el plano",
+   "group": "E. ON para lugar"
+  },
+  {
+   "en": "at home",
+   "pron": "ət JOUM",
+   "es": "en casa",
+   "group": "F. AT para lugar"
+  },
+  {
+   "en": "at work",
+   "pron": "ət WERK",
+   "es": "en el trabajo",
+   "group": "F. AT para lugar"
+  },
+  {
+   "en": "at the site",
+   "pron": "ət dhə SAIT",
+   "es": "en obra",
+   "group": "F. AT para lugar"
+  },
+  {
+   "en": "at the gate",
+   "pron": "ət dhə GUEIT",
+   "es": "en la puerta / el portón",
+   "group": "F. AT para lugar"
+  },
+  {
+   "en": "at the airport",
+   "pron": "ət dhi ÉR-port",
+   "es": "en el aeropuerto",
+   "group": "F. AT para lugar"
+  },
+  {
+   "en": "at 45 Bay Street",
+   "pron": "ət FÓR-ti FAIV BEI strit",
+   "es": "en la calle Bay 45",
+   "group": "F. AT para lugar"
+  },
+  {
+   "en": "at the top / at the bottom",
+   "pron": "ət dhə TOP / ət dhə BÓ-təm",
+   "es": "arriba / abajo (en el extremo)",
+   "group": "F. AT para lugar"
+  },
+  {
+   "en": "under the table",
+   "pron": "ÁN-der dhə TÉI-bol",
+   "es": "debajo de la mesa",
+   "group": "G. Otras preposiciones de lugar"
+  },
+  {
+   "en": "next to the pump",
+   "pron": "NEKS tu dhə PAMP",
+   "es": "al lado de la bomba",
+   "group": "G. Otras preposiciones de lugar"
+  },
+  {
+   "en": "between the tanks",
+   "pron": "bi-TWÍN dhə TANKS",
+   "es": "entre los tanques",
+   "group": "G. Otras preposiciones de lugar"
+  },
+  {
+   "en": "behind the building",
+   "pron": "bi-JÁIND dhə BÍL-ding",
+   "es": "detrás del edificio",
+   "group": "G. Otras preposiciones de lugar"
+  },
+  {
+   "en": "in front of the gate",
+   "pron": "in FRANT əv dhə GUEIT",
+   "es": "delante del portón",
+   "group": "G. Otras preposiciones de lugar"
+  },
+  {
+   "en": "above the door",
+   "pron": "ə-BÁV dhə DOR",
+   "es": "encima de la puerta (sin tocarla)",
+   "group": "G. Otras preposiciones de lugar"
+  },
+  {
+   "en": "near the hotel",
+   "pron": "NIR dhə jou-TÉL",
+   "es": "cerca del hotel",
+   "group": "G. Otras preposiciones de lugar"
+  },
+  {
+   "en": "across from the bank",
+   "pron": "ə-KRÓS from dhə BANK",
+   "es": "enfrente del banco (al otro lado)",
+   "group": "G. Otras preposiciones de lugar"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The safety meeting is on Monday at 7:30 a.m.",
+   "es": "La reunión de seguridad es el lunes a las 7:30 a.m.",
+   "situation": "Agenda de trabajo"
+  },
+  {
+   "en": "The welders are in the tank right now.",
+   "es": "Los soldadores están dentro del tanque ahora.",
+   "situation": "Obra"
+  },
+  {
+   "en": "My office is on the second floor, next to the elevator.",
+   "es": "Mi oficina está en el segundo piso, al lado del ascensor.",
+   "situation": "Oficina"
+  },
+  {
+   "en": "The valve is on the left side of the drawing.",
+   "es": "La válvula está en el lado izquierdo del plano.",
+   "situation": "Plano"
+  },
+  {
+   "en": "My flight arrives in Miami at 6 p.m.",
+   "es": "Mi vuelo llega a Miami a las 6 p.m.",
+   "situation": "Viaje"
+  },
+  {
+   "en": "I'm at the airport, at gate 12.",
+   "es": "Estoy en el aeropuerto, en la puerta 12.",
+   "situation": "Aeropuerto"
+  },
+  {
+   "en": "I go to the gym in the evening.",
+   "es": "Voy al gimnasio en la noche (después del trabajo).",
+   "situation": "Vida diaria"
+  },
+  {
+   "en": "My daughter's birthday is on June 14.",
+   "es": "El cumpleaños de mi hija es el 14 de junio.",
+   "situation": "Familia"
+  },
+  {
+   "en": "I was born in Talara in 1994.",
+   "es": "Nací en Talara en 1994.",
+   "situation": "Historia personal"
+  },
+  {
+   "en": "We're going to sign the contract in March.",
+   "es": "Vamos a firmar el contrato en marzo.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "Let's meet at the restaurant on Grau Avenue at 8.",
+   "es": "Veámonos en el restaurante de la avenida Grau a las 8.",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "Your appointment is on Friday at 10:15.",
+   "es": "Su cita es el viernes a las 10:15.",
+   "situation": "Médico"
+  },
+  {
+   "en": "The bank is across from the hotel, between the pharmacy and the café.",
+   "es": "El banco está enfrente del hotel, entre la farmacia y el café.",
+   "situation": "Banco"
+  },
+  {
+   "en": "I'm on the bus. I'll be there in ten minutes.",
+   "es": "Estoy en el bus. Llego en diez minutos.",
+   "situation": "Transporte"
+  },
+  {
+   "en": "The inspection will be on October 21 at 9:00 a.m. at the main gate.",
+   "es": "La inspección será el 21 de octubre a las 9:00 a.m. en el portón principal.",
+   "situation": "Correo formal"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "The meeting is on Monday.",
+     "The meeting isn't on Monday.",
+     "Is the meeting on Monday?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "He's at the site.",
+     "He isn't at the site.",
+     "Is he at the site?",
+     "Yes, he is. / No, he isn't."
+    ],
+    [
+     "The keys are in the truck.",
+     "The keys aren't in the truck.",
+     "Are the keys in the truck?",
+     "Yes, they are. / No, they aren't."
+    ],
+    [
+     "She works on Saturdays.",
+     "She doesn't work on Saturdays.",
+     "Does she work on Saturdays?",
+     "Yes, she does. / No, she doesn't."
+    ],
+    [
+     "They start at 6 a.m.",
+     "They don't start at 6 a.m.",
+     "Do they start at 6 a.m.?",
+     "Yes, they do. / No, they don't."
+    ],
+    [
+     "You were at home yesterday.",
+     "You weren't at home yesterday.",
+     "Were you at home yesterday?",
+     "Yes, I was. / No, I wasn't."
+    ],
+    [
+     "The truck arrived on time.",
+     "The truck didn't arrive on time.",
+     "Did the truck arrive on time?",
+     "Yes, it did. / No, it didn't."
+    ],
+    [
+     "We're going to travel in July.",
+     "We aren't going to travel in July.",
+     "Are we going to travel in July?",
+     "Yes, we are. / No, we aren't."
+    ],
+    [
+     "The pump is behind the tank.",
+     "The pump isn't behind the tank.",
+     "Is the pump behind the tank?",
+     "Yes, it is. / No, it isn't."
+    ],
+    [
+     "I can park in front of the gate.",
+     "I can't park in front of the gate.",
+     "Can I park in front of the gate?",
+     "Yes, you can. / No, you can't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Edwin",
+   "text": "Good morning. Where is the safety office?"
+  },
+  {
+   "who": "Priya",
+   "text": "It's on the first floor, next to the cafeteria."
+  },
+  {
+   "who": "Edwin",
+   "text": "Thanks. And when is the induction?"
+  },
+  {
+   "who": "Priya",
+   "text": "It's at nine o'clock in the training room."
+  },
+  {
+   "who": "Edwin",
+   "text": "Is the training room on this floor too?"
+  },
+  {
+   "who": "Priya",
+   "text": "No, it's on the second floor, at the end of the hall."
+  },
+  {
+   "who": "Edwin",
+   "text": "Great. Do we work on Saturdays here?"
+  },
+  {
+   "who": "Priya",
+   "text": "Only in the morning. We start at seven and finish at noon."
+  },
+  {
+   "who": "Edwin",
+   "text": "And where can I get my helmet and boots?"
+  },
+  {
+   "who": "Priya",
+   "text": "At the warehouse. It's behind the main building, across from the parking lot."
+  },
+  {
+   "who": "Edwin",
+   "text": "Perfect. Thanks a lot!"
+  },
+  {
+   "who": "Priya",
+   "text": "You're welcome. See you at lunchtime!"
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "I was born on 1994.",
+   "right": "I was born in 1994.",
+   "why": "Años y meses van con in."
+  },
+  {
+   "wrong": "The meeting is in Monday.",
+   "right": "The meeting is on Monday.",
+   "why": "Días de la semana y fechas van con on."
+  },
+  {
+   "wrong": "See you in 5 p.m.",
+   "right": "See you at 5 p.m.",
+   "why": "Horas exactas van con at."
+  },
+  {
+   "wrong": "I work in the night.",
+   "right": "I work at night.",
+   "why": "Night es la excepción: at night, sin the."
+  },
+  {
+   "wrong": "She's in home.",
+   "right": "She's at home.",
+   "why": "Lugar de actividad: at home, sin artículo."
+  },
+  {
+   "wrong": "My office is in the third floor.",
+   "right": "My office is on the third floor.",
+   "why": "Los pisos de un edificio son superficies: on."
+  },
+  {
+   "wrong": "We'll finish on next Friday.",
+   "right": "We'll finish next Friday.",
+   "why": "Con next, last, this, every no hay preposición."
+  },
+  {
+   "wrong": "I arrived to Lima yesterday.",
+   "right": "I arrived in Lima yesterday.",
+   "why": "Arrive nunca va con to: arrive in (ciudad, país) / arrive at (lugar concreto)."
+  },
+  {
+   "wrong": "He lives in 45 Bay Street.",
+   "right": "He lives at 45 Bay Street.",
+   "why": "Dirección con número = punto exacto: at. Sin número: on Bay Street."
+  },
+  {
+   "wrong": "The poster is in the wall.",
+   "right": "The poster is on the wall.",
+   "why": "Lo que cuelga o se pega en una superficie: on."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "on time / in time",
+   "looks": "\"a tiempo\" (igual)",
+   "means": "on time = puntual, a la hora fijada; in time = con margen, antes de que sea tarde",
+   "fix": "The train left on time. We arrived in time for dinner."
+  },
+  {
+   "en": "in front of",
+   "looks": "\"enfrente de\"",
+   "means": "delante de (mismo lado)",
+   "fix": "The truck is in front of the gate."
+  },
+  {
+   "en": "across from",
+   "looks": "\"a través de\"",
+   "means": "enfrente, al otro lado de la calle",
+   "fix": "The bank is across from the hotel."
+  },
+  {
+   "en": "in the corner / on the corner",
+   "looks": "\"en la esquina\" (igual)",
+   "means": "in = rincón de un cuarto; on = esquina de la calle",
+   "fix": "The cabinet is in the corner. The café is on the corner."
+  },
+  {
+   "en": "at the end of / in the end",
+   "looks": "\"al final\" (igual)",
+   "means": "at the end of + algo = al final de; in the end = finalmente",
+   "fix": "It's at the end of the hall. In the end, we fixed it."
+  },
+  {
+   "en": "in two weeks / for two weeks",
+   "looks": "\"en dos semanas\"",
+   "means": "in = dentro de (futuro); for = durante",
+   "fix": "I'm going to travel in two weeks. I'll be there for two weeks."
+  },
+  {
+   "en": "next to / near",
+   "looks": "\"cerca\" (igual)",
+   "means": "next to = al lado, pegado; near = cerca, a poca distancia",
+   "fix": "The pump is next to the tank. The hotel is near the port."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "La reunión es el lunes a las 9.",
+    "answers": [
+     "The meeting is on Monday at 9.",
+     "The meeting is at 9 on Monday."
+    ],
+    "explain": "Día → on; hora → at. También vale at 9 on Monday."
+   },
+   {
+    "prompt": "Nací en 1995.",
+    "answers": [
+     "I was born in 1995."
+    ],
+    "explain": "Años → in. \"Nací\" = I was born (pasado de be, Módulo 8)."
+   },
+   {
+    "prompt": "Mi oficina está en el tercer piso.",
+    "answers": [
+     "My office is on the third floor."
+    ],
+    "explain": "Pisos de un edificio → on."
+   },
+   {
+    "prompt": "Ellos trabajan de noche.",
+    "answers": [
+     "They work at night."
+    ],
+    "explain": "Excepción fija: at night, sin artículo."
+   },
+   {
+    "prompt": "Los planos están en la caja, debajo de la mesa.",
+    "answers": [
+     "The drawings are in the box, under the table."
+    ],
+    "explain": "Dentro de un contenedor → in; debajo → under."
+   },
+   {
+    "prompt": "¿Estás en casa?",
+    "answers": [
+     "Are you at home?",
+     "Are you home?"
+    ],
+    "explain": "Lugar de actividad sin artículo → at home. También vale Are you home?"
+   },
+   {
+    "prompt": "Vivimos en Lima, en la avenida Grau.",
+    "answers": [
+     "We live in Lima, on Grau Avenue.",
+     "We live in Lima, on Avenida Grau."
+    ],
+    "explain": "Ciudad → in; calle o avenida sin número → on."
+   },
+   {
+    "prompt": "Llego al aeropuerto en la tarde.",
+    "answers": [
+     "I arrive at the airport in the afternoon.",
+     "I get to the airport in the afternoon.",
+     "I'm going to arrive at the airport in the afternoon.",
+     "I am going to arrive at the airport in the afternoon."
+    ],
+    "explain": "Lugar concreto con arrive → at; parte del día → in. También vale I get to the airport… o, como plan, I'm going to arrive at the airport in the afternoon."
+   },
+   {
+    "prompt": "Tengo un examen el próximo viernes.",
+    "answers": [
+     "I have an exam next Friday."
+    ],
+    "explain": "Con next no hay preposición: nunca on next Friday."
+   },
+   {
+    "prompt": "Hay un letrero en la pared, al lado de la puerta.",
+    "answers": [
+     "There's a sign on the wall, next to the door.",
+     "There is a sign on the wall, next to the door."
+    ],
+    "explain": "En una superficie → on; al lado → next to. There's = hay (Módulo 2)."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "The welders start at 6 a.m. on weekdays.",
+    "answers": [
+     "Los soldadores empiezan a las 6 a.m. de lunes a viernes.",
+     "Los soldadores empiezan a las 6 a.m. entre semana.",
+     "Los soldadores empiezan a las 6 de la mañana los días de semana."
+    ],
+    "explain": "On weekdays = los días de semana / entre semana."
+   },
+   {
+    "prompt": "She's on the bus now.",
+    "answers": [
+     "Ella está en el bus ahora.",
+     "Ella está en el autobús ahora.",
+     "Ahora ella está en el bus."
+    ],
+    "explain": "Transporte público → on en inglés; en español, \"en\"."
+   },
+   {
+    "prompt": "The inspection is in two weeks.",
+    "answers": [
+     "La inspección es dentro de dos semanas.",
+     "La inspección es en dos semanas.",
+     "La inspección será dentro de dos semanas."
+    ],
+    "explain": "In + plazo = dentro de (no \"durante\")."
+   },
+   {
+    "prompt": "Is the pump behind the tank?",
+    "answers": [
+     "¿La bomba está detrás del tanque?",
+     "¿Está la bomba detrás del tanque?"
+    ],
+    "explain": "Behind = detrás de."
+   },
+   {
+    "prompt": "Please be at the gate on time.",
+    "answers": [
+     "Por favor, esté en el portón a la hora.",
+     "Por favor, estén en el portón a la hora.",
+     "Por favor, esté puntual en el portón.",
+     "Por favor, estén puntuales en el portón."
+    ],
+    "explain": "On time = a la hora fijada, puntual."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "The meeting is in Monday.",
+    "answers": [
+     "The meeting is on Monday."
+    ],
+    "explain": "Día de la semana → on, no in."
+   },
+   {
+    "prompt": "I start work on 7 a.m.",
+    "answers": [
+     "I start work at 7 a.m."
+    ],
+    "explain": "Hora exacta → at."
+   },
+   {
+    "prompt": "She was born on 1990.",
+    "answers": [
+     "She was born in 1990."
+    ],
+    "explain": "Año → in."
+   },
+   {
+    "prompt": "My wife is in home now.",
+    "answers": [
+     "My wife is at home now."
+    ],
+    "explain": "Lugar de actividad → at home, sin artículo."
+   },
+   {
+    "prompt": "See you on next week.",
+    "answers": [
+     "See you next week."
+    ],
+    "explain": "Con next se elimina la preposición."
+   },
+   {
+    "prompt": "My office is in the second floor.",
+    "answers": [
+     "My office is on the second floor."
+    ],
+    "explain": "Piso de un edificio → on."
+   },
+   {
+    "prompt": "He lives at Peru.",
+    "answers": [
+     "He lives in Peru."
+    ],
+    "explain": "País → in."
+   },
+   {
+    "prompt": "I study in the night.",
+    "answers": [
+     "I study at night."
+    ],
+    "explain": "Excepción: at night, sin the."
+   },
+   {
+    "prompt": "The clock is in the wall.",
+    "answers": [
+     "The clock is on the wall."
+    ],
+    "explain": "Colgado en una superficie → on."
+   },
+   {
+    "prompt": "We arrive to the airport at 5.",
+    "answers": [
+     "We arrive at the airport at 5."
+    ],
+    "explain": "Arrive + lugar concreto → at; nunca arrive to."
+   }
+  ],
+  "bonus": {
+   "prompt": "Convierte a negativo y a pregunta: The tools are in the truck.",
+   "answer": "The tools aren't in the truck. / Are the tools in the truck?"
+  },
+  "C1": {
+   "instructions": "Completa la llamada con in, on o at.",
+   "lines": [
+    {
+     "who": "Client",
+     "text": "Hi Edwin. Are you free [1] Thursday?"
+    },
+    {
+     "who": "You",
+     "text": "Yes, I am. My flight arrives [2] Nassau [3] Wednesday night."
+    },
+    {
+     "who": "Client",
+     "text": "Great. Can we meet [4] 10 o'clock [5] the morning?"
+    },
+    {
+     "who": "You",
+     "text": "Sure. Where is your office?"
+    },
+    {
+     "who": "Client",
+     "text": "It's [6] Bay Street, next to the bank. We're [7] the third floor."
+    },
+    {
+     "who": "You",
+     "text": "Perfect. I'll call you when I'm [8] the lobby."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "on"
+     ],
+     "explain": "Día de la semana → on Thursday."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "in"
+     ],
+     "explain": "Arrive + ciudad → in Nassau."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "on"
+     ],
+     "explain": "Día + parte del día → on Wednesday night (el día manda)."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "at"
+     ],
+     "explain": "Hora exacta → at 10 o'clock."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "in"
+     ],
+     "explain": "Parte del día → in the morning."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "on"
+     ],
+     "explain": "Calle sin número → on Bay Street."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "on"
+     ],
+     "explain": "Piso → on the third floor."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "in"
+     ],
+     "explain": "Dentro del vestíbulo (espacio cerrado) → in the lobby."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo. Escribe 6 a 8 oraciones a Sarah, una nueva compañera, con los datos de su primera reunión: (a) el día, con ON; (b) la hora, con AT; (c) el edificio o la ciudad, con IN; (d) la calle o el piso, con ON; (e) dos preposiciones de lugar distintas (next to, behind, between, in front of, under, across from); (f) qué debe traer y dónde está; (g) una pregunta.",
+   "rubric": [
+    "(a) El día, con ON",
+    "(b) La hora, con AT",
+    "(c) El edificio o la ciudad, con IN",
+    "(d) La calle o el piso, con ON",
+    "(e) Dos preposiciones de lugar distintas (next to, behind, between, in front of, under, across from)",
+    "(f) Qué debe traer y dónde está",
+    "(g) Una pregunta"
+   ],
+   "model": "Hi Sarah,\nWelcome to the team! Our first meeting is on Tuesday at 9:00 a.m. The office is in the Harbor Building, on Pier Road. We're on the third floor, next to the elevator. Please bring your ID and your safety boots. You can get the boots at the warehouse, behind the main building. Can you send me your phone number? See you on Tuesday!\nEdwin"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Decir horas, días, fechas, meses y años con in / on / at.",
+   "test": "Di en voz alta en 1 minuto: tu hora de entrada, tu cumpleaños, el mes de tus vacaciones, tu año de nacimiento y 6 más. 10 de 10 correctas."
+  },
+  {
+   "skill": "Describir dónde están las cosas en un cuarto.",
+   "test": "Mira tu oficina o tu cuarto y di 8 oraciones con al menos 6 preposiciones distintas en 90 segundos."
+  },
+  {
+   "skill": "Dar mi dirección completa.",
+   "test": "Escribe tu dirección con in (ciudad), on (calle) y at (número). Cero errores."
+  },
+  {
+   "skill": "Usar next / last / this / every sin preposición.",
+   "test": "Traduce 5 frases (el próximo lunes, el año pasado, esta tarde, cada viernes, mañana). 5 de 5 sin in/on/at."
+  },
+  {
+   "skill": "Preguntar con When / What time / Where y responder corto.",
+   "test": "Grábate: 5 preguntas y 5 respuestas cortas (On Monday. At 9.) en menos de 1 minuto."
+  },
+  {
+   "skill": "Escribir un correo para acordar una cita.",
+   "test": "Redacta un correo con día, hora, edificio, piso y una pregunta; compáralo con el modelo C2: 7 de 7 elementos."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "What time do you start work?",
+  "Where do you live?",
+  "What do you usually do on weekends?",
+  "When is your birthday?",
+  "Where is your office?",
+  "What do you usually do in the evening?"
+ ]
+}

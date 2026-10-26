@@ -1,0 +1,98 @@
+{
+ "id": 33,
+ "topic": "Inglés técnico y reportes",
+ "title": "My Daily Progress Report",
+ "practice": "Reporte de práctica (datos de ejemplo). Léelo 3 veces y luego escríbelo de memoria.",
+ "rows": [
+  {
+   "en": "**Daily Progress Report**: work on {project}",
+   "es": "Reporte diario de avance: trabajos de {project_es}"
+  },
+  {
+   "en": "Prepared by: {name}, {company}",
+   "es": "Preparado por: {name}, {company}"
+  },
+  {
+   "en": "**Work completed to date**: four of six tasks.",
+   "es": "Trabajo realizado a la fecha: cuatro de seis tareas."
+  },
+  {
+   "en": "All the results **were checked** by the team leader.",
+   "es": "El jefe de equipo revisó todos los resultados."
+  },
+  {
+   "en": "Per the procedure, all final documents **shall be** reviewed before delivery.",
+   "es": "Según el procedimiento, todos los documentos finales deberán revisarse antes de la entrega."
+  },
+  {
+   "en": "The **review** of items 1 to 10 showed no errors.",
+   "es": "La revisión de los ítems 1 al 10 no mostró errores."
+  },
+  {
+   "en": "**An error was found** in item 12.",
+   "es": "Se encontró un error en el ítem 12."
+  },
+  {
+   "en": "Issue report IR-01 **was raised**. **Action required**: correction.",
+   "es": "Se emitió el reporte de incidencia IR-01. Acción requerida: corrección."
+  },
+  {
+   "en": "**Team leader to re-check** item 12 after the correction.",
+   "es": "El jefe de equipo deberá volver a revisar el ítem 12 después de la corrección."
+  },
+  {
+   "en": "**Planned for tomorrow**: review of the remaining items.",
+   "es": "Programado para mañana: revisión de los ítems restantes."
+  },
+  {
+   "en": "**No safety incidents were reported.**",
+   "es": "No se reportaron incidentes de seguridad."
+  }
+ ],
+ "dialogTitle": "Diálogo con el supervisor (al hablar se usa have to)",
+ "dialog": [
+  {
+   "who": "Supervisor",
+   "text": "Is the final review required before delivery?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, it is. Per the procedure, we can't deliver until you approve it."
+  },
+  {
+   "who": "Supervisor",
+   "text": "Do we have to re-check item 12 after the correction?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, we do. Any corrected item has to be re-checked."
+  },
+  {
+   "who": "Supervisor",
+   "text": "Should the supporting documents go in the final package?"
+  },
+  {
+   "who": "{name}",
+   "text": "Yes, they should. I'll add them before we close out {project}."
+  }
+ ],
+ "pron": [
+  {
+   "en": "work completed to date",
+   "pron": "werk kəm-PLÍ-tid tə DEIT"
+  },
+  {
+   "en": "planned for tomorrow",
+   "pron": "pland for tə-MÓ-rou"
+  },
+  {
+   "en": "No safety incidents were reported.",
+   "pron": "nou SÉIF-ti ÍN-si-dənts wer ri-PÓR-tid"
+  },
+  {
+   "en": "Daily Progress Report: work on {project}",
+   "pron": ""
+  }
+ ],
+ "check": "Escribo de memoria un reporte de 8 líneas sobre mi propio trabajo en 15 minutos, uso shall solo para requisitos y no tengo ni un error de pasiva, unidades o vocabulario."
+}

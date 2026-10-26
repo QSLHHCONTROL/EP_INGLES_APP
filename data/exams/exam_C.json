@@ -1,0 +1,996 @@
+{
+ "id": "C",
+ "title": "Examen final C1",
+ "goal": "Demuestra que puedes pasar una entrevista de trabajo en inglés y escribir una propuesta técnica que un cliente apruebe, usando todo lo aprendido en los módulos 27 al 36: inversión, subjuntivo, idioms, collocations, hedging, registro técnico, escritura profesional y entrevistas.",
+ "pass": 80,
+ "total": 100,
+ "time": "2 h 30 min + 15 min de grabación",
+ "rules": [
+  "Sin libro, sin traductor, sin diccionario. Si no sabes algo, déjalo en blanco: el examen te dice qué repasar.",
+  "Un ítem vale su punto solo si está completamente correcto, ortografía incluida. En C1 no hay \"casi bien\".",
+  "Corrige con la clave al día siguiente, no el mismo día. Para las Partes 4 y 5, si puedes, pide a otra persona que te puntúe también."
+ ],
+ "parts": [
+  {
+   "title": "Parte 1 — Uso del idioma",
+   "points": 30,
+   "instructions": "1.1 (ítems 1–15): elige la opción más adecuada. 1.2 (ítems 16–30): completa con una palabra, o con la forma correcta del verbo entre paréntesis. 1 punto cada uno.",
+   "items": [
+    {
+     "type": "choice",
+     "n": 1,
+     "prompt": "Not only ___ the deadline, but we also came in under budget.",
+     "options": [
+      "we met",
+      "did we meet",
+      "we did meet"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Not only al inicio exige inversión: auxiliar + sujeto + verbo.",
+     "module": 27
+    },
+    {
+     "type": "choice",
+     "n": 2,
+     "prompt": "Never ___ such severe corrosion on a tank this new.",
+     "options": [
+      "I have seen",
+      "have I seen",
+      "I saw"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Adverbio negativo al inicio (Never) → inversión con el auxiliar have.",
+     "module": 27
+    },
+    {
+     "type": "choice",
+     "n": 3,
+     "prompt": "Had we known about the leak, we ___ the tank earlier.",
+     "options": [
+      "would have isolated",
+      "would isolate",
+      "had isolated"
+     ],
+     "answer": 0,
+     "points": 1,
+     "explain": "Had we known = If we had known (condicional 3, Módulo 19) → would have + participio.",
+     "module": 27
+    },
+    {
+     "type": "choice",
+     "n": 4,
+     "prompt": "___ any further damage be found, we will submit a revised quotation.",
+     "options": [
+      "If",
+      "Should",
+      "Were"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Should + sujeto + verbo base = If formal. If exigiría is found; Were exigiría to be found.",
+     "module": 27
+    },
+    {
+     "type": "choice",
+     "n": 5,
+     "prompt": "The inspector insisted that the weld ___ re-tested.",
+     "options": [
+      "is",
+      "be",
+      "was being"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Después de insist that va el subjuntivo: verbo base, igual para todas las personas.",
+     "module": 28
+    },
+    {
+     "type": "choice",
+     "n": 6,
+     "prompt": "It is essential that every operator ___ the permit before starting work.",
+     "options": [
+      "signs",
+      "sign",
+      "signed"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "It is essential that + subjuntivo: sign, sin -s.",
+     "module": 28
+    },
+    {
+     "type": "choice",
+     "n": 7,
+     "prompt": "If I ___ in your position, I would negotiate the relocation package.",
+     "options": [
+      "am",
+      "were",
+      "be"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Hipótesis irreal: If I were (forma formal y estándar del subjuntivo pasado).",
+     "module": 28
+    },
+    {
+     "type": "choice",
+     "n": 8,
+     "prompt": "Let's not reinvent the ___; we can reuse last year's procedure.",
+     "options": [
+      "wheel",
+      "circle",
+      "tire"
+     ],
+     "answer": 0,
+     "points": 1,
+     "explain": "Reinvent the wheel = hacer desde cero algo que ya existe.",
+     "module": 29
+    },
+    {
+     "type": "choice",
+     "n": 9,
+     "prompt": "I'll touch ___ with you next week about the schedule.",
+     "options": [
+      "ground",
+      "base",
+      "point"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Touch base = ponerse en contacto brevemente para actualizar.",
+     "module": 29
+    },
+    {
+     "type": "choice",
+     "n": 10,
+     "prompt": "The subcontractor ___ a serious mistake in the material take-off.",
+     "options": [
+      "did",
+      "made",
+      "took"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Collocation fija: make a mistake, nunca do a mistake.",
+     "module": 30
+    },
+    {
+     "type": "choice",
+     "n": 11,
+     "prompt": "We need to ___ a risk assessment before the crane lift.",
+     "options": [
+      "carry out",
+      "make up",
+      "take on"
+     ],
+     "answer": 0,
+     "points": 1,
+     "explain": "Carry out an assessment / inspection / test = realizar.",
+     "module": 30
+    },
+    {
+     "type": "choice",
+     "n": 12,
+     "prompt": "The cracks ___ to be caused by fatigue, but further testing is needed.",
+     "options": [
+      "look like",
+      "appear",
+      "must"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Appear to be suaviza la afirmación. Look like to be y must to be son agramaticales.",
+     "module": 32
+    },
+    {
+     "type": "choice",
+     "n": 13,
+     "prompt": "___, the readings suggest that the coating has failed locally.",
+     "options": [
+      "Definitely",
+      "As far as we can tell",
+      "Obviously"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Coherente con suggest: ambos expresan cautela. Definitely y Obviously contradicen el hedging.",
+     "module": 32
+    },
+    {
+     "type": "choice",
+     "n": 14,
+     "prompt": "All welds shall be examined ___ ASME Section V.",
+     "options": [
+      "according",
+      "in accordance with",
+      "in according to"
+     ],
+     "answer": 1,
+     "points": 1,
+     "explain": "Fórmula fija de especificación. According to también existe, pero se usa para citar fuentes de información, no requisitos.",
+     "module": 33
+    },
+    {
+     "type": "choice",
+     "n": 15,
+     "prompt": "The minimum shell thickness is ___ in the design code.",
+     "options": [
+      "specified",
+      "told",
+      "said"
+     ],
+     "answer": 0,
+     "points": 1,
+     "explain": "Un código specifies (establece) un requisito. Told y said no se usan para normas.",
+     "module": 33
+    },
+    {
+     "type": "write",
+     "n": 16,
+     "prompt": "Rarely ___ contractors finish a shutdown ahead of schedule.",
+     "answers": [
+      "do",
+      "Rarely do contractors finish a shutdown ahead of schedule."
+     ],
+     "points": 1,
+     "explain": "Rarely al inicio → inversión con do (presente, sujeto plural).",
+     "module": 27
+    },
+    {
+     "type": "write",
+     "n": 17,
+     "prompt": "Only after the hydrotest ___ the tank be returned to service.",
+     "answers": [
+      "can",
+      "may",
+      "must",
+      "should",
+      "will",
+      "Only after the hydrotest can the tank be returned to service.",
+      "Only after the hydrotest may the tank be returned to service.",
+      "Only after the hydrotest must the tank be returned to service.",
+      "Only after the hydrotest should the tank be returned to service.",
+      "Only after the hydrotest will the tank be returned to service."
+     ],
+     "points": 1,
+     "explain": "Only after… → inversión en la oración principal: modal + sujeto + verbo.",
+     "module": 27
+    },
+    {
+     "type": "write",
+     "n": 18,
+     "prompt": "Little ___ we know that the client had already chosen another supplier.",
+     "answers": [
+      "did",
+      "Little did we know that the client had already chosen another supplier."
+     ],
+     "points": 1,
+     "explain": "Little did we know = no teníamos ni idea. Pasado → did.",
+     "module": 27
+    },
+    {
+     "type": "write",
+     "n": 19,
+     "prompt": "The client has requested that the final report ___ (submit) by Friday.",
+     "answers": [
+      "be submitted",
+      "The client has requested that the final report be submitted by Friday."
+     ],
+     "points": 1,
+     "explain": "Request that + subjuntivo pasivo: be + participio.",
+     "module": 28
+    },
+    {
+     "type": "write",
+     "n": 20,
+     "prompt": "___ it not for your support, we would not be able to finish on time.",
+     "answers": [
+      "Were",
+      "Were it not for your support, we would not be able to finish on time."
+     ],
+     "points": 1,
+     "explain": "Were it not for = si no fuera por (inversión formal de If it were not for), con consecuencia presente: we would not be able.",
+     "module": 28
+    },
+    {
+     "type": "write",
+     "n": 21,
+     "prompt": "It's high time we ___ (update) the inspection procedure.",
+     "answers": [
+      "updated",
+      "It's high time we updated the inspection procedure.",
+      "It is high time we updated the inspection procedure."
+     ],
+     "points": 1,
+     "explain": "It's high time + pasado simple con sentido presente: ya deberíamos hacerlo.",
+     "module": 28
+    },
+    {
+     "type": "write",
+     "n": 22,
+     "prompt": "The new control valve costs an ___ and a leg.",
+     "answers": [
+      "arm",
+      "The new control valve costs an arm and a leg."
+     ],
+     "points": 1,
+     "explain": "Cost an arm and a leg = costar un ojo de la cara.",
+     "module": 29
+    },
+    {
+     "type": "write",
+     "n": 23,
+     "prompt": "After the meeting, we're all on the same ___ about the schedule.",
+     "answers": [
+      "page",
+      "After the meeting, we're all on the same page about the schedule.",
+      "After the meeting, we are all on the same page about the schedule."
+     ],
+     "points": 1,
+     "explain": "Be on the same page = estar de acuerdo, tener la misma información.",
+     "module": 29
+    },
+    {
+     "type": "write",
+     "n": 24,
+     "prompt": "It's 8 p.m. Let's call it a ___ and continue tomorrow.",
+     "answers": [
+      "day",
+      "It's 8 p.m. Let's call it a day and continue tomorrow.",
+      "It is 8 p.m. Let's call it a day and continue tomorrow."
+     ],
+     "points": 1,
+     "explain": "Call it a day = dar por terminada la jornada.",
+     "module": 29
+    },
+    {
+     "type": "write",
+     "n": 25,
+     "prompt": "Northshore has a strong ___ record in tank repair.",
+     "answers": [
+      "track",
+      "Northshore has a strong track record in tank repair."
+     ],
+     "points": 1,
+     "explain": "Track record = historial comprobado de resultados.",
+     "module": 30
+    },
+    {
+     "type": "write",
+     "n": 26,
+     "prompt": "The design must ___ all the requirements of API 650.",
+     "answers": [
+      "meet",
+      "satisfy",
+      "fulfill",
+      "fulfil",
+      "The design must meet all the requirements of API 650.",
+      "The design must satisfy all the requirements of API 650.",
+      "The design must fulfill all the requirements of API 650.",
+      "The design must fulfil all the requirements of API 650."
+     ],
+     "points": 1,
+     "explain": "Collocation: meet the requirements. Comply necesitaría with.",
+     "module": 30
+    },
+    {
+     "type": "write",
+     "n": 27,
+     "prompt": "It ___ be worth checking the foundation as well. (hedging)",
+     "answers": [
+      "might",
+      "may",
+      "could",
+      "would",
+      "It might be worth checking the foundation as well.",
+      "It may be worth checking the foundation as well.",
+      "It could be worth checking the foundation as well.",
+      "It would be worth checking the foundation as well."
+     ],
+     "points": 1,
+     "explain": "Modal de posibilidad para sugerir sin imponer.",
+     "module": 32
+    },
+    {
+     "type": "write",
+     "n": 28,
+     "prompt": "I'm not entirely ___ that this solution will work. (hedging)",
+     "answers": [
+      "sure",
+      "convinced",
+      "certain",
+      "I'm not entirely sure that this solution will work.",
+      "I am not entirely sure that this solution will work.",
+      "I'm not entirely convinced that this solution will work.",
+      "I am not entirely convinced that this solution will work.",
+      "I'm not entirely certain that this solution will work.",
+      "I am not entirely certain that this solution will work."
+     ],
+     "points": 1,
+     "explain": "I'm not entirely sure = desacuerdo suave y diplomático.",
+     "module": 32
+    },
+    {
+     "type": "write",
+     "n": 29,
+     "prompt": "All welds ___ be visually inspected. (lenguaje de especificación)",
+     "answers": [
+      "shall",
+      "must",
+      "All welds shall be visually inspected.",
+      "All welds must be visually inspected."
+     ],
+     "points": 1,
+     "explain": "En especificaciones, shall expresa un requisito obligatorio.",
+     "module": 33
+    },
+    {
+     "type": "write",
+     "n": 30,
+     "prompt": "Scaffolding is excluded from our price and will be provided by ___.",
+     "answers": [
+      "others",
+      "Scaffolding is excluded from our price and will be provided by others."
+     ],
+     "points": 1,
+     "explain": "By others = a cargo de terceros; fórmula estándar de exclusión.",
+     "module": 35
+    }
+   ]
+  },
+  {
+   "title": "Parte 2 — Reformulación y traducción",
+   "points": 20,
+   "instructions": "2.1 (ítems 31–40): reformula; escribe una oración con el mismo significado usando la palabra en MAYÚSCULAS, sin cambiarla. 2.2 (ítems 41–46): español → inglés, registro formal. 2.3 (ítems 47–50): inglés → español; traduce el sentido, no palabra por palabra. 1 punto cada una.",
+   "items": [
+    {
+     "type": "write",
+     "n": 31,
+     "prompt": "We have never had such a serious incident. NEVER (al inicio)",
+     "answers": [
+      "Never have we had such a serious incident."
+     ],
+     "points": 1,
+     "explain": "Adverbio negativo al inicio + inversión con have.",
+     "module": 27
+    },
+    {
+     "type": "write",
+     "n": 32,
+     "prompt": "As soon as the tank was drained, the inspection began. NO SOONER",
+     "answers": [
+      "No sooner had the tank been drained than the inspection began."
+     ],
+     "points": 1,
+     "explain": "No sooner + pasado perfecto invertido + than (nunca when).",
+     "module": 27
+    },
+    {
+     "type": "write",
+     "n": 33,
+     "prompt": "If we had received the drawings earlier, we would have finished on time. HAD",
+     "answers": [
+      "Had we received the drawings earlier, we would have finished on time."
+     ],
+     "points": 1,
+     "explain": "Se elimina if y se invierte had + sujeto.",
+     "module": 27
+    },
+    {
+     "type": "write",
+     "n": 34,
+     "prompt": "The manager says all visitors must wear a hard hat. INSISTS",
+     "answers": [
+      "The manager insists that all visitors wear a hard hat.",
+      "The manager insists all visitors wear a hard hat.",
+      "The manager insists on all visitors wearing a hard hat."
+     ],
+     "points": 1,
+     "explain": "Insist that + subjuntivo (wear, sin must). También vale insists on all visitors wearing…",
+     "module": 28
+    },
+    {
+     "type": "write",
+     "n": 35,
+     "prompt": "We recommend that you replace the gasket. RECOMMENDED",
+     "answers": [
+      "It is recommended that the gasket be replaced.",
+      "It is recommended that you replace the gasket."
+     ],
+     "points": 1,
+     "explain": "Estructura impersonal + subjuntivo pasivo. También vale It is recommended that you replace the gasket.",
+     "module": 28
+    },
+    {
+     "type": "write",
+     "n": 36,
+     "prompt": "The pipe is definitely corroded. APPEARS (suaviza la afirmación)",
+     "answers": [
+      "The pipe appears to be corroded.",
+      "It appears that the pipe is corroded."
+     ],
+     "points": 1,
+     "explain": "Appear to be suaviza una afirmación que aún no está confirmada. También: It appears that the pipe is corroded.",
+     "module": 32
+    },
+    {
+     "type": "write",
+     "n": 37,
+     "prompt": "Your price is too high for us. SLIGHTLY (diplomático)",
+     "answers": [
+      "Your price is slightly above our budget.",
+      "Your price seems slightly high for us.",
+      "Your price is slightly higher than we expected.",
+      "Your price is slightly high for us.",
+      "Your price seems slightly above our budget."
+     ],
+     "points": 1,
+     "explain": "Se acepta cualquier versión diplomática con slightly (Your price seems slightly high for us, is slightly higher than we expected).",
+     "module": 32
+    },
+    {
+     "type": "write",
+     "n": 38,
+     "prompt": "The new compressor was extremely expensive. ARM",
+     "answers": [
+      "The new compressor cost an arm and a leg."
+     ],
+     "points": 1,
+     "explain": "Idiom informal de precio muy alto; cost es irregular (cost – cost – cost).",
+     "module": 29
+    },
+    {
+     "type": "write",
+     "n": 39,
+     "prompt": "We investigated the cause of the failure. CARRIED",
+     "answers": [
+      "We carried out an investigation into the cause of the failure."
+     ],
+     "points": 1,
+     "explain": "Verbo + sustantivo: carry out an investigation into.",
+     "module": 30
+    },
+    {
+     "type": "write",
+     "n": 40,
+     "prompt": "We'll finish the job in 21 days. COMPLETED (registro de propuesta)",
+     "answers": [
+      "The work will be completed within 21 days.",
+      "The work will be completed in 21 days.",
+      "The job will be completed within 21 days.",
+      "The job will be completed in 21 days."
+     ],
+     "points": 1,
+     "explain": "Registro de propuesta: pasiva, sin contracción. También vale in 21 days.",
+     "module": 33
+    },
+    {
+     "type": "write",
+     "n": 41,
+     "prompt": "Bajo ninguna circunstancia se debe soldar sin permiso.",
+     "answers": [
+      "Under no circumstances should anyone weld without a permit.",
+      "Under no circumstances should welding be carried out without a permit."
+     ],
+     "points": 1,
+     "explain": "Expresión negativa al inicio → inversión con should. También vale Under no circumstances should welding be carried out without a permit.",
+     "module": 27
+    },
+    {
+     "type": "write",
+     "n": 42,
+     "prompt": "Es fundamental que el inspector esté presente durante la prueba.",
+     "answers": [
+      "It is essential that the inspector be present during the test."
+     ],
+     "points": 1,
+     "explain": "Subjuntivo: be, no is.",
+     "module": 28
+    },
+    {
+     "type": "write",
+     "n": 43,
+     "prompt": "Al parecer, el problema se debe a una mala compactación del suelo.",
+     "answers": [
+      "It appears that the problem is due to poor soil compaction.",
+      "Apparently, the problem is due to poor soil compaction.",
+      "Apparently the problem is due to poor soil compaction."
+     ],
+     "points": 1,
+     "explain": "\"Al parecer\" = It appears that / apparently. \"Se debe a\" = is due to.",
+     "module": 32
+    },
+    {
+     "type": "write",
+     "n": 44,
+     "prompt": "Nos complace presentar nuestra propuesta para el reemplazo de la válvula.",
+     "answers": [
+      "We are pleased to submit our proposal for the replacement of the valve.",
+      "We are pleased to present our proposal for the replacement of the valve."
+     ],
+     "points": 1,
+     "explain": "Fórmula estándar de apertura; sin contracciones.",
+     "module": 35
+    },
+    {
+     "type": "write",
+     "n": 45,
+     "prompt": "Según lo que investigué, busco un sueldo base de entre 110 y 125 mil dólares.",
+     "answers": [
+      "Based on my research, I'm looking for a base salary of between 110 and 125 thousand dollars.",
+      "Based on my research, I am looking for a base salary of between 110 and 125 thousand dollars.",
+      "Based on my research, I'm looking for a base salary of between 110,000 and 125,000 dollars.",
+      "Based on my research, I am looking for a base salary of between 110,000 and 125,000 dollars.",
+      "Based on my research, I'm looking for a base salary between 110 and 125 thousand dollars.",
+      "Based on my research, I am looking for a base salary between 110 and 125 thousand dollars.",
+      "Based on my research, I'm looking for a base salary between 110,000 and 125,000 dollars.",
+      "Based on my research, I am looking for a base salary between 110,000 and 125,000 dollars."
+     ],
+     "points": 1,
+     "explain": "Rango investigado. También vale between 110,000 and 125,000 dollars.",
+     "module": 36
+    },
+    {
+     "type": "write",
+     "n": 46,
+     "prompt": "Las soldaduras deberán inspeccionarse de acuerdo con AWS D1.1.",
+     "answers": [
+      "The welds shall be inspected in accordance with AWS D1.1.",
+      "Welds shall be inspected in accordance with AWS D1.1."
+     ],
+     "points": 1,
+     "explain": "Requisito de especificación: shall be + participio + in accordance with.",
+     "module": 33
+    },
+    {
+     "type": "write",
+     "n": 47,
+     "prompt": "Little did they know that the crane had already left the site.",
+     "answers": [
+      "No tenían ni idea de que la grúa ya se había ido de la obra.",
+      "No sabían que la grúa ya se había ido de la obra.",
+      "No tenían idea de que la grúa ya había salido de la obra."
+     ],
+     "points": 1,
+     "explain": "Little did they know no significa \"sabían poco\": significa que no lo sabían en absoluto.",
+     "module": 27
+    },
+    {
+     "type": "write",
+     "n": 48,
+     "prompt": "Let's touch base after the client meeting.",
+     "answers": [
+      "Hablemos después de la reunión con el cliente.",
+      "Pongámonos en contacto después de la reunión con el cliente.",
+      "Conversemos después de la reunión con el cliente."
+     ],
+     "points": 1,
+     "explain": "Touch base = contacto breve para ponerse al día.",
+     "module": 29
+    },
+    {
+     "type": "write",
+     "n": 49,
+     "prompt": "The results would seem to suggest a design flaw.",
+     "answers": [
+      "Los resultados parecerían indicar un defecto de diseño.",
+      "Los resultados parecerían sugerir un defecto de diseño.",
+      "Los resultados parecerían apuntar a un defecto de diseño."
+     ],
+     "points": 1,
+     "explain": "Doble suavizador (would seem to suggest) → condicional en español.",
+     "module": 32
+    },
+    {
+     "type": "write",
+     "n": 50,
+     "prompt": "Could you walk us through the main findings?",
+     "answers": [
+      "¿Podría explicarnos paso a paso los hallazgos principales?",
+      "¿Podrías explicarnos paso a paso los hallazgos principales?",
+      "¿Podría explicarnos detalladamente los hallazgos principales?"
+     ],
+     "points": 1,
+     "explain": "Walk someone through = explicar algo detalladamente, paso a paso.",
+     "module": 34
+    }
+   ]
+  },
+  {
+   "title": "Parte 3 — Comprensión de lectura",
+   "points": 15,
+   "instructions": "Lee el extracto dos veces: la primera sin detenerte, la segunda subrayando cifras, condiciones y frases de hedging. Responde en inglés con oraciones completas y con tus propias palabras. Cada respuesta vale 3 puntos: 2 por la información correcta y completa, y 1 por un inglés correcto y natural.",
+   "text": "PROPOSAL No. NTP-2026-118 — Replacement of the Fire Water Ring Main, Terminal B\nPrepared for: Coral Bay Energy Terminal · Prepared by: Northshore Tank & Piping Ltd. · September 8, 2026\n\n1. Executive Summary. We recommend replacing 640 m of the underground fire water ring main at Terminal B with high-density polyethylene (HDPE) pipe before the start of the hurricane season in June 2027. The existing 10-inch carbon steel line, installed in 1998, has failed three times in the last 18 months, and each failure left part of the tank farm without fire protection for up to 36 hours. Northshore can complete the replacement in 45 calendar days for a lump-sum price of USD 612,000, excluding taxes.\n\n2. Background. In July 2026, Northshore excavated and inspected six sections of the ring main. External corrosion had reduced the wall thickness by up to 60% in the sections closest to the seawater outfall, where soil resistivity is lowest. The rest of the line appears to be in acceptable condition, although only these six sections could be inspected directly. However, given the age of the coating and the absence of cathodic protection, further failures are likely within the next two to three years.\n\n3. Proposed Solution. We propose PE100 HDPE pipe rated for 16 bar and joined by butt fusion. Unlike carbon steel, HDPE does not corrode, does not require cathodic protection, and has a design life of more than 50 years. Although the material cost is approximately 15% higher than that of coated carbon steel, the elimination of corrosion repairs means that the total life-cycle cost is estimated to be 40% lower over 25 years.\n\n4. Methodology. To keep the terminal protected at all times, the work will be carried out in four segments of about 160 m each. Before each segment is isolated, a temporary above-ground bypass will be installed and pressure-tested, so that every tank remains connected to the fire water system. Each new segment will be hydrotested at 1.5 times its design pressure before it is tied in. No hot work will be required inside the tank farm.\n\n5. Price, Assumptions, and Exclusions. The lump-sum price covers engineering, materials, excavation, installation, testing, and the reinstatement of surfaces. This proposal is based on the following assumptions: (a) the client will provide accurate drawings of existing underground services; and (b) excavation will be possible to a depth of 1.5 m without rock breaking. Should rock or unrecorded services be encountered, the additional work will be quoted separately before it begins. Permits, fire watch personnel, and the disposal of the old pipe are excluded and will be provided by others.\n\n6. Next Steps. To complete the work before June 2027, mobilization must take place no later than February 1, 2027. We therefore request approval of this proposal by December 15, 2026, which will allow eight weeks for material procurement.",
+   "items": [
+    {
+     "type": "write",
+     "n": 51,
+     "prompt": "According to the executive summary, why is the replacement urgent? Give two reasons.",
+     "answers": [
+      "The line has failed three times in 18 months, leaving part of the tank farm without fire protection for up to 36 hours, and the work must be finished before the hurricane season starts in June 2027."
+     ],
+     "points": 3,
+     "explain": "Sección 1. Un punto por cada razón: fallas con pérdida de protección / temporada de huracanes.",
+     "module": 35
+    },
+    {
+     "type": "write",
+     "n": 52,
+     "prompt": "Why does Northshore propose HDPE even though it costs more to buy?",
+     "answers": [
+      "Because HDPE does not corrode, needs no cathodic protection, and lasts more than 50 years, so its life-cycle cost is estimated to be 40% lower over 25 years."
+     ],
+     "points": 3,
+     "explain": "Sección 3. Un punto por las ventajas técnicas y otro por el ahorro en el ciclo de vida.",
+     "module": 35
+    },
+    {
+     "type": "write",
+     "n": 53,
+     "prompt": "How will the terminal remain protected against fire while the work is being done?",
+     "answers": [
+      "The work will be done in four segments, and a temporary bypass will be installed and pressure-tested before each segment is isolated, so every tank stays connected."
+     ],
+     "points": 3,
+     "explain": "Sección 4. Un punto por los segmentos y otro por el bypass probado antes de aislar.",
+     "module": 35
+    },
+    {
+     "type": "write",
+     "n": 54,
+     "prompt": "The writer says that the rest of the line \"appears to be in acceptable condition.\" Why is this statement hedged, and what risk does the writer still point out?",
+     "answers": [
+      "Because only six sections were inspected, so the writer cannot be certain about the rest. Even so, further failures are likely within two to three years because the coating is old and there is no cathodic protection."
+     ],
+     "points": 3,
+     "explain": "Sección 2. Un punto por el motivo del hedging (no se inspeccionó todo) y otro por el riesgo con su causa.",
+     "module": 32
+    },
+    {
+     "type": "write",
+     "n": 55,
+     "prompt": "What will happen if rock is found during excavation, and what must the client do by December 15, 2026?",
+     "answers": [
+      "The extra work will be quoted separately before it begins, and the client must approve the proposal by December 15 so that there are eight weeks for procurement."
+     ],
+     "points": 3,
+     "explain": "Secciones 5 y 6. Un punto por cada parte de la respuesta.",
+     "module": 35
+    }
+   ],
+   "note": "El punto de lenguaje de cada respuesta exige oraciones completas, sin errores y con tus propias palabras (no basta copiar una frase del texto)."
+  },
+  {
+   "title": "Parte 4 — Redacción",
+   "points": 15,
+   "selfGraded": true,
+   "prompt": "Eres el ingeniero de Northshore Tank & Piping. Escribe el resumen ejecutivo (150 a 200 palabras) de una propuesta para el cliente con estos datos:\n• Tanque T-12: tanque de crudo de 40 m de diámetro con techo flotante externo.\n• Inspección de octubre de 2026: 4 de los 24 pontones tienen líquido dentro; el sello primario está roto en 35 m del perímetro.\n• Riesgo: el techo puede inclinarse o hundirse; las emisiones de vapor podrían superar el permiso ambiental.\n• Propuesta: reparar los 4 pontones y reemplazar el sello primario completo. 18 días calendario, USD 138,000 (suma alzada, sin impuestos).\n• Necesitas la aprobación antes del 20 de noviembre de 2026 y que el cliente vacíe y limpie el tanque antes del 1 de diciembre.",
+   "rubric": [
+    {
+     "criterion": "Contenido BLUF",
+     "points": 6,
+     "levels": "1 punto por cada elemento: (1) la primera oración es la recomendación; (2) problema con datos medidos; (3) solución; (4) costo y plazo; (5) riesgo de no actuar o beneficio; (6) pedido explícito con fecha"
+    },
+    {
+     "criterion": "Precisión gramatical",
+     "points": 4,
+     "levels": "0 errores = 4 · 1–2 = 3 · 3–4 = 2 · 5–6 = 1 · 7 o más = 0"
+    },
+    {
+     "criterion": "Registro y cohesión",
+     "points": 3,
+     "levels": "Sin contracciones = 1 · voz activa para las acciones de tu empresa = 1 · al menos 3 conectores formales (As a result, Furthermore, Therefore…) = 1"
+    },
+    {
+     "criterion": "Recursos C1",
+     "points": 2,
+     "levels": "Al menos una frase de hedging (appear, is likely to…) = 1 · al menos una inversión o un subjuntivo bien formado (Should…, we recommend that the tank be…) = 1"
+    }
+   ],
+   "rubricNote": "Si el texto tiene menos de 130 o más de 220 palabras, resta 1 punto.",
+   "model": "EXECUTIVE SUMMARY\n\nWe recommend repairing four pontoons and replacing the primary seal on Tank T-12 before the end of December 2026. During the October inspection, our team found liquid in four of the roof's 24 pontoons and a 35 m tear in the primary seal. As a result, the roof is likely to tilt, and vapor emissions may soon exceed the limits set in the terminal's environmental permit. Should the roof sink, the tank would be out of service for several months, and the cost of recovery would be far higher than that of the repair.\n\nNorthshore can carry out the work in 18 calendar days for a lump-sum price of USD 138,000, excluding taxes. Furthermore, the new seal is expected to reduce vapor losses significantly and help the terminal remain in compliance.\n\nTherefore, we request approval of this proposal by November 20, 2026. We also recommend that the tank be emptied and cleaned by December 1 so that work can begin immediately.",
+   "modelNotes": [
+    "(1) Recomendación primero: We recommend repairing four pontoons and replacing the primary seal…",
+    "(2) Problema con datos: liquid in four of the roof's 24 pontoons and a 35 m tear",
+    "(3) Solución: repairing four pontoons and replacing the primary seal",
+    "(4) Costo y plazo: 18 calendar days · USD 138,000, excluding taxes",
+    "(5) Riesgo o beneficio: Should the roof sink… / reduce vapor losses significantly",
+    "(6) Pedido con fecha: we request approval of this proposal by November 20, 2026",
+    "Registro y cohesión (3/3): Sin contracciones; voz activa (Northshore can carry out); As a result, Furthermore, Therefore.",
+    "Recursos C1 (2/2): Hedging: is likely to, may. Inversión: Should the roof sink. Subjuntivo: recommend that the tank be emptied."
+   ]
+  },
+  {
+   "title": "Parte 5 — Entrevista simulada grabada",
+   "points": 20,
+   "selfGraded": true,
+   "oral": true,
+   "prompt": "Situación: postulas al puesto de Piping Engineer en una empresa de ingeniería en Perth, Australia. Lee cada pregunta en voz alta y respóndela sin notas. Las preguntas de comportamiento (3 a 7) se responden con STAR en 90–120 segundos; las demás, en 30–60 segundos. Graba todo en tu celular, sin pausar. Luego escúchate y puntúate con la rúbrica.\n1. Lee las 10 preguntas una vez y elige mentalmente qué historia usarás en cada pregunta STAR. No escribas las respuestas.\n2. Si te equivocas, corrígete con naturalidad (Sorry, what I meant was…) y sigue. No vuelvas a empezar.\n3. Escucha la grabación al día siguiente con la clave al lado y cuenta tus errores para el criterio de precisión.",
+   "questions": [
+    "Tell me about yourself.",
+    "Why do you want to work in Australia, and why with our company?",
+    "Tell me about a time you delivered a project under a tight deadline.",
+    "Describe a mistake you made at work. What did you learn from it?",
+    "Tell me about a disagreement with a client or an inspector. How did you handle it?",
+    "Walk me through a technical problem you solved on a tank or piping job.",
+    "Your manager asks you to skip a hydrotest to save two days. What would you do?",
+    "What would you say is your greatest weakness?",
+    "What are your salary expectations?",
+    "Do you have any questions for us?"
+   ],
+   "questionTypes": [
+    "Presentación",
+    "Motivación",
+    "STAR",
+    "STAR",
+    "STAR",
+    "STAR",
+    "STAR / hipotética",
+    "Autoevaluación",
+    "Salario",
+    "Cierre"
+   ],
+   "questionModules": [
+    "34, 36",
+    "36",
+    "34, 36",
+    "19, 36",
+    "32, 36",
+    "33, 34",
+    "28, 32",
+    "36",
+    "32, 36",
+    "36"
+   ],
+   "rubric": [
+    {
+     "criterion": "Fluidez",
+     "points": 4,
+     "levels": "4 = Respondo las 10 preguntas sin leer; pausas cortas y naturales; uso frases para ganar tiempo · 2 = Respondo casi todas; varias pausas largas o reinicios · 0 = Me detengo con frecuencia o leo notas"
+    },
+    {
+     "criterion": "Precisión",
+     "points": 4,
+     "levels": "4 = Máximo 4 errores de gramática en toda la grabación · 2 = Entre 5 y 10 errores; el mensaje siempre se entiende · 0 = Más de 15 errores o errores que cambian el sentido"
+    },
+    {
+     "criterion": "Pronunciación y entonación",
+     "points": 4,
+     "levels": "4 = Acento correcto en palabras clave; enlazo palabras (Módulo 31); la entonación marca lo importante · 2 = Se me entiende, pero mi ritmo es plano o fallo varios acentos · 0 = Muchas palabras no se entienden"
+    },
+    {
+     "criterion": "Vocabulario",
+     "points": 4,
+     "levels": "4 = Uso términos técnicos precisos, collocations y al menos 2 frases de hedging, sin repetir mucho · 2 = Vocabulario correcto pero general; repito palabras · 0 = Me faltan palabras; recurro al español"
+    },
+    {
+     "criterion": "Estructura STAR",
+     "points": 4,
+     "levels": "4 = Las 5 respuestas STAR tienen S, T, A y R; uso \"I\" en la acción; cada resultado lleva una cifra · 2 = Uso STAR en 3 de 5 respuestas o me faltan cifras · 0 = Respondo con opiniones generales, sin historias"
+    }
+   ],
+   "rubricNote": "Cada criterio de 0 a 4: usa 3 o 1 si estás entre dos columnas.",
+   "model": "1. I'm a mechanical and piping engineer with five years of experience in tanks, process piping, and pipe supports in Peru, Chile, and The Bahamas. What I enjoy most is turning a design into a repair that works on site. (Revisa: Pasado → presente → por qué este puesto, en 60–90 s.)\n2. I'm keen to work on large LNG and mining projects, and many of them are in Western Australia. Your company does both design and site support, which is exactly where I add the most value. (Revisa: Una razón sobre el país y otra concreta sobre la empresa.)\n3. Last year a client brought our tank handover forward by a week. I split the welding into two shifts and set up a daily call with the inspector. We handed over two days early, with zero NCRs. (Revisa: S-T-A-R completo; I en la acción; cifra en el resultado.)\n4. I once issued an isometric with a wrong elevation. I should have checked it against the model. I corrected it and created a pre-issue checklist; since then, none of my drawings has been rejected for dimensions. (Revisa: Should have + participio (Módulo 19); lección concreta.)\n5. An inspector rejected a weld I believed was acceptable. Rather than argue, I suggested we review the film together against the code. It turned out we were using different editions; the weld was accepted. (Revisa: Hedging (I believed, I suggested); tono diplomático.)\n6. A slurry line kept failing at the same support. I ran a CAESAR II analysis, found excessive thermal load, and redesigned the support as a guide. We had no further failures in the following 12 months. (Revisa: Vocabulario técnico preciso; secuencia clara (First… then… as a result).)\n7. I would explain the risk calmly and insist that the test be done, because skipping it could put people and the asset at risk. I would then offer to recover the two days by re-sequencing other work. (Revisa: Subjuntivo (insist that the test be done); firmeza diplomática; alternativa.)\n8. I tend to take on too much myself under pressure, so I've started delegating drafting tasks earlier and reviewing them at fixed checkpoints. (Revisa: Debilidad real + acción de mejora. Nada de I'm a perfectionist.)\n9. Based on my research, I'm looking for a base salary between 120 and 135 thousand dollars, plus super, but I'm open to discussing the full package. (Revisa: Rango investigado + apertura; tono seguro.)\n10. Yes, two. What would success look like in the first six months? And how is the team split between the office and site? (Revisa: Al menos dos preguntas sobre el trabajo, no sobre vacaciones.)"
+  }
+ ],
+ "review": [
+  {
+   "module": 27,
+   "topic": "Inversión y énfasis",
+   "items": "1, 2, 3, 4, 16, 17, 18, 31, 32, 33, 41, 47"
+  },
+  {
+   "module": 28,
+   "topic": "Subjuntivo y estructuras formales",
+   "items": "5, 6, 7, 19, 20, 21, 34, 35, 42"
+  },
+  {
+   "module": 29,
+   "topic": "Modismos e idioms de alta frecuencia",
+   "items": "8, 9, 22, 23, 24, 38, 48"
+  },
+  {
+   "module": 30,
+   "topic": "Collocations avanzadas y precisión léxica",
+   "items": "10, 11, 25, 26, 39"
+  },
+  {
+   "module": 31,
+   "topic": "Entonación, ritmo y connected speech",
+   "items": "Parte 5: criterio de pronunciación y entonación (menos de 3/4)"
+  },
+  {
+   "module": 32,
+   "topic": "Hedging y diplomacia",
+   "items": "12, 13, 27, 28, 36, 37, 43, 49, 54"
+  },
+  {
+   "module": 33,
+   "topic": "Inglés técnico: especificaciones, normas y reportes",
+   "items": "14, 15, 29, 40, 46"
+  },
+  {
+   "module": 34,
+   "topic": "Presentaciones y storytelling profesional",
+   "items": "50; Parte 5, preguntas 1, 3 y 6"
+  },
+  {
+   "module": 35,
+   "topic": "Escritura avanzada: propuestas, informes y CV",
+   "items": "30, 40, 44, 51–55"
+  },
+  {
+   "module": 36,
+   "topic": "Entrevistas de trabajo y networking",
+   "items": "45; Parte 5 completa"
+  },
+  {
+   "module": null,
+   "topic": "Parte 4 (redacción)",
+   "items": "Menos de 12/15 → repite la Parte 5 de la sección 3 y la tarea C2 del examen del Módulo 35"
+  },
+  {
+   "module": null,
+   "topic": "Parte 5 (entrevista)",
+   "items": "Menos de 16/20 → repite las Partes 3 y 5 de la sección 3 del Módulo 36 en voz alta y vuelve a grabarte"
+  }
+ ],
+ "bands": [
+  {
+   "range": "90–100",
+   "label": "Dominio C1",
+   "text": "Terminaste el libro con nivel C1 sólido. Usa tu inglés en entrevistas reales."
+  },
+  {
+   "range": "80–89",
+   "label": "Aprobado",
+   "text": "Nivel C1 alcanzado. Repasa los módulos de la tabla donde fallaste."
+  },
+  {
+   "range": "65–79",
+   "label": "Casi",
+   "text": "Repite los módulos señalados en la tabla y vuelve a dar el examen en 2 semanas."
+  },
+  {
+   "range": "0–64",
+   "label": "Repetir",
+   "text": "Repite las secciones 1, 2 y 4 de cada módulo con fallos; examen nuevo en 3–4 semanas."
+  }
+ ],
+ "cando": [
+  {
+   "skill": "Pasar una entrevista de trabajo completa en inglés.",
+   "test": "Grabación de la Parte 5 sin leer y sin pausar: 16/20 o más en la rúbrica oral."
+  },
+  {
+   "skill": "Contar mis logros con el método STAR.",
+   "test": "Graba 6 historias STAR distintas de 90–120 s; las 6 con \"I\" en la acción y una cifra en el resultado."
+  },
+  {
+   "skill": "Escribir un resumen ejecutivo que un gerente apruebe.",
+   "test": "150–200 palabras en 30 minutos; 12/15 o más con la rúbrica de la Parte 4."
+  },
+  {
+   "skill": "Leer y analizar una propuesta o especificación técnica.",
+   "test": "Parte 3 en menos de 25 minutos; 12/15 o más, sin diccionario."
+  },
+  {
+   "skill": "Usar inversión y subjuntivo en registro formal.",
+   "test": "Escribe 5 oraciones con inversión y 3 con subjuntivo en 5 minutos; 8 de 8 correctas."
+  },
+  {
+   "skill": "Suavizar opiniones y desacuerdos con hedging.",
+   "test": "Reformula 6 afirmaciones directas de forma diplomática en 3 minutos, con 6 recursos distintos."
+  },
+  {
+   "skill": "Usar idioms y collocations con precisión.",
+   "test": "Di 10 idioms y 10 collocations de trabajo dentro de oraciones completas en 4 minutos; cero errores."
+  },
+  {
+   "skill": "Aprobar el examen final C1.",
+   "test": "80/100 o más. Anota tu puntaje: ______ / 100"
+  }
+ ]
+}

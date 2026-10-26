@@ -1,0 +1,996 @@
+{
+ "id": 13,
+ "level": "B1",
+ "title": "Presente perfecto (have done) vs pasado simple",
+ "goal": "Al terminar podrás elegir sin dudar entre I've done e I did: hablar de tu experiencia en una entrevista, dar el estado de un trabajo (ya, todavía no, acabo de), decir cuánto tiempo llevas en algo con for y since, y contar lo que pasó en un momento terminado.",
+ "lesson": [
+  {
+   "title": "Dos tiempos para el pasado",
+   "html": "<p>En el Módulo 9 aprendiste el pasado simple: <span class=\"en\">I finished</span>, <span class=\"en\">I went</span>. Ahora llega el tiempo que más confunde a los hispanohablantes: el <b>presente perfecto</b>, <span class=\"en\">I have finished</span>, <span class=\"en\">I have gone</span>. Los dos hablan de acciones pasadas. La diferencia no está en <i>cuándo</i> pasó la acción, sino en <b>desde dónde la miras</b>.</p><ul><li><b>Pasado simple</b>: miras la acción dentro de un tiempo <b>terminado y separado</b> del presente (ayer, en 2019, hace dos días). La historia está cerrada.</li><li><b>Presente perfecto</b>: miras la acción <b>desde ahora</b>. Lo que importa es su efecto hoy: una experiencia que tienes, un resultado visible, una noticia, o un período que <b>todavía no termina</b>.</li></ul>",
+   "svg": "<svg viewBox=\"0 0 640 262\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"26\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">PASADO SIMPLE · tiempo terminado</text>\n  <text x=\"520\" y=\"34\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#1D2939\">AHORA</text>\n  <rect x=\"110\" y=\"42\" width=\"240\" height=\"46\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\" stroke-dasharray=\"5 4\"/>\n  <text x=\"230\" y=\"58\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">yesterday · in 2019 · two days ago</text>\n  <line x1=\"30\" y1=\"76\" x2=\"598\" y2=\"76\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <polygon points=\"598,70 610,76 598,82\" fill=\"#667085\"/>\n  <circle cx=\"230\" cy=\"76\" r=\"8\" fill=\"#E8590C\"/>\n  <line x1=\"520\" y1=\"42\" x2=\"520\" y2=\"98\" stroke=\"#1D2939\" stroke-width=\"3\"/>\n  <text x=\"20\" y=\"114\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">I visited Lima in 2019.  →  la acción y su tiempo están cerrados.</text>\n  <line x1=\"20\" y1=\"132\" x2=\"620\" y2=\"132\" stroke=\"#F2F4F7\" stroke-width=\"2\"/>\n  <text x=\"20\" y=\"156\" font-size=\"13\" font-weight=\"800\" fill=\"#1570EF\">PRESENTE PERFECTO · conexión con ahora</text>\n  <text x=\"520\" y=\"164\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#1D2939\">AHORA</text>\n  <rect x=\"110\" y=\"172\" width=\"410\" height=\"46\" rx=\"8\" fill=\"#EAF2FF\"/>\n  <text x=\"315\" y=\"188\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1570EF\">período abierto: ever · so far · this year · for · since</text>\n  <line x1=\"30\" y1=\"206\" x2=\"598\" y2=\"206\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <polygon points=\"598,200 610,206 598,212\" fill=\"#667085\"/>\n  <circle cx=\"200\" cy=\"206\" r=\"7\" fill=\"#1570EF\"/>\n  <circle cx=\"300\" cy=\"206\" r=\"7\" fill=\"#1570EF\"/>\n  <circle cx=\"420\" cy=\"206\" r=\"7\" fill=\"#1570EF\"/>\n  <line x1=\"200\" y1=\"226\" x2=\"506\" y2=\"226\" stroke=\"#1570EF\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/>\n  <polygon points=\"506,220 518,226 506,232\" fill=\"#1570EF\"/>\n  <line x1=\"520\" y1=\"172\" x2=\"520\" y2=\"232\" stroke=\"#1D2939\" stroke-width=\"3\"/>\n  <text x=\"20\" y=\"252\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">I've visited Lima three times.  →  experiencia que cuenta hoy.</text>\n</svg>",
+   "caption": "Figura 13.1 — El pasado simple encierra la acción en una caja de tiempo terminada. El presente perfecto la une con el momento actual."
+  },
+  {
+   "title": "La forma: have / has + participio",
+   "html": "<table><thead><tr><th>Sujeto</th><th>Forma completa</th><th>Contracción</th><th>Pronunciación</th></tr></thead><tbody><tr><td>I / you / we / they</td><td>I have finished</td><td><span class=\"en\">I've finished</span></td><td><span class=\"pron\">aiv FÍ-nisht</span></td></tr><tr><td>he / she / it</td><td>she has finished</td><td><span class=\"en\">she's finished</span></td><td><span class=\"pron\">shiz FÍ-nisht</span></td></tr><tr><td>Negativo</td><td>they have not / it has not</td><td><span class=\"en\">they haven't / it hasn't</span></td><td><span class=\"pron\">dhei JÁ-vənt / it JÁ-zənt</span></td></tr></tbody></table><p>El <b>participio</b> de los verbos regulares es igual al pasado: <i>work → worked → worked</i>. Los irregulares tienen una tercera forma que debes memorizar. Estos son los que más usarás:</p><table><thead><tr><th>Base</th><th>Pasado simple</th><th>Participio</th><th>Pronunciación</th><th>Significado</th></tr></thead><tbody><tr><td>be</td><td>was / were</td><td><span class=\"en\">been</span></td><td><span class=\"pron\">bin</span></td><td>ser / estar</td></tr><tr><td>go</td><td>went</td><td><span class=\"en\">gone</span></td><td><span class=\"pron\">gon</span></td><td>ir</td></tr><tr><td>do</td><td>did</td><td><span class=\"en\">done</span></td><td><span class=\"pron\">dan</span></td><td>hacer</td></tr><tr><td>see</td><td>saw</td><td><span class=\"en\">seen</span></td><td><span class=\"pron\">sin</span></td><td>ver</td></tr><tr><td>write</td><td>wrote</td><td><span class=\"en\">written</span></td><td><span class=\"pron\">RÍ-tən</span></td><td>escribir</td></tr><tr><td>take</td><td>took</td><td><span class=\"en\">taken</span></td><td><span class=\"pron\">TÉI-kən</span></td><td>tomar, llevar</td></tr><tr><td>give</td><td>gave</td><td><span class=\"en\">given</span></td><td><span class=\"pron\">GUÍ-vən</span></td><td>dar</td></tr><tr><td>break</td><td>broke</td><td><span class=\"en\">broken</span></td><td><span class=\"pron\">BRÓU-kən</span></td><td>romper</td></tr><tr><td>eat</td><td>ate</td><td><span class=\"en\">eaten</span></td><td><span class=\"pron\">Í-tən</span></td><td>comer</td></tr><tr><td>know</td><td>knew</td><td><span class=\"en\">known</span></td><td><span class=\"pron\">noun</span></td><td>conocer, saber</td></tr><tr><td>speak</td><td>spoke</td><td><span class=\"en\">spoken</span></td><td><span class=\"pron\">SPÓU-kən</span></td><td>hablar</td></tr><tr><td>begin</td><td>began</td><td><span class=\"en\">begun</span></td><td><span class=\"pron\">bi-GÁN</span></td><td>empezar</td></tr><tr><td>come</td><td>came</td><td><span class=\"en\">come</span></td><td><span class=\"pron\">kam</span></td><td>venir</td></tr><tr><td>get</td><td>got</td><td><span class=\"en\">gotten (EE. UU.)</span></td><td><span class=\"pron\">GÓ-tən</span></td><td>conseguir, ponerse</td></tr><tr><td>have</td><td>had</td><td><span class=\"en\">had</span></td><td><span class=\"pron\">jad</span></td><td>tener</td></tr><tr><td>send · buy · make · find · leave</td><td>sent · bought · made · found · left</td><td><span class=\"en\">sent · bought · made · found · left</span></td><td><span class=\"pron\">sent · bot · meid · faund · left</span></td><td>enviar · comprar · hacer · encontrar · irse</td></tr></tbody></table>"
+  },
+  {
+   "title": "Afirmativo, negativo y pregunta",
+   "html": "<table><thead><tr><th></th><th>Estructura</th><th>Ejemplo</th></tr></thead><tbody><tr><td><b>Afirmativo</b></td><td>Sujeto + have/has + participio</td><td><span class=\"en\">They've paid the invoice.</span></td></tr><tr><td><b>Negativo</b></td><td>Sujeto + haven't/hasn't + participio</td><td><span class=\"en\">They haven't paid the invoice.</span></td></tr><tr><td><b>Pregunta</b></td><td>Have/Has + sujeto + participio…?</td><td><span class=\"en\">Have they paid the invoice?</span></td></tr><tr><td><b>Respuesta corta</b></td><td>Yes, + sujeto + have/has. / No, + sujeto + haven't/hasn't.</td><td><span class=\"en\">Yes, they have. / No, they haven't.</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 190\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"36\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">AFIRMATIVO</text>\n  <rect x=\"130\" y=\"14\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"170\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">She</text>\n  <rect x=\"222\" y=\"14\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"262\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">has</text>\n  <rect x=\"314\" y=\"14\" width=\"130\" height=\"36\" rx=\"8\" fill=\"#1570EF\"/><text x=\"379\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">finished</text>\n  <rect x=\"456\" y=\"14\" width=\"170\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"541\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">the report.</text>\n  <text x=\"20\" y=\"96\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">NEGATIVO</text>\n  <rect x=\"130\" y=\"74\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"170\" y=\"98\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">She</text>\n  <rect x=\"222\" y=\"74\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#FEF0EF\" stroke=\"#D92D20\"/><text x=\"262\" y=\"98\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#D92D20\">hasn't</text>\n  <rect x=\"314\" y=\"74\" width=\"130\" height=\"36\" rx=\"8\" fill=\"#1570EF\"/><text x=\"379\" y=\"98\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">finished</text>\n  <rect x=\"456\" y=\"74\" width=\"170\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"541\" y=\"98\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">the report yet.</text>\n  <text x=\"20\" y=\"156\" font-size=\"13\" font-weight=\"700\" fill=\"#667085\">PREGUNTA</text>\n  <rect x=\"130\" y=\"134\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#E8590C\"/><text x=\"170\" y=\"158\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">Has</text>\n  <rect x=\"222\" y=\"134\" width=\"80\" height=\"36\" rx=\"8\" fill=\"#EAF2FF\" stroke=\"#1570EF\"/><text x=\"262\" y=\"158\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">she</text>\n  <rect x=\"314\" y=\"134\" width=\"130\" height=\"36\" rx=\"8\" fill=\"#1570EF\"/><text x=\"379\" y=\"158\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#fff\">finished</text>\n  <rect x=\"456\" y=\"134\" width=\"170\" height=\"36\" rx=\"8\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/><text x=\"541\" y=\"158\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"700\" fill=\"#1D2939\">the report yet?</text>\n  <text x=\"379\" y=\"186\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1570EF\">el participio nunca cambia</text>\n</svg>",
+   "caption": "Figura 13.2 — El auxiliar HAVE/HAS hace todo el trabajo: se niega (hasn't) y se mueve adelante en la pregunta. El participio queda fijo."
+  },
+  {
+   "title": "Los cuatro usos y las reglas de oro",
+   "html": "<table><thead><tr><th>Uso</th><th>Qué comunica</th><th>Ejemplo</th><th>Palabras típicas</th></tr></thead><tbody><tr><td><b>1. Experiencia</b></td><td>Algo que has vivido alguna vez en tu vida (sin decir cuándo).</td><td><span class=\"en\">I've worked offshore.</span></td><td>ever, never, before, once, twice, many times</td></tr><tr><td><b>2. Resultado ahora</b></td><td>Una acción pasada cuyo efecto se ve hoy.</td><td><span class=\"en\">I've lost my badge. (no la tengo)</span></td><td>— (el contexto lo dice)</td></tr><tr><td><b>3. Novedad / estado</b></td><td>Noticias recientes; qué está hecho y qué falta.</td><td><span class=\"en\">The crane has just arrived.</span></td><td>just, already, yet, still, recently</td></tr><tr><td><b>4. Período abierto</b></td><td>Algo que empezó en el pasado y sigue hasta hoy, o un período que no termina.</td><td><span class=\"en\">I've lived here for two years.</span></td><td>for, since, how long, so far, today, this week</td></tr></tbody></table><p><b>Regla de oro 1 — Tiempo terminado = pasado simple, siempre</b></p><p>Si mencionas un momento terminado (<i>yesterday, last week, two days ago, in 2020, on Monday, when I was in Chile</i>), el presente perfecto queda <b>prohibido</b>. Aunque en español digas \"he visto\", en inglés va pasado simple.</p><p><span class=\"es\">Lo he visto esta mañana a las 8</span> → <span class=\"ok\">I saw him at 8 this morning.</span>   Nunca <span class=\"wrong\">I've seen him at 8.</span></p><p><b>Regla de oro 2 — Duración hasta hoy: el español usa presente, el inglés no</b></p><p><span class=\"es\">Trabajo aquí desde 2019</span> · <span class=\"es\">Llevo tres años aquí</span> · <span class=\"es\">Lo conozco desde hace años</span>. En español es presente; en inglés es <b>presente perfecto</b> con <b>for</b> (duración) o <b>since</b> (punto de inicio):</p><p><span class=\"ok\">I've worked here since 2019.</span> · <span class=\"ok\">I've been here for three years.</span> · <span class=\"ok\">I've known him for years.</span></p><p><b>Regla de oro 3 — Pregunta con WHEN = pasado simple</b></p><p><i>When</i> pide un momento concreto, así que la respuesta y la pregunta van en pasado simple: <span class=\"ok\">When did you arrive?</span> Nunca <span class=\"wrong\">When have you arrived?</span> Para la duración se pregunta con <span class=\"en\">How long have you…?</span></p>"
+  },
+  {
+   "title": "FOR, SINCE y AGO",
+   "html": "<table><thead><tr><th>Palabra</th><th>Le sigue…</th><th>Tiempo verbal</th><th>Ejemplo</th></tr></thead><tbody><tr><td><span class=\"en\">for</span></td><td>una cantidad de tiempo: <i>for two hours, for six months, for ages</i></td><td>presente perfecto (o pasado simple si ya terminó)</td><td><span class=\"en\">I've worked here for six months.</span></td></tr><tr><td><span class=\"en\">since</span></td><td>un punto: <i>since Monday, since 8 a.m., since 2019, since I was a kid</i></td><td>presente perfecto</td><td><span class=\"en\">I've worked here since March.</span></td></tr><tr><td><span class=\"en\">ago</span></td><td>va <b>después</b> de la cantidad: <i>two days ago, a week ago</i></td><td>pasado simple</td><td><span class=\"en\">I started six months ago.</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 192\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <text x=\"20\" y=\"22\" font-size=\"12\" font-weight=\"800\" fill=\"#1D2939\">FOR = cuánto dura · SINCE = desde cuándo · AGO = hace cuánto (un punto)</text>\n  <text x=\"350\" y=\"52\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#1570EF\">for 7 years</text>\n  <rect x=\"140\" y=\"60\" width=\"420\" height=\"24\" rx=\"6\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <line x1=\"30\" y1=\"100\" x2=\"598\" y2=\"100\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <polygon points=\"598,94 610,100 598,106\" fill=\"#667085\"/>\n  <g font-size=\"11\" fill=\"#667085\" text-anchor=\"middle\">\n    <line x1=\"200\" y1=\"95\" x2=\"200\" y2=\"105\" stroke=\"#98A2B3\"/><text x=\"200\" y=\"118\">2020</text>\n    <line x1=\"260\" y1=\"95\" x2=\"260\" y2=\"105\" stroke=\"#98A2B3\"/><text x=\"260\" y=\"118\">2021</text>\n    <line x1=\"320\" y1=\"95\" x2=\"320\" y2=\"105\" stroke=\"#98A2B3\"/><text x=\"320\" y=\"118\">2022</text>\n    <line x1=\"380\" y1=\"95\" x2=\"380\" y2=\"105\" stroke=\"#98A2B3\"/><text x=\"380\" y=\"118\">2023</text>\n    <line x1=\"440\" y1=\"95\" x2=\"440\" y2=\"105\" stroke=\"#98A2B3\"/><text x=\"440\" y=\"118\">2024</text>\n    <line x1=\"500\" y1=\"95\" x2=\"500\" y2=\"105\" stroke=\"#98A2B3\"/><text x=\"500\" y=\"118\">2025</text>\n  </g>\n  <circle cx=\"140\" cy=\"100\" r=\"7\" fill=\"#E8590C\"/>\n  <text x=\"140\" y=\"118\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"700\" fill=\"#E8590C\">2019</text>\n  <text x=\"140\" y=\"138\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"800\" fill=\"#E8590C\">since 2019</text>\n  <line x1=\"560\" y1=\"54\" x2=\"560\" y2=\"108\" stroke=\"#1D2939\" stroke-width=\"3\"/>\n  <text x=\"560\" y=\"124\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#1D2939\">2026</text>\n  <text x=\"560\" y=\"138\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#1D2939\">AHORA</text>\n  <line x1=\"548\" y1=\"156\" x2=\"156\" y2=\"156\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/>\n  <polygon points=\"156,150 144,156 156,162\" fill=\"#E8590C\"/>\n  <text x=\"350\" y=\"151\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#E8590C\">7 years ago</text>\n  <text x=\"20\" y=\"182\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">I moved here 7 years ago.  →  I've lived here since 2019 / for 7 years.</text>\n</svg>",
+   "caption": "Figura 13.3 — SINCE marca el punto de inicio, FOR mide la barra completa hasta ahora (presente perfecto). AGO cuenta hacia atrás desde hoy hasta un punto (pasado simple)."
+  },
+  {
+   "title": "JUST, ALREADY, YET y STILL",
+   "html": "<table><thead><tr><th>Palabra</th><th>Posición</th><th>Tipo de oración</th><th>Ejemplo</th></tr></thead><tbody><tr><td><span class=\"en\">just</span></td><td>entre have y participio</td><td>afirmativa</td><td><span class=\"en\">The truck has just arrived.</span></td></tr><tr><td><span class=\"en\">already</span></td><td>entre have y participio</td><td>afirmativa (y pregunta de sorpresa)</td><td><span class=\"en\">We've already tested it. / Have you already finished?</span></td></tr><tr><td><span class=\"en\">yet</span></td><td>al final</td><td>negativa y pregunta</td><td><span class=\"en\">Have you called him yet? / I haven't called him yet.</span></td></tr><tr><td><span class=\"en\">still</span></td><td>antes de haven't/hasn't</td><td>negativa con impaciencia</td><td><span class=\"en\">He still hasn't called me.</span></td></tr><tr><td><span class=\"en\">ever / never</span></td><td>entre have y participio</td><td>ever: pregunta · never: afirmativa con sentido negativo</td><td><span class=\"en\">Have you ever seen this? / I've never seen this.</span></td></tr></tbody></table>",
+   "svg": "<svg viewBox=\"0 0 640 214\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"10\" y=\"10\" width=\"200\" height=\"194\" rx=\"10\" fill=\"#EAF2FF\"/>\n  <text x=\"110\" y=\"36\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#1570EF\">JUST</text>\n  <line x1=\"24\" y1=\"100\" x2=\"190\" y2=\"100\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <line x1=\"170\" y1=\"70\" x2=\"170\" y2=\"120\" stroke=\"#1D2939\" stroke-width=\"3\"/>\n  <text x=\"170\" y=\"64\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#1D2939\">AHORA</text>\n  <circle cx=\"152\" cy=\"100\" r=\"7\" fill=\"#1570EF\"/>\n  <text x=\"110\" y=\"140\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">hace un momento</text>\n  <text x=\"110\" y=\"168\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">He's just left.</text>\n  <text x=\"110\" y=\"190\" text-anchor=\"middle\" font-size=\"12\" fill=\"#667085\">Acaba de irse.</text>\n  <rect x=\"220\" y=\"10\" width=\"200\" height=\"194\" rx=\"10\" fill=\"#E8F7EF\"/>\n  <text x=\"320\" y=\"36\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#079455\">ALREADY</text>\n  <line x1=\"234\" y1=\"100\" x2=\"400\" y2=\"100\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <line x1=\"380\" y1=\"70\" x2=\"380\" y2=\"120\" stroke=\"#1D2939\" stroke-width=\"3\"/>\n  <text x=\"380\" y=\"64\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#1D2939\">AHORA</text>\n  <circle cx=\"280\" cy=\"100\" r=\"7\" fill=\"#079455\"/>\n  <text x=\"320\" y=\"140\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">antes de lo esperado</text>\n  <text x=\"320\" y=\"168\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I've already paid.</text>\n  <text x=\"320\" y=\"190\" text-anchor=\"middle\" font-size=\"12\" fill=\"#667085\">Ya pagué.</text>\n  <rect x=\"430\" y=\"10\" width=\"200\" height=\"194\" rx=\"10\" fill=\"#FFF2E8\"/>\n  <text x=\"530\" y=\"36\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"800\" fill=\"#E8590C\">YET</text>\n  <line x1=\"444\" y1=\"100\" x2=\"610\" y2=\"100\" stroke=\"#667085\" stroke-width=\"2\"/>\n  <line x1=\"560\" y1=\"70\" x2=\"560\" y2=\"120\" stroke=\"#1D2939\" stroke-width=\"3\"/>\n  <text x=\"560\" y=\"64\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"800\" fill=\"#1D2939\">AHORA</text>\n  <circle cx=\"592\" cy=\"100\" r=\"8\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\" stroke-dasharray=\"3 3\"/>\n  <text x=\"530\" y=\"140\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">esperado, pero no ocurre aún</text>\n  <text x=\"530\" y=\"168\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#1D2939\">I haven't paid yet.</text>\n  <text x=\"530\" y=\"190\" text-anchor=\"middle\" font-size=\"12\" fill=\"#667085\">Todavía no pago.</text>\n</svg>",
+   "caption": "Figura 13.4 — JUST: muy cerca de ahora. ALREADY: ocurrió, quizá antes de lo previsto. YET: se espera, pero hasta ahora no ha ocurrido (negativo y pregunta)."
+  },
+  {
+   "title": "Comparación con el español",
+   "html": "<p>En Perú y casi toda Latinoamérica se dice <i>\"Ya comí\"</i>, <i>\"¿Viste mi casco?\"</i>, <i>\"Nunca fui a Cusco\"</i>: pretérito simple donde el inglés exige presente perfecto. En España se diría <i>\"he comido\"</i>, más cerca del inglés, pero tampoco coincide siempre. Y para la duración, el español usa <b>presente</b> (<i>trabajo aquí desde…</i>). Conclusión: <b>no traduzcas el tiempo verbal</b>; hazte la pregunta del inglés: <i>¿el tiempo está cerrado o conectado con ahora?</i></p><table><thead><tr><th>Lo que piensas en español</th><th>Lo que dice un nativo</th></tr></thead><tbody><tr><td>Ya comí, gracias.</td><td><span class=\"en\">I've already eaten, thanks.</span></td></tr><tr><td>¿Viste mi casco?</td><td><span class=\"en\">Have you seen my hard hat?</span></td></tr><tr><td>Nunca fui a Cusco.</td><td><span class=\"en\">I've never been to Cusco.</span></td></tr><tr><td>Trabajo aquí desde 2019.</td><td><span class=\"en\">I've worked here since 2019.</span></td></tr><tr><td>Es la primera vez que vengo.</td><td><span class=\"en\">This is the first time I've been here.</span></td></tr></tbody></table><table><thead><tr><th>Español</th><th>Traducción literal (mal)</th><th>Inglés real</th></tr></thead><tbody><tr><td>Vivo aquí hace tres años.</td><td><span class=\"wrong\">I live here three years ago.</span></td><td><span class=\"ok\">I've lived here for three years.</span></td></tr><tr><td>Lo vi hace dos días.</td><td><span class=\"wrong\">I have seen him two days ago.</span></td><td><span class=\"ok\">I saw him two days ago.</span></td></tr><tr><td>Acabo de llegar.</td><td><span class=\"wrong\">I finish to arrive.</span></td><td><span class=\"ok\">I've just arrived.</span></td></tr><tr><td>¿Ya comiste?</td><td><span class=\"wrong\">Already you ate?</span></td><td><span class=\"ok\">Have you eaten yet?</span></td></tr><tr><td>Todavía no llega el material.</td><td><span class=\"wrong\">Still doesn't arrive the material.</span></td><td><span class=\"ok\">The material hasn't arrived yet.</span></td></tr><tr><td>Es la primera vez que hago esto.</td><td><span class=\"wrong\">It's the first time I do this.</span></td><td><span class=\"ok\">It's the first time I've done this.</span></td></tr><tr><td>¿Desde cuándo tienes este dolor?</td><td><span class=\"wrong\">Since when you have this pain?</span></td><td><span class=\"ok\">How long have you had this pain?</span></td></tr></tbody></table>"
+  },
+  {
+   "title": "Así piensa un nativo",
+   "html": "<p><b>Así piensa un nativo — es un tiempo PRESENTE</b></p><p>Su nombre lo dice: <b>presente</b> perfecto. Cuando un nativo dice <span class=\"en\">I've lost my keys</span>, en realidad habla de ahora: <i>no tengo mis llaves</i>. Si las encontró hace una hora, ya no dice eso; dice <span class=\"en\">I lost my keys this morning, but I found them.</span></p><p>Por eso el presente perfecto <b>abre</b> una conversación (noticia, experiencia) y el pasado simple <b>la desarrolla</b> con detalles: <span class=\"en\">Have you ever worked offshore? — Yes, I have. I worked on a platform in 2022. It was hard.</span> En cuanto aparece un cuándo, dónde o cómo concreto, el nativo pasa al pasado simple.</p><p><b>Así piensa un nativo — la persona y el período siguen \"vivos\"</b></p><p><span class=\"en\">My father has visited Spain twice.</span> (vive; podría ir otra vez) vs <span class=\"en\">My grandfather visited Spain twice.</span> (ya falleció: su vida es un período cerrado). Lo mismo con el día: a las 10 a. m. dices <span class=\"en\">I've had two coffees this morning</span>; a las 6 p. m. dices <span class=\"en\">I had two coffees this morning</span>, porque la mañana ya terminó.</p><p><b>Detalles finos que marcan nivel B1</b></p><ul><li><b>Been to vs gone to.</b> <span class=\"en\">He's been to Lima.</span> = fue y volvió (experiencia). <span class=\"en\">He's gone to Lima.</span> = se fue y está allá ahora.</li><li><b>She's</b> puede ser <i>she is</i> o <i>she has</i>. Mira lo que sigue: participio → <i>has</i> (<span class=\"en\">She's finished</span>); adjetivo, lugar o -ing → <i>is</i> (<span class=\"en\">She's tired</span>).</li><li>La respuesta corta afirmativa no se contrae: <span class=\"ok\">Yes, I have.</span> Nunca <span class=\"wrong\">Yes, I've.</span></li><li><b>Inglés de EE. UU.:</b> en conversación informal muchos estadounidenses usan pasado simple con <i>just, already</i> y <i>yet</i>: <span class=\"en\">I just ate.</span> <span class=\"en\">Did you send it yet?</span> Es correcto en el habla de EE. UU. En correos, reportes y exámenes, usa el presente perfecto: siempre es correcto.</li><li>Con verbos de estado (<i>be, know, have</i> = poseer) la duración va siempre en presente perfecto simple: <span class=\"en\">I've known her for ten years.</span> Con verbos de acción (<i>work, wait, live</i>) existe también la forma continua <i>I've been working</i>, que se ve en el Módulo 14.</li><li>País con artículo: <span class=\"en\">the Bahamas</span>, <span class=\"en\">the United States</span>. <span class=\"en\">How long have you been in the Bahamas?</span></li></ul>"
+  },
+  {
+   "title": "Mapa de decisión y registro",
+   "html": "<p><b>Registro: reportes de avance e incidentes</b></p><p>En un reporte técnico el presente perfecto da el <b>estado</b> y el pasado simple da la <b>cronología</b>: <span class=\"en\">The contractor has completed 80% of the bottom plates. On October 14, the crew found a crack in plate B-7 and stopped work at 11:20.</span> Si mezclas, el lector no sabe qué es estado actual y qué es historia.</p>",
+   "svg": "<svg viewBox=\"0 0 640 262\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Inter, sans-serif\">\n  <rect x=\"100\" y=\"12\" width=\"440\" height=\"58\" rx=\"10\" fill=\"#1D2939\"/>\n  <text x=\"320\" y=\"36\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#fff\">1. ¿Dices CUÁNDO, en un tiempo terminado?</text>\n  <text x=\"320\" y=\"58\" text-anchor=\"middle\" font-size=\"11\" fill=\"#D0D5DD\">yesterday · last week · two days ago · in 2020 · when I was…</text>\n  <path d=\"M190 70 L130 108\" stroke=\"#E8590C\" stroke-width=\"2.5\" fill=\"none\"/>\n  <polygon points=\"124,104 126,114 136,110\" fill=\"#E8590C\"/>\n  <text x=\"140\" y=\"90\" font-size=\"12\" font-weight=\"800\" fill=\"#E8590C\">SÍ</text>\n  <rect x=\"20\" y=\"114\" width=\"220\" height=\"62\" rx=\"10\" fill=\"#FFF2E8\" stroke=\"#E8590C\" stroke-width=\"2\"/>\n  <text x=\"130\" y=\"140\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#E8590C\">PASADO SIMPLE</text>\n  <text x=\"130\" y=\"162\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#1D2939\">I sent it yesterday.</text>\n  <path d=\"M450 70 L460 98\" stroke=\"#1570EF\" stroke-width=\"2.5\" fill=\"none\"/>\n  <polygon points=\"454,96 462,106 466,94\" fill=\"#1570EF\"/>\n  <text x=\"474\" y=\"90\" font-size=\"12\" font-weight=\"800\" fill=\"#1570EF\">NO</text>\n  <rect x=\"300\" y=\"106\" width=\"320\" height=\"70\" rx=\"10\" fill=\"#EAF2FF\" stroke=\"#1570EF\" stroke-width=\"2\"/>\n  <text x=\"460\" y=\"128\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"800\" fill=\"#1570EF\">2. ¿Conecta con AHORA?</text>\n  <text x=\"460\" y=\"148\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">experiencia · resultado · novedad</text>\n  <text x=\"460\" y=\"166\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1D2939\">for / since · today · ever · yet</text>\n  <path d=\"M400 176 L380 200\" stroke=\"#1570EF\" stroke-width=\"2.5\" fill=\"none\"/>\n  <polygon points=\"374,196 376,206 386,202\" fill=\"#1570EF\"/>\n  <text x=\"352\" y=\"196\" font-size=\"12\" font-weight=\"800\" fill=\"#1570EF\">SÍ</text>\n  <path d=\"M520 176 L540 200\" stroke=\"#667085\" stroke-width=\"2.5\" fill=\"none\"/>\n  <polygon points=\"534,202 544,206 546,196\" fill=\"#667085\"/>\n  <text x=\"556\" y=\"196\" font-size=\"12\" font-weight=\"800\" fill=\"#667085\">NO</text>\n  <rect x=\"290\" y=\"206\" width=\"170\" height=\"48\" rx=\"10\" fill=\"#1570EF\"/>\n  <text x=\"375\" y=\"226\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#fff\">PRESENTE PERFECTO</text>\n  <text x=\"375\" y=\"244\" text-anchor=\"middle\" font-size=\"12\" fill=\"#fff\">I've sent it.</text>\n  <rect x=\"470\" y=\"206\" width=\"160\" height=\"48\" rx=\"10\" fill=\"#F2F4F7\" stroke=\"#98A2B3\"/>\n  <text x=\"550\" y=\"226\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"800\" fill=\"#1D2939\">PASADO SIMPLE</text>\n  <text x=\"550\" y=\"244\" text-anchor=\"middle\" font-size=\"11\" fill=\"#667085\">historia ya situada</text>\n</svg>",
+   "caption": "Figura 13.5 — Mapa de decisión en dos preguntas. \"Historia ya situada\": si ya estás contando algo del pasado (un viaje, un incidente), sigues en pasado simple aunque no repitas la fecha."
+  }
+ ],
+ "blocks": [
+  {
+   "en": "I've been there.",
+   "pron": "aiv BIN dher",
+   "es": "He estado allí.",
+   "group": "A. Los participios que más vas a usar"
+  },
+  {
+   "en": "She's gone home.",
+   "pron": "shiz gon JOUM",
+   "es": "Se ha ido a casa (ya no está).",
+   "group": "A. Los participios que más vas a usar"
+  },
+  {
+   "en": "We've done it.",
+   "pron": "wiv DAN it",
+   "es": "Lo hemos hecho / lo logramos.",
+   "group": "A. Los participios que más vas a usar"
+  },
+  {
+   "en": "I've seen it before.",
+   "pron": "aiv SIN it bi-FÓR",
+   "es": "Lo he visto antes.",
+   "group": "A. Los participios que más vas a usar"
+  },
+  {
+   "en": "He's written the report.",
+   "pron": "jiz RÍ-tən dhə ri-PÓRT",
+   "es": "Ha escrito el informe.",
+   "group": "A. Los participios que más vas a usar"
+  },
+  {
+   "en": "They've taken the samples.",
+   "pron": "dheiv TÉI-kən dhə SÁM-pəlz",
+   "es": "Han tomado las muestras.",
+   "group": "A. Los participios que más vas a usar"
+  },
+  {
+   "en": "It's broken again.",
+   "pron": "its BRÓU-kən ə-GUÉN",
+   "es": "Se ha vuelto a romper / está roto otra vez.",
+   "group": "A. Los participios que más vas a usar"
+  },
+  {
+   "en": "I've sent it to you.",
+   "pron": "aiv SENT it tə yu",
+   "es": "Te lo he enviado.",
+   "group": "A. Los participios que más vas a usar"
+  },
+  {
+   "en": "We've found the leak.",
+   "pron": "wiv FÁUND dhə LIK",
+   "es": "Hemos encontrado la fuga.",
+   "group": "A. Los participios que más vas a usar"
+  },
+  {
+   "en": "Things have gotten better.",
+   "pron": "things jav GÓ-tən BÉ-tər",
+   "es": "Las cosas han mejorado.",
+   "group": "A. Los participios que más vas a usar"
+  },
+  {
+   "en": "Have you ever been to…?",
+   "pron": "jav yu É-ver bin tu",
+   "es": "¿Alguna vez has estado en…?",
+   "group": "B. Experiencia de vida y de trabajo"
+  },
+  {
+   "en": "I've never been to…",
+   "pron": "aiv NÉ-ver bin tu",
+   "es": "Nunca he estado en…",
+   "group": "B. Experiencia de vida y de trabajo"
+  },
+  {
+   "en": "I've been there twice.",
+   "pron": "aiv bin dher TWAIS",
+   "es": "He estado allí dos veces.",
+   "group": "B. Experiencia de vida y de trabajo"
+  },
+  {
+   "en": "Have you ever worked with…?",
+   "pron": "jav yu É-ver werkt widh",
+   "es": "¿Has trabajado alguna vez con…?",
+   "group": "B. Experiencia de vida y de trabajo"
+  },
+  {
+   "en": "I've done it many times.",
+   "pron": "aiv DAN it MÉ-ni taimz",
+   "es": "Lo he hecho muchas veces.",
+   "group": "B. Experiencia de vida y de trabajo"
+  },
+  {
+   "en": "This is the first time I've…",
+   "pron": "dhis iz dhə FERST taim aiv",
+   "es": "Es la primera vez que…",
+   "group": "B. Experiencia de vida y de trabajo"
+  },
+  {
+   "en": "I've never seen anything like it.",
+   "pron": "aiv NÉ-ver sin É-ni-thing laik it",
+   "es": "Nunca he visto algo así.",
+   "group": "B. Experiencia de vida y de trabajo"
+  },
+  {
+   "en": "I've lost my badge.",
+   "pron": "aiv LOST mai BACH",
+   "es": "Perdí mi credencial (y no la tengo).",
+   "group": "C. Resultados y novedades"
+  },
+  {
+   "en": "The shipment has arrived.",
+   "pron": "dhə SHIP-mənt jaz ə-RÁIVD",
+   "es": "Llegó el envío (ya está aquí).",
+   "group": "C. Resultados y novedades"
+  },
+  {
+   "en": "Has anyone seen my keys?",
+   "pron": "jaz É-ni-wan sin mai KIZ",
+   "es": "¿Alguien ha visto mis llaves?",
+   "group": "C. Resultados y novedades"
+  },
+  {
+   "en": "Prices have gone up.",
+   "pron": "PRÁI-siz jav gon AP",
+   "es": "Los precios han subido.",
+   "group": "C. Resultados y novedades"
+  },
+  {
+   "en": "The pump has stopped.",
+   "pron": "dhə PAMP jaz STOPT",
+   "es": "La bomba se ha detenido.",
+   "group": "C. Resultados y novedades"
+  },
+  {
+   "en": "We've received your order.",
+   "pron": "wiv ri-SÍVD yor ÓR-der",
+   "es": "Hemos recibido su pedido.",
+   "group": "C. Resultados y novedades"
+  },
+  {
+   "en": "What have you done?",
+   "pron": "WOT jav yu DAN",
+   "es": "¿Qué has hecho?",
+   "group": "C. Resultados y novedades"
+  },
+  {
+   "en": "Something has come up.",
+   "pron": "SAM-thing jaz kam AP",
+   "es": "Me ha surgido un imprevisto.",
+   "group": "C. Resultados y novedades"
+  },
+  {
+   "en": "I've just finished.",
+   "pron": "aiv YAST FÍ-nisht",
+   "es": "Acabo de terminar.",
+   "group": "D. Just, already, yet, still"
+  },
+  {
+   "en": "She's just left.",
+   "pron": "shiz yast LEFT",
+   "es": "Acaba de irse.",
+   "group": "D. Just, already, yet, still"
+  },
+  {
+   "en": "I've already sent it.",
+   "pron": "aiv ol-RÉ-di SENT it",
+   "es": "Ya lo envié.",
+   "group": "D. Just, already, yet, still"
+  },
+  {
+   "en": "Have you checked it yet?",
+   "pron": "jav yu CHEKT it YET",
+   "es": "¿Ya lo revisaste?",
+   "group": "D. Just, already, yet, still"
+  },
+  {
+   "en": "Not yet.",
+   "pron": "not YET",
+   "es": "Todavía no.",
+   "group": "D. Just, already, yet, still"
+  },
+  {
+   "en": "I haven't checked it yet.",
+   "pron": "ai JÁ-vənt chekt it YET",
+   "es": "Todavía no lo he revisado.",
+   "group": "D. Just, already, yet, still"
+  },
+  {
+   "en": "It still hasn't arrived.",
+   "pron": "it STIL JÁ-zənt ə-RÁIVD",
+   "es": "Todavía no ha llegado (y ya debería).",
+   "group": "D. Just, already, yet, still"
+  },
+  {
+   "en": "for two weeks",
+   "pron": "fər tu WIKS",
+   "es": "desde hace / durante dos semanas",
+   "group": "E. Duración hasta ahora: for, since, how long"
+  },
+  {
+   "en": "since Monday",
+   "pron": "sins MAN-dei",
+   "es": "desde el lunes",
+   "group": "E. Duración hasta ahora: for, since, how long"
+  },
+  {
+   "en": "since 2019",
+   "pron": "sins TWÉN-ti nain-TÍN",
+   "es": "desde 2019",
+   "group": "E. Duración hasta ahora: for, since, how long"
+  },
+  {
+   "en": "since I was a kid",
+   "pron": "sins ai wəz ə KID",
+   "es": "desde que era niño",
+   "group": "E. Duración hasta ahora: for, since, how long"
+  },
+  {
+   "en": "How long have you worked here?",
+   "pron": "jau LONG jav yu werkt JIR",
+   "es": "¿Cuánto tiempo llevas trabajando aquí?",
+   "group": "E. Duración hasta ahora: for, since, how long"
+  },
+  {
+   "en": "I've known him for years.",
+   "pron": "aiv NOUN jim fər YIRZ",
+   "es": "Lo conozco desde hace años.",
+   "group": "E. Duración hasta ahora: for, since, how long"
+  },
+  {
+   "en": "so far",
+   "pron": "sou FAR",
+   "es": "hasta ahora",
+   "group": "E. Duración hasta ahora: for, since, how long"
+  },
+  {
+   "en": "recently / lately",
+   "pron": "RÍ-sənt-li / LÉIT-li",
+   "es": "recientemente / últimamente",
+   "group": "E. Duración hasta ahora: for, since, how long"
+  },
+  {
+   "en": "yesterday",
+   "pron": "YÉS-ter-dei",
+   "es": "ayer",
+   "group": "F. Tiempo terminado: señales del pasado simple"
+  },
+  {
+   "en": "last week / last year",
+   "pron": "last WIK / last YIR",
+   "es": "la semana pasada / el año pasado",
+   "group": "F. Tiempo terminado: señales del pasado simple"
+  },
+  {
+   "en": "two days ago",
+   "pron": "tu deiz ə-GÓU",
+   "es": "hace dos días",
+   "group": "F. Tiempo terminado: señales del pasado simple"
+  },
+  {
+   "en": "in 2020",
+   "pron": "in TWÉN-ti TWÉN-ti",
+   "es": "en 2020",
+   "group": "F. Tiempo terminado: señales del pasado simple"
+  },
+  {
+   "en": "on Monday",
+   "pron": "on MAN-dei",
+   "es": "el lunes (pasado)",
+   "group": "F. Tiempo terminado: señales del pasado simple"
+  },
+  {
+   "en": "when I was in Chile",
+   "pron": "wen ai wəz in CHÍ-li",
+   "es": "cuando estaba en Chile",
+   "group": "F. Tiempo terminado: señales del pasado simple"
+  },
+  {
+   "en": "When did you start?",
+   "pron": "WEN did yu START",
+   "es": "¿Cuándo empezaste?",
+   "group": "F. Tiempo terminado: señales del pasado simple"
+  },
+  {
+   "en": "What time did it happen?",
+   "pron": "wot TAIM did it JÁ-pən",
+   "es": "¿A qué hora pasó?",
+   "group": "F. Tiempo terminado: señales del pasado simple"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I've worked in tank maintenance for six years.",
+   "es": "Trabajo en mantenimiento de tanques desde hace seis años.",
+   "situation": "Entrevista de trabajo"
+  },
+  {
+   "en": "I joined my current company in September 2025.",
+   "es": "Entré a mi empresa actual en septiembre de 2025.",
+   "situation": "Entrevista de trabajo"
+  },
+  {
+   "en": "We've already replaced twelve bottom plates.",
+   "es": "Ya hemos reemplazado doce planchas del fondo.",
+   "situation": "Avance en obra"
+  },
+  {
+   "en": "The inspector hasn't approved the welds yet.",
+   "es": "El inspector todavía no ha aprobado las soldaduras.",
+   "situation": "Control de calidad"
+  },
+  {
+   "en": "Has anyone seen the latest revision of the drawing?",
+   "es": "¿Alguien ha visto la última revisión del plano?",
+   "situation": "Oficina técnica"
+  },
+  {
+   "en": "We have received your purchase order.",
+   "es": "Hemos recibido su orden de compra.",
+   "situation": "Correo a un cliente"
+  },
+  {
+   "en": "The pump stopped at 10:40 a.m. yesterday.",
+   "es": "La bomba se detuvo ayer a las 10:40 a. m.",
+   "situation": "Reporte de incidente"
+  },
+  {
+   "en": "Have you ever been to Houston? — Yes, I went there in 2024 for a course.",
+   "es": "¿Has estado alguna vez en Houston? — Sí, fui en 2024 para un curso.",
+   "situation": "Viajes"
+  },
+  {
+   "en": "I've lost my phone. Can you call it?",
+   "es": "Perdí mi celular. ¿Puedes llamarlo?",
+   "situation": "Vida diaria"
+  },
+  {
+   "en": "Have you decided? — Not yet. We need a few more minutes.",
+   "es": "¿Ya decidieron? — Todavía no. Necesitamos unos minutos más.",
+   "situation": "Restaurante"
+  },
+  {
+   "en": "I've had this pain since Sunday.",
+   "es": "Tengo este dolor desde el domingo.",
+   "situation": "Médico"
+  },
+  {
+   "en": "The money still hasn't arrived in my account.",
+   "es": "El dinero todavía no llega a mi cuenta.",
+   "situation": "Banco"
+  },
+  {
+   "en": "Sales have gone up 15% this year.",
+   "es": "Las ventas han subido un 15 % este año.",
+   "situation": "Negocios"
+  },
+  {
+   "en": "We met at a conference in Lima five years ago.",
+   "es": "Nos conocimos en una conferencia en Lima hace cinco años.",
+   "situation": "Vida social"
+  },
+  {
+   "en": "I've just arrived. Sorry I'm late!",
+   "es": "Acabo de llegar. ¡Perdón por la demora!",
+   "situation": "Vida social"
+  }
+ ],
+ "transforms": [
+  {
+   "cols": [
+    "Afirmativo",
+    "Negativo",
+    "Pregunta",
+    "Respuesta corta"
+   ],
+   "rows": [
+    [
+     "You've signed the permit.",
+     "You haven't signed the permit.",
+     "Have you signed the permit?",
+     "Yes, I have. / No, I haven't."
+    ],
+    [
+     "She's called the client.",
+     "She hasn't called the client.",
+     "Has she called the client?",
+     "Yes, she has. / No, she hasn't."
+    ],
+    [
+     "They've paid the invoice.",
+     "They haven't paid the invoice.",
+     "Have they paid the invoice?",
+     "Yes, they have. / No, they haven't."
+    ],
+    [
+     "The crane has arrived.",
+     "The crane hasn't arrived.",
+     "Has the crane arrived?",
+     "Yes, it has. / No, it hasn't."
+    ],
+    [
+     "He's been to Canada.",
+     "He hasn't been to Canada.",
+     "Has he been to Canada?",
+     "Yes, he has. / No, he hasn't."
+    ],
+    [
+     "We've tested the line.",
+     "We haven't tested the line.",
+     "Have we tested the line?",
+     "Yes, we have. / No, we haven't."
+    ],
+    [
+     "Mark has worked here for ten years.",
+     "Mark hasn't worked here for ten years.",
+     "Has Mark worked here for ten years?",
+     "Yes, he has. / No, he hasn't."
+    ],
+    [
+     "Prices have gone up.",
+     "Prices haven't gone up.",
+     "Have prices gone up?",
+     "Yes, they have. / No, they haven't."
+    ],
+    [
+     "You sent the email. (pasado)",
+     "You didn't send the email.",
+     "Did you send the email?",
+     "Yes, I did. / No, I didn't."
+    ],
+    [
+     "The test failed. (pasado)",
+     "The test didn't fail.",
+     "Did the test fail?",
+     "Yes, it did. / No, it didn't."
+    ]
+   ]
+  }
+ ],
+ "dialog": [
+  {
+   "who": "Mr. Lee",
+   "text": "Morning, Edwin. Have you finished the hydrotest on Line 4 yet?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Not yet. We've filled the line, but we haven't reached test pressure."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "What's the problem?"
+  },
+  {
+   "who": "Edwin",
+   "text": "A pressure gauge broke at 8:30, so we stopped the pump."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Have you ordered a new one?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, I've already ordered it. The supplier has just confirmed the delivery. The driver left their warehouse ten minutes ago."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Good. How long have you been at the site today?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Since six. The crew has worked very well so far."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Great. Have you ever done a hydrotest for this client before?"
+  },
+  {
+   "who": "Edwin",
+   "text": "Yes, once. We tested their fire water line last year, and it went fine."
+  },
+  {
+   "who": "Mr. Lee",
+   "text": "Perfect. Call me when the test is done."
+  }
+ ],
+ "errors": [
+  {
+   "wrong": "I have seen him yesterday.",
+   "right": "I saw him yesterday.",
+   "why": "Yesterday es tiempo terminado → pasado simple."
+  },
+  {
+   "wrong": "I work here since 2019.",
+   "right": "I've worked here since 2019.",
+   "why": "Duración hasta hoy → presente perfecto, no presente."
+  },
+  {
+   "wrong": "I live here for three years.",
+   "right": "I've lived here for three years.",
+   "why": "Igual que el 2: el español usa presente; el inglés, no."
+  },
+  {
+   "wrong": "She has went home.",
+   "right": "She has gone home.",
+   "why": "Después de have/has va el participio (gone), no el pasado."
+  },
+  {
+   "wrong": "Did you ever be in Canada?",
+   "right": "Have you ever been to Canada?",
+   "why": "Experiencia de vida → Have you ever + participio; visitar = been to."
+  },
+  {
+   "wrong": "I've finished it two days ago.",
+   "right": "I finished it two days ago.",
+   "why": "Ago marca un punto terminado → pasado simple."
+  },
+  {
+   "wrong": "I've been here since three years.",
+   "right": "I've been here for three years.",
+   "why": "Cantidad de tiempo → for; punto de inicio → since."
+  },
+  {
+   "wrong": "— Have you eaten? — Yes, I've.",
+   "right": "Yes, I have.",
+   "why": "La respuesta corta afirmativa no se contrae."
+  },
+  {
+   "wrong": "When have you arrived?",
+   "right": "When did you arrive?",
+   "why": "When pide un momento → pasado simple."
+  },
+  {
+   "wrong": "I haven't finished already.",
+   "right": "I haven't finished yet.",
+   "why": "En negativo \"todavía no / aún no\" es yet; already es para afirmativo."
+  }
+ ],
+ "falseFriends": [
+  {
+   "en": "actually",
+   "looks": "actualmente",
+   "means": "en realidad",
+   "fix": "currently / these days — I'm currently working in the Bahamas."
+  },
+  {
+   "en": "yet",
+   "looks": "ya (afirmativo)",
+   "means": "No se usa para «ya (afirmativo)»",
+   "fix": "already — I've already paid."
+  },
+  {
+   "en": "already … ?",
+   "looks": "¿ya…? / todavía no",
+   "means": "Por defecto no: already en pregunta expresa sorpresa (¿ya terminaste tan pronto?)",
+   "fix": "yet — Have you paid yet? / Not yet."
+  },
+  {
+   "en": "already not",
+   "looks": "ya no",
+   "means": "No se usa para «ya no»",
+   "fix": "not … anymore — He doesn't work here anymore."
+  },
+  {
+   "en": "yet",
+   "looks": "todavía (sigue)",
+   "means": "No se usa para «todavía (sigue)»",
+   "fix": "still — I'm still at the office."
+  },
+  {
+   "en": "since 3 years",
+   "looks": "desde hace (3 años)",
+   "means": "No se usa para «desde hace (3 años)»",
+   "fix": "for 3 years — I've known her for 3 years."
+  },
+  {
+   "en": "since / for 3 years",
+   "looks": "hace (3 años)",
+   "means": "No se usa para «hace (3 años)»",
+   "fix": "3 years ago — I met her 3 years ago."
+  },
+  {
+   "en": "has gone to",
+   "looks": "fue (y volvió)",
+   "means": "No se usa para «fue (y volvió)»",
+   "fix": "has been to — She's been to Japan twice."
+  }
+ ],
+ "exam": {
+  "A1": [
+   {
+    "prompt": "Nunca he estado en Canadá.",
+    "answers": [
+     "I've never been to Canada.",
+     "I have never been to Canada."
+    ],
+    "explain": "Experiencia de vida sin fecha → presente perfecto. Visitar un lugar = been to."
+   },
+   {
+    "prompt": "¿Alguna vez has trabajado con acero inoxidable?",
+    "answers": [
+     "Have you ever worked with stainless steel?"
+    ],
+    "explain": "Alguna vez = ever, entre el sujeto y el participio."
+   },
+   {
+    "prompt": "Trabajo en esta empresa desde 2025.",
+    "answers": [
+     "I've worked for this company since 2025.",
+     "I have worked for this company since 2025.",
+     "I've worked at this company since 2025.",
+     "I have worked at this company since 2025."
+    ],
+    "explain": "Duración hasta hoy con punto de inicio → PP + since. También vale at this company. Nunca I work … since."
+   },
+   {
+    "prompt": "Ya terminamos la prueba hidrostática.",
+    "answers": [
+     "We've already finished the hydrostatic test.",
+     "We have already finished the hydrostatic test.",
+     "We already finished the hydrostatic test.",
+     "We've already finished the hydrotest.",
+     "We have already finished the hydrotest.",
+     "We already finished the hydrotest."
+    ],
+    "explain": "Estado actual con already entre have y participio. En inglés informal de EE. UU. también se acepta We already finished…; también vale hydrotest."
+   },
+   {
+    "prompt": "El soldador acaba de llegar.",
+    "answers": [
+     "The welder has just arrived.",
+     "The welder just arrived."
+    ],
+    "explain": "Acabar de = have just + participio. En EE. UU. informal también: The welder just arrived."
+   },
+   {
+    "prompt": "Ayer vi a Mark en la obra.",
+    "answers": [
+     "I saw Mark at the site yesterday."
+    ],
+    "explain": "Yesterday → pasado simple obligatorio."
+   },
+   {
+    "prompt": "¿Ya enviaste el informe?",
+    "answers": [
+     "Have you sent the report yet?",
+     "Did you send the report yet?"
+    ],
+    "explain": "Pregunta sobre algo esperado → yet al final. En EE. UU. informal también: Did you send the report yet?"
+   },
+   {
+    "prompt": "Conozco a Ana desde hace diez años.",
+    "answers": [
+     "I've known Ana for ten years.",
+     "I have known Ana for ten years."
+    ],
+    "explain": "Know es verbo de estado; duración hasta hoy → PP + for (cantidad de tiempo)."
+   },
+   {
+    "prompt": "Compramos las válvulas hace dos semanas.",
+    "answers": [
+     "We bought the valves two weeks ago."
+    ],
+    "explain": "Ago → punto terminado → pasado simple (buy → bought)."
+   },
+   {
+    "prompt": "¿Cuánto tiempo llevas en las Bahamas?",
+    "answers": [
+     "How long have you been in the Bahamas?"
+    ],
+    "explain": "Duración hasta hoy → How long have you been. Con artículo: the Bahamas."
+   }
+  ],
+  "A2": [
+   {
+    "prompt": "She's gone to the warehouse.",
+    "answers": [
+     "Ella se fue al almacén.",
+     "Ella se fue al almacén y todavía está allá.",
+     "Se fue al almacén.",
+     "Ella se ha ido al almacén."
+    ],
+    "explain": "Gone to = se fue y no ha vuelto."
+   },
+   {
+    "prompt": "I've been to Chile twice.",
+    "answers": [
+     "He estado en Chile dos veces.",
+     "Fui a Chile dos veces.",
+     "Estuve en Chile dos veces."
+    ],
+    "explain": "Been to = experiencia; fue y volvió."
+   },
+   {
+    "prompt": "They haven't paid the invoice yet.",
+    "answers": [
+     "Todavía no han pagado la factura.",
+     "Aún no pagan la factura.",
+     "Aún no han pagado la factura.",
+     "Todavía no pagan la factura."
+    ],
+    "explain": "Not … yet = todavía no / aún no."
+   },
+   {
+    "prompt": "When did you start this job?",
+    "answers": [
+     "¿Cuándo empezaste este trabajo?",
+     "¿Cuándo comenzaste este trabajo?",
+     "¿Cuándo empezó este trabajo?"
+    ],
+    "explain": "When + pasado simple: pregunta por un momento."
+   },
+   {
+    "prompt": "Prices have gone up a lot this year.",
+    "answers": [
+     "Los precios han subido mucho este año.",
+     "Los precios subieron mucho este año."
+    ],
+    "explain": "Go up = subir. This year no ha terminado → PP."
+   }
+  ],
+  "B": [
+   {
+    "prompt": "I have finished the drawings yesterday.",
+    "answers": [
+     "I finished the drawings yesterday."
+    ],
+    "explain": "Yesterday exige pasado simple."
+   },
+   {
+    "prompt": "We know each other since 2018.",
+    "answers": [
+     "We've known each other since 2018.",
+     "We have known each other since 2018."
+    ],
+    "explain": "Duración hasta hoy → PP, no presente simple."
+   },
+   {
+    "prompt": "She has wrote three reports this week.",
+    "answers": [
+     "She has written three reports this week.",
+     "She's written three reports this week."
+    ],
+    "explain": "Tras has va el participio: written, no wrote."
+   },
+   {
+    "prompt": "Have you ever went to Lima?",
+    "answers": [
+     "Have you ever been to Lima?"
+    ],
+    "explain": "Participio de experiencia de viaje: been to. Went es pasado, no participio."
+   },
+   {
+    "prompt": "I've worked here since four years.",
+    "answers": [
+     "I've worked here for four years.",
+     "I have worked here for four years."
+    ],
+    "explain": "Cantidad de tiempo → for."
+   },
+   {
+    "prompt": "When have you arrived?",
+    "answers": [
+     "When did you arrive?"
+    ],
+    "explain": "When → pasado simple con did."
+   },
+   {
+    "prompt": "They've moved to Houston three years ago.",
+    "answers": [
+     "They moved to Houston three years ago."
+    ],
+    "explain": "Ago → pasado simple."
+   },
+   {
+    "prompt": "— Have you seen the manual? — Yes, I've.",
+    "answers": [
+     "Yes, I have.",
+     "— Have you seen the manual? — Yes, I have."
+    ],
+    "explain": "La respuesta corta afirmativa no se contrae."
+   },
+   {
+    "prompt": "He hasn't called me already.",
+    "answers": [
+     "He hasn't called me yet.",
+     "He has not called me yet."
+    ],
+    "explain": "Negativo → yet, al final."
+   },
+   {
+    "prompt": "The crane is broken since Monday.",
+    "answers": [
+     "The crane has been broken since Monday."
+    ],
+    "explain": "Since Monday → duración hasta hoy → has been, no is."
+   }
+  ],
+  "bonus": {
+   "prompt": "convierte a negativo y a pregunta, usando yet: They have finished the inspection.",
+   "answer": "They haven't finished the inspection yet. / Have they finished the inspection yet?"
+  },
+  "C1": {
+   "instructions": "Completa el diálogo con el verbo entre paréntesis en presente perfecto o pasado simple.",
+   "lines": [
+    {
+     "who": "Sarah",
+     "text": "Hi! [1] (you / finish) the weld map yet?"
+    },
+    {
+     "who": "You",
+     "text": "Almost. I [2] (start) it on Monday, and I [3] (complete) 40 welds so far."
+    },
+    {
+     "who": "Sarah",
+     "text": "Great. [4] (you / ever / use) the new software?"
+    },
+    {
+     "who": "You",
+     "text": "Yes, I [5]. I [6] (use) it at my last job in Chile."
+    },
+    {
+     "who": "Sarah",
+     "text": "Good. And the inspector? Is he here?"
+    },
+    {
+     "who": "You",
+     "text": "No, he [7] (just / leave). He [8] (go) to the warehouse ten minutes ago."
+    }
+   ],
+   "blanks": [
+    {
+     "n": 1,
+     "answers": [
+      "Have you finished"
+     ],
+     "explain": "Pregunta de estado con yet → PP."
+    },
+    {
+     "n": 2,
+     "answers": [
+      "started"
+     ],
+     "explain": "On Monday = momento terminado → pasado simple."
+    },
+    {
+     "n": 3,
+     "answers": [
+      "have completed",
+      "'ve completed"
+     ],
+     "explain": "So far = hasta ahora → PP."
+    },
+    {
+     "n": 4,
+     "answers": [
+      "Have you ever used"
+     ],
+     "explain": "Experiencia → Have you ever + participio."
+    },
+    {
+     "n": 5,
+     "answers": [
+      "have"
+     ],
+     "explain": "Respuesta corta a Have you…?: Yes, I have, sin contraer."
+    },
+    {
+     "n": 6,
+     "answers": [
+      "used"
+     ],
+     "explain": "At my last job es una etapa cerrada → pasado simple; da el detalle."
+    },
+    {
+     "n": 7,
+     "answers": [
+      "has just left",
+      "'s just left"
+     ],
+     "explain": "Novedad muy reciente → has just + participio."
+    },
+    {
+     "n": 8,
+     "answers": [
+      "went"
+     ],
+     "explain": "Ten minutes ago → pasado simple."
+    }
+   ]
+  },
+  "C2": {
+   "prompt": "Redacta un correo de avance. Escribe a tu supervisora Sarah un correo de 6 a 8 oraciones sobre la reparación de un tanque. Incluye: (a) saludo y propósito del correo; (b) dos trabajos terminados, uno con already; (c) algo pendiente con yet; (d) un hecho con tiempo terminado en pasado simple (yesterday, on Monday, … ago); (e) una duración con for o since; (f) una novedad con just; (g) un cierre con un pedido o pregunta.",
+   "rubric": [
+    "(a) Saludo y propósito",
+    "(b) Dos trabajos terminados, uno con already",
+    "(c) Algo pendiente con yet",
+    "(d) Tiempo terminado en pasado simple",
+    "(e) Duración con for/since",
+    "(f) Novedad con just",
+    "(g) Cierre con pedido"
+   ],
+   "model": "Subject: Tank T-301 bottom repair – progress update\n\nHi Sarah,\nI'm writing to update you on the T-301 bottom repair. We have already removed the old plates, and we've installed 18 of the 24 new ones. The crew has worked on this job since October 6. Yesterday the inspector checked the first 40 welds, and all of them passed. The vacuum box test has just started. However, we haven't received the replacement nozzle yet. Could you please call the supplier today?\n\nBest regards,\nEdwin"
+  }
+ },
+ "cando": [
+  {
+   "skill": "Elegir entre presente perfecto y pasado simple.",
+   "test": "Escribe 5 pares sobre tu semana (uno en PP y otro en PS con fecha). Cero errores de tiempo verbal."
+  },
+  {
+   "skill": "Hablar de mi experiencia laboral en una entrevista.",
+   "test": "Grábate 1 minuto sin leer: 3 frases en PP (for/since, ever, never) y 3 en PS con fechas."
+  },
+  {
+   "skill": "Usar for, since y ago sin confundirlos.",
+   "test": "Traduce en voz alta en 1 minuto: desde 2020, desde hace 2 años, hace 2 años, desde el lunes, desde hace una hora, hace una hora. 6 de 6."
+  },
+  {
+   "skill": "Dar el estado de un trabajo con just, already, yet y still.",
+   "test": "Escribe 4 oraciones sobre un trabajo real, una con cada palabra, en la posición correcta."
+  },
+  {
+   "skill": "Decir los participios irregulares clave.",
+   "test": "Di los 20 participios de la tabla de la sección 1 en menos de 1 minuto, sin errores."
+  },
+  {
+   "skill": "Escribir un correo de avance profesional.",
+   "test": "Redacta un correo de 6–8 oraciones que cumpla los 7 criterios de C2 y compáralo con el modelo."
+  },
+  {
+   "skill": "Aprobar el examen del módulo.",
+   "test": "32/40 o más. Anota tu puntaje: ______ / 40"
+  }
+ ],
+ "speak": [
+  "How long have you lived in your city?",
+  "Have you ever worked in another country?",
+  "What have you done at work this week?",
+  "When did you start your current job?",
+  "What's the most interesting place you've been to?",
+  "Is there anything you haven't finished yet this week?"
+ ]
+}
