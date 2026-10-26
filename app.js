@@ -29,7 +29,7 @@ const ICON = {
   list: '<svg viewBox="0 0 24 24"><path d="M9 6h11M9 12h11M9 18h11M4 6h.01M4 12h.01M4 18h.01"/></svg>',
   chev: '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M9 5l7 7-7 7"/></svg>',
 };
-const LOGO = `<svg class="logo" viewBox="0 0 100 100"><polygon points="50,6 92,28 50,50 8,28" fill="#E8590C"/><polygon points="50,19 64,28 50,37 36,28" fill="#fff" opacity=".9"/><polygon points="8,28 50,50 50,96 8,74" fill="#5B3FB8"/><polygon points="92,28 50,50 50,96 92,74" fill="#0E9384"/><text x="29" y="71" font-size="22" font-weight="800" fill="#fff" font-family="Arial">E</text><text x="63" y="71" font-size="22" font-weight="800" fill="#fff" font-family="Arial">P</text></svg>`;
+const LOGO = `<img class="logo" src="icons/logo.png" alt="EP">`;
 
 /* ================= estado ================= */
 const KEY = 'ipd_state_v1';
